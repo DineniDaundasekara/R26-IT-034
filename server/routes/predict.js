@@ -2,7 +2,6 @@ const express = require("express");
 const router = express.Router();
 const fs = require("fs");
 const path = require("path");
-const Prediction = require("../models/Prediction");
 
 const modelPath = path.join(__dirname, "../model/final_model.json");
 const modelData = JSON.parse(fs.readFileSync(modelPath, "utf-8"));
@@ -16,7 +15,6 @@ function getLevel(score) {
 router.post("/", async (req, res) => {
   try {
     const inputData = req.body;
-
     const { intercept, coefficients, feature_names } = modelData;
 
     let score = intercept;
@@ -28,16 +26,9 @@ router.post("/", async (req, res) => {
 
     const level = getLevel(score);
 
-    const saved = await Prediction.create({
-      inputs: inputData,
-      predictedScore: score,
-      level
-    });
-
     res.json({
       predictedScore: Number(score.toFixed(2)),
-      level,
-      savedId: saved._id
+      level
     });
   } catch (error) {
     console.error(error);
