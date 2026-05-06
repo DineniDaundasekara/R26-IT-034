@@ -1,0 +1,1 @@
+pip install flask transformers torch whisper language-tool-python librosa
