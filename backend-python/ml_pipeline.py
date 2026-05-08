@@ -55,6 +55,11 @@ def load_or_generate_dataset(num_samples=2000):
         else: return "High Risk"
         
     df["risk_category"] = scores.apply(categorize)
+    
+    # Save the synthetic data to disk for inspection
+    df.to_csv("dataset.csv", index=False)
+    print("-> Synthetic dataset saved to 'dataset.csv'")
+    
     return df
 
 def clean_and_preprocess(df):
