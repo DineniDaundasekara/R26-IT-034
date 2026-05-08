@@ -28,14 +28,14 @@ To bridge education and industry by improving how individuals assess career read
 
 ### Research streams & team roster
 
-The table below reflects the **registration numbers and sub-objectives** recorded on the official Topic Assessment Form for **Project ID R26-IT-034** (Year 2026). *Add full student names in the first column when they are required for publication or assessment, in line with your faculty instructions.*
+The table below lists the **research team**, **registration numbers**, and **sub-objectives** for **Project ID R26-IT-034** (Year 2026), as recorded on the Topic Assessment Form.
 
 | Student name | Registration no. | Sub-objective (summary) |
 | :--- | :--- | :--- |
-| *—* | **IT22176110** | Behaviour-aware career guidance: learning and work-related behavioural indicators, regression and what-if scenarios, explainable improvement-oriented outputs (no biometric or intrusive monitoring). |
-| *—* | **IT22112446** | Interview readiness and career path guidance: ethical, consented data (e.g. CV, LinkedIn, job portals), qualitative explanation-based readiness (not numeric hiring scores), multimodal interview indicators where appropriate. |
-| *—* | **IT22201614** | Career safety for experienced professionals: automation exposure, industry stability, skill transferability, adaptability and upskilling readiness, rule-based risk categories with explainable mitigation guidance. |
-| *—* | **IT22546470** | Employer trust and hiring risk assessment: observable professional behaviour (e.g. GitHub, LinkedIn), optional referral context without penalising missing data, standards-based indicators and human-readable suggestions—**no** automated hiring decisions. |
+| Daundasekara D.M.D.C | **IT22176110** | Behaviour-aware career guidance: learning and work-related behavioural indicators, regression and what-if scenarios, explainable improvement-oriented outputs (no biometric or intrusive monitoring). |
+| Kaluarachchi S.M | **IT22112446** | Interview readiness and career path guidance: ethical, consented data (e.g. CV, LinkedIn, job portals), qualitative explanation-based readiness (not numeric hiring scores), multimodal interview indicators where appropriate. |
+| Wickramasinghe T.B.B | **IT22201614** | Career safety for experienced professionals: automation exposure, industry stability, skill transferability, adaptability and upskilling readiness, rule-based risk categories with explainable mitigation guidance. |
+| Muaz M.M.R | **IT22546470** | Employer trust and hiring risk assessment: observable professional behaviour (e.g. GitHub, LinkedIn), optional referral context without penalising missing data, standards-based indicators and human-readable suggestions—**no** automated hiring decisions. |
 
 ---
 
