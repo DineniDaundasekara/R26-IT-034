@@ -1,0 +1,22 @@
+{
+    "audio_file": "88.wav",
+    "transcript": "My name is Supern Kararena Rasa. I am a final year IT undergraduate preparing for a Mac and developer role. I practiced Node.js, Express.js, and MongoDB. I worked on a pointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a good overview of your experience with Node.js, Express.js, and MongoDB, and highlighted your contribution to the appointment booking system. However, your answer could be more engaging and structured to showcase your skills and achievements more effectively.",
+    "strengths": [
+        "Clearly mentioned relevant technical skills",
+        "Provided a specific example of a project you worked on"
+    ],
+    "weaknesses": [
+        "Lacked a clear and concise introduction",
+        "Did not elaborate on the impact of your work on the project"
+    ],
+    "suggestions": [
+        "Start with a stronger introduction that highlights your passion for the role and relevant skills",
+        "Use more professional vocabulary, such as 'developed' instead of 'practiced', and 'resolved' instead of 'improved'",
+        "Emphasize your achievements and the benefits of your work, such as 'increased booking accuracy by X%'",
+        "Prepare to answer behavioral questions that assess your problem-solving skills and experience working on a team"
+    ],
+    "better_answer_example": "As a final year IT undergraduate with a strong passion for Mac development, I've been focusing on enhancing my skills in Node.js, Express.js, and MongoDB. One project that stands out is the appointment booking system I worked on for the healthcare industry, where I was responsible for developing the booking validation feature. By resolving the issue of double booking errors, our system was able to increase booking accuracy, resulting in improved patient care and reduced administrative costs. I'm excited to leverage my skills and experience to contribute to a Mac development role and continue to grow as a professional."
+}

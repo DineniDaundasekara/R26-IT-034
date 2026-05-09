@@ -1,0 +1,22 @@
+{
+    "audio_file": "95.wav",
+    "transcript": "My name is Anu DJ A Singh. I am an entry-level IT professional preparing for a database administrator role. I practiced my SQL, database design, and backup management. I worked on XPAN's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Anu, your answer provides a good overview of your experience and skills, but it lacks a clear structure and professional tone. You jumped between different topics, such as your role, project, and skills, without connecting them smoothly. To improve, focus on creating a cohesive narrative that highlights your strengths and relevance to the database administrator role.",
+    "strengths": [
+        "Providing specific examples from past experience",
+        "Showing enthusiasm for skill improvement"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited use of professional vocabulary"
+    ],
+    "suggestions": [
+        "Use transitional phrases to connect ideas between sentences",
+        "Practice answering behavioral questions using the STAR method",
+        "Focus on using technical terms related to database administration",
+        "Prepare to discuss specific challenges and how you overcame them in your project"
+    ],
+    "better_answer_example": "As an entry-level IT professional, I've been preparing for a database administrator role by enhancing my skills in SQL, database design, and backup management. In my recent project with XPAN's tracking app for finance, I was responsible for generating monthly reports. One challenge I faced was categorizing data effectively, but by optimizing the database design, I was able to create clearer and more informative reports. This experience not only improved my technical skills but also taught me the importance of data organization and analysis in financial tracking applications."
+}

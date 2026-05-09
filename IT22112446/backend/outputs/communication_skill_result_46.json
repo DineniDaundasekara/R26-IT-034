@@ -1,0 +1,22 @@
+{
+    "audio_file": "46.wav",
+    "transcript": "myself now, I am recently computing graduate and I like software test automation engineering work. I know some Serenium Java and TestNG. I did a learning management portal for education. It was not a big project, but I learned things from it. My project part was about access and role based logging. There were many problems. Mainly logging and access permission issue. We fixed it after trying many times. I want this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic test automation.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for software test automation engineering and highlighted relevant skills like Serenium Java and TestNG. However, the answer lacked a clear structure, making it hard to follow. The candidate also struggled with expressing complex ideas, such as the problems faced during the project, in a concise manner.",
+    "strengths": [
+        "Shows passion for the field of software test automation engineering",
+        "Mentions specific technical skills relevant to the job"
+    ],
+    "weaknesses": [
+        "Lacks a clear and structured approach to answering questions",
+        "Struggles with articulating complex ideas and experiences"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Focus on using simple, clear language to explain technical concepts",
+        "Prepare examples that demonstrate problem-solving skills and teamwork",
+        "Work on building confidence in speaking by practicing interviews with a partner or in front of a mirror"
+    ],
+    "better_answer_example": "As a recent computing graduate, I'm excited about software test automation engineering. In my previous project, a learning management portal, I applied my skills in Serenium Java and TestNG. My role involved implementing access and role-based logging, which presented several challenges, primarily with logging and access permissions. Through perseverance and teamwork, we successfully resolved these issues. This experience not only deepened my understanding of test automation but also taught me valuable lessons about collaboration and problem-solving. I believe my passion for IT and my skills make me a strong fit for this role."
+}

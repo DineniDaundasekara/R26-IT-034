@@ -1,0 +1,22 @@
+{
+    "audio_file": "135.wav",
+    "transcript": "Hello myself Anna, I am recent IT graduate and looking software engineer work. I know basic python Java, I made learning portal with friends. It was about education. I did simple task and sometimes not understand the requirement after asking team. I fixed some part. I need this job. I like computing. My communication is little weak.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Anna, your enthusiasm for the software engineer role is evident, but your answer could be improved by providing more specific examples of your contributions to the learning portal project and how they align with the job requirements. Additionally, practicing your communication skills will help you to clearly express your thoughts and ideas.",
+    "strengths": [
+        "You showed interest in the computing field",
+        "You mentioned a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lack of clarity in explaining your role in the project",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Prepare to talk about specific challenges you faced in the project and how you overcame them",
+        "Use more technical terms related to software engineering to describe your skills and experience",
+        "Practice answering behavioral questions to improve your story-telling skills",
+        "Focus on highlighting your achievements and the impact you made in the project"
+    ],
+    "better_answer_example": "As a recent IT graduate, I'm excited to apply for the software engineer position. In my previous project, a learning portal, I worked with a team to design and implement an educational platform. My main contribution was developing a user-friendly interface using Python, which improved the overall user experience. Although I faced some challenges in understanding the requirements, I was able to clarify them with my team and deliver a high-quality outcome. I'm confident that my skills and experience make me a strong fit for this role, and I'm looking forward to continuing to grow and learn as a software engineer."
+}

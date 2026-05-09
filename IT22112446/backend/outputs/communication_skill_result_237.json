@@ -1,0 +1,21 @@
+{
+    "audio_file": "237.wav",
+    "transcript": "My name is Isaru Disanic. I am a recent computing graduate preparing for a full stack developer role. I practice React, Node.js, and my SQL. I work on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but could benefit from more detail about the technologies you used and how you overcame the issue. For example, you could explain how you used React, Node.js, and SQL to improve job matching.",
+    "strengths": [
+        "good understanding of the project",
+        "ability to identify and solve a problem"
+    ],
+    "weaknesses": [
+        "lack of detail about technologies used",
+        "answer could be more structured"
+    ],
+    "suggestions": [
+        "provide more specific examples of your work",
+        "explain how you used different technologies to solve the problem",
+        "use a more structured approach to your answer"
+    ],
+    "better_answer_example": "I'd like to give an example of how I improved job matching on the job portal prototype. I used React to create a user-friendly interface, Node.js to handle server-side logic, and SQL to store and retrieve job data. I noticed that irrelevant results were a major issue, so I implemented a filtering system that used a combination of keywords and job categories to match candidates with relevant jobs. This improved the overall user experience and made it easier for candidates to find suitable job openings."
+}

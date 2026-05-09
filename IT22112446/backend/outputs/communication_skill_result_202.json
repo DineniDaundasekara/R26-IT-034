@@ -1,0 +1,20 @@
+{
+    "audio_file": "202.wav",
+    "transcript": "My name is Nessmy Silver, and I'm preparing for a mobile app developer role. I hand on practice with Flutter, Firebase, and REST API. I work on appointment booking system in the healthcare domain. My main contribution was booking validation. The challenge was double booking errors. I discussed it with my team, tested the fix, and the system improved booking accuracy.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Nessmy, your answer is clear, but could be more structured. You mentioned specific technologies, but didn't explain how they relate to the role. Try to connect the dots between your skills and the job requirements.",
+    "strengths": [
+        "practical experience with Flutter, Firebase, and REST API",
+        "problem-solving skills demonstrated in fixing double booking errors"
+    ],
+    "weaknesses": [
+        "lack of clear explanation of how technologies relate to the role",
+        "insufficient detail about the project's impact"
+    ],
+    "suggestions": [
+        "provide specific examples of how your skills align with the job requirements",
+        "quantify the impact of your contribution on the project"
+    ],
+    "better_answer_example": "I'd like to highlight my experience with Flutter, which I used to develop a mobile app for an appointment booking system in the healthcare domain. My main contribution was implementing a booking validation feature that improved accuracy by 30%. This experience demonstrates my ability to apply technical skills to real-world problems and deliver tangible results."
+}

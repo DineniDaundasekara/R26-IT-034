@@ -1,0 +1,20 @@
+{
+    "audio_file": "243.wav",
+    "transcript": "My name is Anu DJ A Singh. I am an entry-level IT professional preparing for a database administrator role. I practiced my SQL, database design, and backup management. I worked on XPAN's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear overview of your background and experience, but could improve by providing more specific examples and details about your accomplishments.",
+    "strengths": [
+        "Practiced SQL, database design, and backup management",
+        "Improved monthly reports on XPAN's tracking app"
+    ],
+    "weaknesses": [
+        "Lacked clarity in structuring the answer",
+        "Could have provided more details about the project and your role"
+    ],
+    "suggestions": [
+        "Provide specific examples of your accomplishments",
+        "Use a clear and structured format to present your answer"
+    ],
+    "better_answer_example": "I'm an entry-level IT professional aiming for a database administrator role. In my previous project, I worked on XPAN's tracking app, where I designed and implemented a database to store financial data. I also created monthly reports that provided clear insights into the company's financial performance. To improve my skills, I plan to focus on learning advanced database management techniques and practicing with real-world projects."
+}

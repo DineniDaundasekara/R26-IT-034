@@ -1,0 +1,22 @@
+{
+    "audio_file": "91.wav",
+    "transcript": "My name is Kasuni Fernando. I am an entry-level IT professional preparing for a machine learning engineer role. I practiced Python, Sikit Learn, and Pandas. I worked on inventory dashboard for inventory. My part was talk reports. The issue was data mismatch. The system reduced manual checking. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kasuni, your introduction is clear, but the rest of your answer seems a bit disconnected. You jumped from talking about your skills to a project you worked on without fully explaining how your skills were applied to the project. Try to create a smoother flow between your ideas to make your answer more cohesive and easier to follow.",
+    "strengths": [
+        "clear introduction of yourself and your role",
+        "good start in explaining a project you worked on"
+    ],
+    "weaknesses": [
+        "lack of clear structure in your answer",
+        "insufficient explanation of how your skills were applied to the project"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve your structure",
+        "Focus on using professional vocabulary related to machine learning and IT",
+        "Work on confidently and clearly explaining technical concepts and projects",
+        "Prepare examples that demonstrate your skills and experience in machine learning engineering"
+    ],
+    "better_answer_example": "As an entry-level IT professional aiming for a machine learning engineer role, I've been focusing on developing my skills in Python, Scikit Learn, and Pandas. One project that stands out was creating an inventory dashboard, where I was responsible for generating reports. We encountered an issue with data mismatch, which our system was able to reduce through automation, minimizing the need for manual checks. This project not only honed my technical skills but also showed me the importance of data accuracy and automation in inventory management, skills I believe are crucial for a machine learning engineer."
+}

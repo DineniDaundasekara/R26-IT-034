@@ -1,0 +1,22 @@
+{
+    "audio_file": "31.wav",
+    "transcript": "Myself Amanda, I am a recent graduate in Information Technology and I like data analyst work. I know some Python, SQL and Power BI. I did for ordering application for e-commerce. It was not a big project but I learned things from it. My project part was about order flow and checkout validation. There are many problems. Mainly, card calculation errors. We fix it after trying many times. I want this job because I like IT and I think I can do work. Sometimes I get nervous and I forgot some points. This project helped me understand in teamwork and basic and data analyst.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Amanda, your enthusiasm for data analyst work and IT is evident, but your answer could be more polished. You jumped between different ideas, such as your project, skills, and reasons for wanting the job, without fully developing each point. Focus on clearly structuring your thoughts to effectively communicate your experiences and qualifications.",
+    "strengths": [
+        "You showed passion for IT and data analyst work",
+        "You mentioned specific skills like Python, SQL, and Power BI"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in your answer",
+        "Nervousness affected your ability to recall points"
+    ],
+    "suggestions": [
+        "Practice answering questions with a clear beginning, middle, and end to improve structure",
+        "Use professional vocabulary, such as 'challenges' instead of 'problems'",
+        "Prepare examples of how your skills align with the job requirements",
+        "Take deep breaths before answering to manage nervousness"
+    ],
+    "better_answer_example": "As a recent IT graduate with a strong interest in data analysis, I'm excited about this role. In my previous project, an e-commerce ordering application, I applied my skills in Python, SQL, and Power BI to improve order flow and checkout validation. One significant challenge we faced was card calculation errors, but through teamwork and perseverance, we were able to resolve the issue. This experience not only deepened my understanding of data analysis but also taught me valuable lessons in teamwork and problem-solving, which I believe are essential for this position."
+}

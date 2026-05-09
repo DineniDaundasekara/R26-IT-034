@@ -1,0 +1,22 @@
+{
+    "audio_file": "103.wav",
+    "transcript": "Myself Sanjani, I am final year data science undergraduate and I like data analyst work. I know some SQL and Power BI not expert but I try. I did job portal prototype for recruitment. It was not very big but just a project. But I worked on it with my team. My part was created reports and some other things. We had deadline so sometimes we had changed. The project helped because it made system easier to maintain. I want this job because I like data science and I can learn. Sometimes I forgot points. I am trying to improve my speaking and do the work. Good.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sanjani, your passion for data science and data analyst work is evident, but your answer could be more structured and clear. You jumped between different ideas, such as your project experience and your desire to learn, without fully developing each point. To improve, focus on organizing your thoughts and using more professional vocabulary to describe your skills and experiences.",
+    "strengths": [
+        "showing enthusiasm for data science",
+        "having some relevant project experience"
+    ],
+    "weaknesses": [
+        "lacking clarity in expression",
+        "inadequate use of professional terminology"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use more precise language to describe technical skills, such as 'proficient in SQL' instead of 'I know some SQL'",
+        "Prepare examples that demonstrate your skills and experiences in data analysis",
+        "Record yourself speaking and listen to identify areas for improvement in clarity and confidence"
+    ],
+    "better_answer_example": "As a final-year data science undergraduate, I'm excited about the opportunity to apply my skills in data analysis. In my recent project, a job portal prototype, I worked with a team to create reports and implement data visualization using Power BI. This experience not only honed my technical skills but also taught me the importance of teamwork and meeting deadlines. I believe my passion for data science, combined with my eagerness to learn and grow, makes me a strong fit for this role."
+}

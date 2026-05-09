@@ -1,0 +1,11 @@
+{
+    "audio_file": "6.wav",
+    "transcript": "My name is Kasuni Fernando. I am an entry-level IT professional preparing for a data-analysed role. My background includes hands-on work with Python, SQL and Power BI mainly through academic projects, individual practice and collaborative assignments. One area I enjoy most is running raw data into useful business inside. For example, I contribute to learning management portal in the education domain where I learn how to plan tasks, communication with teammates and deliver features with combined ownership of tasks with consistent at the same time I actively working and present with my colleagues. I also have a training session with my colleagues in the education domain where I learn how to plan tasks, communication with teammates and deliver features with combined ownership of tasks with consistent at the same time I actively working and present project impact more clearly so I can I am proud of the learning management portal which was created for education domain. I work in a team of five and my main contributors to develop course modules.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

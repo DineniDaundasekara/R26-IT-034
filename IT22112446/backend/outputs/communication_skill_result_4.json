@@ -1,0 +1,11 @@
+{
+    "audio_file": "4.wav",
+    "transcript": "My name is Amanda Evry Singh and I am a recent computer graduate preparing for a software engineer role. My background includes hand on the work with Node.js, MySQL and Springboard, mainly taught academic project, individual practice and collaborative assignments. One area I enjoy most is improving software quality. For example, I call them radio to bus tracking mobile app in the transport domain where I learn how to plan tasks, communicate with teammates and deliver features with clear ownership. I am applied for this role because I want to straighten my engineer foundation in the real production environment and grow into professional how combines problems well-inviten consistent and sure. At the same time, I am actively working on speaking with more confident informal interviews for, so I can present my ideas more effectively in technical discussions. The project I am proud of is the learning management project created for a England management domain. I work in team of three and my main contribution were to draw out this cases and validate courses in our use and automated key repetitive checks. We used REST API, GIT and MySQL to build the solution. One of the main challenges were integration errors. To address it, I wrote the problem into small task discussed option with the team and test the final approach before integration. The project was valuable because if not only straight my technical understanding but also thought might mean how to communicate progress clearly and collaborate under pressure. The final system improved the overall use, use experience and in the our internal review, we estimate and improve roughly 25%",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

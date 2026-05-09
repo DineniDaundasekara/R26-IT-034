@@ -1,0 +1,11 @@
+{
+    "audio_file": "141.wav",
+    "transcript": "I am Haseene. I want to be a software engineer. I studied IT still learning. I use Node.JS and REST API in one portal. I was for education. I done small part. I like ad page check errors. I was not a big project. I think I can work. My talking is not good.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

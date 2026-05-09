@@ -1,0 +1,22 @@
+{
+    "audio_file": "127.wav",
+    "transcript": "My name is Sanjani. I am new person for IT work and data I like, database and administrator. I know something like database security. My project is job portal prototype. I help recruitment little bit. We face issue and I confuse also but finally project finish. I want chance to learn more. I am not speak professional but I try.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sanjani, your introduction was a good start, but it lacked clarity and structure. You jumped between different ideas, such as your interest in database and administrator roles, and your project experience. To improve, focus on connecting your ideas and using transitional phrases to guide the interviewer through your answer.",
+    "strengths": [
+        "showing enthusiasm for the IT field",
+        "attempting to share relevant project experience"
+    ],
+    "weaknesses": [
+        "lack of clear structure in the answer",
+        "difficulty expressing thoughts in a professional manner"
+    ],
+    "suggestions": [
+        "practice answering behavioral questions using the STAR method",
+        "use simple, clear language to explain technical concepts",
+        "prepare examples that demonstrate your skills and experience",
+        "record yourself speaking and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "Hello, my name is Sanjani, and I'm excited to be here today. With a strong interest in IT, particularly in database and administration, I've been working on a job portal prototype. In this project, I applied my knowledge of database security to help with recruitment. Although we faced some challenges, I was able to contribute to the team and help complete the project. I'm eager to continue learning and growing in this field, and I believe this role would be a great opportunity for me to do so."
+}

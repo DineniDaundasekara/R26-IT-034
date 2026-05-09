@@ -1,0 +1,22 @@
+{
+    "audio_file": "49.wav",
+    "transcript": "My name is Sachin Idresi. I am entry-level IT professional preparing for a data analysis draw. I have practiced Python, SQL and Power BI through academic work and small projects. One project I worked on was a job portal prototype in the recruitment domain. My main contribution was job search filtering and profile machine. And main issue was irrelevant job results. So I checked the problems and discussed it with my team. At the end, this system improved job matching and help users find more suitable roles. I am applying for this job role because I want real industry experts and a chance to improve my technical skills. My strength is clear communication, but I still need to improve presenting project impact more clearly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You effectively introduced yourself and highlighted your relevant skills in data analysis, but could improve by providing more specific examples of how your project experience aligns with the job role and by clearly articulating the impact of your contributions.",
+    "strengths": [
+        "clear communication",
+        "technical skills in Python, SQL, and Power BI"
+    ],
+    "weaknesses": [
+        "lack of clarity in presenting project impact",
+        "limited role alignment explanation"
+    ],
+    "suggestions": [
+        "Practice structuring your answers to clearly introduce, develop, and conclude your points",
+        "Use more professional vocabulary related to the industry, such as 'data-driven insights' instead of 'improved job matching'",
+        "Emphasize how your skills and project experience directly address the job requirements",
+        "Prepare examples that demonstrate your ability to apply technical skills to real-world problems"
+    ],
+    "better_answer_example": "As an entry-level IT professional with a strong foundation in data analysis, I've developed skills in Python, SQL, and Power BI through academic projects and personal initiatives. Notably, my work on a job portal prototype allowed me to apply data analysis principles to improve job search filtering and profile matching. By addressing the issue of irrelevant job results, I was able to enhance the system's ability to provide more suitable role recommendations for users. I'm excited about this role because it offers the opportunity to work with experienced professionals and further develop my technical skills in a real-world setting, directly contributing to data-driven decision-making and insights."
+}

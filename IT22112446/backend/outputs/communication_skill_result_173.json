@@ -1,0 +1,20 @@
+{
+    "audio_file": "173.wav",
+    "transcript": "My name is Dylan Madju Sanka, and I am an IT intern interested in a DevOps engineer role. I practiced soccer, GitHub actions, and AWS through projects. One project was a food ordering app for e-commerce. My work was checkout validation. We faced cart calculation errors, so I helped test a solution. The final system made ordering faster.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Dylan, your answer is clear, but it could be more structured. You mentioned specific projects, but didn't explain how they relate to the DevOps engineer role. Try to connect your experiences to the job requirements.",
+    "strengths": [
+        "practiced GitHub actions and AWS",
+        "worked on a real project"
+    ],
+    "weaknesses": [
+        "answer could be more structured",
+        "didn't clearly explain how projects relate to DevOps engineer role"
+    ],
+    "suggestions": [
+        "make a clear connection between projects and the job requirements",
+        "use a more structured format to present your answer"
+    ],
+    "better_answer_example": "I'm Dylan, an IT intern interested in a DevOps engineer role. In my previous project, I worked on a food ordering app for e-commerce, where I used GitHub actions to automate the deployment process. This experience has taught me the importance of continuous integration and delivery in a DevOps environment. I'm excited to apply my skills in this role and contribute to the team's success."
+}

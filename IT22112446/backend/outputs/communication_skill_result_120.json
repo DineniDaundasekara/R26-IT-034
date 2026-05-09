@@ -1,0 +1,22 @@
+{
+    "audio_file": "120.wav",
+    "transcript": "Hello, myself, Meigh Dhani. I am trainee IT professional and looking cloud computing support engineer work basically not and AWS I made foot ordering app with friends. It was about small business. I did simple task and sometimes not understand requirement. After asking team, I fixed some part. I need this job because I like computer side. My communication is weak.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Meigh, your answer shows enthusiasm for the cloud computing support engineer role, but it lacks clarity and structure. You jumped between different ideas, such as introducing yourself, talking about a project, and explaining why you need the job. To improve, focus on organizing your thoughts and using professional vocabulary to express your experiences and skills.",
+    "strengths": [
+        "showing passion for the computer side of the job",
+        "attempting to share a relevant project experience"
+    ],
+    "weaknesses": [
+        "poor communication structure",
+        "limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use simple but professional language to describe your experiences",
+        "Prepare examples that directly align with the job requirements",
+        "Record yourself and listen to identify areas for improvement in clarity and confidence"
+    ],
+    "better_answer_example": "Hello, I'm Meigh Dhani, a trainee IT professional with a strong interest in cloud computing. In my previous project, I worked with a team to develop a food ordering app for a small business. My role involved completing tasks such as setting up the app's infrastructure and troubleshooting issues. When I faced challenges, I collaborated with my team to understand the requirements better and implemented the necessary fixes. I'm excited about this cloud computing support engineer role because it aligns with my passion for the computer side of IT and my desire to support businesses in their technological needs."
+}

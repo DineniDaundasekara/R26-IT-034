@@ -1,0 +1,20 @@
+{
+    "audio_file": "195.wav",
+    "transcript": "My name is Chathura Bandara, and I'm preparing for a front end developer role. I have hand-on practice with React, JavaScript, and Bootstrap. I worked on inventory dashboard in the inventory domain. My main contribution was talk reports. The challenge was data mismatch. I discussed it with my team, tested the fix, and the system reduced manual checking.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Chathura, your answer is clear, but it could be more structured. You mentioned a specific project, but it would be better to explain your role in the project and how it relates to the front-end developer position.",
+    "strengths": [
+        "Good use of technical terms like React and Bootstrap",
+        "You provided a specific example from your experience"
+    ],
+    "weaknesses": [
+        "Your answer could be more structured and easier to follow",
+        "You didn't explain how your experience relates to the front-end developer position"
+    ],
+    "suggestions": [
+        "Use a clear and concise format to explain your experience",
+        "Make sure to explain how your experience relates to the front-end developer position"
+    ],
+    "better_answer_example": "I'd like to give an example of how I applied my front-end development skills to a project. In my previous role, I worked on a dashboard application using React and Bootstrap. My main contribution was implementing a feature that allowed users to filter data based on their preferences. The challenge was ensuring that the filter worked correctly with different types of data. I discussed it with my team, tested the fix, and the system reduced manual checking."
+}

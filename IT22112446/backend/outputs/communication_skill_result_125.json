@@ -1,0 +1,22 @@
+{
+    "audio_file": "125.wav",
+    "transcript": "Myself, Sittuni, I like frontend developer job. I am new graduate in information technology. I know Liki, HTML and CESs. I did learn portal for education. My part was some fixing. I had many problems and do again. I did not want this job because IT is nice and I can try. I get nervous when talk some time I forget words.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sittuni, during the interview, you showed enthusiasm for the frontend developer role, but struggled to clearly express your thoughts and experiences. You mentioned working on a portal for education, which is a great project, but the details were unclear. To improve, focus on organizing your thoughts and using simple, professional language to describe your skills and experiences.",
+    "strengths": [
+        "showing enthusiasm for the frontend developer role",
+        "having a relevant project experience"
+    ],
+    "weaknesses": [
+        "struggling to express thoughts clearly",
+        "lacking confidence in speaking"
+    ],
+    "suggestions": [
+        "practice speaking about your projects in a structured way",
+        "use flashcards to remember key terms like 'HTML' and 'CSS'",
+        "record yourself speaking and listen to identify areas for improvement",
+        "prepare answers to common interview questions to boost confidence"
+    ],
+    "better_answer_example": "As a new graduate in information technology, I'm excited about the frontend developer role. In my previous project, I worked on an education portal where I applied my knowledge of HTML, CSS, and JavaScript to fix issues and improve the user experience. Although I faced challenges, I learned a lot and enjoyed the process of troubleshooting and problem-solving."
+}

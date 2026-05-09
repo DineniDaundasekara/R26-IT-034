@@ -1,0 +1,22 @@
+{
+    "audio_file": "44.wav",
+    "transcript": "Myself Vihungal, I am finally IT undergraduate and I like AI Engineer work. I know some Python, NLP and model evaluation. I did customer support chatbot for customer service. It was not a big project but I learned things from it. My project part was about intent, flow design and response testing. There are many problems, mainly wrong responses for similar question. We fixed it after trying many times. I won't this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand team work and basic AI solution development.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You provided a clear overview of your project experience as an IT undergraduate working on an AI Engineer role, specifically with a customer support chatbot. However, there were moments where you seemed nervous and struggled to articulate some points, which affected the overall flow of your answer.",
+    "strengths": [
+        "Provided relevant project experience",
+        "Showed enthusiasm for the IT field and AI Engineer role"
+    ],
+    "weaknesses": [
+        "Nervousness affected speech",
+        "Lacked detailed explanations of technical aspects"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions to improve confidence and fluency",
+        "Use specific examples to illustrate technical skills, such as NLP and model evaluation",
+        "Prepare to discuss common challenges in AI project development, like handling similar questions",
+        "Emphasize what you learned from the project and how it aligns with the job requirements"
+    ],
+    "better_answer_example": "As an IT undergraduate with a passion for AI engineering, I had the opportunity to work on a customer support chatbot project. My role involved designing the intent and flow of the chatbot, as well as testing its responses. One of the significant challenges we faced was handling similar questions and providing accurate responses. Through this project, I not only gained hands-on experience with Python and NLP but also developed my problem-solving skills and understanding of team collaboration. I believe this experience has prepared me well for an AI Engineer role, where I can apply my skills and knowledge to develop innovative solutions."
+}

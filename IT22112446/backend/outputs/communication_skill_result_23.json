@@ -1,0 +1,22 @@
+{
+    "audio_file": "23.wav",
+    "transcript": "Myself I.S. I.M. and intern with academic project experience and I like machine learning engineering work. I know some Python is keep learning and pandas. I did a bus tracking mobile lab for transport. It was not a big project but I learned things from it. My project part was about road tracking and live location updates. There were many problems mainly GPS delay and inter-inak curate location updates. We fixed it after trying many times. I want this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic machine learning.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You have a good foundation in machine learning engineering and experience with projects like the bus tracking mobile lab, which is great for this role. However, to improve, focus on clearly explaining your project's challenges and how you overcame them, and practice speaking confidently about your skills and experiences.",
+    "strengths": [
+        "Relevant project experience",
+        "Basic knowledge of machine learning and Python"
+    ],
+    "weaknesses": [
+        "Nervousness when speaking",
+        "Lack of clear structure in the answer"
+    ],
+    "suggestions": [
+        "Practice speaking in front of a mirror or with a friend to reduce nervousness",
+        "Use a simple, clear structure when answering questions, like introducing the project, explaining your role, and discussing what you learned",
+        "Focus on specific skills you used in your projects, like machine learning and Python",
+        "Prepare examples of how you overcame challenges in your projects to show problem-solving skills"
+    ],
+    "better_answer_example": "Hello, I'm I.S. I.M., and I have experience working on academic projects, including a bus tracking mobile lab where I applied machine learning engineering skills. In this project, my role was to develop the road tracking and live location update features. We faced several challenges, such as GPS delay and inaccurate location updates, but after trying different approaches, we were able to resolve these issues. Through this project, I not only gained hands-on experience with Python and pandas but also learned the importance of teamwork and problem-solving in machine learning engineering. I'm excited about this role because it aligns with my interests in IT and machine learning, and I believe my skills and experience make me a strong fit."
+}

@@ -1,0 +1,19 @@
+{
+    "audio_file": "207.wav",
+    "transcript": "My name is Adisha Silva and I'm preparing for AI Engineer role. I have hand-on practice with Python, NLP and Model evaluation. I worked on a sales dashboard in the business domain. My main contribution was sales reports. The challenge was missing data. I discussed it with my team, tested the fix and the system made reporting easier.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Adisha, your answer was clear, but could be more structured. You mentioned a specific project, but didn't explain your role in it. Try to provide more context and details about your contributions.",
+    "strengths": [
+        "You have hands-on practice with Python, NLP, and model evaluation"
+    ],
+    "weaknesses": [
+        "You didn't explain your role in the sales dashboard project",
+        "You didn't provide enough details about your contributions"
+    ],
+    "suggestions": [
+        "Be more specific about your project and role",
+        "Provide more details about your contributions and how they impacted the project"
+    ],
+    "better_answer_example": "I'm Adisha Silva, and I'm preparing for an AI Engineer role. In my previous project, I worked on a sales dashboard in the business domain. My main responsibility was to design and implement a sales reporting system. The challenge was missing data, which I addressed by discussing it with my team and testing a fix. This improved the system's reporting capabilities, making it easier for the team to make data-driven decisions."
+}

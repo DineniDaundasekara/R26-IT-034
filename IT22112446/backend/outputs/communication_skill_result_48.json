@@ -1,0 +1,22 @@
+{
+    "audio_file": "48.wav",
+    "transcript": "My name is Sihina Pereira and I am in the academic project experience preparing for a engineering role. I have practiced Celenian, Postman and Gira through academic work and small projects. One project I work on was a expenses tracking application in the financial domain. My main contribution was monthly expenses report and transaction categorization. The main issue was incorrect transaction categorized. So I checked the problems and discussed it with my team. At the end, the system made spending reports clearer and easier to understand. I am applying for this job because I want real industry exposes and chance to improve my technical skills. My strength is quick learning but I learn I need to improve explaining technical ideas more briefly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You provided a good overview of your project experience, but could improve by providing more specific details about your role in the expenses tracking application and how it aligns with the engineering position you're applying for. Additionally, practicing concise explanations of technical ideas will help you effectively communicate your skills and experiences.",
+    "strengths": [
+        "quick learning ability",
+        "ability to identify and resolve technical issues"
+    ],
+    "weaknesses": [
+        "difficulty in explaining technical ideas briefly",
+        "lack of clear role alignment with the job position"
+    ],
+    "suggestions": [
+        "Prepare examples that demonstrate how your academic projects and skills directly relate to the job requirements",
+        "Use simple and clear language to explain complex technical concepts",
+        "Practice answering behavioral questions with the STAR method to improve structure and clarity",
+        "Focus on highlighting your achievements and the impact of your contributions in team projects"
+    ],
+    "better_answer_example": "In my academic project, I developed an expenses tracking application where I designed and implemented a monthly expenses report and transaction categorization feature. I overcame the challenge of incorrect transaction categorization by collaborating with my team and refining the algorithm. This experience not only honed my technical skills in Celenian, Postman, and Gira but also taught me the importance of teamwork and effective communication in a real-world setting, which I believe are essential skills for this engineering role."
+}

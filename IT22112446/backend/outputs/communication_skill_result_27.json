@@ -1,0 +1,22 @@
+{
+    "audio_file": "27.wav",
+    "transcript": "My name is Nethmi Silva and I am a recent computing graduate preparing for a UI slash UX designer role. My background includes hands-on work with Figma, wire-framing, and usability testing, mainly through academic projects, individual practice, and collaborative assignments. One area I enjoy most is creating simple and user-friendly digital experiences. For example, I contributed to a job portal prototype in the recruitment domain, where I learned how to plan tasks, communicate with teammates, and deliver features with clear ownership. I am applying for this role because I want to strengthen my technical foundation in a real production environment and grow into a professional who combines problem-solving with consistent execution. At the same time, I am actively working on explaining technical ideas more briefly so I can present my ideas more effectively in professional discussions. A project I am proud of is the job portal prototype, which was created for the recruitment domain. I worked in a team of two and my main contribution was to create profile matching logic and improved search filters. We used Figma, wire-framing, and usability testing to build and validate the solution. One of the main challenges was irrelevant job results. To address it, I broke the issue into smaller parts, discussed possible solutions with the team, and tested the final approach before completing the integration. The project was valuable because it improved my technical understanding and taught me how to communicate progress clearly under deadlines. As a result, the final system improved role matching quality for users.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Nethmi provided a clear and structured answer, effectively highlighting her background, skills, and experience in UI/UX design, particularly with Figma, wire-framing, and usability testing. However, there were moments where the conversation felt a bit repetitive, such as mentioning the job portal prototype twice. To improve, Nethmi could focus on varying her examples and using more dynamic language to keep the conversation engaging.",
+    "strengths": [
+        "Clearly communicates her relevant skills and experience",
+        "Provides specific examples from her projects to demonstrate her expertise"
+    ],
+    "weaknesses": [
+        "Repeats information, such as mentioning the job portal prototype twice",
+        "Could improve in using more professional and dynamic language"
+    ],
+    "suggestions": [
+        "Prepare a variety of examples to draw from, to avoid repetition and keep the conversation fresh",
+        "Practice using more professional vocabulary and phrases to enhance her expression",
+        "Focus on structuring her answer to have a clear beginning, middle, and end, with a logical flow of ideas",
+        "Work on confidently and concisely presenting her ideas, avoiding filler words and pauses"
+    ],
+    "better_answer_example": "As a recent computing graduate with a passion for UI/UX design, I've developed strong skills in Figma, wire-framing, and usability testing through academic projects and personal initiatives. One of my notable projects was a job portal prototype, where I applied my skills to create a user-friendly digital experience. I successfully designed profile matching logic and improved search filters, which significantly enhanced the role matching quality for users. What I learned from this project was the importance of clear communication and task management in a team setting. I'm excited about this role because it offers the opportunity to apply my skills in a real production environment, further develop my technical foundation, and grow as a professional who can effectively combine problem-solving with consistent execution."
+}

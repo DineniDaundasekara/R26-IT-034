@@ -1,0 +1,22 @@
+{
+    "audio_file": "8.wav",
+    "transcript": "My name is Anu Di Jai Singh and I am an entry-level IT professional preparing for DevOps Engineer role. My background includes hands-on work with Docker, GitHub, Actions and AWS mainly through academic projects, individual practice and collaborative assignments. One area I enjoy most is automating deployments and improving system reliability. A project I am proud of the student management system which was created the campus administration domain. I worked in a team of three and my main contribution was to implement student records and attendance management feature. We used Docker GitHub Actions and AWS build when validate solution. The project was valuable because I include my technical understanding.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Anu effectively introduced herself and highlighted her relevant experience with DevOps tools like Docker, GitHub, and AWS. However, she could improve by providing more specific examples of how her skills align with the DevOps Engineer role and by structuring her answer to clearly separate her introduction, project description, and key takeaways.",
+    "strengths": [
+        "clear introduction of herself and her background",
+        "ability to mention relevant technical tools"
+    ],
+    "weaknesses": [
+        "lack of clear structure in the answer",
+        "limited role alignment in her project description"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Focus on using professional vocabulary related to the DevOps Engineer role",
+        "Prepare to discuss specific challenges faced and overcome in projects",
+        "Emphasize how her skills and experiences directly align with the job requirements"
+    ],
+    "better_answer_example": "As an entry-level IT professional, I'm excited about the DevOps Engineer role, bringing hands-on experience with Docker, GitHub, and AWS from academic projects and personal initiatives. One notable project was a student management system for campus administration, where I worked in a team to implement student records and attendance management using Docker, GitHub Actions, and AWS. What I learned from this project was the importance of automation in deployment and the value of improving system reliability, skills that I believe are crucial for a DevOps Engineer."
+}

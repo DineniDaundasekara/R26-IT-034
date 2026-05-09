@@ -1,0 +1,22 @@
+{
+    "audio_file": "124.wav",
+    "transcript": "Hello Myself, Amandhi. I am a beginner in software field and looking DevOps engineer work. I know basic Docker and monitoring. I made job portal prototype with friends. It was about recruitment. I did simple task and sometimes not understand requirement. After asking team I fixed some part. I need this job because I like computer side.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Amandhi, your answer shows enthusiasm for the DevOps engineer role, but it lacks clarity and structure. You jumped between introducing yourself, explaining your experience, and stating your interest in the job without connecting these points smoothly. Focusing on how your skills and project experience directly relate to the DevOps engineer position will strengthen your interview responses.",
+    "strengths": [
+        "Basic knowledge of Docker and monitoring",
+        "Hands-on experience with a job portal prototype"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering questions with a clear beginning, middle, and end to improve structure",
+        "Use more professional terms related to DevOps to enhance your expression",
+        "Prepare examples that demonstrate your understanding of DevOps principles and tools",
+        "Rehearse your introduction to confidently highlight your relevant skills and interests"
+    ],
+    "better_answer_example": "Hello, I'm Amandhi, a beginner in the software field with a strong interest in DevOps engineering. With basic knowledge of Docker and monitoring, I've been exploring how these tools can enhance deployment and system performance. Recently, I worked on a job portal prototype with my team, where I applied DevOps principles to streamline the recruitment process. Although I faced some challenges in understanding the requirements, I learned a lot from my team and was able to fix issues and contribute to the project's success. I'm excited about this DevOps engineer role because it aligns with my passion for working on the computer side of things and my desire to grow in this field."
+}

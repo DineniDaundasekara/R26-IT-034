@@ -1,0 +1,20 @@
+{
+    "audio_file": "241.wav",
+    "transcript": "My name is Amanda Erderising. I am a recent computing graduate preparing for a cloud engineer role. I practice AWS, Linux, and Terraform. I work at a sales dashboard for business. My part was sales report. The issue was missing later. The system made reporting easier. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Amanda, you provided a clear overview of your background and skills. However, your answer could be more structured and focused on specific examples of your accomplishments in the cloud engineer role. For instance, you could have described a project where you used AWS, Linux, and Terraform to solve a problem or improve a process.",
+    "strengths": [
+        "Good knowledge of AWS, Linux, and Terraform",
+        "Recent computing graduate"
+    ],
+    "weaknesses": [
+        "Lack of specific examples",
+        "Answer could be more structured"
+    ],
+    "suggestions": [
+        "Provide specific examples of your accomplishments",
+        "Use a more structured format to answer the question"
+    ],
+    "better_answer_example": "In my previous role as a sales dashboard developer, I used AWS to improve the scalability of our reporting system. I worked with Linux to optimize the system's performance and Terraform to automate the deployment process. This resulted in a 30% reduction in reporting time and improved overall system reliability."
+}

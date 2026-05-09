@@ -1,0 +1,22 @@
+{
+    "audio_file": "211.wav",
+    "transcript": "My name is Passendufernando, and my goal is to build a career as a data analyst. I have hand-on experience with Python, SQL, and Power BI. A strong product and mempels of us tracking mobile app for transport. My responsibility was outtracking. I solved GPS delay by finding the cause, working with the team, and testing the solution. The final outcome improved tracking accuracy, and it improved my confidence and communication.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You did a great job sharing your experience as a data analyst. However, your answer could be more structured and clear. Try to focus on one main point per paragraph.",
+    "strengths": [
+        "Good communication skills",
+        "Problem-solving skills"
+    ],
+    "weaknesses": [
+        "Lack of clarity in the answer",
+        "Difficulty in structuring the answer"
+    ],
+    "suggestions": [
+        "Use a clear and concise format",
+        "Focus on one main point per paragraph",
+        "Provide more details about your experience",
+        "Use technical terms correctly"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As a data analyst, my goal is to improve the accuracy of our tracking system. In my previous role, I worked on a project where I identified a GPS delay issue. I analyzed the data, worked with the team, and implemented a solution that improved tracking accuracy by 20%. This experience taught me the importance of attention to detail and effective communication in a team setting.'"
+}

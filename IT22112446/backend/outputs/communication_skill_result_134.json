@@ -1,0 +1,22 @@
+{
+    "audio_file": "134.wav",
+    "transcript": "My name is Heleni, I am new person for IT. Like I like database administrator, I know some things my SQL queries. My project is job portal prototype. It helps recruitment little bit. We face issue and I confuse also. But finally project finish, I want chance to learn. I am not speaking best.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Heleni, your enthusiasm for the database administrator role and your project experience with the job portal prototype are great strengths. However, it's clear that you struggled to express yourself confidently and clearly during the interview. To improve, focus on practicing your responses to common interview questions and work on using more professional vocabulary and sentence structures.",
+    "strengths": [
+        "Enthusiasm for the database administrator role",
+        "Relevant project experience with the job portal prototype"
+    ],
+    "weaknesses": [
+        "Lack of confidence in spoken English",
+        "Difficulty with clear and structured expression"
+    ],
+    "suggestions": [
+        "Practice answering interview questions using the STAR method to improve structure and clarity",
+        "Use online resources to learn more professional vocabulary related to the IT field",
+        "Record yourself speaking and listen to identify areas for improvement",
+        "Prepare to talk about specific challenges you faced in your project and how you overcame them"
+    ],
+    "better_answer_example": "Hello, my name is Heleni, and I'm excited to apply for the database administrator position. With experience in creating a job portal prototype, I've developed skills in MySQL queries and understand the importance of efficient data management. One challenge I faced was optimizing the database for faster query execution, but I was able to resolve it by indexing and refining my SQL code. I'm eager to continue learning and growing in this role, and I believe my project experience has provided a solid foundation for success."
+}

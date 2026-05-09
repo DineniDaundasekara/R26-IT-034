@@ -1,0 +1,20 @@
+{
+    "audio_file": "235.wav",
+    "transcript": "My name is Chasura and I'm an entry-level IT professional preparing for a front-end developer role. I practiced React, JavaScript, and Bootstrap. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I wanted to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Chasura, you provided a clear introduction, but your answer could be more structured. You mentioned a specific project, but didn't explain how your skills align with the front-end developer role.",
+    "strengths": [
+        "You have experience working on a project with unclear requirements",
+        "You practiced relevant skills like React, JavaScript, and Bootstrap"
+    ],
+    "weaknesses": [
+        "Your answer lacked a clear explanation of how your skills relate to the front-end developer role",
+        "You didn't provide enough details about your project"
+    ],
+    "suggestions": [
+        "Be more specific about how your skills match the job requirements",
+        "Provide more details about your project and your role in it"
+    ],
+    "better_answer_example": "I'm an entry-level IT professional with a strong foundation in front-end development. In my previous project, I worked on a student management system using React, JavaScript, and Bootstrap. My role was to develop the student records feature. I overcame the challenge of unclear requirements by breaking down the task into smaller, manageable parts. This experience has prepared me to tackle similar challenges in a front-end developer role."
+}

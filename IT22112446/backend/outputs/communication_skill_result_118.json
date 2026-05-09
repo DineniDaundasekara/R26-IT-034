@@ -1,0 +1,22 @@
+{
+    "audio_file": "118.wav",
+    "transcript": "I am Poojani. I want to be DevOps engineer. I study IT but still learning. I used monitoring and Linux one job portal prototype. It was for equipment. I done small part only. I like at page check errors. It was not a big project. I think can work if someone guide me my talking is not very good now.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Poojani, your interest in becoming a DevOps engineer is clear, and it's great that you have some experience with monitoring and Linux from your job portal prototype. However, to improve, focus on clearly explaining your role in the project and the skills you applied, and practice speaking confidently about your experiences.",
+    "strengths": [
+        "Showed enthusiasm for the DevOps engineer role",
+        "Mentioned relevant technical skills like monitoring and Linux"
+    ],
+    "weaknesses": [
+        "Difficulty in articulating project details",
+        "Lacked confidence in speaking about experiences"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in a structured way, starting with the goal, your role, and what you learned",
+        "Use simple, professional language to describe technical skills and experiences",
+        "Prepare examples that highlight your problem-solving skills and how they align with the DevOps role",
+        "Record yourself speaking about your projects and experiences to identify areas for improvement"
+    ],
+    "better_answer_example": "In my previous project, I worked on a job portal prototype where I applied my knowledge of monitoring and Linux to ensure the equipment was functioning correctly. My role was to set up and test the monitoring system, which involved checking for errors on the page. Although it was a small part of the project, I learned a lot about the importance of monitoring in DevOps and how it contributes to the overall efficiency of the system. I'm excited to learn more and take on more challenging projects in this field."
+}

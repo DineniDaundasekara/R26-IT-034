@@ -1,0 +1,22 @@
+{
+    "audio_file": "66.wav",
+    "transcript": "myself later. I like business analysts. I know some requirements, user stories, and you at. I did a job portal prototype for recruitment. My part was job filters. We had irrelevant results. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the IT field and shared a relevant project experience, but the answer lacked clarity and structure. To improve, focus on clearly explaining your role in the project, the challenges you faced, and how you overcame them, while also demonstrating a deeper understanding of the job requirements and how your skills align with them.",
+    "strengths": [
+        "Shows interest in the IT field",
+        "Has relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacks clarity in explanation",
+        "Does not demonstrate a clear understanding of the job requirements"
+    ],
+    "suggestions": [
+        "Practice explaining your project experiences in a structured way, starting with the problem, then your role, and finally the outcome",
+        "Use more professional vocabulary related to the field, such as 'agile methodologies' or 'user experience'",
+        "Prepare to talk about how your skills and experiences align with the job description",
+        "Work on confidently and clearly stating why you want the job and what you can bring to the role"
+    ],
+    "better_answer_example": "In my previous project, I worked as a business analyst on a job portal prototype. My primary responsibility was to develop and implement job filters to improve the user experience. Initially, we encountered an issue with irrelevant search results, but through iterative testing and refinement, we were able to significantly enhance the filter's effectiveness. This experience not only deepened my understanding of user stories and requirements but also taught me the importance of agile methodologies in IT projects. I'm excited about this role because it aligns with my passion for IT and my skills in business analysis, and I believe I can contribute to the team by bringing a user-centric approach to our projects."
+}

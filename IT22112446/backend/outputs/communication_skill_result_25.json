@@ -1,0 +1,22 @@
+{
+    "audio_file": "25.wav",
+    "transcript": "My name is Amanda Eterie Singay, and I am an entry-level IT professional preparing for a software engineer role. My background includes hands-on work with Java, Spring Boot, and MySQL, mainly through academic projects, individual practice, and collaborative assignments. One area I enjoy most is building reliable backend services. For example, I contributed to a food ordering application in the e-commerce domain, where I learned how to plan tasks, communicate with teammates, and deliver features with clear ownership. I am applying for this role because I want to strengthen my technical foundation in a real production environment, and grow into a professional who combines ownership of tasks with consistent execution. At the same time, I am actively working on organizing answers faster so I can present my ideas more effectively in professional discussions. A project I am proud of is the food ordering application, which was created for the e-commerce domain. I worked in a team of three, and my main contribution was to develop order management and checkout validation features. We used Java, Spring Boot, and MySQL to build and validate the solution. One of the main challenges was cart calculation errors. To address it, I broke the issue into smaller parts, discussed possible solutions with the team, and tested the final approach before completing the integration. The project was valuable because it improved my technical understanding and taught me how to communicate progress clearly under deadlines. As a result, the final system made the ordering process faster and more reliable.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Amanda effectively conveyed her background, interests, and relevant experience as an entry-level IT professional, showcasing her passion for building reliable backend services. However, to further enhance her interview performance, she could focus on providing more concise and impactful responses, using transitional phrases to connect her ideas, and demonstrating a clearer understanding of the role's requirements and how her skills align with them.",
+    "strengths": [
+        "Clearly communicates her technical background and experience",
+        "Provides specific examples from her projects to demonstrate her skills"
+    ],
+    "weaknesses": [
+        "Sometimes repeats information, such as mentioning the food ordering application twice",
+        "Could improve in directly addressing the role's requirements and her alignment with them"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to structure responses",
+        "Use transitional phrases to connect ideas and make the conversation flow smoothly",
+        "Prepare to discuss how her skills and experience directly relate to the job description",
+        "Focus on providing concise and impactful responses to make a stronger impression"
+    ],
+    "better_answer_example": "As a detail-oriented and collaborative entry-level IT professional, I'm excited about the software engineer role because it aligns with my passion for developing reliable backend services. In my recent project, a food ordering application, I applied Java, Spring Boot, and MySQL to build and validate order management and checkout validation features. By breaking down challenges like cart calculation errors into smaller parts and collaborating with my team, we delivered a faster and more reliable ordering process. I believe this experience has not only strengthened my technical foundation but also taught me the importance of clear communication under deadlines, skills that I'm eager to apply and further develop in a real production environment."
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "90.wav",
+    "transcript": "My name is Keshen Paris. I am an IT intern preparing for a data engineer role. I practiced Python, SQL, and ETL pipelines. I worked on learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Keshen, your introduction is clear, but the flow of your answer seems a bit disconnected. You jump from introducing yourself to talking about a specific project without fully explaining your role or the impact of your work. To improve, focus on creating a smooth narrative that showcases your skills and experiences in a logical and engaging way.",
+    "strengths": [
+        "clear introduction of yourself and your career goal",
+        "completion of the answer without missing key points"
+    ],
+    "weaknesses": [
+        "lack of structure in the answer",
+        "insufficient detail about your role in the project"
+    ],
+    "suggestions": [
+        "Practice answering questions in a way that tells a story, starting from the background, then the challenge, your actions, and finally the results",
+        "Use more professional vocabulary, such as 'enhanced' instead of 'improved'",
+        "Emphasize your achievements and the skills you used in the project",
+        "Consider pausing for a moment to collect your thoughts before answering, to ensure a clearer and more structured response"
+    ],
+    "better_answer_example": "As an aspiring data engineer, I've been focusing on developing my skills in Python, SQL, and ETL pipelines. One project that stands out was my work on a learning portal for education, where I was responsible for core access. We identified a significant issue with login problems that were hindering student access. Through my efforts, we were able to resolve these issues, which not only enhanced the system's performance but also significantly improved student access. This experience has taught me the importance of data engineering in real-world applications and has motivated me to further develop my skills in this area."
+}

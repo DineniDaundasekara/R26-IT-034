@@ -1,0 +1,21 @@
+{
+    "audio_file": "166.wav",
+    "transcript": "My name is Dulany Wyj Singh. I am an IT intern preparing for a product owner assistant role. I practice agile planning, backlog, and take older communication. I work time appointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear introduction, but your answer could be more structured. Try to focus on one main point per paragraph. You also mentioned a specific project, but didn't explain your role in it. Make sure to highlight your responsibilities and accomplishments.",
+    "strengths": [
+        "You mentioned practicing agile planning and communication",
+        "You worked on a real project, a time appointment booking system for healthcare"
+    ],
+    "weaknesses": [
+        "Your answer lacked a clear main point or accomplishment",
+        "You didn't explain how you improved the system or what you learned"
+    ],
+    "suggestions": [
+        "Focus on one main point per paragraph",
+        "Explain your role and responsibilities in the project",
+        "Use specific examples to demonstrate your skills and accomplishments"
+    ],
+    "better_answer_example": "I'm Dulany Wyj Singh, an IT intern aiming for a product owner assistant role. In my current project, I worked on the booking validation feature for a time appointment booking system in healthcare. I identified and resolved double booking errors, improving booking accuracy. To further improve, I'd like to develop my skills in agile planning and communication."
+}

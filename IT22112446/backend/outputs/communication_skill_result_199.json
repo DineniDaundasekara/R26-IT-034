@@ -1,0 +1,20 @@
+{
+    "audio_file": "199.wav",
+    "transcript": "My name is Kasuni Fernando, and I'm preparing for a machine learning engineer role. I have hand-on practice with Python, Sikit Learn, and Pandas. I work time at Penn's tracking app in the finance domain. My main contribution was monthly reports. The challenge was long-candidories. I discussed it with my team, tested the fix, and the system made reports clearer.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You did a good job sharing your experience, but try to be more specific about your achievements and the impact of your work. For example, you could mention the percentage increase in report clarity or the number of users who benefited from the improved system.",
+    "strengths": [
+        "Hands-on practice with Python, Scikit Learn, and Pandas",
+        "Experience working on a real project in the finance domain"
+    ],
+    "weaknesses": [
+        "Lack of specific details about your achievements",
+        "Could have explained the technical aspects of the challenge and the solution in more depth"
+    ],
+    "suggestions": [
+        "Provide specific numbers and metrics to demonstrate the impact of your work",
+        "Use technical terms and concepts relevant to the machine learning engineer role"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my previous role at Penn's tracking app, I worked on improving the monthly reports. One of the main challenges was the long candidories, which made it difficult for users to understand the data. I discussed the issue with my team and we tested a fix that resulted in a 30% reduction in report complexity. This improvement not only made the reports clearer but also increased user engagement by 25%.'"
+}

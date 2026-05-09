@@ -1,0 +1,19 @@
+{
+    "audio_file": "203.wav",
+    "transcript": "My name is Andy J. Using, and I'm preparing for a database administrator role. I have hand-on practice with my SQL, database design, and backup management. I work on a job portal prototype in the recruitment domain. My main contribution was job filters. The challenge was irrelevant results. I discussed it with my team, tested the fix, and the system improved job matching.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Andy, your answer is clear and easy to understand. However, it would be better if you provided more details about your experience with database design and backup management.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to identify and solve problems"
+    ],
+    "weaknesses": [
+        "Lack of specific examples for database design and backup management"
+    ],
+    "suggestions": [
+        "Provide more details about your experience with database design and backup management",
+        "Use technical terms related to the role"
+    ],
+    "better_answer_example": "I have hands-on experience with database design and backup management. In my previous role, I designed a database for a job portal prototype, which improved the system's efficiency. I also implemented a backup system to prevent data loss, ensuring the system's uptime."
+}

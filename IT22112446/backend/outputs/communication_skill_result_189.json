@@ -1,0 +1,20 @@
+{
+    "audio_file": "189.wav",
+    "transcript": "My name is Arindu Pereira and I am preparing for a software engineer role. I have hand-on practice with Java, Spring Boot and my SQL. I work time at XPAN Stacking app in the finance domain. My main contribution was monthly reports. The challenge was on categories. I discussed it with my team, tested the fix and the system made reports clearer.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Arindu, your answer is clear and easy to understand. However, it would be better if you could provide more details about your project, such as the technologies used and the impact of your contribution.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work in a team"
+    ],
+    "weaknesses": [
+        "Lack of technical details",
+        "Insufficient explanation of the challenge"
+    ],
+    "suggestions": [
+        "Provide specific examples of your work",
+        "Explain the technical aspects of your project"
+    ],
+    "better_answer_example": "For example, I could have said, 'In my previous role at XPAN Stacking app, I worked on a project to improve the monthly reports. I used Java and Spring Boot to develop a system that could categorize transactions and provide clearer reports. The challenge was to handle different types of transactions, which I overcame by discussing it with my team and testing the fix. This project helped me develop my problem-solving skills and attention to detail.'"
+}

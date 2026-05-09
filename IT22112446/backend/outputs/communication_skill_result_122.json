@@ -1,0 +1,22 @@
+{
+    "audio_file": "122.wav",
+    "transcript": "I am Prahansa. I want to be software engineer. I studied IT but still learning I use Spring Boot and Java in one learning portal. It was for education. I done small part. I like ad page and check errors. It was not a big project. I think I can work if someone guide me my talking not very good now.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Prahansa, your enthusiasm for software engineering is clear, but your answer could be more effective with a clearer structure and more professional vocabulary. You mentioned using Spring Boot and Java, which is great, but try to elaborate more on your projects and experiences.",
+    "strengths": [
+        "Showed eagerness to learn and work",
+        "Mentioned relevant technologies like Spring Boot and Java"
+    ],
+    "weaknesses": [
+        "Lacked clarity and structure in the answer",
+        "Used simple sentences and limited vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with a clear beginning, middle, and end",
+        "Use more technical terms related to software engineering to sound professional",
+        "Prepare examples of your projects and experiences to confidently talk about them",
+        "Record yourself speaking and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "As an aspiring software engineer, I've been exploring various technologies, including Spring Boot and Java, through online learning portals. One of my recent projects involved creating a simple web application using these technologies, where I focused on designing an ad page and troubleshooting errors. Although it was a small project, I learned a lot about the development process and how to approach problem-solving. I'm excited to continue learning and working on more complex projects, and I believe that with guidance, I can make significant contributions to a team."
+}

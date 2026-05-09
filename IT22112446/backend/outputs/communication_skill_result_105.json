@@ -1,0 +1,22 @@
+{
+    "audio_file": "105.wav",
+    "transcript": "Myself Nadisha, I am an final year IT undergraduate and I like Devoks Cloud Engineer work. I know some docker and linux not expert but I try. I did library management system for education. It was not very big. Just a project but I worked on it with my team. My part was created deployment, workflow and some other things. We had tight deadlines. So sometimes we changed again and again. The project helped because it improved the user experience. I want this job. I like it. I like IT and I can learn. Sometimes I get nervous because I forgot points. But I am trying to improve my speaking and do the work properly.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Nadisha, your enthusiasm for the DevOps Cloud Engineer role is evident, and it's great that you have some experience with Docker and Linux. However, to improve your interview performance, focus on clearly structuring your answers and using more professional vocabulary. For instance, instead of saying 'I like IT', you could say 'I'm passionate about the IT industry and its applications'. Additionally, practice speaking about your projects in a more detailed and confident manner to showcase your skills and experiences.",
+    "strengths": [
+        "Showed enthusiasm for the role",
+        "Had a relevant project experience to share"
+    ],
+    "weaknesses": [
+        "Lacked clear structure in the answer",
+        "Used informal language"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more technical and professional vocabulary related to the job role",
+        "Prepare examples of your projects and experiences beforehand to speak about them confidently",
+        "Record yourself speaking and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "As a final year IT undergraduate, I'm excited about the opportunity to work as a DevOps Cloud Engineer. With some background in Docker and Linux, I believe I can contribute to the role. In my recent project, a library management system for education, I was responsible for creating the deployment workflow and ensuring a smooth user experience. Despite the tight deadlines, which required frequent adjustments, our team's collaborative effort led to a successful project that improved user experience. I'm eager to apply my skills and knowledge in a professional setting and continue learning and growing in the IT industry."
+}

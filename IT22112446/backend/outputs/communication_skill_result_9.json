@@ -1,0 +1,22 @@
+{
+    "audio_file": "9.wav",
+    "transcript": "My name is Tharushi Pereira and I am a recent computing graduate preparing for business analyst role. My background include hands-on works with three common gathering and UAT mainly through academic projects, individual practice and collaborative assignments. One area I enjoy most is understanding business problems and translating them into solutions. And I deliver features with ownership. I am applying for this role because I won't strengthen my technical foundation in a real production environment and grow into professional and who combine problems solving with contestant execution.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Tharushi, your introduction is clear, but there are areas to improve in terms of professional expression and role alignment. You mentioned enjoying understanding business problems and translating them into solutions, which is great, but it would be more effective to provide specific examples from your academic projects or collaborative assignments to demonstrate your skills.",
+    "strengths": [
+        "clear introduction of yourself and your background",
+        "showing enthusiasm for understanding business problems"
+    ],
+    "weaknesses": [
+        "lack of specific examples to demonstrate skills",
+        "limited professional vocabulary"
+    ],
+    "suggestions": [
+        "practice using more professional vocabulary related to business analysis",
+        "prepare specific examples from your projects to demonstrate your skills",
+        "focus on clearly explaining how your skills align with the business analyst role",
+        "record yourself and listen to identify areas for improvement in your tone and pace"
+    ],
+    "better_answer_example": "As a recent computing graduate with hands-on experience in requirements gathering and UAT through academic projects and collaborative assignments, I'm excited to apply for the business analyst role. One of my strengths is analyzing business problems and developing effective solutions. For instance, in my recent project, I worked with a team to identify and address a key issue, resulting in improved process efficiency. I'm looking forward to applying my technical skills in a real production environment and growing as a professional who can combine problem-solving with consistent execution."
+}

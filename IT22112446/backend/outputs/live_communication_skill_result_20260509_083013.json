@@ -1,0 +1,21 @@
+{
+    "transcript": "\u06be\u0627\u06cc \u0627\u06cc\u0645 \u0633\u0645\u06cc\u0646\u0688\u06cc \u0648\u06cc\u0688\u06cc\u06c1 \u0622\u06af\u06d2 \u06a9\u06cc\u0627 \u062f\u06cc \u0627\u06cc \u0648\u06cc \u06be\u0627\u06cc \u0646\u06cc\u0645\u06cc \u0633\u0645\u06cc\u0646\u0688\u06cc \u0645\u0627\u0646\u0648 \u0627\u06af \u062f\u06cc\u0627 \u0648\u06cc \u06af\u06c1\u0646\u06af \u06a9\u06cc \u0628\u0644 \u0648\u06cc\u0688\u06cc\u0644\u06af\u0627 \u0645\u0627\u0646\u06af \u06af\u062a\u0631\u06d2 \u0644\u06c1\u0646\u06af",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "The candidate's answer was difficult to understand due to the use of unclear language and lack of structure. It seems like they were trying to discuss their experience with video editing, but the message was not conveyed effectively. To improve, it's essential to practice speaking clearly and organizing thoughts before responding to interview questions.",
+    "strengths": [
+        "enthusiasm for the topic",
+        "attempt to share experience"
+    ],
+    "weaknesses": [
+        "poor clarity",
+        "disorganized thoughts"
+    ],
+    "suggestions": [
+        "Practice speaking in front of a mirror or record yourself to improve clarity",
+        "Prepare examples of your experience and structure them using the STAR method",
+        "Focus on using professional vocabulary related to video editing",
+        "Take a moment to gather your thoughts before responding to a question"
+    ],
+    "better_answer_example": "In my previous role, I worked on a video editing project where I had to edit a promotional video for a new product. I used my skills in video editing software to create a compelling narrative, and the final product was well-received by the client. I'm excited about the opportunity to bring my video editing skills to this new role and contribute to the team's success."
+}

@@ -1,0 +1,11 @@
+{
+    "audio_file": "143.wav",
+    "transcript": "Hello Myself Minuri, I am trainee IT professional and looking DevOps engineer work I know basic monitoring and AWS I made job portal prototype. It was about recruitment I did a simple task and sometimes not understand requirement after asking team I fixed some part I need this job because I like computing my communication is weak.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "80.wav",
+    "transcript": "myself did ok. I like test automation engineer. I know some Selenium, Java and test engine. I did a sales dashboard for business. My part was sales report. We had missing data. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "The candidate's answer lacked clarity and structure, making it difficult to understand their experience and skills as a test automation engineer. They mentioned working on a sales dashboard project, but the details were vague and didn't showcase their accomplishments effectively.",
+    "strengths": [
+        "Mentioned relevant technical skills like Selenium and Java",
+        "Showed enthusiasm for the IT field"
+    ],
+    "weaknesses": [
+        "Poor sentence structure and grammar",
+        "Failed to provide specific examples of accomplishments"
+    ],
+    "suggestions": [
+        "Practice speaking in complete sentences to improve clarity",
+        "Use specific examples to demonstrate skills and experience",
+        "Prepare to talk about projects in a structured way, including challenges and achievements",
+        "Focus on highlighting relevant skills and experiences for the job role"
+    ],
+    "better_answer_example": "In my previous project as a test automation engineer, I worked on a sales dashboard where I was responsible for developing the sales report feature. We encountered an issue with missing data, but I was able to resolve it by collaborating with the team and implementing a data validation script using Selenium and Java. This experience not only honed my technical skills but also taught me the importance of teamwork and problem-solving in IT projects."
+}

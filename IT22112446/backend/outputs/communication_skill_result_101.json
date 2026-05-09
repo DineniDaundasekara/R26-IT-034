@@ -1,0 +1,22 @@
+{
+    "audio_file": "101.wav",
+    "transcript": "Myself Pumi, I am an final year IT undergraduate and I like software engineer work. I know some rest API and Python not expert but I try. I did student management system for education. It was not very big just a project but I worked on it with my team. My part was implemented login and role based access and some other things. We had tight deadline so sometimes we change again and again. The project helped because it reduced manual work. I want this job because I like IT and I can learn sometimes. I get nervous and I forget points but I am try to improve my speaking and do the work properly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Pumi, your enthusiasm for software engineering and experience with the student management system project are great strengths. However, to improve, focus on clearly structuring your thoughts and using more professional vocabulary to describe your role and accomplishments.",
+    "strengths": [
+        "Showing passion for the IT field",
+        "Having hands-on experience with a relevant project"
+    ],
+    "weaknesses": [
+        "Lack of clarity in expressing thoughts",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use technical terms related to software engineering to describe your experiences",
+        "Prepare examples that highlight your achievements and the impact of your work",
+        "Record yourself speaking and listen to identify areas for improvement in clarity and confidence"
+    ],
+    "better_answer_example": "As a final-year IT undergraduate with a keen interest in software engineering, I leveraged my knowledge of REST APIs and Python to contribute to a student management system project. My role involved implementing login functionality and role-based access control. Despite the tight deadline, which required frequent adjustments, our team successfully delivered a system that significantly reduced manual work in educational settings. This experience not only deepened my understanding of software development but also taught me the importance of adaptability and teamwork. I'm excited about this role because it aligns with my passion for IT and offers opportunities for growth and learning."
+}

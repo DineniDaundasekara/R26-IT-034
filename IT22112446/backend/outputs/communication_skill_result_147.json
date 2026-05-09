@@ -1,0 +1,11 @@
+{
+    "audio_file": "147.wav",
+    "transcript": "Myself, sincerely, I like data analysis job. I am new graduate in information technology. I know little data cleaning and Excel. I did foot ordering app for small business. My part was some coding and fixing. Project had many problems and we do again, again. I want this job because IT is nice and I can try. I get nervous when talk. So, sometime I forgot words.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

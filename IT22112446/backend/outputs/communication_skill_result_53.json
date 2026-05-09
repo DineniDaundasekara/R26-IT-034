@@ -1,0 +1,22 @@
+{
+    "audio_file": "53.wav",
+    "transcript": "My name is Nguyen Phanando and I am finally a software engineering student preparing for a front-end developer role. I have practiced, react, JavaScript and bootstrap through academic work and small projects. One project I work on was a expenses tracking application in the finance domain. My main contribution was monthly expenses, reports and the transaction categorization. The main issue was incorrect transaction categorized so I checked the problem and discussed it with my team. That the system main spending reports clear and easier to understand. I am applying for this role because I want real industry experts and the chance to improve my technical skills. My strength is time management but I still need to improve reduce filler words.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Nguyen Phanando effectively introduced himself and highlighted his relevant experience with front-end development technologies like React, JavaScript, and Bootstrap. However, there were moments where the conversation felt a bit disjointed, and filler words were noticeable. To enhance his communication, it would be beneficial to focus on smoother transitions between ideas and practicing answers to reduce filler words.",
+    "strengths": [
+        "Clear introduction of himself and his background",
+        "Relevant project experience in front-end development"
+    ],
+    "weaknesses": [
+        "Disjointed structure in some parts of the answer",
+        "Use of filler words"
+    ],
+    "suggestions": [
+        "Practice answering questions with a more structured approach, starting with an introduction, followed by the main points, and concluding with a summary or future plans",
+        "Record yourself speaking and listen to identify areas where filler words are most commonly used",
+        "Prepare examples of your projects and experiences in advance to speak about them more confidently and clearly",
+        "Consider joining English speaking clubs or practicing with a language exchange partner to improve overall fluency"
+    ],
+    "better_answer_example": "As a soon-to-be software engineering graduate with a focus on front-end development, I've had the opportunity to work on various projects that have deepened my understanding of React, JavaScript, and Bootstrap. One of the projects that stands out was an expenses tracking application, where I was responsible for developing the monthly expenses reports and transaction categorization features. Initially, we faced an issue with incorrect transaction categorization, but through thorough analysis and team discussion, we were able to resolve the problem and provide clearer spending reports. I'm excited about the prospect of joining this role as it offers the chance to learn from industry experts and further hone my technical skills, particularly in areas like time management, which I've identified as one of my strengths."
+}

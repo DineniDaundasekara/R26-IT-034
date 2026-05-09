@@ -1,0 +1,19 @@
+{
+    "audio_file": "191.wav",
+    "transcript": "My name is Passenduf Fernando, and I'm preparing for a data analyst role. I have hand-on practice with Python, SQL, and Power BI. I work on a student management system in the Education domain. My main contribution was student records. The challenge was unclear requirements. I discussed it with my team, tested the fix, and the system reduced duplicate records.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You clearly explained your experience working on a student management system, but it would be even better if you could provide more details about the impact of your contribution on the system.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work with Python, SQL, and Power BI"
+    ],
+    "weaknesses": [
+        "Lack of clarity in explaining the project's requirements"
+    ],
+    "suggestions": [
+        "Provide specific examples of how you overcame challenges",
+        "Explain how your project relates to the data analyst role"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my previous role, I worked on a student management system where I was responsible for analyzing student records. One of the challenges I faced was dealing with unclear requirements from the stakeholders. I overcame this by collaborating with my team and testing different solutions. As a result, we were able to reduce duplicate records by 30%. I believe this experience has prepared me well for a data analyst role, where I can apply my analytical skills to drive insights and inform decision-making.'"
+}

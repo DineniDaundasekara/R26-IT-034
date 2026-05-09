@@ -1,0 +1,20 @@
+{
+    "audio_file": "231.wav",
+    "transcript": "My name is Passendufernando. I am an entry-level IT professional preparing for a data analyst role. I practiced Python, SQL, and Power BI. I worked on a sales dashboard for business. My part was sales report. The issue was missing data. The system made reporting easier. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You did a good job explaining your experience with a sales dashboard project. However, your answer could be more structured and clear. Try to focus on the specific problem you solved and how you used your skills to achieve it.",
+    "strengths": [
+        "Good experience with Python, SQL, and Power BI",
+        "Ability to work on a sales dashboard project"
+    ],
+    "weaknesses": [
+        "Lack of clarity in the answer",
+        "Poor structure in the answer"
+    ],
+    "suggestions": [
+        "Be more specific about the problem you solved",
+        "Use a clearer and more structured format to present your answer"
+    ],
+    "better_answer_example": "I worked on a sales dashboard project where I was responsible for creating a sales report. The challenge was that the system was missing some data, which made it difficult to generate accurate reports. I used my skills in Python and SQL to extract the missing data and then created a report using Power BI. This improved the reporting process and made it easier for the business to make informed decisions."
+}

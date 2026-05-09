@@ -1,0 +1,11 @@
+{
+    "audio_file": "152.wav",
+    "transcript": "My name is Nuwenjia Surria. I am a final year IT undergraduate preparing for a new ISASHUX designer role. I practiced Figma, wireframes, and usability testing. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

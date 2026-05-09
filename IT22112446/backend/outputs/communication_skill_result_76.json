@@ -1,0 +1,22 @@
+{
+    "audio_file": "76.wav",
+    "transcript": "myself are a sheet. I like system analyst. I know some process modeling, documentation, and SQL. I did a job portal prototype for recruitment. My part was job filters. We had relevant results. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the IT field and highlighted relevant skills such as process modeling, documentation, and SQL. However, the answer lacked a clear structure and professional expression, making it hard to fully understand the candidate's experience and motivation for the role.",
+    "strengths": [
+        "Relevant technical skills",
+        "Completed a project related to the job"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more professional vocabulary related to the IT field",
+        "Prepare examples that demonstrate problem-solving skills",
+        "Show confidence by speaking clearly and avoiding filler words"
+    ],
+    "better_answer_example": "As a detail-oriented system analyst, I enjoy working with technology to improve processes. With skills in process modeling, documentation, and SQL, I successfully contributed to a job portal prototype, focusing on developing effective job filters. Through this project, I learned the importance of iterative testing and refinement, which led to achieving relevant search results. I'm excited about this role because it aligns with my passion for IT and my desire to apply my skills in a professional setting."
+}

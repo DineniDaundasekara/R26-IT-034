@@ -1,0 +1,22 @@
+{
+    "audio_file": "109.wav",
+    "transcript": "Myself, Pippuni, I like data analyst job. I am a recent IT graduate. I know little SQL and Power BI. I did food ordering app for small business. My part was some coding and fixing project and many problems and we do again again. I want this job because IT is nice and I can try. I get nervous when talk. So sometime I forget words.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Pippuni, your answer shows enthusiasm for the data analyst role, but it lacks clarity and structure. You jumped between different ideas, such as your experience with SQL and Power BI, the food ordering app project, and your nervousness during the conversation. To improve, focus on organizing your thoughts and expressing them in a logical order.",
+    "strengths": [
+        "You have some experience with relevant tools like SQL and Power BI",
+        "You completed a project, which is a valuable experience to talk about in an interview"
+    ],
+    "weaknesses": [
+        "Your answer was not well-structured, making it hard to follow",
+        "You struggled to express yourself clearly and professionally"
+    ],
+    "suggestions": [
+        "Practice answering questions in a structured way, using introductions, main points, and conclusions",
+        "Use simple, professional language to describe your experiences and skills",
+        "Prepare examples from your projects, like the food ordering app, to demonstrate your skills and accomplishments",
+        "Take a few deep breaths before answering to help manage your nervousness and speak more confidently"
+    ],
+    "better_answer_example": "As a recent IT graduate with a passion for data analysis, I'm excited about this role. In my previous project, a food ordering app for a small business, I applied my skills in SQL and Power BI to help solve problems and improve the app's functionality. Although I'm a bit nervous in this conversation, I'm eager to learn and grow in the IT field, and I believe this data analyst position would be a great fit for me."
+}

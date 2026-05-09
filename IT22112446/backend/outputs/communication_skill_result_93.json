@@ -1,0 +1,22 @@
+{
+    "audio_file": "93.wav",
+    "transcript": "My name is Amanda Erderising. I am a recent computing graduate preparing for a cloud engineer role. I practice AWS, Linux, and Terraform. I work at a sales dashboard for business. My part was sales report. The issue was missing later. The system made reporting easier. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Amanda, your introduction is clear, but your answer lacks a structured approach to showcasing your skills and experience. You jump between different topics, such as your role, the sales dashboard, and your desire to improve skills, without connecting them smoothly. Focusing on a more cohesive narrative will help you convey your message more effectively.",
+    "strengths": [
+        "Clear introduction of yourself and your background",
+        "Relevant technical skills mentioned, such as AWS and Terraform"
+    ],
+    "weaknesses": [
+        "Lack of structure in the answer",
+        "Difficulty in articulating the impact of your work on the sales dashboard project"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use more professional vocabulary, such as 'implemented' instead of 'my part was'",
+        "Emphasize specific accomplishments and the skills you applied in your projects",
+        "Prepare examples that demonstrate your skills and experience in cloud engineering, such as designing or deploying a cloud-based system"
+    ],
+    "better_answer_example": "As a recent computing graduate with a strong foundation in AWS, Linux, and Terraform, I'm excited to leverage my skills in a cloud engineer role. In my previous project, I worked on a sales dashboard for a business, where I was responsible for developing the sales report feature. Initially, we faced an issue with missing data, but by implementing an automated reporting system using Terraform, we were able to streamline the process, making it easier for the business to track sales performance. This experience not only honed my technical skills but also taught me the importance of collaboration and problem-solving in a real-world setting. I'm now looking to further improve my skills and take on more challenging projects in cloud engineering."
+}

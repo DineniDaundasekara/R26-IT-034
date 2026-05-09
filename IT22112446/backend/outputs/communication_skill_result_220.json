@@ -1,0 +1,20 @@
+{
+    "audio_file": "220.wav",
+    "transcript": "My name is Sasha Nipera and my goal is to build a career as a cybersecurity analyst. I have had non-experience with network security, risk assessment, and team. A strong project and ample in a sales dashboard for business. My responsibility was sales reports. I solved missing data by finding the cause, working with the team, and testing the solution. The final outcome made reporting easier and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sasha, you have a clear goal to become a cybersecurity analyst, but your experience is mostly in sales. You can improve by providing specific examples of your network security and risk assessment skills.",
+    "strengths": [
+        "You have experience working with a team and creating sales dashboards.",
+        "You were able to solve a problem with missing data and improve reporting."
+    ],
+    "weaknesses": [
+        "You lack experience in network security, risk assessment, and team leadership in a cybersecurity context.",
+        "Your answer could be more structured and clear."
+    ],
+    "suggestions": [
+        "Provide specific examples of your cybersecurity skills and experience.",
+        "Practice answering behavioral questions in a clear and structured way."
+    ],
+    "better_answer_example": "I'd like to build on my experience in sales by applying my analytical skills to a cybersecurity role. In my previous position, I created a sales dashboard that helped the team make data-driven decisions. I believe this skillset can be transferred to a cybersecurity analyst role, where I can analyze network security threats and provide recommendations to improve risk assessment."
+}

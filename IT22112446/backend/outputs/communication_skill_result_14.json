@@ -1,0 +1,22 @@
+{
+    "audio_file": "14.wav",
+    "transcript": "I am Anodhi. I am a intern with academic projects experience and I like DevOps Engineer work. I know some local GitHub actions and AWS. I did learning management portal for education. It was not a big project but I learned things from it. My project part was about course access and job role based design login. There are many problems mainly login and access permission issues. We fix it after trying many times. I want this job because I like IT and I think I can do the work. Sometimes I get nervous. This project helped me understand in teamwork and deployment automation.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Anodhi, your answer shows enthusiasm for the DevOps Engineer role, but it lacks a clear structure and specific examples to demonstrate your skills and experience. To improve, focus on organizing your thoughts and providing detailed explanations of your projects and accomplishments.",
+    "strengths": [
+        "Shows interest in the DevOps Engineer role",
+        "Mentions relevant tools and technologies like GitHub actions and AWS"
+    ],
+    "weaknesses": [
+        "Lacks a clear and concise structure in the answer",
+        "Does not provide specific examples to demonstrate skills and experience"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Prepare specific examples of projects and accomplishments to demonstrate skills and experience",
+        "Focus on using professional vocabulary and avoiding filler words",
+        "Emphasize transferable skills, such as teamwork and deployment automation, to show role alignment"
+    ],
+    "better_answer_example": "As a detail-oriented and team-driven individual with experience in academic projects, I'm excited about the DevOps Engineer role. In my previous project, a learning management portal for education, I designed and implemented a course access and job role-based login system using GitHub actions and AWS. Although we encountered login and access permission issues, we successfully resolved them through collaboration and iterative testing. This experience not only deepened my understanding of DevOps principles but also taught me the importance of teamwork, automation, and problem-solving in a real-world setting. I believe my passion for IT, combined with my skills and experience, make me a strong fit for this role."
+}

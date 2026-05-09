@@ -1,0 +1,20 @@
+{
+    "audio_file": "197.wav",
+    "transcript": "My name is Isaru Dishanake, and I'm preparing for a full stack developer role. I have hand non-practice with React, Node.js, and MySQL. I worked on a sales dashboard in the business domain. My main contribution was sales reports. The challenge was missing data. I discussed it with my team, tested the fix, and the system made reporting easier.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Isaru, your answer is clear and easy to understand. However, you could provide more details about your experience with React, Node.js, and MySQL. Additionally, explaining the impact of your sales reports on the business would make your answer stronger.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work with a team"
+    ],
+    "weaknesses": [
+        "Lack of specific examples for React, Node.js, and MySQL",
+        "Insufficient details about the project's impact"
+    ],
+    "suggestions": [
+        "Provide more specific examples of your skills and experience",
+        "Explain how your sales reports benefited the business"
+    ],
+    "better_answer_example": "I'd like to give an example of how I used React to build a user-friendly interface for our sales dashboard. I also worked with Node.js to create a RESTful API that integrated with our MySQL database. My main contribution was creating sales reports that helped our business identify trends and make data-driven decisions."
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "41.wav",
+    "transcript": "Myself Mali, I am an interest with academic project experience and I like IT, support engineer work. I know some ticketing system, Windows, troubleshooting and network basics. I did online appointment book system for healthcare. It was not a big project but I learned things from it. My project part was about booking validation and appointment management. There were many problems. Mainly double booking errors. We fixed it after trying many times. I want this joke because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic technical support.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "To improve your interview performance, focus on clearly structuring your thoughts and aligning them with the job requirements. For instance, when discussing your project experience, try to highlight specific skills you used, such as troubleshooting and network basics, and explain how they can be applied to the support engineer role.",
+    "strengths": [
+        "Basic knowledge of IT and technical support",
+        "Experience with project work and teamwork"
+    ],
+    "weaknesses": [
+        "Lack of clarity in expressing thoughts",
+        "Insufficient alignment of skills with the job role"
+    ],
+    "suggestions": [
+        "Practice speaking clearly and at a moderate pace to reduce nervousness",
+        "Use specific examples from your project to demonstrate your skills and how they match the job requirements",
+        "Prepare answers to common interview questions to feel more confident",
+        "Emphasize what you learned from your project, such as problem-solving and teamwork, and how these skills are valuable for a support engineer"
+    ],
+    "better_answer_example": "As a detail-oriented and team-driven individual with a passion for IT, I'm excited about the support engineer role. In my academic project, I developed an online appointment booking system for healthcare, focusing on booking validation and appointment management. I applied my knowledge of Windows, troubleshooting, and network basics to resolve issues, including double booking errors. Through this project, I not only enhanced my technical skills but also learned the importance of teamwork and effective communication in technical support. I believe my experience and skills align well with the requirements of this role, and I'm looking forward to contributing my skills and knowledge to the team."
+}

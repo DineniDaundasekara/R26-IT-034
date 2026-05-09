@@ -1,0 +1,22 @@
+{
+    "audio_file": "119.wav",
+    "transcript": "My name is Pyaani. I am new person for IT work and I like front end developer. I know some things like HTML Java, my project is learning portal. I help education little bit. We face issue and I confuse also but finally project finished. I want chance to learn more. I am not speaking professional but I try.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Pyaani, your enthusiasm for front-end development is clear, but your answer could be improved with more specific examples and technical details about your learning portal project. Try to focus on the skills you used and the challenges you overcame, rather than just stating the project's purpose.",
+    "strengths": [
+        "Showed eagerness to learn and grow",
+        "Shared a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacked clarity in explaining technical skills",
+        "Used simple sentences and limited vocabulary"
+    ],
+    "suggestions": [
+        "Practice explaining technical concepts in simple terms",
+        "Use a more structured approach to answering questions, such as the STAR method",
+        "Focus on highlighting your achievements and the impact of your project",
+        "Prepare to answer common interview questions with more confidence and detail"
+    ],
+    "better_answer_example": "As a front-end developer, I recently worked on a learning portal project that aimed to provide educational resources to students. I utilized HTML and Java to design and develop the portal's user interface and functionality. One of the challenges I faced was ensuring the portal's responsiveness and accessibility, but I was able to resolve the issue by implementing a responsive design and conducting thorough testing. Through this project, I not only gained hands-on experience with front-end development but also contributed to the education sector, which is something I'm passionate about."
+}

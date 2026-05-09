@@ -1,0 +1,11 @@
+{
+    "audio_file": "148.wav",
+    "transcript": "I am Kasuni. I want to be a DevOps engineer. I studied IT but still learning. I used Docker and Github. In one job portal prototype it was recruitment. I done small part and it's like at page and check errors. It was not too big project. I think I can work. I am talking is not very good.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

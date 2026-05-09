@@ -1,0 +1,22 @@
+{
+    "audio_file": "57.wav",
+    "transcript": "My name is Mohamed Rosam and I am a recent computing graduate preparing for machine learning engineer role. I have practiced Python, skip learning and pandas to academic work and small projects. One project I work on was inventory tracking dashboard in inventory management domain. My main contribution was stock update and dashboard views. The main issue was data mismatch between reports and records. So I checked the problem and discussed it with my team at the end the system reduced manual checking and improved stock visibility. I am applying for this role because I want to real industry expose and a chance to improve my technical skills. My strength is team collaboration but I still need to improve answering under pressure.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Mohamed, your answer provides a good overview of your background and experience, but it could be improved by providing more specific details about your machine learning skills and how they align with the role. Additionally, practicing answering questions under pressure will help you to feel more confident and prepared during the interview.",
+    "strengths": [
+        "team collaboration",
+        "completeness of answer"
+    ],
+    "weaknesses": [
+        "lack of specific machine learning skills",
+        "answering under pressure"
+    ],
+    "suggestions": [
+        "use more technical terms related to machine learning",
+        "structure your answer with a clear introduction, body, and conclusion",
+        "practice answering behavioral questions using the STAR method",
+        "emphasize your achievements and the impact of your work on the project"
+    ],
+    "better_answer_example": "As a recent computing graduate with a strong foundation in Python, scikit-learn, and pandas, I'm excited to apply for the machine learning engineer role. In my previous project, an inventory tracking dashboard, I utilized machine learning algorithms to predict stock levels and reduce manual checking. I worked closely with my team to identify and resolve data mismatch issues, resulting in improved stock visibility and reduced errors. I'm eager to bring my skills and experience to a real-world industry setting and continue to develop my technical expertise, particularly in areas like model deployment and hyperparameter tuning."
+}

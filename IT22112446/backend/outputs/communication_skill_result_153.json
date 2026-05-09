@@ -1,0 +1,11 @@
+{
+    "audio_file": "153.wav",
+    "transcript": "My name is Dylan Madu Sanker. I am a recent computing graduate preparing for a dev-op engineer role. I practiced soccer, GitHub actions, and all. I worked on X-Pen's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

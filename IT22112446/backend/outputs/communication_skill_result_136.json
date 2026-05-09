@@ -1,0 +1,22 @@
+{
+    "audio_file": "136.wav",
+    "transcript": "My self-hancy, I like data analyst job, I am trainee, IT professional, I know little power be I and Python, I did food ordering, I post small business, my part was some old coding and fixing project head many problems, we do again, again it goes I want this job because I can I like IT, I get nervous when talk.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate's answer lacks clarity and structure, making it difficult to understand their experience and skills as a data analyst. They seem nervous and use simple sentences, which affects their ability to express themselves professionally.",
+    "strengths": [
+        "Completeness of thought",
+        "Enthusiasm for the IT field"
+    ],
+    "weaknesses": [
+        "Lack of clear expression",
+        "Insufficient professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering questions using the STAR method to improve structure",
+        "Use more professional terms related to data analysis",
+        "Prepare examples of projects and experiences to boost confidence",
+        "Record yourself speaking to identify areas for improvement in pronunciation and fluency"
+    ],
+    "better_answer_example": "As a trainee IT professional with a passion for data analysis, I'm excited about this role. In my previous project, I worked on a food ordering system where I applied my skills in Power BI and Python. I was responsible for coding and fixing issues, which helped me develop problem-solving skills. I'm eager to bring my skills and experience to this position and continue growing in the IT field."
+}

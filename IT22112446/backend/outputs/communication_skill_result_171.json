@@ -1,0 +1,20 @@
+{
+    "audio_file": "171.wav",
+    "transcript": "My name is Pasindu Fernando, and I am a final year IT undergraduate interested in a data analyst role. I practiced Python, SQL, and Power BI through projects. One project was a learning portal for education. My work was course access. We faced login issues, so I helped test a solution. The final system improved student access.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You clearly explained your project experience and how it relates to the data analyst role. However, your answer could be more structured and detailed.",
+    "strengths": [
+        "Good communication skills",
+        "Relevant project experience"
+    ],
+    "weaknesses": [
+        "Lack of structure in the answer",
+        "Could provide more details about the project"
+    ],
+    "suggestions": [
+        "Use a clear and concise format to explain your experience",
+        "Provide specific examples and metrics to demonstrate your skills"
+    ],
+    "better_answer_example": "I'd like to give an example of how I applied my skills in a data analyst project. In my final year project, I worked on a data visualization dashboard using Power BI to analyze student enrollment trends. I collected data from multiple sources, cleaned it, and created interactive visualizations to help administrators make informed decisions. This experience has prepared me to analyze complex data sets and present insights to stakeholders in a clear and concise manner."
+}

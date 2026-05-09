@@ -1,0 +1,22 @@
+{
+    "audio_file": "56.wav",
+    "transcript": "My name is Dhanu Khandurana. And I am a final year IT undergraduate preparing for a data engineering role. I have practiced Python SQL and ETL pipelines through academic work and small projects. One project I worked on was a student management system in the education domain. My main contribution was recorded management and attendance tracking. The main issue was unclear requirements from users. So I checked the problems and discussed it with my team. At the end, the system reduced duplicates records and made students data easier to manage. I am applying for this role because I want to real industry expose and a chance to improve my technical skills. My strength is attention to detail. But I still need to improve presenting project impact more clearly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You provided a clear overview of your background and project experience, but could improve by structuring your answer to directly address the role and highlighting specific technical skills relevant to data engineering, such as data processing and pipeline management.",
+    "strengths": [
+        "Attention to detail",
+        "Ability to work on ETL pipelines and SQL"
+    ],
+    "weaknesses": [
+        "Lack of clear project impact presentation",
+        "Unclear role alignment in the answer"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with the STAR method to improve structure",
+        "Emphasize technical skills and tools relevant to the data engineering role",
+        "Prepare examples that demonstrate problem-solving and impact in previous projects",
+        "Use professional vocabulary and avoid filler words to enhance confidence and clarity"
+    ],
+    "better_answer_example": "As a final year IT undergraduate with a strong foundation in Python, SQL, and ETL pipelines, I'm excited about the data engineering role. In my student management system project, I tackled the challenge of unclear user requirements by collaborating with my team to identify and resolve data inconsistencies. By implementing an attendance tracking system, we reduced duplicate records by 30% and improved data management efficiency. I believe my technical skills, attention to detail, and experience with data pipelines make me a strong fit for this role, and I'm eager to apply my skills in a real-world setting and continue growing as a data engineer."
+}

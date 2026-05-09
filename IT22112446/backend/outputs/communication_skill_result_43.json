@@ -1,0 +1,22 @@
+{
+    "audio_file": "43.wav",
+    "transcript": "Myself Sanjay, I am an entry-level IT professional and I like product-on-a-assistant work. I know some agile planning, backlog management and stakeholder communication. I did a food ordering application for e-commerce. It was not a big project but I learned things from it. My project part was about order, flow and checkout validation. There were many problems, mainly cart calculation. We fixed it after trying many times. I was, I want this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project may help me understand team work and basic product planning.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sanjay, your answer showed some good points about your experience with the food ordering application, but it lacked a clear structure and professional tone. You also seemed nervous, which affected your ability to express yourself confidently. To improve, focus on organizing your thoughts before speaking and practice using more professional vocabulary related to the IT field.",
+    "strengths": [
+        "Hands-on experience with a real-world project",
+        "Awareness of personal strengths and weaknesses"
+    ],
+    "weaknesses": [
+        "Lack of confidence in speaking",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Prepare a brief introduction that highlights your relevant skills and experience",
+        "Use specific examples to demonstrate your skills, such as agile planning and backlog management",
+        "Practice speaking in front of a mirror or with a friend to improve confidence",
+        "Learn and practice using technical terms commonly used in the IT industry"
+    ],
+    "better_answer_example": "As an entry-level IT professional, I'm excited about the opportunity to work on product development. In my previous project, a food ordering application for e-commerce, I was responsible for order flow and checkout validation. I applied agile planning principles and collaborated with stakeholders to ensure smooth project execution. Although we faced challenges, such as cart calculation issues, we persevered and resolved them through teamwork. This experience not only deepened my understanding of product development but also taught me the importance of effective communication and collaboration in a team environment. I believe my skills and experience make me a strong fit for this role, and I'm eager to contribute to the company's success."
+}

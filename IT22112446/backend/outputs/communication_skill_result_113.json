@@ -1,0 +1,22 @@
+{
+    "audio_file": "113.wav",
+    "transcript": "My self, Sanjani, I like database and administrator job. I am entry level IT student. I know little SQL and my SQL. I did job portal for recruitment. My part was some coding and fixing. Project had many problems and we do again and again. I want this job because IT is nice. I get nervous when talk. So sometime I forgot words.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sanjani, your enthusiasm for the database administrator role is clear, but your answer could be more effective with a stronger structure and more professional vocabulary. You mentioned your experience with SQL and a job portal project, which is great, but try to elaborate more on your specific contributions and what you learned from the project.",
+    "strengths": [
+        "Showed interest in the IT field",
+        "Attempted to share relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacked clear structure in the answer",
+        "Used simple vocabulary and sentence structures"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more technical terms related to database administration",
+        "Prepare examples that highlight your problem-solving skills",
+        "Record yourself speaking and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "As an entry-level IT student, I'm excited about the database administrator role because it combines my passion for databases with my interest in ensuring data integrity. In my recent project, a job portal for recruitment, I applied my SQL skills to design and implement a database schema. Although we faced several challenges, I learned a lot from the experience, particularly about the importance of data backup and recovery. I'm eager to bring my skills and knowledge to a professional setting and continue learning and growing in this field."
+}

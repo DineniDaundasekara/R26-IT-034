@@ -1,0 +1,20 @@
+{
+    "audio_file": "206.wav",
+    "transcript": "My name is Duranee Weijseng, and I am preparing for a product owner assistant role. I have hand-on practice with agile planning, backlog, and stakeholder communication. I work on a food ordering app in the e-commerce domain. My main contribution was checkout validation. The challenge was cart calculation errors. I discussed it with my team, tested the fix, and the system made ordering faster.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but lacks specific examples and details about your role and responsibilities. Try to provide more context and explain how your experience aligns with the product owner assistant role.",
+    "strengths": [
+        "You have hands-on experience with agile planning, backlog, and stakeholder communication"
+    ],
+    "weaknesses": [
+        "Your answer lacks specific examples and details about your role and responsibilities",
+        "You didn't explain how your experience aligns with the product owner assistant role"
+    ],
+    "suggestions": [
+        "Provide more context about your role and responsibilities",
+        "Explain how your experience aligns with the product owner assistant role",
+        "Use specific examples to demonstrate your skills"
+    ],
+    "better_answer_example": "For example, I worked as a product owner assistant in the e-commerce domain, where I was responsible for agile planning, backlog management, and stakeholder communication. In my previous role, I identified a cart calculation error in the food ordering app and worked with my team to implement a fix, resulting in faster ordering times. This experience has prepared me for the product owner assistant role, where I will be responsible for similar tasks and responsibilities."
+}

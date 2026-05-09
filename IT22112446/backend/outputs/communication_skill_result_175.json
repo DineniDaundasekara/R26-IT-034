@@ -1,0 +1,20 @@
+{
+    "audio_file": "175.wav",
+    "transcript": "My name is Chessura Bandara, and I am a final year IT undergraduate interested in a front-end developer role. I practiced React, JavaScript, and Bootstrap through projects. One project was a bus tracking mobile app for transport. My work was outtracking. We faced GPS delay, so I helped test a solution. The final system improved tracking accuracy.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You clearly explained your project experience and how it relates to the front-end developer role. However, your answer could be more structured and detailed.",
+    "strengths": [
+        "Good communication skills",
+        "Practical experience with React, JavaScript, and Bootstrap"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Insufficient details about the project"
+    ],
+    "suggestions": [
+        "Provide a clear introduction to the project and your role in it",
+        "Elaborate on the technical skills used and their applications"
+    ],
+    "better_answer_example": "For example, you could say: 'In my final year project, I worked on a bus tracking mobile app using React, JavaScript, and Bootstrap. As the front-end developer, my main responsibility was to design and implement the user interface. I successfully implemented a real-time tracking feature using GPS data, which improved the accuracy of the system. Through this project, I gained hands-on experience with front-end development and am confident in my ability to apply these skills in a real-world setting.'"
+}

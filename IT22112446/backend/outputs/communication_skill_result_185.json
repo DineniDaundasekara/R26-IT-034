@@ -1,0 +1,20 @@
+{
+    "audio_file": "185.wav",
+    "transcript": "My name is Bibi Fernando and I am an IT intern interested in its support and an earroll. I practiced ticketing, Windows troubleshooting and network basics through projects. One project was a must-tracking mobile app for transport. My work was outtracking. We faced GPS delay, so I helped test a solution. The final system improved tracking accuracy.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Bibi, your answer was clear but lacked structure. You showed enthusiasm for IT support, but your answer jumped between projects and ideas. Try to organize your thoughts and focus on one main point per answer.",
+    "strengths": [
+        "Showed interest in IT support and earroll",
+        "Practiced ticketing, Windows troubleshooting, and network basics through projects"
+    ],
+    "weaknesses": [
+        "Lacked clear structure and organization",
+        "Jumped between projects and ideas"
+    ],
+    "suggestions": [
+        "Focus on one main point per answer",
+        "Use transitional phrases to connect ideas"
+    ],
+    "better_answer_example": "I'm an IT intern interested in IT support and earroll. My main project was a mobile app for tracking transport. I worked on outtracking and helped test a solution for GPS delays. This improved tracking accuracy, and I learned about the importance of reliable data in IT support."
+}

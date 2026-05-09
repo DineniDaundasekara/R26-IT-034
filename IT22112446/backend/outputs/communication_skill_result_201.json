@@ -1,0 +1,20 @@
+{
+    "audio_file": "201.wav",
+    "transcript": "My name is Amanda Erdysing, and I'm preparing for a cloud engineer role. I have hand-on practice with AWS, Linux, and Terraform. I work on a student management system in the Education domain. My main contribution was student records. The challenge was unclear requirements. I discussed it with my team, tested the fix, and the system reduced duplicate records.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Amanda, you did a great job explaining your experience as a cloud engineer. You provided specific examples from your project, such as reducing duplicate records in the student management system. However, your answer could be more structured and clear.",
+    "strengths": [
+        "Good communication skills",
+        "Experience with AWS, Linux, and Terraform"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Some parts of the answer were unclear"
+    ],
+    "suggestions": [
+        "Provide a clear and concise introduction to your experience",
+        "Use a more structured approach to explain your project and contributions"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As a cloud engineer, I've had hands-on experience with AWS, Linux, and Terraform. In my current project, I worked on a student management system where I identified and resolved the issue of duplicate student records. I achieved this by discussing the unclear requirements with my team, testing the fix, and implementing it. This experience has prepared me to handle similar challenges in a cloud engineer role.'"
+}

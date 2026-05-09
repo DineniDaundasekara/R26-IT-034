@@ -1,0 +1,11 @@
+{
+    "audio_file": "154.wav",
+    "transcript": "My name is Atheru Weijsing. I am an IT intern preparing for a business analyst role. I practice trick wirements, user stories, and you at. I work on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "114.wav",
+    "transcript": "I am such a new, I want to be cloud support engineer, I studied IT but still learning I used cloud basis in one foot ordering app, it was for small business, I done small part only like ad page and check errors, it was not big project, I think I work if someone guide me, my talking is not very good now.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "The candidate shows enthusiasm for the cloud support engineer role, but struggles to express their thoughts clearly and confidently. They mention relevant experience with a cloud-based ordering app, but the explanation is brief and lacks detail. To improve, the candidate should focus on organizing their thoughts, using professional vocabulary, and providing specific examples to demonstrate their skills and experience.",
+    "strengths": [
+        "Shows enthusiasm for the role",
+        "Mentions relevant experience with a cloud-based project"
+    ],
+    "weaknesses": [
+        "Lacks clarity and confidence in expression",
+        "Fails to provide detailed examples"
+    ],
+    "suggestions": [
+        "Practice speaking about technical projects in a structured and detailed way",
+        "Use professional vocabulary related to cloud support engineering",
+        "Prepare examples that demonstrate problem-solving skills and experience with cloud-based technologies",
+        "Record yourself speaking and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "In my previous project, I worked on a cloud-based ordering app for a small business, where I was responsible for designing the ad page and troubleshooting errors. Although it was a small part of the project, I learned about cloud infrastructure and gained hands-on experience with cloud-based technologies. With guidance and support, I am confident that I can apply my skills and knowledge to a cloud support engineer role and continue to learn and grow."
+}

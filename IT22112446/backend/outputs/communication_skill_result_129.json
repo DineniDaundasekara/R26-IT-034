@@ -1,0 +1,22 @@
+{
+    "audio_file": "129.wav",
+    "transcript": "Myself Neha, I like data analyst job. I am an early career computing student. I know little Excel and SQL. I did food ordering apps for a small business. My part was some coding. I had many problems. I want this job because I can try. I get nervous when talk. So sometimes I forget words.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Neha, your answer shows enthusiasm for the data analyst role, but it lacks clarity and structure. You shared your experience with a food ordering app, which is great, but you could have explained your role and responsibilities more clearly. To improve, focus on organizing your thoughts and using professional vocabulary to describe your skills and experiences.",
+    "strengths": [
+        "showing enthusiasm for the data analyst role",
+        "sharing relevant project experience"
+    ],
+    "weaknesses": [
+        "lacking clarity in explaining skills and experiences",
+        "using simple vocabulary"
+    ],
+    "suggestions": [
+        "practice answering behavioral questions using the STAR method",
+        "use technical terms related to data analysis to describe your skills",
+        "prepare examples of challenges you faced and how you overcame them",
+        "record yourself speaking and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "As a computing student, I'm excited about the data analyst role because it combines my passion for working with data and solving problems. In my previous project, I contributed to developing a food ordering app for a small business, where I applied my skills in Excel and SQL to analyze customer ordering patterns and optimize the app's performance. Although I faced challenges, such as debugging code and ensuring data accuracy, I was able to learn and grow from the experience. I believe this role will allow me to further develop my skills and apply them to drive business insights."
+}

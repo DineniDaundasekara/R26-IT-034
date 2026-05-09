@@ -1,0 +1,22 @@
+{
+    "audio_file": "21.wav",
+    "transcript": "Myself, Sanjay, I am a recent graduate in Information Technology and I like Full-Stack Developer work. I know some react not jays and my SQL. I did a customer support chatbot from customer service. It was not a brick project, but I learned things from it. My project part was about intern, tinted, floor design and response testing. There were many problems, mainly wrong response for similar questions. We fixed it after trying many times. I want this job because I like Kitee and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand team work and basic full-stack development.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sanjay, your answer showed enthusiasm for the Full-Stack Developer role, but it lacked clarity and structure. You jumped between different ideas, such as your project, skills, and reasons for wanting the job, without fully developing each point. To improve, focus on organizing your thoughts before speaking and use transitional phrases to connect your ideas.",
+    "strengths": [
+        "Shows passion for Full-Stack Development",
+        "Mentions a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacks clear structure in the answer",
+        "Struggles with professional vocabulary and pronunciation"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use simple, professional language to describe technical concepts, such as saying 'I have experience with React and MySQL'",
+        "Prepare examples of your projects and experiences beforehand to feel more confident during the interview",
+        "Record yourself speaking and listen to identify areas for improvement in pronunciation and clarity"
+    ],
+    "better_answer_example": "As a recent IT graduate, I'm excited about the Full-Stack Developer role because it aligns with my skills in React and MySQL. In my previous project, I developed a customer support chatbot, where I applied my knowledge of full-stack development to design and test the chatbot's responses. I learned a lot about teamwork and problem-solving, especially when we encountered issues with similar questions receiving wrong responses. After several attempts, we were able to fix the problem. I believe my experience and passion for full-stack development make me a strong fit for this role."
+}

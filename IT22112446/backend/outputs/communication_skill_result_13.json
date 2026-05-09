@@ -1,0 +1,22 @@
+{
+    "audio_file": "13.wav",
+    "transcript": "I am a final year software engineering student and I like UI UX design work. I know some Figma via frames and usability testing. I did a customer support chat box for customer service. It was not a big project but I learned things from it. My project part was about intent, flow design and response testing. There were many problems, main read, wrong responses for similar questions. We fixed it after trying many times. I want this job because I like ITN. I think I can do work. Sometimes I get nervous and I forget some points. This project was helped me understand teamwork and basic user experience.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a good overview of your project experience, but could improve by providing more specific details about your role and accomplishments. For example, you could have elaborated on how you applied Figma and usability testing to the customer support chat box project, and what you learned from the challenges you faced.",
+    "strengths": [
+        "Provided a clear project overview",
+        "Showed enthusiasm for the field of UI UX design"
+    ],
+    "weaknesses": [
+        "Lacked specific details about accomplishments",
+        "Seemed nervous and forgot some points"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to provide more structured responses",
+        "Use more professional vocabulary, such as 'design principles' instead of 'frames'",
+        "Prepare examples of how your skills and experience align with the job requirements",
+        "Take a few deep breaths before answering to help manage nerves and stay focused"
+    ],
+    "better_answer_example": "In my final year software engineering project, I worked on designing a customer support chat box for a company's customer service team. I applied my knowledge of Figma to create a user-friendly interface, and conducted usability testing to identify areas for improvement. One of the challenges we faced was ensuring the chat box could accurately respond to similar questions, which required careful intent and flow design. Through this project, I developed my skills in teamwork, user experience design, and problem-solving, and I believe these skills would be a great fit for this role at ITN."
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "92.wav",
+    "transcript": "My name is Sashini Pereira. I am a final year IT undergraduate preparing for a cyber security analyst role. I practiced network security, risk assessment, and seam. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sashini, your introduction is clear, but your answer lacks a structured approach to showcase your skills and experience as a cyber security analyst. You jumped between different topics, such as your project and desired skill improvement, without connecting them to the role. To improve, focus on creating a narrative that highlights your relevant skills and experiences, demonstrating how they align with the cyber security analyst position.",
+    "strengths": [
+        "clear introduction of yourself",
+        "identification of a specific project and role"
+    ],
+    "weaknesses": [
+        "lack of structure in the answer",
+        "insufficient role alignment"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more professional vocabulary related to cyber security",
+        "Emphasize your achievements and the impact of your work on the project",
+        "Prepare examples that demonstrate your skills in risk assessment and network security"
+    ],
+    "better_answer_example": "As a final year IT undergraduate preparing for a cyber security analyst role, I've been focusing on developing my skills in network security and risk assessment. In my recent project, a food ordering app for e-commerce, I was responsible for checkout validation. I identified and resolved cart calculation errors, which not only improved the overall user experience but also enhanced the security of the payment process. This experience has taught me the importance of attention to detail in ensuring the security of online transactions. I'm excited to apply my skills and knowledge in a cyber security analyst role and continue to improve my abilities in protecting against cyber threats."
+}

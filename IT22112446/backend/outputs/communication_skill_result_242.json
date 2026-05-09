@@ -1,0 +1,20 @@
+{
+    "audio_file": "242.wav",
+    "transcript": "My name is Esmi Silva. I am an IT intern preparing for a mobile app developer role. I practiced Flutter, Firebase, and REST API. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Esmi, you provided a clear overview of your experience, but your answer could be more structured. For example, you could have explained how you overcame the GPS delay issue in more detail.",
+    "strengths": [
+        "Good experience with Flutter, Firebase, and REST API",
+        "Ability to work on a real-world project"
+    ],
+    "weaknesses": [
+        "Lack of clarity in explaining the project's impact",
+        "Insufficient detail on how you overcame the GPS delay issue"
+    ],
+    "suggestions": [
+        "Provide specific examples to support your claims",
+        "Explain how your skills align with the mobile app developer role"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my previous internship, I worked on a bus tracking mobile app using Flutter and Firebase. I was responsible for the out-tracking feature, which faced a GPS delay issue. To overcome this, I implemented a data buffering system that improved the tracking accuracy by 30%. This experience has taught me the importance of data handling in mobile app development, and I'm excited to apply this knowledge in a mobile app developer role.'"
+}

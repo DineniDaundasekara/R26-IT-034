@@ -1,0 +1,22 @@
+{
+    "audio_file": "112.wav",
+    "transcript": "Hello, myself Kavindi. I am an early career computing student and looking clouds for port engineer work. I know basic travel shooting and monitoring. I made food ordering app with friends. It was about small business. I did simple task sometimes not understand the requirement. After asking the team, I fixed some part. I need a job because I like computers. I'd my communication is little weak.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Kavindi, your introduction was a good start, but it seemed like you jumped between different ideas without connecting them clearly. For example, you mentioned being a computing student and looking for a port engineer role, but didn't explain how your skills align with the job. You also shared a project experience, which is great, but could have elaborated more on your specific contributions and what you learned from it.",
+    "strengths": [
+        "You attempted to share a personal project experience",
+        "You acknowledged areas for improvement, such as your communication skills"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in your answer",
+        "Difficulty articulating your role alignment and relevant skills"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve your structure",
+        "Focus on using professional vocabulary related to the job role, such as 'cloud computing' and 'port engineering'",
+        "Prepare to talk about specific examples from your projects, highlighting your achievements and skills",
+        "Consider taking a course or getting feedback from a mentor to improve your communication skills"
+    ],
+    "better_answer_example": "As a computing student, I'm excited about the opportunity to work as a port engineer, where I can apply my knowledge of cloud computing to improve infrastructure efficiency. In my previous project, I worked with a team to develop a food ordering app for a small business. I was responsible for designing the user interface and ensuring a smooth user experience. Although I faced some challenges in understanding the requirements, I was able to clarify them with my team and deliver a working solution. This experience taught me the importance of effective communication and collaboration in a team environment, skills that I believe are essential for a port engineer role."
+}

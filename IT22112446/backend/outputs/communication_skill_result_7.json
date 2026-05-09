@@ -1,0 +1,22 @@
+{
+    "audio_file": "7.wav",
+    "transcript": "My name is Nipmi Silva and I am a recent computing graduate preparing for a UI UX designer role. My background includes hands-on work with Figma, via framing and usability testing, mainly through academic projects, individual practice and collaborative assignment. One area I enjoy most is creating simple user-friendly digital experiences. For example, I contributed a job portal prototype in requirement domain. A project I am proud of is a job portal prototype which was created for the requirement domain. I work in a team of two and my main contribution was to create profile matching logic and improve search filters. The project was valuable because it improved my technical understanding and taught me how to communicate progress clearly under deadlines. As a result, the final system improved role matching quality for users.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Nipmi effectively conveyed her background and experience in UI UX design, highlighting her hands-on work with Figma and usability testing. However, she could improve by providing more specific examples and quantifiable results to demonstrate the impact of her projects, such as the job portal prototype. This would help to strengthen her role alignment and showcase her skills more effectively.",
+    "strengths": [
+        "clear enthusiasm for creating user-friendly digital experiences",
+        "ability to work collaboratively in a team"
+    ],
+    "weaknesses": [
+        "lack of specific metrics to measure project success",
+        "somewhat repetitive project description"
+    ],
+    "suggestions": [
+        "use action verbs like 'designed', 'developed', and 'improved' to describe project contributions",
+        "prepare examples that demonstrate problem-solving skills and creative thinking",
+        "practice answering behavioral questions with the STAR method",
+        "emphasize transferable skills like communication, teamwork, and adaptability"
+    ],
+    "better_answer_example": "As a UI UX designer, I've had the opportunity to work on various projects, including a job portal prototype where I applied my skills in Figma and usability testing. In this project, I collaborated with a team of two to design and develop a profile matching logic that increased role matching quality by 30%. I'm proud of this project because it not only improved my technical understanding but also taught me the importance of clear communication and meeting deadlines. Through this experience, I've developed a strong foundation in creating simple, user-friendly digital experiences that drive results."
+}

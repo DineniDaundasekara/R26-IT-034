@@ -1,0 +1,22 @@
+{
+    "audio_file": "71.wav",
+    "transcript": "myself casumi. I like machine learning engineer. I know some Python, sick it learn, and pandas. I did a must-tracking mobile app for transport. My part was out tracking. We had GPS delay. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the machine learning engineer role and shared a relevant project experience. However, the answer lacked clarity and structure, making it difficult to fully understand their skills and accomplishments. To improve, the candidate should focus on clearly explaining their role in the project, the challenges they faced, and how their skills align with the job requirements.",
+    "strengths": [
+        "Shows interest in the machine learning engineer role",
+        "Has relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacks clarity in explaining their skills and experience",
+        "Fails to demonstrate a clear structure in their answer"
+    ],
+    "suggestions": [
+        "Practice explaining technical concepts in simple terms",
+        "Use a clear and concise structure to organize your thoughts",
+        "Emphasize specific skills and experiences that align with the job requirements",
+        "Prepare examples that demonstrate your problem-solving skills and accomplishments"
+    ],
+    "better_answer_example": "Hello, my name is Casumi, and I'm excited about the machine learning engineer position. With a background in Python, I've developed skills in machine learning and data analysis using libraries like scikit-learn and pandas. In my previous project, I worked on a mobile app for transport, where I was responsible for implementing an object-tracking feature. We encountered a challenge with GPS delay, but I worked with my team to resolve the issue by optimizing our tracking algorithm. I'm eager to apply my skills and experience to this role and contribute to the development of innovative IT solutions."
+}

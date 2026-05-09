@@ -1,0 +1,22 @@
+{
+    "audio_file": "77.wav",
+    "transcript": "myself be me. I like it support engineer. I know some ticketing, windows troubleshooting, and network basics. I did a learning portal for education. My part was course access. We had login issues. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "The candidate's answer lacks clarity and structure, making it difficult to understand their experience and qualifications for the support engineer role. They mentioned relevant technical skills like ticketing, Windows troubleshooting, and network basics, but failed to provide specific examples or explanations. To improve, the candidate should focus on organizing their thoughts, using professional vocabulary, and providing concrete examples to demonstrate their skills and experience.",
+    "strengths": [
+        "Mentioned relevant technical skills",
+        "Showed enthusiasm for the IT field"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited use of professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use technical terms correctly and in context",
+        "Prepare examples that demonstrate problem-solving skills and experience",
+        "Focus on confident and clear delivery of the answer"
+    ],
+    "better_answer_example": "In my previous experience as a support engineer, I utilized my knowledge of ticketing systems, Windows troubleshooting, and network basics to resolve complex issues. For instance, while working on a learning portal project, our team encountered login issues that affected course access. I collaborated with the team to troubleshoot the problem, and after some trial and error, we successfully resolved the issue. This experience not only deepened my understanding of IT principles but also taught me the importance of persistence and teamwork in technical roles. I'm excited about this support engineer position because it aligns with my passion for IT and my desire to apply my skills to make a positive impact."
+}

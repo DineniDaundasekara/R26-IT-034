@@ -1,0 +1,22 @@
+{
+    "audio_file": "126.wav",
+    "transcript": "I am Nihari. I want to be cloud support engineer. I studied but still learned. I used cloud basic and trouble shooting in ordering app. It was small business. I done small part only like ad page check errors. It was not big project. I think I can work if someone guide. My talking is not very good.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Nihari, during the interview, you shared your experience with cloud support and troubleshooting in a small business setting, which is a good start. However, your answer lacked clarity and structure, making it difficult to understand your role and responsibilities in the project. To improve, focus on organizing your thoughts and using professional vocabulary to describe your experiences.",
+    "strengths": [
+        "Willingness to learn and take on new challenges",
+        "Basic experience with cloud support and troubleshooting"
+    ],
+    "weaknesses": [
+        "Lack of clarity and structure in communication",
+        "Limited professional vocabulary and expression"
+    ],
+    "suggestions": [
+        "Practice speaking in a structured and organized manner, using introduction, body, and conclusion",
+        "Use specific examples to demonstrate your skills and experiences",
+        "Improve your professional vocabulary by learning common cloud support and engineering terms",
+        "Prepare to talk about your projects and experiences in a confident and detailed way"
+    ],
+    "better_answer_example": "As a cloud support engineer, I utilized my skills in a small business setting, where I worked on an ordering app. My role involved troubleshooting and resolving issues with the ad page, ensuring it was error-free and functional. Although it was a small project, I gained valuable experience and learned the importance of attention to detail in cloud support. With guidance and further training, I am confident in my ability to take on more complex projects and contribute to a team as a cloud support engineer."
+}

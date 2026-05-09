@@ -1,0 +1,20 @@
+{
+    "audio_file": "224.wav",
+    "transcript": "My name is Arashi Pereira and my goal is to build a career as a system analyst. I have hand-man experience with process modeling, documentation and SQL. A strong project and ample in a student management system for education. My responsibility was to do the records. I solved and clear requirements by finding the cause, working with the team and testing the solution. I had a final outcome reduced to duplicate records and it improved my confidence and communication.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Arashi, your answer clearly shows your experience in process modeling and SQL. However, it's a bit hard to understand the project's impact and your role in it. Try to explain it in simpler terms.",
+    "strengths": [
+        "Good communication skills",
+        "Experience with process modeling and SQL"
+    ],
+    "weaknesses": [
+        "Difficulty explaining project impact and role",
+        "Lack of clarity in some parts"
+    ],
+    "suggestions": [
+        "Use simple language to explain complex ideas",
+        "Provide more details about the project and your role"
+    ],
+    "better_answer_example": "I'd like to give an example of a project I worked on. In a student management system, I was responsible for creating a database and ensuring data accuracy. To improve data quality, I worked with the team to identify and fix errors. This experience taught me the importance of collaboration and attention to detail."
+}

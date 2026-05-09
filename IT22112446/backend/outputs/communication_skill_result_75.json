@@ -1,0 +1,22 @@
+{
+    "audio_file": "75.wav",
+    "transcript": "myself and Oody. I like database administrator. I know some my SQL, database design and backup management. I did a pointment booking system for healthcare. My part was booking validation. We had double booking errors. We fixed it after trying. I wound this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the database administrator role and shared relevant experience with MySQL and database design. However, the answer lacked a clear structure, making it difficult to follow. To improve, the candidate should focus on organizing their thoughts and using professional vocabulary to describe their experiences and skills.",
+    "strengths": [
+        "Relevant technical skills",
+        "Genuine interest in the IT field"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited use of professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use technical terms correctly and confidently",
+        "Prepare examples that demonstrate problem-solving skills",
+        "Focus on showcasing achievements and lessons learned from past projects"
+    ],
+    "better_answer_example": "In my previous project, I worked as a database administrator on a point-of-care booking system for healthcare. My primary responsibility was to design and implement a booking validation feature. Initially, we encountered double booking errors, but through meticulous testing and collaboration with my team, including Oody, we were able to resolve the issue. This experience not only deepened my understanding of database management but also taught me the importance of thorough testing and teamwork in IT projects."
+}

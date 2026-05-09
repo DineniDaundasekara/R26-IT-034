@@ -1,0 +1,20 @@
+{
+    "audio_file": "164.wav",
+    "transcript": "My name is Arashi Pereira. I am a final year IT undergraduate preparing for a system analyst role. I practiced process modeling, documentation, and SQL. I worked on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear overview of your background and skills, but could have elaborated more on how your experience relates to the system analyst role.",
+    "strengths": [
+        "Process modeling and documentation skills",
+        "SQL skills"
+    ],
+    "weaknesses": [
+        "Lack of clarity on how your skills align with the role",
+        "Could have provided more specific examples"
+    ],
+    "suggestions": [
+        "Provide specific examples of how your skills were applied in the support chatbot project",
+        "Emphasize how your skills can be applied to the system analyst role"
+    ],
+    "better_answer_example": "I'm a final year IT undergraduate with a strong interest in system analysis. In my previous project, I worked on a support chatbot for customer service, where I applied my process modeling and documentation skills to improve the system's response consistency. I believe my skills in SQL and process modeling make me a strong candidate for a system analyst role, and I'm excited to apply my knowledge to real-world problems."
+}

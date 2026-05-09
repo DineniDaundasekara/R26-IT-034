@@ -1,0 +1,20 @@
+{
+    "audio_file": "188.wav",
+    "transcript": "My name is Didu Kikarana Ratni, and I am a recent computing graduate interested in a test automation engineer role. I practiced Selenium, Java, and TestNG through projects. One project was a student management system for education. My work was student records. We faced unclear requirements, so I helped test a solution. The final system reduced duplicate records.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You clearly explained your project experience and how you applied your skills to solve a real problem. However, your answer could be more structured and detailed.",
+    "strengths": [
+        "Good communication skills",
+        "Practical experience with Selenium, Java, and TestNG"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited details about the project"
+    ],
+    "suggestions": [
+        "Provide a clear problem statement and its solution",
+        "Give more details about the project's impact and your role in it"
+    ],
+    "better_answer_example": "For example, you could say: 'In my student management system project, I identified a key issue with duplicate records. I worked with the team to develop a solution that reduced duplicates by 50%. My role was to test the new system and ensure it met the requirements. This experience taught me the importance of clear communication and collaboration in software development.'"
+}

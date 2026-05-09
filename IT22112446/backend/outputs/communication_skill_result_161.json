@@ -1,0 +1,11 @@
+{
+    "audio_file": "161.wav",
+    "transcript": "My name is Amanda Erderising. I am a recent computing graduate preparing for a cloud engineer role. I practice AWS, Linux, and Terraform. I work at a sales dashboard for business. My part was sales report. The issue was missing later. The system made reporting easier. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "51.wav",
+    "transcript": "My name is Anorod Desiunger and I am a recent computing graduate preparing for DuDWC's engineering role. I have practiced Docker GitHub actions and AWS through academic work and small projects. One project I work on was student management system in the education domain. My main contribution was student record management and attendance tracking. The main issue was frontier requirement for users. So I checked the problems and discussed it with my team. At the end, the system reduced duplicates records and made student data easier to manage. I am applying for this role because I want real industry expulsion a chance to improve my technical skills. My strength is analytical thinking, but I still need to improve organizing on so fast.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You provided a good overview of your background and project experience, but could improve by clearly explaining how your skills and experience align with the DuDWC engineering role. Practice speaking about your technical skills and how they can be applied to the job you're applying for.",
+    "strengths": [
+        "Analytical thinking",
+        "Relevant project experience"
+    ],
+    "weaknesses": [
+        "Lack of role alignment",
+        "Disorganized speech"
+    ],
+    "suggestions": [
+        "Prepare examples of how your skills can be applied to the job",
+        "Practice speaking clearly and at a moderate pace",
+        "Use professional vocabulary and avoid filler words",
+        "Emphasize your achievements and the impact of your work"
+    ],
+    "better_answer_example": "As a recent computing graduate with experience in Docker, GitHub actions, and AWS, I'm excited to apply for the DuDWC engineering role. In my student management system project, I successfully implemented student record management and attendance tracking, reducing duplicate records and making student data easier to manage. I believe my analytical thinking and technical skills make me a strong fit for this role, where I can apply my knowledge to drive real-world solutions and continue to grow as a professional."
+}

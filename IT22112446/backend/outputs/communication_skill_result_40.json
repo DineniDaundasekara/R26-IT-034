@@ -1,0 +1,22 @@
+{
+    "audio_file": "40.wav",
+    "transcript": "Myself I am finally a software engineering student and I like system analysis work. I know some point modeling, documentation and my SQL. I did bus tracking mobile lab for transport. It was not a big project but I learned things from it. My project part was about road tracking and live location updates. There were many problems mainly GPS delay and inaccurate location updates. We fixed it after trying many times. I want this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic system analysis.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You effectively shared your experience with the bus tracking mobile lab project, highlighting your role in road tracking and live location updates. However, to improve, focus on clearly explaining the challenges you faced, such as GPS delay and inaccurate location updates, and elaborate on how you overcame them, showcasing your problem-solving skills and teamwork.",
+    "strengths": [
+        "Ability to share personal project experience",
+        "Recognition of teamwork importance"
+    ],
+    "weaknesses": [
+        "Lack of clarity in explaining technical challenges",
+        "Limited role alignment explanation"
+    ],
+    "suggestions": [
+        "Practice explaining technical problems and solutions in simple terms",
+        "Prepare to discuss how your skills and project experience align with the job requirements",
+        "Use professional vocabulary, such as 'overcame obstacles' instead of 'fixed it'",
+        "Take a moment to collect your thoughts before answering to reduce nervousness and forgotten points"
+    ],
+    "better_answer_example": "In my recent project, a bus tracking mobile lab, I worked on road tracking and live location updates. We encountered significant challenges, including GPS delays and inaccurate location updates. Through persistent effort and collaboration with my team, we were able to resolve these issues by implementing more efficient data processing algorithms and adjusting our location update intervals. This experience not only deepened my understanding of system analysis but also taught me valuable lessons in teamwork and problem-solving, skills that I believe are essential for this role in IT."
+}

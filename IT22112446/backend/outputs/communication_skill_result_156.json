@@ -1,0 +1,11 @@
+{
+    "audio_file": "156.wav",
+    "transcript": "My name is Supern Kararena Rasa. I am a final year IT undergraduate preparing for a Mac and developer role. I practiced Node.js, Express.js, and MongoDB. I worked on a pointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

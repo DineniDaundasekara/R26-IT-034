@@ -1,0 +1,22 @@
+{
+    "audio_file": "117.wav",
+    "transcript": "Myself Kumari, I like data analyst job. I am beginner in software field. I like, I know little Python data cleaning. I did food ordering app for small business. My part was some coding and fixing. Project had many problem and we do again and again. I want this because IT is nice. I can try. I get nervous, been talk. So, sometime I forgot words.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kumari, your answer shows enthusiasm for the data analyst role, but it lacks clarity and structure. You jumped between different ideas, such as your experience with Python, the food ordering app, and your feelings about the IT field. To improve, focus on organizing your thoughts and using professional language to express your ideas.",
+    "strengths": [
+        "Shows enthusiasm for the data analyst role",
+        "Has some experience with Python and a project to talk about"
+    ],
+    "weaknesses": [
+        "Lacks clarity and structure in the answer",
+        "Uses simple vocabulary and sentence structures"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use more professional vocabulary related to the data analyst role",
+        "Prepare examples of your experience and skills to talk about confidently",
+        "Record yourself answering questions to identify areas for improvement"
+    ],
+    "better_answer_example": "As a beginner in the software field, I'm excited about the data analyst role because it involves working with data to drive business decisions. In my previous project, a food ordering app for a small business, I applied my Python skills to clean and analyze data. Although the project had its challenges, I learned a lot from the experience and enjoyed the process of troubleshooting and finding solutions. I believe my skills and enthusiasm make me a good fit for this role, and I'm eager to continue learning and growing in the IT field."
+}

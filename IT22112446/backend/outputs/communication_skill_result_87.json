@@ -1,0 +1,22 @@
+{
+    "audio_file": "87.wav",
+    "transcript": "My name is Chasura and I'm an entry-level IT professional preparing for a front-end developer role. I practiced React, JavaScript, and Bootstrap. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I wanted to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Chasura, your answer shows that you have relevant experience and skills for a front-end developer role, but it lacks a clear structure and professional expression. You jumped directly into your project without introducing your role and responsibilities, making it hard to follow. Additionally, you could have elaborated more on how you overcame the issue of unclear requirements and the impact of reducing duplicate records on the student management system.",
+    "strengths": [
+        "Relevant technical skills",
+        "Hands-on experience with a student management system"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Start with a brief introduction to your role and responsibilities",
+        "Use transitional phrases to connect your ideas",
+        "Practice using more professional vocabulary related to the IT field",
+        "Prepare examples that demonstrate your problem-solving skills and impact on the project"
+    ],
+    "better_answer_example": "As a front-end developer, I worked on a student management system project, where I was responsible for designing and implementing the student records feature. One of the challenges I faced was unclear requirements from the stakeholders, but I was able to clarify them through effective communication and collaboration. By implementing data validation and normalization techniques, I was able to reduce duplicate records, resulting in improved data accuracy and efficiency. This experience not only honed my skills in React, JavaScript, and Bootstrap but also taught me the importance of clear communication and problem-solving in a team environment."
+}

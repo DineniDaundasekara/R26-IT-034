@@ -1,0 +1,21 @@
+{
+    "audio_file": "205.wav",
+    "transcript": "My name is Bibi Fernando and I'm preparing for it support engineer role. I have hand non-practice with ticketing, windows troubleshooting and network basics. I work time inventory dashboard in the inventory domain. My main contribution was talk reports. The challenge was data mismatch. I discussed it with my team, tested the fix and the system reduced manual checking.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Bibi, you provided a clear overview of your experience and skills. However, your answer could be more structured and detailed. For example, you could have explained how you applied your knowledge of ticketing, windows troubleshooting, and network basics in a specific project.",
+    "strengths": [
+        "Good self-introduction",
+        "Basic understanding of IT concepts"
+    ],
+    "weaknesses": [
+        "Lack of specific examples",
+        "Poor structure and clarity"
+    ],
+    "suggestions": [
+        "Provide more details about your experience",
+        "Use a clear and logical structure",
+        "Practice answering behavioral questions"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my previous role, I was responsible for managing the inventory dashboard in the inventory domain. One of my key accomplishments was implementing a solution to reduce manual checking by 30%. I achieved this by identifying the root cause of the data mismatch and working with my team to implement a fix. This experience has given me a strong understanding of how to apply my knowledge of ticketing, windows troubleshooting, and network basics in a real-world setting.'"
+}

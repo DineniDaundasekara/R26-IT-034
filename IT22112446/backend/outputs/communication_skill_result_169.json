@@ -1,0 +1,19 @@
+{
+    "audio_file": "169.wav",
+    "transcript": "My name is Thar in Duperra and I am an IT intern interested in a software engineer role. I practiced Java, Spring Boot and my SQL through projects. One project was a pointment booking system for healthcare. My work was booking validation. We faced double booking errors, so I helped test a solution. The final system improved booking accuracy.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Thar, your answer is clear and easy to understand. However, it would be better to provide more details about your project and how it relates to the software engineer role.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work on a project and identify a problem"
+    ],
+    "weaknesses": [
+        "Lack of detail about the project and its relevance to the software engineer role"
+    ],
+    "suggestions": [
+        "Provide more specific examples of your work on the project",
+        "Explain how your project experience aligns with the requirements of the software engineer role"
+    ],
+    "better_answer_example": "I'm Thar, an IT intern interested in a software engineer role. In my previous project, I worked on a pointment booking system for healthcare using Java and Spring Boot. My main task was to develop a feature for booking validation. However, we encountered double booking errors, which I helped to identify and test a solution for. Through this experience, I gained a deeper understanding of how to improve booking accuracy and ensure that the system is reliable and efficient. I believe that my skills and experience make me a strong candidate for this software engineer role."
+}

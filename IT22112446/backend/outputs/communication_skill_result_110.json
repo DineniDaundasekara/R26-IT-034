@@ -1,0 +1,22 @@
+{
+    "audio_file": "110.wav",
+    "transcript": "I am Sanjayani. I want to be DevOps Engineer. I studied IT but still learning. I used Github actions and monitoring in one job portal prototype. It was for recruitment. I done small part only like ad page and check errors. It was not big project. I think I can work if someone guide me. I am talking not very good now.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Sanjayani, your enthusiasm for becoming a DevOps Engineer is clear, but your answer could be improved by providing more specific details about your experience with Github actions and monitoring. Try to focus on the accomplishments and skills you gained from your project, rather than apologizing for its size. This will help you sound more confident and prepared for the role.",
+    "strengths": [
+        "showing eagerness to learn and grow",
+        "having some experience with relevant tools like Github actions"
+    ],
+    "weaknesses": [
+        "lack of clarity in explaining project details",
+        "undermining own abilities and experience"
+    ],
+    "suggestions": [
+        "practice speaking about your projects in a structured way, starting with the goal, then the actions taken, and finally the outcomes",
+        "use more professional vocabulary, such as 'implemented' instead of 'done'",
+        "prepare examples that highlight your problem-solving skills and what you learned from them",
+        "record yourself answering interview questions and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "In my previous project, a job portal prototype, I utilized Github actions for automation and implemented monitoring to ensure the system's reliability. My role involved designing and testing the ad page, where I successfully identified and resolved errors, enhancing the overall user experience. Although it was a small part of the project, I gained valuable insights into the importance of continuous integration and monitoring in a DevOps environment, and I'm excited to apply and expand these skills in a future role."
+}

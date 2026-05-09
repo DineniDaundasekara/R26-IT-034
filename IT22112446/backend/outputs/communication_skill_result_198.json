@@ -1,0 +1,20 @@
+{
+    "audio_file": "198.wav",
+    "transcript": "My name is Keshen Paris, and I'm preparing for a data engineer role. I have hand-on practice with Python, SQL, and ETL pipelines. I worked on a bus tracking mobile app in the transport domain. My main contribution was out tracking. The challenge was GPS delay. I discussed it with my team, tested the fix, and the system improved tracking accuracy.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Keshen, your answer is clear and concise. However, it would be more effective to start with a stronger opening statement that highlights your relevant experience and skills. Additionally, try to provide more specific details about your project, such as metrics or results.",
+    "strengths": [
+        "Good communication skills",
+        "Hands-on experience with Python, SQL, and ETL pipelines"
+    ],
+    "weaknesses": [
+        "Lack of a strong opening statement",
+        "Limited project details"
+    ],
+    "suggestions": [
+        "Start with a stronger opening statement",
+        "Provide specific metrics or results from your project"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As a data engineer, I've had hands-on experience with Python, SQL, and ETL pipelines. In my previous role, I worked on a bus tracking mobile app where I led the development of the out-tracking feature. By implementing a GPS delay fix, we improved tracking accuracy by 30%. I'm excited to bring my skills and experience to this data engineer role and contribute to the development of efficient data pipelines.'"
+}

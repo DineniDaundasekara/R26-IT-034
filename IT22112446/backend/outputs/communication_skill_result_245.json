@@ -1,0 +1,21 @@
+{
+    "audio_file": "245.wav",
+    "transcript": "My name is Bihumi Fernando. I am a recent computing graduate preparing for its support and general. I practiced ticketing, Windows troubleshooting, and network basics. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I want to improve my skills.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "You provided a clear overview of your background and experience, but your answer lacked specific examples and details about your accomplishments. Try to focus on the impact of your work and how it relates to the role.",
+    "strengths": [
+        "practiced ticketing, Windows troubleshooting, and network basics",
+        "worked on a student management system"
+    ],
+    "weaknesses": [
+        "poor communication",
+        "lack of specific examples"
+    ],
+    "suggestions": [
+        "provide specific examples of your accomplishments",
+        "explain the impact of your work",
+        "use more professional language"
+    ],
+    "better_answer_example": "I'm a recent computing graduate with experience in ticketing, Windows troubleshooting, and network basics. In my previous project, I worked on a student management system where I was responsible for student records. I successfully implemented a feature to reduce duplicate records, which improved the system's efficiency. I'm excited to apply my skills in a support role and continue to learn and grow."
+}

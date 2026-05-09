@@ -1,0 +1,22 @@
+{
+    "audio_file": "84.wav",
+    "transcript": "My name is Nuwenjia Surria. I am a final year IT undergraduate preparing for a new ISASHUX designer role. I practiced Figma, wireframes, and usability testing. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Nuwenjia, your introduction is clear, and you effectively highlighted your relevant experience with Figma, wireframes, and usability testing. However, to improve, focus on structuring your answer to clearly separate your introduction, project description, challenges, and achievements. This will help you to provide a more comprehensive overview of your skills and experiences.",
+    "strengths": [
+        "Clear introduction of yourself and your background",
+        "Relevant experience with design tools and methodologies"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited detail about the project's challenges and outcomes"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use more professional vocabulary, such as 'enhanced' instead of 'improved'",
+        "Emphasize your achievements and the impact of your work on the project",
+        "Prepare examples that demonstrate your skills and experiences in the ISASHUX designer role"
+    ],
+    "better_answer_example": "As a final year IT undergraduate preparing for a new ISASHUX designer role, I've developed strong skills in Figma, wireframes, and usability testing. In my recent project, a bus tracking mobile app, I was responsible for the outing tracking feature. One of the challenges we faced was a GPS delay, which affected the app's accuracy. To address this, I worked on optimizing the system, and we were able to enhance the tracking accuracy significantly. This experience not only deepened my understanding of user-centered design but also taught me the importance of iterative testing and refinement in achieving high-quality design solutions."
+}

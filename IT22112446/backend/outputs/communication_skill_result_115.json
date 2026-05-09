@@ -1,0 +1,22 @@
+{
+    "audio_file": "115.wav",
+    "transcript": "My name is Sakuni. I am a new person for IT work. I like database administrator. I know some things like backup database security. My project is job portal prototype. It helps recruitment little bit. We face issue and I confused. But finally project finished. I want chance to learn more. I am speak professional but I try best.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sakuni, your enthusiasm for database administration is clear, but your answer could be more effective with a clearer structure and more professional vocabulary. You jumped between introducing yourself, discussing your project, and expressing your desire to learn, which made it hard to follow. Focus on connecting your experiences and skills to the role of a database administrator to show your alignment with the position.",
+    "strengths": [
+        "showing eagerness to learn",
+        "attempting to use professional language"
+    ],
+    "weaknesses": [
+        "lack of clear structure in the answer",
+        "limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering questions with a clear beginning, middle, and end",
+        "Use more specific examples from your project to demonstrate your skills",
+        "Study professional terms related to database administration to improve your expression",
+        "Prepare to talk about how your project experiences can be applied to real-world database administration challenges"
+    ],
+    "better_answer_example": "As a detail-oriented individual with a passion for database administration, I've been focusing on developing my skills in database security and backup. In my recent project, a job portal prototype, I applied these skills to ensure the recruitment data was secure and efficiently managed. Although we faced challenges, I successfully contributed to completing the project, which not only enhanced my technical skills but also taught me the importance of perseverance. I'm excited about the opportunity to further develop my skills and align them with the responsibilities of a database administrator role."
+}

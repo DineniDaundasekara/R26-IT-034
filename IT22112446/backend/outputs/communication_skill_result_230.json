@@ -1,0 +1,20 @@
+{
+    "audio_file": "230.wav",
+    "transcript": "My name is Chamath Silver. I am an IT intern preparing for a car engineer role. I practiced Selenium, Postman, and Geera. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Chamath, your answer was clear, but it lacked structure and details about your skills. You mentioned practicing Selenium, Postman, and Geera, but didn't explain how they relate to the car engineer role. You also didn't provide enough information about your experience with the food ordering app.",
+    "strengths": [
+        "You have some relevant experience with a food ordering app"
+    ],
+    "weaknesses": [
+        "Lack of structure and details about your skills",
+        "Limited understanding of the car engineer role"
+    ],
+    "suggestions": [
+        "Provide a clear and concise answer",
+        "Explain how your skills relate to the car engineer role",
+        "Give more details about your experience with the food ordering app"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As an IT intern looking to transition into a car engineer role, I've been working on a food ordering app for e-commerce. My part was checkout validation, where I used Selenium to automate testing and Postman to test API integrations. I also practiced Geera, which helped me improve my coding skills. I believe my experience with automation and API testing can be applied to the car engineer role, where I can use similar tools to improve the efficiency of the manufacturing process.'"
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "17.wav",
+    "transcript": "My name is Amanda Idri Singh and I am an entry-level IT professional preparing for data analyst role. I have practiced Python, SQL and Power BI through academic work and small projects. One project I work on was job portal prototype in the requirement domain. My domain contribution was job search filters and profile matching the main issue was irrelevant job results. So, I check the problem and discuss with my team at the end the system improved job matching and help user find more suitable roles. I am applying for this job role because I want real industry exposure and a chance to improve my technical skills. My strength is clear communication but I still need to improve presenting project impact more clearly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Amanda effectively introduced herself and highlighted her relevant technical skills, such as Python, SQL, and Power BI, which aligns well with the data analyst role. However, she could improve by providing more specific examples and quantifiable results from her projects to demonstrate the impact of her work.",
+    "strengths": [
+        "clear communication",
+        "technical skills in Python, SQL, and Power BI"
+    ],
+    "weaknesses": [
+        "lack of specific project metrics",
+        "limited role alignment explanation"
+    ],
+    "suggestions": [
+        "use the STAR method to structure project experiences",
+        "practice presenting project results with data-driven metrics",
+        "emphasize how technical skills can be applied to the data analyst role",
+        "prepare to discuss common data analyst challenges and how to address them"
+    ],
+    "better_answer_example": "In my data analyst project, I developed a job portal prototype with a focus on job search filters and profile matching. Initially, the system faced issues with irrelevant job results, but after analyzing the problem and collaborating with my team, we improved the job matching algorithm, resulting in a 30% increase in user engagement. This experience not only honed my technical skills in Python, SQL, and Power BI but also taught me the importance of data-driven decision-making, which I believe is crucial for success in this data analyst role."
+}

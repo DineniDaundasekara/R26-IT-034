@@ -1,0 +1,21 @@
+{
+    "audio_file": "223.wav",
+    "transcript": "My name is NUDJ Using, and my goal is to build a career as a database administrator. I have hand-on experience with my SQL, database design, and backup management. A strong project and ample support chatbot for customer service. My responsibility was response testing. I solved run responses by finding the cause, working with the team, and testing the solution. The final outcome improved and so consistent and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but sometimes your sentences are a bit long and hard to follow. You also mention a chatbot, but it's not clear how it relates to your role as a database administrator.",
+    "strengths": [
+        "You have hands-on experience with SQL, database design, and backup management.",
+        "You were able to improve a project by finding the cause of the issue and working with your team."
+    ],
+    "weaknesses": [
+        "You mention a chatbot, but it's not clear how it relates to your role.",
+        "Your answer could be more focused on your experience and skills as a database administrator."
+    ],
+    "suggestions": [
+        "Be more specific about your experience and skills.",
+        "Use shorter sentences to make your answer easier to follow.",
+        "Avoid mentioning unrelated topics, such as a chatbot."
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As a database administrator, I have hands-on experience with SQL, database design, and backup management. In my previous role, I was responsible for ensuring the database was running smoothly. I identified an issue with the database and worked with my team to resolve it, resulting in improved performance and consistency.'"
+}

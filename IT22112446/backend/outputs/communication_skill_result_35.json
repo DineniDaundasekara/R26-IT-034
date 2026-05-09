@@ -1,0 +1,22 @@
+{
+    "audio_file": "35.wav",
+    "transcript": "My name is Sashini Perera and I am an intern with academic project experience preparing for a QA engineer. I have practiced Selenium Postman and Jira through academic work and small projects. One project I work on a expense tracking application in the finance domain. My main contribution was monthly expense reports and transaction categorization. The main issue was incorrect transaction categories. So I checked the problem and discussed with my team at the end. The system made spending reports clear and easier to understand. I am applying for this role because I want real industry exposure and a chance to improve my technical skills. My strength is quick learning but I still need to improve explaining technical ideas more briefly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Sashini effectively introduced herself and highlighted her relevant experience with tools like Selenium and Jira, showcasing her potential as a QA engineer. However, she could improve by providing more specific examples of how she overcame challenges in her projects and aligning her skills more closely with the job requirements.",
+    "strengths": [
+        "clear introduction of herself and her background",
+        "identification of her desire for industry exposure and skill improvement"
+    ],
+    "weaknesses": [
+        "lack of detailed examples of overcoming challenges",
+        "need for more concise explanation of technical ideas"
+    ],
+    "suggestions": [
+        "practice explaining complex technical concepts in simpler terms",
+        "prepare specific examples of challenges faced and how they were resolved",
+        "emphasize how her skills and experience align with the job requirements",
+        "work on confidently and clearly structuring her answers to cover all key points"
+    ],
+    "better_answer_example": "As a detail-oriented and quick-learning individual with experience in Selenium, Postman, and Jira, I'm excited about the QA engineer role. In my academic project, an expense tracking application, I tackled the issue of incorrect transaction categorization by collaborating with my team and implementing a solution that resulted in clearer spending reports. This experience not only honed my technical skills but also taught me the importance of teamwork and effective communication in resolving technical problems. I'm eager to apply my skills in a real-world setting and continue to grow as a professional in this field."
+}

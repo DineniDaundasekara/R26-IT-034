@@ -1,0 +1,20 @@
+{
+    "audio_file": "172.wav",
+    "transcript": "My name is NuwenJSaria and I am a recent computing graduate interested in UIsashaks designer role. I practiced Figma, wireframes, and usability testing through projects. One project was inventory dashboard for inventory. My work was talk reports. We faced data mismatch, so I helped test a solution. The final system reduced manual checking.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You provided a clear introduction and shared relevant project experience. However, your answer could be more structured and detailed in explaining your role and responsibilities.",
+    "strengths": [
+        "Good communication skills",
+        "Practical experience with Figma and usability testing"
+    ],
+    "weaknesses": [
+        "Lack of clarity in explaining the project's goals and your specific role",
+        "Insufficient detail in describing the project's impact"
+    ],
+    "suggestions": [
+        "Provide a more detailed example of your project, including your role and responsibilities",
+        "Explain how your project experience aligns with the UI designer role"
+    ],
+    "better_answer_example": "I'm a recent computing graduate with a strong interest in UI design. In my previous project, I worked as a UI designer to create an inventory dashboard for a company. My main responsibility was to design the user interface and conduct usability testing to ensure the dashboard was user-friendly. Through this project, I gained hands-on experience with Figma and wireframing tools. One of the challenges we faced was data mismatch, which I helped to resolve by testing a solution. The final system reduced manual checking, and I was proud to see the positive impact of my work on the company's efficiency."
+}

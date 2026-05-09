@@ -1,0 +1,22 @@
+{
+    "audio_file": "219.wav",
+    "transcript": "My name is Kasumi Fernando, and my goal is to build a career as a machine learning engineer. I have hand-man experience with Python, Sikit Learn, and Pandas. A strong project and mempoli-food ordering app for e-commerce. My responsibility was checkout validation. I solved cart calculation errors by finding the cause, working with the team, and testing the solution. The final outcome made ordering faster, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kasumi, your answer is clear, but it could be more structured. You mentioned your goal, experience, and a project, but it would be better to explain how your skills relate to the role of a machine learning engineer.",
+    "strengths": [
+        "You have hands-on experience with relevant tools like Python, Scikit Learn, and Pandas.",
+        "You described a specific project and your responsibilities, which shows you can apply your skills in a real-world scenario."
+    ],
+    "weaknesses": [
+        "Your answer could be more focused on machine learning engineering. You mentioned a project, but it seems more related to e-commerce.",
+        "You could have explained how your experience and skills will help you in this role."
+    ],
+    "suggestions": [
+        "Be more specific about how your skills and experience relate to machine learning engineering.",
+        "Use examples that are directly related to the role and the project.",
+        "Practice structuring your answer to make it easier to follow.",
+        "Show how your experience and skills will help you in this role."
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As a machine learning engineer, I aim to leverage my experience with Python, Scikit Learn, and Pandas to develop and implement predictive models. In my previous project, I worked on a food ordering app, where I was responsible for checkout validation. I used my skills to identify and solve cart calculation errors, which improved the ordering process. I believe my experience and skills make me a strong fit for this role, and I'm excited to apply them to develop innovative machine learning solutions.'"
+}

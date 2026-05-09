@@ -1,0 +1,22 @@
+{
+    "audio_file": "42.wav",
+    "transcript": "Myself Sanjay, I am an entry-level IT professional and I like product-on-a-assistant work. I know some agile planning, backlog management and stakeholder communication. I did a food ordering application for e-commerce. It was not a big project but I learned things from it. My project part was about order, flow and checkout validation. There were many problems, mainly cart calculation. We fixed it after trying many times. I was, I want this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project may help me understand team work and basic product planning.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sanjay, your answer showed enthusiasm for the IT field and the project you worked on, but it lacked a clear structure and professional expression. You jumped between different ideas, such as your experience, the project, and your interest in the job, without connecting them smoothly. To improve, focus on organizing your thoughts and using more professional vocabulary to describe your experiences and skills.",
+    "strengths": [
+        "Showed genuine interest in the IT field",
+        "Shared a personal project experience"
+    ],
+    "weaknesses": [
+        "Lacked a clear and structured answer",
+        "Used informal language and hesitated during the answer"
+    ],
+    "suggestions": [
+        "Practice answering questions with a clear beginning, middle, and end to improve structure",
+        "Use professional terms related to the IT field, such as 'agile methodologies' and 'stakeholder management'",
+        "Prepare examples of your projects and experiences to confidently discuss them during interviews",
+        "Record yourself answering interview questions to identify areas for improvement, such as nervousness and hesitation"
+    ],
+    "better_answer_example": "As an entry-level IT professional, I'm excited about the opportunity to apply my skills in product development. In my recent project, a food ordering application for e-commerce, I was responsible for order flow and checkout validation. I successfully addressed challenges, such as cart calculation issues, through iterative testing and collaboration. This experience not only deepened my understanding of agile planning and backlog management but also taught me the importance of effective stakeholder communication. I believe my passion for IT, combined with my hands-on experience and skills, makes me a strong fit for this role."
+}

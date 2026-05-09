@@ -1,0 +1,22 @@
+{
+    "audio_file": "69.wav",
+    "transcript": "myself is a room. I like full stack developer. I know some react, node.js and my SQL. I did a food ordering app for e-commerce. My part was checkout validation. We had cart calculation errors. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the full stack developer role and shared a relevant project experience. However, the answer lacked clarity and structure, making it difficult to fully understand their skills and accomplishments. To improve, the candidate should focus on organizing their thoughts and using more professional vocabulary to effectively communicate their ideas.",
+    "strengths": [
+        "Shared a relevant project experience",
+        "Showed enthusiasm for the IT field"
+    ],
+    "weaknesses": [
+        "Lacked clarity in explanation",
+        "Used simple sentence structures"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more technical vocabulary related to the job role",
+        "Prepare examples that demonstrate problem-solving skills",
+        "Speak slowly and clearly to ensure the interviewer understands the answer"
+    ],
+    "better_answer_example": "In my previous project, I worked on a food ordering app as a full stack developer, where I utilized React, Node.js, and MySQL. My primary responsibility was to develop the checkout validation feature. Initially, we encountered cart calculation errors, but through meticulous testing and debugging, we were able to resolve the issue. This experience not only deepened my understanding of the technologies but also taught me the importance of thorough testing. I'm excited about this role because it aligns with my passion for IT and allows me to apply my skills in a meaningful way."
+}

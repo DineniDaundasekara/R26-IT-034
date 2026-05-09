@@ -1,0 +1,22 @@
+{
+    "audio_file": "116.wav",
+    "transcript": "Hello, my self-prahansa. I am entry-level IT student and looking software engineer. I know basic node j is python. I made learning portal with friend. It was about education. I did simple task and sometime not understand requirement. After asking team, I fixed some part. I need this job because I like computer side. My communication is little weak.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You have a good foundation to build on, but it's essential to work on clearly expressing your thoughts and experiences. For instance, when discussing your learning portal project, try to provide more specific details about your role and the challenges you overcame. This will help you showcase your skills and accomplishments more effectively.",
+    "strengths": [
+        "You have hands-on experience with a relevant project",
+        "You recognize the importance of teamwork and asking for help when needed"
+    ],
+    "weaknesses": [
+        "Your communication can be unclear and lacks professional polish",
+        "You struggle to align your experiences directly with the job requirements"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in a structured way, focusing on your specific contributions and what you learned",
+        "Use more professional vocabulary related to software engineering, such as 'developed', 'implemented', and 'collaborated'",
+        "Prepare examples that demonstrate how your skills and interests align with the job description",
+        "Record yourself speaking about your experiences and review the recordings to identify areas for improvement"
+    ],
+    "better_answer_example": "As an entry-level IT student, I'm excited about the opportunity to work as a software engineer. One of my notable projects was a learning portal I developed with a friend, focusing on education. My role involved designing and implementing key features, which taught me a lot about teamwork and problem-solving. Although I faced some challenges in understanding the requirements, I was able to overcome them by discussing with my team and refining my approach. This experience not only deepened my understanding of Node.js and Python but also showed me the importance of clear communication in a development team. I believe my passion for computer science, combined with my practical experience and eagerness to learn, makes me a strong candidate for this position."
+}

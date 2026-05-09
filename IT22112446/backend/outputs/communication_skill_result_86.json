@@ -1,0 +1,22 @@
+{
+    "audio_file": "86.wav",
+    "transcript": "My name is Atheru Weijsing. I am an IT intern preparing for a business analyst role. I practice trick wirements, user stories, and you at. I work on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Atheru, your answer shows enthusiasm for the business analyst role, but it lacks a clear structure and professional expression. You jumped between introducing yourself, describing your project, and stating your goals. To improve, focus on organizing your thoughts and using more formal language to convey your message effectively.",
+    "strengths": [
+        "Completeness of information",
+        " Eagerness to improve skills"
+    ],
+    "weaknesses": [
+        "Lack of clear structure",
+        "Informal language"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more professional vocabulary related to the business analyst role",
+        "Focus on one main point per sentence",
+        "Prepare examples that demonstrate your skills and accomplishments"
+    ],
+    "better_answer_example": "As an IT intern transitioning into a business analyst role, I've been working on developing my skills in areas like user stories and wireframing. Recently, I contributed to a project where we built a support chatbot for customer service. My responsibility was to test the chatbot's responses to ensure consistency and accuracy. Through this project, I learned the importance of attention to detail and effective communication in improving system performance. I'm excited to continue growing in this field and applying my skills to drive business solutions."
+}

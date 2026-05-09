@@ -1,0 +1,19 @@
+{
+    "audio_file": "239.wav",
+    "transcript": "My name is Kasuni Fernando. I am an entry-level IT professional preparing for a machine learning engineer role. I practiced Python, Sikit Learn, and Pandas. I worked on inventory dashboard for inventory. My part was talk reports. The issue was data mismatch. The system reduced manual checking. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You did a good job explaining your experience with inventory dashboard and the issue you faced. However, your answer could be more structured and clear. Try to explain your role and responsibilities more clearly.",
+    "strengths": [
+        "You have experience with Python, Scikit Learn, and Pandas"
+    ],
+    "weaknesses": [
+        "Your answer lacked clarity and structure",
+        "You didn't explain how you improved the system"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with a clear structure",
+        "Focus on explaining how you improved the system and what you learned from the experience"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my previous role, I worked on an inventory dashboard project where I was responsible for developing reports to help the team make data-driven decisions. However, we faced an issue with data mismatch, which led to manual checking. To improve this, I suggested automating the data validation process, which reduced manual checking by 30%. Through this experience, I learned the importance of data quality and how to implement data validation techniques using Python and Scikit Learn.'"
+}

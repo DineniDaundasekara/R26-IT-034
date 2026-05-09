@@ -1,0 +1,22 @@
+{
+    "audio_file": "16.wav",
+    "transcript": "My name is Sashini Perera and I am an intern with academic project experience preparing for a QA engineer. I have practiced Selenium Postman and Jira through academic work and small projects. One project I work on a expense tracking application in the finance domain. My main contribution was monthly expense reports and transaction categorization. The main issue was incorrect transaction categories. So I checked the problem and discussed with my team at the end. The system made spending reports clear and easier to understand. I am applying for this role because I want real industry exposure and a chance to improve my technical skills. My strength is quick learning but I still need to improve explaining technical ideas more briefly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You provided a good overview of your experience and skills, but your answer could be more structured and concise. For example, you jumped from discussing your project to explaining why you're applying for the role without a clear connection between the two. Practice linking your experiences to the job requirements to show how you can contribute to the company.",
+    "strengths": [
+        "clearly stating your name and role",
+        "providing specific examples of tools you've used"
+    ],
+    "weaknesses": [
+        "lack of clear structure in your answer",
+        "difficulty in explaining technical ideas briefly"
+    ],
+    "suggestions": [
+        "use a simple introduction, body, and conclusion structure for your answers",
+        "prepare examples that demonstrate your skills and how they align with the job",
+        "practice summarizing technical concepts in a few sentences",
+        "show enthusiasm and confidence when discussing your experiences and skills"
+    ],
+    "better_answer_example": "As a detail-oriented QA engineer intern with experience in academic projects, I've developed skills in Selenium, Postman, and Jira. In my recent project, an expense tracking application, I successfully implemented monthly expense reports and transaction categorization, resolving issues with incorrect transaction categories through teamwork. This experience not only honed my technical skills but also taught me the importance of clear communication in a team. I'm excited about this role because it offers the opportunity to apply my skills in a real-world setting, further develop my technical abilities, and contribute to the company's success."
+}

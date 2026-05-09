@@ -1,0 +1,11 @@
+{
+    "audio_file": "159.wav",
+    "transcript": "My name is Kasuni Fernando. I am an entry-level IT professional preparing for a machine learning engineer role. I practiced Python, Sikit Learn, and Pandas. I worked on inventory dashboard for inventory. My part was talk reports. The issue was data mismatch. The system reduced manual checking. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

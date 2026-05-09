@@ -1,0 +1,22 @@
+{
+    "audio_file": "97.wav",
+    "transcript": "My name is Bihumi Fernando. I am a recent computing graduate preparing for its support and general. I practiced ticketing, Windows troubleshooting, and network basics. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I want to improve my skills.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Bihumi, your answer shows that you have relevant experience in computing and troubleshooting, but it lacks clarity and structure. You jumped between different topics, such as your education, skills, and project experience, without connecting them clearly to the role you're applying for. To improve, focus on creating a clear narrative that highlights your strengths and shows how your skills align with the job requirements.",
+    "strengths": [
+        "relevant project experience",
+        "basic troubleshooting skills"
+    ],
+    "weaknesses": [
+        "lack of clarity",
+        "poor role alignment"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more professional vocabulary, such as 'utilized' instead of 'practiced'",
+        "Emphasize specific achievements and metrics, like 'reduced duplicate records by 30%'",
+        "Prepare to talk about your thought process and problem-solving approach"
+    ],
+    "better_answer_example": "In my recent computing graduate program, I developed strong troubleshooting skills, particularly in Windows and network basics. One project that stands out is the student management system I worked on, where I was responsible for designing and implementing the student records module. Initially, we faced unclear requirements, but through effective communication with the team, we were able to clarify the needs and deliver a system that reduced duplicate records. This experience not only honed my technical skills but also taught me the importance of clear communication and collaboration in a team environment, skills that I believe are essential for a support role."
+}

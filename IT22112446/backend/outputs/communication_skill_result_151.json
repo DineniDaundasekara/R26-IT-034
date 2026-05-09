@@ -1,0 +1,11 @@
+{
+    "audio_file": "151.wav",
+    "transcript": "My name is Passendufernando. I am an entry-level IT professional preparing for a data analyst role. I practiced Python, SQL, and Power BI. I worked on a sales dashboard for business. My part was sales report. The issue was missing data. The system made reporting easier. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

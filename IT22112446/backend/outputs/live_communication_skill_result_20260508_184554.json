@@ -1,0 +1,21 @@
+{
+    "transcript": "I am final year undergraduate I like software work I know Samjava and bus tracking model app for transport it was not big project but I learn things from it my project part was about route tracking and live location update there are many problems mainly GPS delay in accurate location update we fix it after trying many times",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for software work and shared a relevant project experience, but the answer lacked clarity and structure. To improve, focus on organizing thoughts and using professional vocabulary to describe technical concepts and challenges.",
+    "strengths": [
+        "Shared a relevant project experience",
+        "Showed enthusiasm for software work"
+    ],
+    "weaknesses": [
+        "Lack of clarity in explanation",
+        "Limited use of professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice explaining technical concepts in simple terms",
+        "Use a structured approach to answer questions, starting with an introduction, then the challenge, and finally the solution",
+        "Focus on using professional vocabulary related to software development",
+        "Prepare to talk about what was learned from the project and how it can be applied to future roles"
+    ],
+    "better_answer_example": "In my final year undergraduate project, I worked on a bus tracking model app for transport, focusing on route tracking and live location updates. One of the significant challenges we faced was the GPS delay in accurate location updates. After several attempts, we were able to resolve the issue. Through this project, I gained valuable experience in software development, particularly in troubleshooting and problem-solving, which I believe can be applied to future roles in the industry."
+}

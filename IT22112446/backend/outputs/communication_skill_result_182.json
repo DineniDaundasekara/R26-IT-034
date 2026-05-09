@@ -1,0 +1,20 @@
+{
+    "audio_file": "182.wav",
+    "transcript": "My name is Ethmy Silver, and I am an entry-level IT professional interested in a mobile app developer role. I practiced Flutter, Firebase, and REST API through projects. One project was inventory dashboard for inventory. My work was talk reports. We faced data mismatch, so I helped test a solution. The final system reduced manual checking.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ethmy, your answer was clear, but it could be more structured. You mentioned specific projects, but didn't explain how they relate to the mobile app developer role. Try to connect your experiences to the job requirements.",
+    "strengths": [
+        "practiced Flutter, Firebase, and REST API through projects",
+        "identified and helped solve a data mismatch issue"
+    ],
+    "weaknesses": [
+        "answer lacked clear connection to mobile app developer role",
+        "structure and organization could be improved"
+    ],
+    "suggestions": [
+        "provide specific examples of how your projects relate to the mobile app developer role",
+        "use a clear and logical structure to organize your answer"
+    ],
+    "better_answer_example": "I'm an entry-level IT professional interested in a mobile app developer role. I've practiced Flutter, Firebase, and REST API through projects, such as a mobile inventory dashboard. In this project, I helped identify and solve a data mismatch issue, which reduced manual checking. This experience has prepared me to develop and maintain mobile apps, and I'm excited to bring my skills to this role."
+}

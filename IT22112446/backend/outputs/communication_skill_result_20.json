@@ -1,0 +1,22 @@
+{
+    "audio_file": "20.wav",
+    "transcript": "Myself Ravindu. I am a recent computing graduate and I like Baphke and developer work. I know some not J.A.S, Express, J.S. and MongoDB. I did foot ordering application for e-commerce. It was not a big project, but I learned things from it. My project part was about order flow and checkout validation. There were many problems, mainly hard calculation errors. We fixed it after trying many times. I want this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic API development.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ravindu, your answer shows enthusiasm for the IT field and developer work, which is great. However, to improve, focus on clearly structuring your thoughts and using professional terms to describe your experiences and skills. For instance, instead of saying 'I know some not J.A.S', you could say 'I have experience with JavaScript and its frameworks'. This will help you sound more confident and prepared for the role.",
+    "strengths": [
+        "Shows enthusiasm for the IT field",
+        "Completed a project that demonstrates relevant skills"
+    ],
+    "weaknesses": [
+        "Lacks clarity in expressing technical skills",
+        "Appears nervous and forgets points during the conversation"
+    ],
+    "suggestions": [
+        "Practice answering common interview questions to improve confidence and structure",
+        "Review and use professional terminology related to your field",
+        "Prepare examples of your projects and experiences to discuss during the interview",
+        "Take a few deep breaths before answering to help manage nervousness"
+    ],
+    "better_answer_example": "Hello, I'm Ravindu, a recent computing graduate with a strong interest in backend development using JavaScript, Express, and MongoDB. In my e-commerce project, I focused on order flow and checkout validation, which taught me valuable lessons about teamwork, API development, and problem-solving. Despite facing challenges like calculation errors, our team persevered and successfully resolved them. I'm excited about this role because it aligns with my passion for IT and my skills in backend development. I believe my experience and eagerness to learn make me a strong fit for this position."
+}

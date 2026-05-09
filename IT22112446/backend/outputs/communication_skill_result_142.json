@@ -1,0 +1,11 @@
+{
+    "audio_file": "142.wav",
+    "transcript": "My name is Nikini. I am new person for IT. And like data analyst, I know some things like data cleaning, SQL. My project is food ordering app. It helps for small business. We face issue, confuse also. But finally project finish, I want chance to learn. I am not speaking professional.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

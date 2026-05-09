@@ -1,0 +1,20 @@
+{
+    "audio_file": "192.wav",
+    "transcript": "My name is NuwenJSaria and I'm preparing for a new ice-lash-shocks designer role. I have hand-on practice with Figma, wireframes, and usability testing. I work time appointment booking system in the healthcare domain. My main contribution was booking validation. The challenge was double booking errors. I discussed it with my team, tested the fix, and the system improved booking accuracy.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Your answer is clear and easy to understand. However, it would be better to provide more specific examples from your experience and explain how they relate to the role of an ice-lash-shocks designer.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work on a time appointment booking system"
+    ],
+    "weaknesses": [
+        "Lack of specific examples from experience",
+        "Limited understanding of the role of an ice-lash-shocks designer"
+    ],
+    "suggestions": [
+        "Provide more specific examples from your experience",
+        "Research the role of an ice-lash-shocks designer to better understand its requirements"
+    ],
+    "better_answer_example": "I'm excited to apply for the ice-lash-shocks designer role. In my previous experience, I worked on a project where I designed a user interface for a time appointment booking system. I used Figma to create wireframes and conducted usability testing to ensure the design was user-friendly. One of my main contributions was implementing a booking validation system that reduced double booking errors by 90%. I believe this experience has prepared me well for the ice-lash-shocks designer role, where I can apply my skills to create innovative and user-centered designs."
+}

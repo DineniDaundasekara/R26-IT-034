@@ -1,0 +1,2007 @@
+[
+    {
+        "audio_file": "138.wav",
+        "transcript": "My name is here only. I am new person for IT work and I like front end developer. I know some things like react. See is this my project is learning hotel. It helps education little bit. We face issue and I confuse also but finally project I won't answer to learn I am speak not speak professional.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "139.wav",
+        "transcript": "Hello Myself Kabini. I am entry level IT student and looking cloud support engineer. I know basic AWS troubleshooting. I made food ordering app. It was small business. I did simple task. Sometimes not understand. After asking team, I fixed some part. I need this job because I like computing. My communication is very weak.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "140.wav",
+        "transcript": "myself amadi I like database administrator job I am beginner in software field I know little my SQL I did job portal my part was some coding I do project again and again I want this job because IT is nice I get nervous when I talk",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "141.wav",
+        "transcript": "I am Haseene. I want to be a software engineer. I studied IT still learning. I use Node.JS and REST API in one portal. I was for education. I done small part. I like ad page check errors. I was not a big project. I think I can work. My talking is not good.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "142.wav",
+        "transcript": "My name is Nikini. I am new person for IT. And like data analyst, I know some things like data cleaning, SQL. My project is food ordering app. It helps for small business. We face issue, confuse also. But finally project finish, I want chance to learn. I am not speaking professional.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "143.wav",
+        "transcript": "Hello Myself Minuri, I am trainee IT professional and looking DevOps engineer work I know basic monitoring and AWS I made job portal prototype. It was about recruitment I did a simple task and sometimes not understand requirement after asking team I fixed some part I need this job because I like computing my communication is weak.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "144.wav",
+        "transcript": "Myself Yashmita, I like frontend developer job. I am final year IT undergraduate. I know little react and HTML. I did learning portal for education. My part was some coding and fixing. Project had many problems, so we do again, again. I was, won't this job. I nervous when talk.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "145.wav",
+        "transcript": "Hello I am Pooja. I want to be cloud support engineer and I study but still learning. I use Linux and monitoring, one foot door in app. It was small. I done small part and I like it at page. It was not a big project. I can work if guide me. My talking is not good.",
+        "predicted_level": 1,
+        "communication_skill_level": "Poor Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "146.wav",
+        "transcript": "Hello, I am Nippuni. I am beginner in software field and looking software engineer work. I know basing Springwood. I made learning portal. It was about education. I did simple task and sometimes not understand requirements. After asking team, I fixed my part. I need this job because I like this industry. My communication is little bit weak.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "147.wav",
+        "transcript": "Myself, sincerely, I like data analysis job. I am new graduate in information technology. I know little data cleaning and Excel. I did foot ordering app for small business. My part was some coding and fixing. Project had many problems and we do again, again. I want this job because IT is nice and I can try. I get nervous when talk. So, sometime I forgot words.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "148.wav",
+        "transcript": "I am Kasuni. I want to be a DevOps engineer. I studied IT but still learning. I used Docker and Github. In one job portal prototype it was recruitment. I done small part and it's like at page and check errors. It was not too big project. I think I can work. I am talking is not very good.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "149.wav",
+        "transcript": "My name is Tharindu Pereira. I am a recent computing graduate preparing for a software engineer role. I practiced Java, Spring Boot, and my SQL. I worked on inventory dashboard for inventory. My part was talk reports. The issue was made a mismatch. The system reduced manual checking. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "150.wav",
+        "transcript": "My name is Chamath Silver. I am an IT intern preparing for a car engineer role. I practiced Selenium, Postman, and Geera. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+        "predicted_level": 1,
+        "communication_skill_level": "Poor Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "151.wav",
+        "transcript": "My name is Passendufernando. I am an entry-level IT professional preparing for a data analyst role. I practiced Python, SQL, and Power BI. I worked on a sales dashboard for business. My part was sales report. The issue was missing data. The system made reporting easier. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "152.wav",
+        "transcript": "My name is Nuwenjia Surria. I am a final year IT undergraduate preparing for a new ISASHUX designer role. I practiced Figma, wireframes, and usability testing. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "153.wav",
+        "transcript": "My name is Dylan Madu Sanker. I am a recent computing graduate preparing for a dev-op engineer role. I practiced soccer, GitHub actions, and all. I worked on X-Pen's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+        "predicted_level": 1,
+        "communication_skill_level": "Poor Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "154.wav",
+        "transcript": "My name is Atheru Weijsing. I am an IT intern preparing for a business analyst role. I practice trick wirements, user stories, and you at. I work on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "155.wav",
+        "transcript": "My name is Chasura and I'm an entry-level IT professional preparing for a front-end developer role. I practiced React, JavaScript, and Bootstrap. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I wanted to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "156.wav",
+        "transcript": "My name is Supern Kararena Rasa. I am a final year IT undergraduate preparing for a Mac and developer role. I practiced Node.js, Express.js, and MongoDB. I worked on a pointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "157.wav",
+        "transcript": "My name is Isaru Disanic. I am a recent computing graduate preparing for a full stack developer role. I practice React, Node.js, and my SQL. I work on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "158.wav",
+        "transcript": "My name is Keshen Paris. I am an IT intern preparing for a data engineer role. I practiced Python, SQL, and ETL pipelines. I worked on learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "159.wav",
+        "transcript": "My name is Kasuni Fernando. I am an entry-level IT professional preparing for a machine learning engineer role. I practiced Python, Sikit Learn, and Pandas. I worked on inventory dashboard for inventory. My part was talk reports. The issue was data mismatch. The system reduced manual checking. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "160.wav",
+        "transcript": "My name is Sashini Pereira. I am a final year IT undergraduate preparing for a cyber security analyst role. I practiced network security, risk assessment, and seam. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "161.wav",
+        "transcript": "My name is Amanda Erderising. I am a recent computing graduate preparing for a cloud engineer role. I practice AWS, Linux, and Terraform. I work at a sales dashboard for business. My part was sales report. The issue was missing later. The system made reporting easier. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+        "strengths": [],
+        "weaknesses": [],
+        "suggestions": [],
+        "better_answer_example": ""
+    },
+    {
+        "audio_file": "162.wav",
+        "transcript": "My name is Esmi Silva. I am an IT intern preparing for a mobile app developer role. I practiced Flutter, Firebase, and REST API. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Esmi, your answer was clear, but could be more structured. You mentioned specific skills and a project, but didn't explain how they relate to the role. Try to connect your experiences to the job requirements.",
+        "strengths": [
+            "practiced Flutter, Firebase, and REST API",
+            "improved tracking accuracy"
+        ],
+        "weaknesses": [
+            "lack of clear connection between skills and role",
+            "brief explanation of project responsibilities"
+        ],
+        "suggestions": [
+            "be more specific about how your skills apply to the role",
+            "explain your project responsibilities in more detail",
+            "provide examples of how you overcame challenges"
+        ],
+        "better_answer_example": "I'm Esmi Silva, an IT intern aiming for a mobile app developer role. I've practiced Flutter, Firebase, and REST API, and applied them to a bus tracking app project. My task was to implement out-tracking, which involved addressing GPS delay issues. I successfully improved tracking accuracy, demonstrating my ability to apply technical skills to real-world problems. To further improve, I'd focus on refining my skills in these areas and exploring more complex projects."
+    },
+    {
+        "audio_file": "163.wav",
+        "transcript": "My name is Anu DJ A Singh. I am an entry-level IT professional preparing for a database administrator role. I practiced my SQL, database design, and backup management. I worked on XPAN's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but could be more structured. You mentioned specific projects and skills, but didn't explain how they relate to the database administrator role. Try to connect your experiences to the job requirements.",
+        "strengths": [
+            "practiced SQL, database design, and backup management",
+            "improved monthly reports on XPAN's tracking app"
+        ],
+        "weaknesses": [
+            "lacked clear connection to database administrator role",
+            "briefly mentioned a problem, but didn't explain how you solved it"
+        ],
+        "suggestions": [
+            "be more specific about how your skills relate to the job",
+            "explain your problem-solving process in more detail"
+        ],
+        "better_answer_example": "I'm an entry-level IT professional aiming for a database administrator role. To prepare, I focused on SQL, database design, and backup management. In my previous project, I worked on XPAN's tracking app, where I created monthly reports. However, I encountered an issue with categories. To resolve this, I redesigned the report system to make it clearer. This experience has taught me the importance of database management and I'm eager to apply my skills in this role."
+    },
+    {
+        "audio_file": "164.wav",
+        "transcript": "My name is Arashi Pereira. I am a final year IT undergraduate preparing for a system analyst role. I practiced process modeling, documentation, and SQL. I worked on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear overview of your background and skills, but could have elaborated more on how your experience relates to the system analyst role.",
+        "strengths": [
+            "Process modeling and documentation skills",
+            "SQL skills"
+        ],
+        "weaknesses": [
+            "Lack of clarity on how your skills align with the role",
+            "Could have provided more specific examples"
+        ],
+        "suggestions": [
+            "Provide specific examples of how your skills were applied in the support chatbot project",
+            "Emphasize how your skills can be applied to the system analyst role"
+        ],
+        "better_answer_example": "I'm a final year IT undergraduate with a strong interest in system analysis. In my previous project, I worked on a support chatbot for customer service, where I applied my process modeling and documentation skills to improve the system's response consistency. I believe my skills in SQL and process modeling make me a strong candidate for a system analyst role, and I'm excited to apply my knowledge to real-world problems."
+    },
+    {
+        "audio_file": "165.wav",
+        "transcript": "My name is Bihumi Fernando. I am a recent computing graduate preparing for its support and general. I practiced ticketing, Windows troubleshooting, and network basics. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I want to improve my skills.",
+        "predicted_level": 1,
+        "communication_skill_level": "Poor Communication",
+        "feedback": "You could have explained your role in the student management system more clearly. For example, you could have mentioned how you worked with the team to implement the system and how it benefited the students.",
+        "strengths": [
+            "practiced ticketing, Windows troubleshooting, and network basics"
+        ],
+        "weaknesses": [
+            "poor communication",
+            "lack of clarity on project requirements"
+        ],
+        "suggestions": [
+            "be more specific about your role and responsibilities",
+            "explain how your skills align with the job requirements"
+        ],
+        "better_answer_example": "I worked on a student management system for education, where I was responsible for developing the student records module. I collaborated with the team to ensure the system met the requirements and reduced duplicate records. This experience has helped me develop my problem-solving skills and attention to detail."
+    },
+    {
+        "audio_file": "166.wav",
+        "transcript": "My name is Dulany Wyj Singh. I am an IT intern preparing for a product owner assistant role. I practice agile planning, backlog, and take older communication. I work time appointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear introduction, but your answer could be more structured. Try to focus on one main point per paragraph. You also mentioned a specific project, but didn't explain your role in it. Make sure to highlight your responsibilities and accomplishments.",
+        "strengths": [
+            "You mentioned practicing agile planning and communication",
+            "You worked on a real project, a time appointment booking system for healthcare"
+        ],
+        "weaknesses": [
+            "Your answer lacked a clear main point or accomplishment",
+            "You didn't explain how you improved the system or what you learned"
+        ],
+        "suggestions": [
+            "Focus on one main point per paragraph",
+            "Explain your role and responsibilities in the project",
+            "Use specific examples to demonstrate your skills and accomplishments"
+        ],
+        "better_answer_example": "I'm Dulany Wyj Singh, an IT intern aiming for a product owner assistant role. In my current project, I worked on the booking validation feature for a time appointment booking system in healthcare. I identified and resolved double booking errors, improving booking accuracy. To further improve, I'd like to develop my skills in agile planning and communication."
+    },
+    {
+        "transcript": "My name is Adisha Silva. I am an entry-level IT professional preparing for a I-engineer role. I practiced Python, NLP, and Model evaluation. I worked on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Adisha, your introduction is clear, but the structure of your answer could be improved. You jumped directly to your project without explaining how your skills in Python, NLP, and model evaluation are relevant to the I-engineer role. Focus on connecting your technical skills to the job requirements and elaborate on your achievements in the project.",
+        "strengths": [
+            "Clear introduction of yourself and your role",
+            "Completeness in covering the main points of your experience"
+        ],
+        "weaknesses": [
+            "Lack of structure in presenting your experience",
+            "Limited professional vocabulary and expressions"
+        ],
+        "suggestions": [
+            "Start with a brief overview of your background and how it aligns with the I-engineer role",
+            "Use transitional phrases to connect your ideas and make your answer more cohesive",
+            "Practice using more professional terms related to the IT field",
+            "Prepare specific examples of how you applied your skills in Python, NLP, and model evaluation to the job portal prototype"
+        ],
+        "better_answer_example": "As an entry-level IT professional with a strong foundation in Python, NLP, and model evaluation, I am excited about the I-engineer role. In my recent project, a job portal prototype for recruitment, I was responsible for developing job filters. Initially, we faced the challenge of irrelevant results, but by applying my skills in model evaluation and NLP, I was able to improve the system's job matching capabilities significantly. This experience not only deepened my understanding of how technical skills can be applied to real-world problems but also instilled in me a desire to further enhance my abilities in IT, particularly in areas that can contribute to more efficient and effective recruitment processes."
+    },
+    {
+        "audio_file": "168.wav",
+        "transcript": "My name is Didu Kikarra Naratni. I am a final year IT undergraduate preparing for a test automation engineer role. I practiced Selenium, Java, and TestNG. I worked on a learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear overview of your background and experience, but could improve by providing more specific examples and details about your accomplishments.",
+        "strengths": [
+            "practical experience with Selenium, Java, and TestNG",
+            "desire to improve skills"
+        ],
+        "weaknesses": [
+            "lack of clarity in the structure of the answer",
+            "limited details about the learning portal project"
+        ],
+        "suggestions": [
+            "provide specific examples of how you applied Selenium, Java, and TestNG in your project",
+            "explain the impact of your work on the learning portal"
+        ],
+        "better_answer_example": "I'm a final year IT undergraduate with a strong interest in test automation. In my previous project, I worked on a learning portal where I was responsible for core access. I successfully resolved login issues, improving student access to the system. To further improve my skills, I plan to explore more advanced test automation tools and techniques."
+    },
+    {
+        "audio_file": "169.wav",
+        "transcript": "My name is Thar in Duperra and I am an IT intern interested in a software engineer role. I practiced Java, Spring Boot and my SQL through projects. One project was a pointment booking system for healthcare. My work was booking validation. We faced double booking errors, so I helped test a solution. The final system improved booking accuracy.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Thar, your answer is clear and easy to understand. However, it would be better to provide more details about your project and how it relates to the software engineer role.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work on a project and identify a problem"
+        ],
+        "weaknesses": [
+            "Lack of detail about the project and its relevance to the software engineer role"
+        ],
+        "suggestions": [
+            "Provide more specific examples of your work on the project",
+            "Explain how your project experience aligns with the requirements of the software engineer role"
+        ],
+        "better_answer_example": "I'm Thar, an IT intern interested in a software engineer role. In my previous project, I worked on a pointment booking system for healthcare using Java and Spring Boot. My main task was to develop a feature for booking validation. However, we encountered double booking errors, which I helped to identify and test a solution for. Through this experience, I gained a deeper understanding of how to improve booking accuracy and ensure that the system is reliable and efficient. I believe that my skills and experience make me a strong candidate for this software engineer role."
+    },
+    {
+        "audio_file": "170.wav",
+        "transcript": "My name is Chamath Silver, and I am an entry-level IT professional interested in a car engineer role. I practiced Selenium, Postman, and Gera through Projects. One project was a job portal prototype for recruitment. My work was job filters. We faced irrelevant results, so I helped test a solution. The final system improved job matching.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Chamath, your answer is clear, but it's not directly related to the car engineer role. You should focus on how your IT skills can be applied to the automotive industry.",
+        "strengths": [
+            "You have hands-on experience with Selenium, Postman, and Gera through projects"
+        ],
+        "weaknesses": [
+            "Your answer lacks direct connection to the car engineer role",
+            "You didn't explain how your IT skills can be applied to the automotive industry"
+        ],
+        "suggestions": [
+            "Provide specific examples of how your IT skills can be applied to the car engineer role",
+            "Emphasize your transferable skills, such as problem-solving or analytical skills"
+        ],
+        "better_answer_example": "I'm an entry-level IT professional interested in a car engineer role. In my previous projects, I applied my knowledge of Selenium to automate testing for automotive systems. I also used Postman to test APIs for vehicle tracking systems. These experiences have given me a solid foundation in understanding how IT can be applied to the automotive industry."
+    },
+    {
+        "audio_file": "171.wav",
+        "transcript": "My name is Pasindu Fernando, and I am a final year IT undergraduate interested in a data analyst role. I practiced Python, SQL, and Power BI through projects. One project was a learning portal for education. My work was course access. We faced login issues, so I helped test a solution. The final system improved student access.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You clearly explained your project experience and how it relates to the data analyst role. However, your answer could be more structured and detailed.",
+        "strengths": [
+            "Good communication skills",
+            "Relevant project experience"
+        ],
+        "weaknesses": [
+            "Lack of structure in the answer",
+            "Could provide more details about the project"
+        ],
+        "suggestions": [
+            "Use a clear and concise format to explain your experience",
+            "Provide specific examples and metrics to demonstrate your skills"
+        ],
+        "better_answer_example": "I'd like to give an example of how I applied my skills in a data analyst project. In my final year project, I worked on a data visualization dashboard using Power BI to analyze student enrollment trends. I collected data from multiple sources, cleaned it, and created interactive visualizations to help administrators make informed decisions. This experience has prepared me to analyze complex data sets and present insights to stakeholders in a clear and concise manner."
+    },
+    {
+        "audio_file": "172.wav",
+        "transcript": "My name is NuwenJSaria and I am a recent computing graduate interested in UIsashaks designer role. I practiced Figma, wireframes, and usability testing through projects. One project was inventory dashboard for inventory. My work was talk reports. We faced data mismatch, so I helped test a solution. The final system reduced manual checking.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You provided a clear introduction and shared relevant project experience. However, your answer could be more structured and detailed in explaining your role and responsibilities.",
+        "strengths": [
+            "Good communication skills",
+            "Practical experience with Figma and usability testing"
+        ],
+        "weaknesses": [
+            "Lack of clarity in explaining the project's goals and your specific role",
+            "Insufficient detail in describing the project's impact"
+        ],
+        "suggestions": [
+            "Provide a more detailed example of your project, including your role and responsibilities",
+            "Explain how your project experience aligns with the UI designer role"
+        ],
+        "better_answer_example": "I'm a recent computing graduate with a strong interest in UI design. In my previous project, I worked as a UI designer to create an inventory dashboard for a company. My main responsibility was to design the user interface and conduct usability testing to ensure the dashboard was user-friendly. Through this project, I gained hands-on experience with Figma and wireframing tools. One of the challenges we faced was data mismatch, which I helped to resolve by testing a solution. The final system reduced manual checking, and I was proud to see the positive impact of my work on the company's efficiency."
+    },
+    {
+        "audio_file": "173.wav",
+        "transcript": "My name is Dylan Madju Sanka, and I am an IT intern interested in a DevOps engineer role. I practiced soccer, GitHub actions, and AWS through projects. One project was a food ordering app for e-commerce. My work was checkout validation. We faced cart calculation errors, so I helped test a solution. The final system made ordering faster.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Dylan, your answer is clear, but it could be more structured. You mentioned specific projects, but didn't explain how they relate to the DevOps engineer role. Try to connect your experiences to the job requirements.",
+        "strengths": [
+            "practiced GitHub actions and AWS",
+            "worked on a real project"
+        ],
+        "weaknesses": [
+            "answer could be more structured",
+            "didn't clearly explain how projects relate to DevOps engineer role"
+        ],
+        "suggestions": [
+            "make a clear connection between projects and the job requirements",
+            "use a more structured format to present your answer"
+        ],
+        "better_answer_example": "I'm Dylan, an IT intern interested in a DevOps engineer role. In my previous project, I worked on a food ordering app for e-commerce, where I used GitHub actions to automate the deployment process. This experience has taught me the importance of continuous integration and delivery in a DevOps environment. I'm excited to apply my skills in this role and contribute to the team's success."
+    },
+    {
+        "audio_file": "174.wav",
+        "transcript": "My name is Atheru Weigzing, and I am an entry-level IT professional interested in a business analyst role. I practice requirements, user stories, and UAT through projects. One project was a sales dashboard for business. My work was sales reports. We faced missing data, so I helped test a solution. The final system made reporting easier.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Atheru, you provided a clear introduction, but your answer could be more structured. You gave a specific example of a project, but didn't fully explain your role in it.",
+        "strengths": [
+            "You have hands-on experience with requirements, user stories, and UAT"
+        ],
+        "weaknesses": [
+            "Your answer could be more detailed and focused on your specific contributions to the project"
+        ],
+        "suggestions": [
+            "Provide more context about your role in the project",
+            "Explain how your skills align with the business analyst position"
+        ],
+        "better_answer_example": "For example, I was the lead business analyst on a sales dashboard project. I worked closely with stakeholders to gather requirements, created user stories, and led the UAT process. My goal was to ensure the system met the business needs and improved sales reporting."
+    },
+    {
+        "audio_file": "175.wav",
+        "transcript": "My name is Chessura Bandara, and I am a final year IT undergraduate interested in a front-end developer role. I practiced React, JavaScript, and Bootstrap through projects. One project was a bus tracking mobile app for transport. My work was outtracking. We faced GPS delay, so I helped test a solution. The final system improved tracking accuracy.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You clearly explained your project experience and how it relates to the front-end developer role. However, your answer could be more structured and detailed.",
+        "strengths": [
+            "Good communication skills",
+            "Practical experience with React, JavaScript, and Bootstrap"
+        ],
+        "weaknesses": [
+            "Lack of clear structure in the answer",
+            "Insufficient details about the project"
+        ],
+        "suggestions": [
+            "Provide a clear introduction to the project and your role in it",
+            "Elaborate on the technical skills used and their applications"
+        ],
+        "better_answer_example": "For example, you could say: 'In my final year project, I worked on a bus tracking mobile app using React, JavaScript, and Bootstrap. As the front-end developer, my main responsibility was to design and implement the user interface. I successfully implemented a real-time tracking feature using GPS data, which improved the accuracy of the system. Through this project, I gained hands-on experience with front-end development and am confident in my ability to apply these skills in a real-world setting.'"
+    },
+    {
+        "audio_file": "176.wav",
+        "transcript": "My name is Superncarna Racer and I am a recent computing graduate interested in a Macand developer role. I practiced Node.js, Express.js, and MondoDB through projects. One project was a X-Penstraking app for Finance. My work was monthly reports. We faced wrong categories, so I helped test a solution. The final system made reports clearer.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but could be more structured. You mentioned specific projects, but didn't explain your role in them. Try to be more specific about your responsibilities and how they relate to the position.",
+        "strengths": [
+            "You have experience with Node.js, Express.js, and MongoDB",
+            "You can work on a team to solve problems"
+        ],
+        "weaknesses": [
+            "Your answer could be more structured and clear",
+            "You didn't explain how your projects relate to the Mac and developer role"
+        ],
+        "suggestions": [
+            "Use a clear and concise format to present your answer",
+            "Explain how your projects and skills align with the position"
+        ],
+        "better_answer_example": "I'm Superncarna Racer, a recent computing graduate interested in a Mac and developer role. In my previous project, I worked on a X-Penstraking app for Finance as a developer. My main responsibility was to create monthly reports using Node.js and MongoDB. When we encountered issues with wrong categories, I helped test a solution and worked with the team to implement a new system that made reports clearer. This experience has taught me the importance of teamwork and problem-solving in a Mac and developer role."
+    },
+    {
+        "audio_file": "177.wav",
+        "transcript": "My name is Isaru Disanic, and I am an IT intern interested in a full stack developer role. I practiced React, Node.js, and my SQL through projects. One project was a support chatbot for customer service. My work was response testing. We faced wrong responses, so I helped test a solution. The final system improved and circumsistancy.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Isaru, your answer was clear, but sometimes hard to follow. You mentioned a project, but didn't explain it well. Try to give more details about your work.",
+        "strengths": [
+            "You have experience with React, Node.js, and SQL"
+        ],
+        "weaknesses": [
+            "Your answer was hard to follow",
+            "You didn't explain your project well"
+        ],
+        "suggestions": [
+            "Give more details about your projects",
+            "Use simple language to explain your work"
+        ],
+        "better_answer_example": "I'm Isaru, an IT intern interested in a full stack developer role. I worked on a support chatbot project using React, Node.js, and SQL. My task was to test responses for customer service. We faced issues with wrong responses, so I helped test a solution. The final system improved significantly. I'm proud of my contribution to the project."
+    },
+    {
+        "audio_file": "178.wav",
+        "transcript": "My name is Keshen Paris, and I am an entry-level IT professional interested in a data engineer role. I practiced Python, SQL, and ETL pipelines through projects. One project was a student management system for education. My work was student records. We faced unclear requirements, so I helped test a solution. The final system reduced duplicate records.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Keshen, your answer was clear and easy to understand. However, it would be better to explain how your project improved data quality and efficiency.",
+        "strengths": [
+            "Good communication skills",
+            "Practical experience with Python, SQL, and ETL pipelines"
+        ],
+        "weaknesses": [
+            "Lack of specific details about data quality and efficiency improvements",
+            "Limited explanation of project requirements and challenges"
+        ],
+        "suggestions": [
+            "Provide specific examples of how your project improved data quality and efficiency",
+            "Explain how you handled unclear project requirements and challenges",
+            "Emphasize your role in the project and how it aligns with the data engineer position",
+            "Highlight any soft skills you used during the project, such as teamwork or problem-solving"
+        ],
+        "better_answer_example": "In my student management system project, I used Python and SQL to improve data quality by reducing duplicate records. I worked with the team to clarify unclear project requirements and implemented a solution that increased data efficiency by 25%. As a data engineer, I believe my experience with ETL pipelines and data quality improvement makes me a strong candidate for this role."
+    },
+    {
+        "audio_file": "179.wav",
+        "transcript": "My name is Kasunifernando, and I am a final year IT undergraduate interested in a machine learning engineer role. I practiced Python, Sikit Learn, and Pandas through Projects. One project was a pointment booking system for healthcare. My work was booking validation. We faced double booking errors, so I helped test a solution. The final system improved booking accuracy.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You did a good job explaining your project and how it relates to the machine learning engineer role. However, your answer could be more structured and clear. Try to use a more logical flow and provide more details about your role in the project.",
+        "strengths": [
+            "You have hands-on experience with Python, Scikit Learn, and Pandas through projects.",
+            "You can apply your skills to real-world problems, such as the appointment booking system for healthcare."
+        ],
+        "weaknesses": [
+            "Your answer could be more structured and clear.",
+            "You didn't explain how your machine learning skills were used in the project."
+        ],
+        "suggestions": [
+            "Practice answering behavioral questions with a clear and structured format.",
+            "Provide more details about your role in the project and how your machine learning skills were applied.",
+            "Use specific examples to demonstrate your skills and experience.",
+            "Make sure to explain how your project relates to the machine learning engineer role."
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my final year project, I developed a pointment booking system for healthcare using Python, Scikit Learn, and Pandas. My role was to implement booking validation, which involved testing a solution to prevent double booking errors. Through this project, I gained hands-on experience with machine learning algorithms and their application in real-world problems. I believe this experience makes me a strong candidate for a machine learning engineer role, where I can apply my skills to develop innovative solutions.'"
+    },
+    {
+        "audio_file": "180.wav",
+        "transcript": "My name is Ashini Pereira and I am a recent computing graduate interested in a cyber security analyst role. I practiced network security, risk assessment, and seem through projects. One project was a job portal prototype for recruitment. My work was job filters. We faced irrelevant results, so I helped test a solution. The final system improved job matching.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Ashini, your answer is clear and shows you have relevant experience. However, it could be more structured and professional.",
+        "strengths": [
+            "practical experience in network security, risk assessment, and project development",
+            "ability to identify and solve problems"
+        ],
+        "weaknesses": [
+            "answer could be more structured and professional",
+            "some points could be more clearly explained"
+        ],
+        "suggestions": [
+            "use a clear and concise format to present your answer",
+            "provide more details about your projects and experiences"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a recent computing graduate with a passion for cyber security, I've gained hands-on experience in network security and risk assessment through various projects. In one project, I developed a job portal prototype where I implemented job filters to improve job matching. I'd like to build on this experience and contribute to a team that shares my enthusiasm for cyber security.'"
+    },
+    {
+        "audio_file": "181.wav",
+        "transcript": "My name is Amanda Erdysing, and I am an IT intern interested in a cloud engineer role. I practiced AWS, Linux, and Terraform through projects. One project was a learning portal for education. My work was course access. We faced login issues, so I helped test a solution. The final system improved student access.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Amanda, your answer is clear and easy to understand. However, it would be more effective if you started by explaining the specific cloud engineer skills you used in your project, such as AWS, Linux, and Terraform.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work on real-world projects"
+        ],
+        "weaknesses": [
+            "Lack of clear explanation of technical skills",
+            "Could have provided more details about the project"
+        ],
+        "suggestions": [
+            "Provide specific examples of cloud engineer skills used",
+            "Explain the technical aspects of the project in more detail"
+        ],
+        "better_answer_example": "I'm Amanda Erdysing, an IT intern interested in a cloud engineer role. In my project, I used AWS to deploy a learning portal for education. I also utilized Linux to manage the server and Terraform to automate the infrastructure. One of my key responsibilities was ensuring course access for students. When we encountered login issues, I helped test a solution that improved student access. Through this project, I gained hands-on experience with cloud engineering tools and developed problem-solving skills."
+    },
+    {
+        "audio_file": "182.wav",
+        "transcript": "My name is Ethmy Silver, and I am an entry-level IT professional interested in a mobile app developer role. I practiced Flutter, Firebase, and REST API through projects. One project was inventory dashboard for inventory. My work was talk reports. We faced data mismatch, so I helped test a solution. The final system reduced manual checking.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Ethmy, your answer was clear, but it could be more structured. You mentioned specific projects, but didn't explain how they relate to the mobile app developer role. Try to connect your experiences to the job requirements.",
+        "strengths": [
+            "practiced Flutter, Firebase, and REST API through projects",
+            "identified and helped solve a data mismatch issue"
+        ],
+        "weaknesses": [
+            "answer lacked clear connection to mobile app developer role",
+            "structure and organization could be improved"
+        ],
+        "suggestions": [
+            "provide specific examples of how your projects relate to the mobile app developer role",
+            "use a clear and logical structure to organize your answer"
+        ],
+        "better_answer_example": "I'm an entry-level IT professional interested in a mobile app developer role. I've practiced Flutter, Firebase, and REST API through projects, such as a mobile inventory dashboard. In this project, I helped identify and solve a data mismatch issue, which reduced manual checking. This experience has prepared me to develop and maintain mobile apps, and I'm excited to bring my skills to this role."
+    },
+    {
+        "audio_file": "183.wav",
+        "transcript": "My name is Anu DJ I sing, and I am a final year IT undergraduate interested in a database administrator role. I practiced my SQL, database design, and backup management through projects. One project was a food ordering app for e-commerce. My work was checkout validation. We faced cart calculation errors, so I helped test a solution. The final system made ordering faster.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Anu, you provided a clear introduction of yourself, but your answer could be more structured. You mentioned a project, but didn't explain how it directly relates to the database administrator role.",
+        "strengths": [
+            "You have hands-on experience with SQL, database design, and backup management.",
+            "You demonstrated problem-solving skills by helping to test a solution for cart calculation errors."
+        ],
+        "weaknesses": [
+            "Your answer could be more focused on the database administrator role.",
+            "You didn't explain how your project experience aligns with the role's responsibilities."
+        ],
+        "suggestions": [
+            "Provide more specific examples of how your project experience applies to the database administrator role.",
+            "Emphasize your skills and qualifications that directly relate to the role.",
+            "Use a more structured approach to your answer, such as the STAR method.",
+            "Highlight any relevant tools or technologies you've used in your projects."
+        ],
+        "better_answer_example": "In my final year project, I designed a database for a food ordering app. I ensured data consistency and integrity by implementing proper normalization and indexing techniques. This experience has prepared me to handle database administration tasks, such as data backup and recovery, and performance tuning."
+    },
+    {
+        "audio_file": "184.wav",
+        "transcript": "My name is Tharashi Pereira, and I am a recent computing graduate interested in a system analyst role. I practiced process modeling, documentation, and SQL through projects. One project was a sales dashboard for business. My work was sales reports. We faced missing data, so I helped test a solution. The final system made reporting easier.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Tharashi, your answer is clear, but it could be more structured. You mentioned specific projects, but didn't explain your role in them. Try to focus on your achievements and how they relate to the system analyst role.",
+        "strengths": [
+            "You have experience with process modeling, documentation, and SQL"
+        ],
+        "weaknesses": [
+            "Your answer could be more structured and focused on your achievements"
+        ],
+        "suggestions": [
+            "Provide specific examples of your work as a system analyst",
+            "Explain how your skills align with the system analyst role",
+            "Use a clear and concise structure in your answer"
+        ],
+        "better_answer_example": "I'm a recent computing graduate with a strong interest in system analysis. In my final project, I worked on a sales dashboard for a business, where I was responsible for designing and implementing the data model. This experience taught me the importance of data quality and how to handle missing data. I'm excited to bring my skills in process modeling, documentation, and SQL to a system analyst role, where I can help organizations improve their data-driven decision making."
+    },
+    {
+        "audio_file": "185.wav",
+        "transcript": "My name is Bibi Fernando and I am an IT intern interested in its support and an earroll. I practiced ticketing, Windows troubleshooting and network basics through projects. One project was a must-tracking mobile app for transport. My work was outtracking. We faced GPS delay, so I helped test a solution. The final system improved tracking accuracy.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Bibi, your answer was clear but lacked structure. You showed enthusiasm for IT support, but your answer jumped between projects and ideas. Try to organize your thoughts and focus on one main point per answer.",
+        "strengths": [
+            "Showed interest in IT support and earroll",
+            "Practiced ticketing, Windows troubleshooting, and network basics through projects"
+        ],
+        "weaknesses": [
+            "Lacked clear structure and organization",
+            "Jumped between projects and ideas"
+        ],
+        "suggestions": [
+            "Focus on one main point per answer",
+            "Use transitional phrases to connect ideas"
+        ],
+        "better_answer_example": "I'm an IT intern interested in IT support and earroll. My main project was a mobile app for tracking transport. I worked on outtracking and helped test a solution for GPS delays. This improved tracking accuracy, and I learned about the importance of reliable data in IT support."
+    },
+    {
+        "audio_file": "186.wav",
+        "transcript": "My name is Duranee Wyj Singh, and I am an entry-level IT professional interested in a product owner-assistant role. I practice agile planning, backlog, and take older communication through projects. One project was a expense tracking app for finance. My work was monthly reports. We faced wrong categories, so I helped test a solution. The final system made reports clearer.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer could be improved by providing more specific examples of your experience with agile planning and backlog management. You also mentioned a project, but didn't explain your role in it.",
+        "strengths": [
+            "You have some experience with agile planning and backlog management",
+            "You were able to help test and improve a solution for a project"
+        ],
+        "weaknesses": [
+            "Your answer was not very clear and concise",
+            "You didn't explain your role in the project you mentioned"
+        ],
+        "suggestions": [
+            "Provide more specific examples of your experience",
+            "Explain your role in the project and how it relates to the product owner-assistant role"
+        ],
+        "better_answer_example": "For example, I could say: 'As an entry-level IT professional, I have experience with agile planning and backlog management. In my previous role, I worked on a project to develop an expense tracking app for finance. My responsibilities included creating monthly reports and working with the team to identify and fix issues. One challenge we faced was incorrect categorization, so I helped test a solution that improved the accuracy of our reports. This experience has taught me the importance of clear communication and collaboration in a team environment, which I believe are essential skills for a product owner-assistant role.'"
+    },
+    {
+        "audio_file": "187.wav",
+        "transcript": "My name is Nadisha Silva, and I am a final year IT undergraduate interested in AI engineer role. I practiced Python, NLP, and model evaluation through projects. One project was a support chatbot for customer service. My work was response testing. We faced wrong responses, so I helped test a solution. The final system improved answer consistency.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Nadisha, your answer is clear, but could be more structured. You provided a specific example from your project, which is great, but could have been more detailed.",
+        "strengths": [
+            "Provided a specific example from a project",
+            "Showed interest in AI engineer role"
+        ],
+        "weaknesses": [
+            "Lacked structure in the answer",
+            "Could have provided more details about the project"
+        ],
+        "suggestions": [
+            "Practice answering behavioral questions with a clear structure",
+            "Provide more details about the project and your role in it"
+        ],
+        "better_answer_example": "I'm Nadisha Silva, a final year IT undergraduate with a strong interest in AI engineer roles. In my project, I worked on a support chatbot for customer service, focusing on response testing. I identified issues with wrong responses and helped implement a solution that improved answer consistency. This experience has given me a solid understanding of NLP and model evaluation, and I'm excited to apply these skills in a real-world AI engineer role."
+    },
+    {
+        "audio_file": "188.wav",
+        "transcript": "My name is Didu Kikarana Ratni, and I am a recent computing graduate interested in a test automation engineer role. I practiced Selenium, Java, and TestNG through projects. One project was a student management system for education. My work was student records. We faced unclear requirements, so I helped test a solution. The final system reduced duplicate records.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You clearly explained your project experience and how you applied your skills to solve a real problem. However, your answer could be more structured and detailed.",
+        "strengths": [
+            "Good communication skills",
+            "Practical experience with Selenium, Java, and TestNG"
+        ],
+        "weaknesses": [
+            "Lack of clear structure in the answer",
+            "Limited details about the project"
+        ],
+        "suggestions": [
+            "Provide a clear problem statement and its solution",
+            "Give more details about the project's impact and your role in it"
+        ],
+        "better_answer_example": "For example, you could say: 'In my student management system project, I identified a key issue with duplicate records. I worked with the team to develop a solution that reduced duplicates by 50%. My role was to test the new system and ensure it met the requirements. This experience taught me the importance of clear communication and collaboration in software development.'"
+    },
+    {
+        "audio_file": "189.wav",
+        "transcript": "My name is Arindu Pereira and I am preparing for a software engineer role. I have hand-on practice with Java, Spring Boot and my SQL. I work time at XPAN Stacking app in the finance domain. My main contribution was monthly reports. The challenge was on categories. I discussed it with my team, tested the fix and the system made reports clearer.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Arindu, your answer is clear and easy to understand. However, it would be better if you could provide more details about your project, such as the technologies used and the impact of your contribution.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work in a team"
+        ],
+        "weaknesses": [
+            "Lack of technical details",
+            "Insufficient explanation of the challenge"
+        ],
+        "suggestions": [
+            "Provide specific examples of your work",
+            "Explain the technical aspects of your project"
+        ],
+        "better_answer_example": "For example, I could have said, 'In my previous role at XPAN Stacking app, I worked on a project to improve the monthly reports. I used Java and Spring Boot to develop a system that could categorize transactions and provide clearer reports. The challenge was to handle different types of transactions, which I overcame by discussing it with my team and testing the fix. This project helped me develop my problem-solving skills and attention to detail.'"
+    },
+    {
+        "audio_file": "190.wav",
+        "transcript": "My name is Camercileva, and I am preparing for a card and an ear roll. I have hand-on practice with Selenium, Postman, and Hero. I work on a support chat part in the customer service domain. My main contribution was response testing. The challenge was on responses. I discussed it with my team, tested the fix, and the system improved and circumsistancy.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Camercileva, your answer was clear, but it was hard to understand what you were preparing for. You mentioned specific tools, but it would be better to explain how they relate to the role.",
+        "strengths": [
+            "You have hands-on experience with Selenium, Postman, and Hero"
+        ],
+        "weaknesses": [
+            "Your answer was unclear about the project or role you're preparing for",
+            "You mentioned a challenge, but didn't clearly explain how you overcame it"
+        ],
+        "suggestions": [
+            "Be more specific about the project or role you're preparing for",
+            "Explain how you overcame the challenge you mentioned"
+        ],
+        "better_answer_example": "I'm preparing for a customer service chatbot project, where I used Selenium to automate testing and Postman to test API responses. My main contribution was improving response testing, which involved discussing the issue with my team, testing the fix, and seeing significant improvements in system performance."
+    },
+    {
+        "audio_file": "191.wav",
+        "transcript": "My name is Passenduf Fernando, and I'm preparing for a data analyst role. I have hand-on practice with Python, SQL, and Power BI. I work on a student management system in the Education domain. My main contribution was student records. The challenge was unclear requirements. I discussed it with my team, tested the fix, and the system reduced duplicate records.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You clearly explained your experience working on a student management system, but it would be even better if you could provide more details about the impact of your contribution on the system.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work with Python, SQL, and Power BI"
+        ],
+        "weaknesses": [
+            "Lack of clarity in explaining the project's requirements"
+        ],
+        "suggestions": [
+            "Provide specific examples of how you overcame challenges",
+            "Explain how your project relates to the data analyst role"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my previous role, I worked on a student management system where I was responsible for analyzing student records. One of the challenges I faced was dealing with unclear requirements from the stakeholders. I overcame this by collaborating with my team and testing different solutions. As a result, we were able to reduce duplicate records by 30%. I believe this experience has prepared me well for a data analyst role, where I can apply my analytical skills to drive insights and inform decision-making.'"
+    },
+    {
+        "audio_file": "192.wav",
+        "transcript": "My name is NuwenJSaria and I'm preparing for a new ice-lash-shocks designer role. I have hand-on practice with Figma, wireframes, and usability testing. I work time appointment booking system in the healthcare domain. My main contribution was booking validation. The challenge was double booking errors. I discussed it with my team, tested the fix, and the system improved booking accuracy.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Your answer is clear and easy to understand. However, it would be better to provide more specific examples from your experience and explain how they relate to the role of an ice-lash-shocks designer.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work on a time appointment booking system"
+        ],
+        "weaknesses": [
+            "Lack of specific examples from experience",
+            "Limited understanding of the role of an ice-lash-shocks designer"
+        ],
+        "suggestions": [
+            "Provide more specific examples from your experience",
+            "Research the role of an ice-lash-shocks designer to better understand its requirements"
+        ],
+        "better_answer_example": "I'm excited to apply for the ice-lash-shocks designer role. In my previous experience, I worked on a project where I designed a user interface for a time appointment booking system. I used Figma to create wireframes and conducted usability testing to ensure the design was user-friendly. One of my main contributions was implementing a booking validation system that reduced double booking errors by 90%. I believe this experience has prepared me well for the ice-lash-shocks designer role, where I can apply my skills to create innovative and user-centered designs."
+    },
+    {
+        "audio_file": "193.wav",
+        "transcript": "My name is Dylan Madju Sanka and I'm preparing for a Divap's engineer role. I have hands on practice with Docker, GitHub actions, and Oz. I work on a job portal prototype in the recruitment domain. My main contribution was job filters. The challenge was irrelevant results. I discussed it with my team, tested the fix, and the system improved job matching.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but could be more structured. You could have started by explaining the project's goal and your role in it.",
+        "strengths": [
+            "Hands-on practice with Docker, GitHub actions, and Oz",
+            "Contributed to a job portal prototype in the recruitment domain"
+        ],
+        "weaknesses": [
+            "Lack of clarity on the project's goal and your role",
+            "Limited explanation of the challenge and its impact"
+        ],
+        "suggestions": [
+            "Provide a clear overview of the project and your role",
+            "Explain the challenge in more detail and its impact on the project"
+        ],
+        "better_answer_example": "For example, 'I worked on a job portal prototype in the recruitment domain, where my main contribution was implementing job filters. The challenge was that users were getting irrelevant results. I discussed this issue with my team, tested a fix, and the system improved job matching. This experience has prepared me for a Divap's engineer role, where I can apply my skills in Docker, GitHub actions, and Oz to improve the efficiency of the recruitment process.'"
+    },
+    {
+        "audio_file": "194.wav",
+        "transcript": "My name is Laferu Weig Singh, and I'm preparing for a business analyst role. I have hands on practice with requirements, user stories, and you at. I worked on learning portal in the education domain. My main contribution was course access. The challenge was login issues. I discussed it with my team, tested the fix, and the system improved student access.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Laferu, your answer is clear and easy to understand. However, it would be better to provide more context about your role in the project and how your contribution impacted the business.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work with a team"
+        ],
+        "weaknesses": [
+            "Lack of business impact explanation",
+            "Limited project context"
+        ],
+        "suggestions": [
+            "Provide specific examples of how your contribution affected the business",
+            "Explain your role in the project and how it relates to the business analyst position"
+        ],
+        "better_answer_example": "In my previous role as a business analyst, I worked on a project to improve student access to courses on a learning portal. My main contribution was designing a new login system that reduced login issues by 30%. This improvement led to a significant increase in student engagement and course completion rates. I achieved this by collaborating with the development team, testing the new system, and gathering feedback from students. This experience has prepared me to analyze business needs and develop solutions that drive business growth."
+    },
+    {
+        "audio_file": "195.wav",
+        "transcript": "My name is Chathura Bandara, and I'm preparing for a front end developer role. I have hand-on practice with React, JavaScript, and Bootstrap. I worked on inventory dashboard in the inventory domain. My main contribution was talk reports. The challenge was data mismatch. I discussed it with my team, tested the fix, and the system reduced manual checking.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Chathura, your answer is clear, but it could be more structured. You mentioned a specific project, but it would be better to explain your role in the project and how it relates to the front-end developer position.",
+        "strengths": [
+            "Good use of technical terms like React and Bootstrap",
+            "You provided a specific example from your experience"
+        ],
+        "weaknesses": [
+            "Your answer could be more structured and easier to follow",
+            "You didn't explain how your experience relates to the front-end developer position"
+        ],
+        "suggestions": [
+            "Use a clear and concise format to explain your experience",
+            "Make sure to explain how your experience relates to the front-end developer position"
+        ],
+        "better_answer_example": "I'd like to give an example of how I applied my front-end development skills to a project. In my previous role, I worked on a dashboard application using React and Bootstrap. My main contribution was implementing a feature that allowed users to filter data based on their preferences. The challenge was ensuring that the filter worked correctly with different types of data. I discussed it with my team, tested the fix, and the system reduced manual checking."
+    },
+    {
+        "audio_file": "196.wav",
+        "transcript": "My name is Supercar and I'm preparing for a Mac and Demeloper role. I can hand on practice with node.js, express.js, and MongoDB. I work time a food ordering app in the e-commerce domain. My main contribution was checkout validation. The challenge was cart calculation errors. I discussed it with my team, tested the fix, and the system made ordering faster.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but could be more structured. You mentioned a specific project, but didn't explain your role in it. Try to provide more context and details.",
+        "strengths": [
+            "practical experience with Node.js, Express.js, and MongoDB"
+        ],
+        "weaknesses": [
+            "lack of clear role description",
+            "insufficient explanation of project context"
+        ],
+        "suggestions": [
+            "provide more details about your role in the project",
+            "explain how your skills align with the Mac and Developer role"
+        ],
+        "better_answer_example": "I'm Supercar, a Mac and Developer candidate. In my previous role, I worked on a food ordering app in the e-commerce domain. As a developer, I was responsible for implementing the checkout validation feature. The challenge was cart calculation errors, which I resolved by discussing the issue with my team and testing the fix. This improved the ordering process, making it faster and more efficient."
+    },
+    {
+        "audio_file": "197.wav",
+        "transcript": "My name is Isaru Dishanake, and I'm preparing for a full stack developer role. I have hand non-practice with React, Node.js, and MySQL. I worked on a sales dashboard in the business domain. My main contribution was sales reports. The challenge was missing data. I discussed it with my team, tested the fix, and the system made reporting easier.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Isaru, your answer is clear and easy to understand. However, you could provide more details about your experience with React, Node.js, and MySQL. Additionally, explaining the impact of your sales reports on the business would make your answer stronger.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work with a team"
+        ],
+        "weaknesses": [
+            "Lack of specific examples for React, Node.js, and MySQL",
+            "Insufficient details about the project's impact"
+        ],
+        "suggestions": [
+            "Provide more specific examples of your skills and experience",
+            "Explain how your sales reports benefited the business"
+        ],
+        "better_answer_example": "I'd like to give an example of how I used React to build a user-friendly interface for our sales dashboard. I also worked with Node.js to create a RESTful API that integrated with our MySQL database. My main contribution was creating sales reports that helped our business identify trends and make data-driven decisions."
+    },
+    {
+        "audio_file": "198.wav",
+        "transcript": "My name is Keshen Paris, and I'm preparing for a data engineer role. I have hand-on practice with Python, SQL, and ETL pipelines. I worked on a bus tracking mobile app in the transport domain. My main contribution was out tracking. The challenge was GPS delay. I discussed it with my team, tested the fix, and the system improved tracking accuracy.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Keshen, your answer is clear and concise. However, it would be more effective to start with a stronger opening statement that highlights your relevant experience and skills. Additionally, try to provide more specific details about your project, such as metrics or results.",
+        "strengths": [
+            "Good communication skills",
+            "Hands-on experience with Python, SQL, and ETL pipelines"
+        ],
+        "weaknesses": [
+            "Lack of a strong opening statement",
+            "Limited project details"
+        ],
+        "suggestions": [
+            "Start with a stronger opening statement",
+            "Provide specific metrics or results from your project"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a data engineer, I've had hands-on experience with Python, SQL, and ETL pipelines. In my previous role, I worked on a bus tracking mobile app where I led the development of the out-tracking feature. By implementing a GPS delay fix, we improved tracking accuracy by 30%. I'm excited to bring my skills and experience to this data engineer role and contribute to the development of efficient data pipelines.'"
+    },
+    {
+        "audio_file": "199.wav",
+        "transcript": "My name is Kasuni Fernando, and I'm preparing for a machine learning engineer role. I have hand-on practice with Python, Sikit Learn, and Pandas. I work time at Penn's tracking app in the finance domain. My main contribution was monthly reports. The challenge was long-candidories. I discussed it with my team, tested the fix, and the system made reports clearer.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You did a good job sharing your experience, but try to be more specific about your achievements and the impact of your work. For example, you could mention the percentage increase in report clarity or the number of users who benefited from the improved system.",
+        "strengths": [
+            "Hands-on practice with Python, Scikit Learn, and Pandas",
+            "Experience working on a real project in the finance domain"
+        ],
+        "weaknesses": [
+            "Lack of specific details about your achievements",
+            "Could have explained the technical aspects of the challenge and the solution in more depth"
+        ],
+        "suggestions": [
+            "Provide specific numbers and metrics to demonstrate the impact of your work",
+            "Use technical terms and concepts relevant to the machine learning engineer role"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my previous role at Penn's tracking app, I worked on improving the monthly reports. One of the main challenges was the long candidories, which made it difficult for users to understand the data. I discussed the issue with my team and we tested a fix that resulted in a 30% reduction in report complexity. This improvement not only made the reports clearer but also increased user engagement by 25%.'"
+    },
+    {
+        "audio_file": "200.wav",
+        "transcript": "My name is Ashini Pereira and I am preparing for a Cybersecurity Analyst role. I have hand-on practice with Network Security, Risk Assessment and Seem. I worked on a support chat in the customer service domain. My main contribution was response testing. The challenge was on responses. I discussed it with my team, tested the fix and the system improved and circumsistancy.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Ashini, your answer is clear, but it's hard to understand the connection between your customer service experience and the Cybersecurity Analyst role. Be specific about how your skills can be applied.",
+        "strengths": [
+            "You have hands-on practice with Network Security, Risk Assessment and Seem"
+        ],
+        "weaknesses": [
+            "You didn't clearly explain how your customer service experience is relevant to the role",
+            "You mentioned a challenge but didn't provide a clear solution"
+        ],
+        "suggestions": [
+            "Provide specific examples of how your skills can be applied to the Cybersecurity Analyst role",
+            "Explain how your customer service experience can be transferred to the role",
+            "Be clear and concise in your answer"
+        ],
+        "better_answer_example": "I'm Ashini Pereira, and I'm excited about the Cybersecurity Analyst role. In my previous customer service experience, I worked on a support chat where I had to respond to complex issues. I applied similar problem-solving skills to Network Security, where I practiced identifying and mitigating risks. I believe my experience can be valuable in this role, and I'm eager to learn and grow."
+    },
+    {
+        "audio_file": "201.wav",
+        "transcript": "My name is Amanda Erdysing, and I'm preparing for a cloud engineer role. I have hand-on practice with AWS, Linux, and Terraform. I work on a student management system in the Education domain. My main contribution was student records. The challenge was unclear requirements. I discussed it with my team, tested the fix, and the system reduced duplicate records.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Amanda, you did a great job explaining your experience as a cloud engineer. You provided specific examples from your project, such as reducing duplicate records in the student management system. However, your answer could be more structured and clear.",
+        "strengths": [
+            "Good communication skills",
+            "Experience with AWS, Linux, and Terraform"
+        ],
+        "weaknesses": [
+            "Lack of clear structure in the answer",
+            "Some parts of the answer were unclear"
+        ],
+        "suggestions": [
+            "Provide a clear and concise introduction to your experience",
+            "Use a more structured approach to explain your project and contributions"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a cloud engineer, I've had hands-on experience with AWS, Linux, and Terraform. In my current project, I worked on a student management system where I identified and resolved the issue of duplicate student records. I achieved this by discussing the unclear requirements with my team, testing the fix, and implementing it. This experience has prepared me to handle similar challenges in a cloud engineer role.'"
+    },
+    {
+        "audio_file": "202.wav",
+        "transcript": "My name is Nessmy Silver, and I'm preparing for a mobile app developer role. I hand on practice with Flutter, Firebase, and REST API. I work on appointment booking system in the healthcare domain. My main contribution was booking validation. The challenge was double booking errors. I discussed it with my team, tested the fix, and the system improved booking accuracy.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Nessmy, your answer is clear, but could be more structured. You mentioned specific technologies, but didn't explain how they relate to the role. Try to connect the dots between your skills and the job requirements.",
+        "strengths": [
+            "practical experience with Flutter, Firebase, and REST API",
+            "problem-solving skills demonstrated in fixing double booking errors"
+        ],
+        "weaknesses": [
+            "lack of clear explanation of how technologies relate to the role",
+            "insufficient detail about the project's impact"
+        ],
+        "suggestions": [
+            "provide specific examples of how your skills align with the job requirements",
+            "quantify the impact of your contribution on the project"
+        ],
+        "better_answer_example": "I'd like to highlight my experience with Flutter, which I used to develop a mobile app for an appointment booking system in the healthcare domain. My main contribution was implementing a booking validation feature that improved accuracy by 30%. This experience demonstrates my ability to apply technical skills to real-world problems and deliver tangible results."
+    },
+    {
+        "audio_file": "203.wav",
+        "transcript": "My name is Andy J. Using, and I'm preparing for a database administrator role. I have hand-on practice with my SQL, database design, and backup management. I work on a job portal prototype in the recruitment domain. My main contribution was job filters. The challenge was irrelevant results. I discussed it with my team, tested the fix, and the system improved job matching.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Andy, your answer is clear and easy to understand. However, it would be better if you provided more details about your experience with database design and backup management.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to identify and solve problems"
+        ],
+        "weaknesses": [
+            "Lack of specific examples for database design and backup management"
+        ],
+        "suggestions": [
+            "Provide more details about your experience with database design and backup management",
+            "Use technical terms related to the role"
+        ],
+        "better_answer_example": "I have hands-on experience with database design and backup management. In my previous role, I designed a database for a job portal prototype, which improved the system's efficiency. I also implemented a backup system to prevent data loss, ensuring the system's uptime."
+    },
+    {
+        "audio_file": "204.wav",
+        "transcript": "My name is Arashi Pereira and I am preparing for a system analyst role. I have hand-on practice with process modeling, documentation, and SQL. I worked on learning portal in the education domain. My main contribution was course access. The challenge was login issues. I discussed it with my team, tested the fix, and the system improved student access.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Arashi, your answer was clear, but could be more structured. You mentioned specific skills and a project, but didn't fully explain how they relate to the system analyst role.",
+        "strengths": [
+            "hand-on practice with process modeling, documentation, and SQL",
+            "identified and fixed a login issue"
+        ],
+        "weaknesses": [
+            "answer could be more structured",
+            "did not fully explain how skills relate to the system analyst role"
+        ],
+        "suggestions": [
+            "provide a clear and concise overview of the system analyst role",
+            "explain how your skills and experience align with the role"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my previous role as a system analyst, I worked on a project to improve student access to a learning portal. I used my skills in process modeling and documentation to identify and fix a login issue that was causing problems. This experience has prepared me well for this role, where I will be working on similar projects to improve system efficiency and user experience.'"
+    },
+    {
+        "audio_file": "205.wav",
+        "transcript": "My name is Bibi Fernando and I'm preparing for it support engineer role. I have hand non-practice with ticketing, windows troubleshooting and network basics. I work time inventory dashboard in the inventory domain. My main contribution was talk reports. The challenge was data mismatch. I discussed it with my team, tested the fix and the system reduced manual checking.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Bibi, you provided a clear overview of your experience and skills. However, your answer could be more structured and detailed. For example, you could have explained how you applied your knowledge of ticketing, windows troubleshooting, and network basics in a specific project.",
+        "strengths": [
+            "Good self-introduction",
+            "Basic understanding of IT concepts"
+        ],
+        "weaknesses": [
+            "Lack of specific examples",
+            "Poor structure and clarity"
+        ],
+        "suggestions": [
+            "Provide more details about your experience",
+            "Use a clear and logical structure",
+            "Practice answering behavioral questions"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my previous role, I was responsible for managing the inventory dashboard in the inventory domain. One of my key accomplishments was implementing a solution to reduce manual checking by 30%. I achieved this by identifying the root cause of the data mismatch and working with my team to implement a fix. This experience has given me a strong understanding of how to apply my knowledge of ticketing, windows troubleshooting, and network basics in a real-world setting.'"
+    },
+    {
+        "audio_file": "206.wav",
+        "transcript": "My name is Duranee Weijseng, and I am preparing for a product owner assistant role. I have hand-on practice with agile planning, backlog, and stakeholder communication. I work on a food ordering app in the e-commerce domain. My main contribution was checkout validation. The challenge was cart calculation errors. I discussed it with my team, tested the fix, and the system made ordering faster.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but lacks specific examples and details about your role and responsibilities. Try to provide more context and explain how your experience aligns with the product owner assistant role.",
+        "strengths": [
+            "You have hands-on experience with agile planning, backlog, and stakeholder communication"
+        ],
+        "weaknesses": [
+            "Your answer lacks specific examples and details about your role and responsibilities",
+            "You didn't explain how your experience aligns with the product owner assistant role"
+        ],
+        "suggestions": [
+            "Provide more context about your role and responsibilities",
+            "Explain how your experience aligns with the product owner assistant role",
+            "Use specific examples to demonstrate your skills"
+        ],
+        "better_answer_example": "For example, I worked as a product owner assistant in the e-commerce domain, where I was responsible for agile planning, backlog management, and stakeholder communication. In my previous role, I identified a cart calculation error in the food ordering app and worked with my team to implement a fix, resulting in faster ordering times. This experience has prepared me for the product owner assistant role, where I will be responsible for similar tasks and responsibilities."
+    },
+    {
+        "audio_file": "207.wav",
+        "transcript": "My name is Adisha Silva and I'm preparing for AI Engineer role. I have hand-on practice with Python, NLP and Model evaluation. I worked on a sales dashboard in the business domain. My main contribution was sales reports. The challenge was missing data. I discussed it with my team, tested the fix and the system made reporting easier.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Adisha, your answer was clear, but could be more structured. You mentioned a specific project, but didn't explain your role in it. Try to provide more context and details about your contributions.",
+        "strengths": [
+            "You have hands-on practice with Python, NLP, and model evaluation"
+        ],
+        "weaknesses": [
+            "You didn't explain your role in the sales dashboard project",
+            "You didn't provide enough details about your contributions"
+        ],
+        "suggestions": [
+            "Be more specific about your project and role",
+            "Provide more details about your contributions and how they impacted the project"
+        ],
+        "better_answer_example": "I'm Adisha Silva, and I'm preparing for an AI Engineer role. In my previous project, I worked on a sales dashboard in the business domain. My main responsibility was to design and implement a sales reporting system. The challenge was missing data, which I addressed by discussing it with my team and testing a fix. This improved the system's reporting capabilities, making it easier for the team to make data-driven decisions."
+    },
+    {
+        "audio_file": "208.wav",
+        "transcript": "My name is Didu Kikarana Ratni, and I am preparing for a test automation engineer role. I have hand-on practice with Selenium, Java, and Test & Ge. I worked on a bus tracking mobile app in the transport domain. My main contribution was out tracking. The challenge was GPS delay. I discussed it with my team, tested the fix, and the system improved tracking accuracy.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You provided a clear introduction, but could improve by directly linking your experience to the test automation engineer role. For example, you could explain how your experience with Selenium and Java can be applied to this position.",
+        "strengths": [
+            "Good communication skills",
+            "Problem-solving skills demonstrated through GPS delay issue"
+        ],
+        "weaknesses": [
+            "Lack of direct connection between experience and role",
+            "Limited explanation of technical skills"
+        ],
+        "suggestions": [
+            "Provide specific examples of how your experience can be applied to the test automation engineer role",
+            "Explain technical skills in more detail"
+        ],
+        "better_answer_example": "I'm Didu Kikarana Ratni, and I'm excited to apply for the test automation engineer role. With hands-on experience in Selenium and Java, I'm confident in my ability to automate tests for complex systems. In my previous project, I worked on a bus tracking mobile app, where I successfully implemented out tracking features. However, I encountered a challenge with GPS delay, which I resolved by discussing it with my team and testing a fix. This experience has taught me the importance of collaboration and creative problem-solving in test automation. I'm eager to bring my skills and experience to this role and contribute to the success of the team."
+    },
+    {
+        "audio_file": "209.wav",
+        "transcript": "My name is Arindu Pereira and my goal is to build a career as a software engineer. I have hand-man experience with Java, Spring Boot and my SQL. A strong project and memple is a food ordering app for e-commerce. My responsibility was checkout validation. I solved cart calculation errors by finding the cause, working with the team and testing the solution. The final outcome made ordering faster and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Arindu, your answer is clear and shows good communication skills. However, it's a bit short and lacks specific details about your project. Try to elaborate more on your project and the problems you solved.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work with a team"
+        ],
+        "weaknesses": [
+            "Lack of specific details about the project",
+            "Short answer"
+        ],
+        "suggestions": [
+            "Provide more details about your project and the problems you solved",
+            "Use specific examples to demonstrate your skills"
+        ],
+        "better_answer_example": "For example, you could say: 'In my previous role, I worked on a food ordering app project where I was responsible for checkout validation. I encountered a cart calculation error and worked with the team to identify the cause and implement a solution. This improved the ordering process and increased customer satisfaction. I learned the importance of teamwork and effective communication in resolving complex issues.'"
+    },
+    {
+        "audio_file": "210.wav",
+        "transcript": "My name is Chemacilva, and my goal is to build a career and a car engineer. I have had my experience with Selenium, Postman, and Gera, a strong project and member of a sales dashboard for business. My responsibility was sales reports. I solved missing data by finding the cause, working with the team, and testing the solution. The final outcome made reporting easier, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Chemacilva, your answer is clear, but it could be more structured. You mentioned your goal, experience, and a specific project, but it's hard to follow. Try to connect your experiences to the role and the project more clearly.",
+        "strengths": [
+            "You have experience with Selenium, Postman, and Gera",
+            "You were a strong project member and solved a real problem"
+        ],
+        "weaknesses": [
+            "Your answer could be more structured and easier to follow",
+            "You didn't clearly explain how your skills match the role"
+        ],
+        "suggestions": [
+            "Use a clear and simple structure to present your experiences and skills",
+            "Explain how your skills match the role and the project"
+        ],
+        "better_answer_example": "I'm Chemacilva, and I'm excited about the car engineer role. In my previous project, I used Selenium to automate sales reports. I worked with the team to find and fix missing data, which improved reporting and my communication skills. I believe my experience with Gera and Postman, along with my problem-solving skills, make me a strong fit for this role."
+    },
+    {
+        "audio_file": "211.wav",
+        "transcript": "My name is Passendufernando, and my goal is to build a career as a data analyst. I have hand-on experience with Python, SQL, and Power BI. A strong product and mempels of us tracking mobile app for transport. My responsibility was outtracking. I solved GPS delay by finding the cause, working with the team, and testing the solution. The final outcome improved tracking accuracy, and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You did a great job sharing your experience as a data analyst. However, your answer could be more structured and clear. Try to focus on one main point per paragraph.",
+        "strengths": [
+            "Good communication skills",
+            "Problem-solving skills"
+        ],
+        "weaknesses": [
+            "Lack of clarity in the answer",
+            "Difficulty in structuring the answer"
+        ],
+        "suggestions": [
+            "Use a clear and concise format",
+            "Focus on one main point per paragraph",
+            "Provide more details about your experience",
+            "Use technical terms correctly"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a data analyst, my goal is to improve the accuracy of our tracking system. In my previous role, I worked on a project where I identified a GPS delay issue. I analyzed the data, worked with the team, and implemented a solution that improved tracking accuracy by 20%. This experience taught me the importance of attention to detail and effective communication in a team setting.'"
+    },
+    {
+        "audio_file": "212.wav",
+        "transcript": "My name is Nuwenjaya Saria, and my goal is to build a career as a UIsax diviner. I have hand-on experience with Figma, wireframes, and usability testing. A strong project and ample experience tracking app for finance. My responsibility was monthly reports. I solved wrong categories by finding the cause, working with the team, and testing the solution. The final outcome made reports clearer, and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Your answer is clear, but it's not specific to the role of a UI/UX designer. You mentioned being a 'UIsax diviner', which seems to be a typo. You also didn't explain how your experience with Figma and wireframes applies to the role.",
+        "strengths": [
+            "Good communication skills",
+            "Problem-solving skills"
+        ],
+        "weaknesses": [
+            "Lack of clarity on role and responsibilities",
+            "Typos and unclear job title"
+        ],
+        "suggestions": [
+            "Be more specific about your experience and how it applies to the role",
+            "Proofread your answer for typos and clarity"
+        ],
+        "better_answer_example": "I'm Nuwenjaya Saria, and I'm excited to build a career as a UI/UX designer. With hands-on experience in Figma and wireframes, I've developed a strong understanding of user experience principles. In my previous role, I worked on a tracking app for finance, where I was responsible for creating monthly reports. I improved the reports by identifying and fixing errors, which not only made them clearer but also boosted my confidence in communicating complex information to the team."
+    },
+    {
+        "audio_file": "213.wav",
+        "transcript": "My name is Dylan Madju Sanka, and my goal is to build a career as a dev-art engineer. I have hand-man experience with darker, good-her-mactions, and all. A strong project and ample support chatbot for customer service. My responsibility was response testing. I solved run responses by finding the cause, working with the team, and testing the solution. The final outcome improved answer consistency, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer was clear, but it contained some errors in grammar and vocabulary. You also mentioned some unrelated skills and tools.",
+        "strengths": [
+            "You have experience with project management and customer service chatbots"
+        ],
+        "weaknesses": [
+            "Your answer contained grammatical errors",
+            "You mentioned unrelated skills and tools"
+        ],
+        "suggestions": [
+            "Practice speaking in English to improve your vocabulary and grammar",
+            "Focus on the skills and tools relevant to the dev-art engineer role"
+        ],
+        "better_answer_example": "I'm Dylan, and I'm excited to build a career as a dev-art engineer. My experience with project management and customer service chatbots has taught me the importance of teamwork and effective communication. In my previous role, I was responsible for response testing, where I identified and resolved issues that improved answer consistency. I'm confident that my skills and experience make me a strong fit for this role."
+    },
+    {
+        "audio_file": "214.wav",
+        "transcript": "My name is Avaru Weijsing, and my goal is to build a career as a business analyst. I have hand-on experience with requirements, user stories, and you at a strong project and mempul in a student management system for education. My responsibility was to do the records. I solved and clear requirements by finding the cause, working with the team, and testing the solution. I finally got a final outcome reduced to duplicate records, and it improved my confidence, and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You clearly explained your experience as a business analyst, but could provide more specific details about your role and responsibilities. You also mentioned a project, but didn't explain how it relates to your career goal.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work with a team"
+        ],
+        "weaknesses": [
+            "Lack of specific details about your role and responsibilities",
+            "Limited explanation of project relevance"
+        ],
+        "suggestions": [
+            "Provide specific examples of your experience",
+            "Explain how your project relates to your career goal"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a business analyst, my goal is to improve business processes through data-driven insights. In my previous role, I worked on a project to optimize student enrollment for a university. I was responsible for gathering requirements, creating user stories, and working with the development team to implement the solution. Through this project, I gained experience in stakeholder management, data analysis, and process improvement. I'm excited to apply these skills to a business analyst role and contribute to the success of the organization.'"
+    },
+    {
+        "audio_file": "215.wav",
+        "transcript": "My name is Chessura Mendarra and my goal is to build a career at a frontend developer. I have hand non-experience with React, JavaScript and Bootstrap. A strong project and ample appointment booking system for healthcare. My responsibility was booking validation. I solved double booking errors by finding the cause, working with the team and testing the solution. The final outcome improved booking accuracy and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You did a great job sharing your experience with the appointment booking system. However, your answer could be more structured and clear. Try to break down your experience into smaller points and explain each one in detail.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work with a team"
+        ],
+        "weaknesses": [
+            "Lack of clarity in the answer",
+            "Limited experience with React, JavaScript and Bootstrap"
+        ],
+        "suggestions": [
+            "Provide more specific examples of your experience",
+            "Practice answering behavioral questions in a clear and structured way"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my previous role, I worked on a project to build an appointment booking system for healthcare. My responsibility was to ensure booking validation. I identified a double booking error and worked with the team to find the cause and test a solution. We implemented a new validation process that improved booking accuracy by 30%. This experience taught me the importance of teamwork and attention to detail in software development.'"
+    },
+    {
+        "audio_file": "216.wav",
+        "transcript": "My name is Supercarna Ressena, and my goal is to build a career as a Mac and developer. I have hand-man experience with Node.js, Express.js, and MandoDB, a strong project and mempels a job portal prototype for recruitment. My responsibility was job filters. I solved irrelevant results I find in the cause, working with the team, and testing the solution. The final outcome improved job matching, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear overview of your career goals, but your answer could be more concise. You also mentioned irrelevant technologies like MandoDB.",
+        "strengths": [
+            "Strong project management skills",
+            "Good communication skills"
+        ],
+        "weaknesses": [
+            "Lack of focus on relevant technologies",
+            "Inconsistent grammar and spelling"
+        ],
+        "suggestions": [
+            "Focus on the most relevant technologies for the role",
+            "Practice answering questions with a timer to improve concision"
+        ],
+        "better_answer_example": "I'm Supercarna Ressena, and I'm excited to build a career as a Mac developer. With hands-on experience in Node.js, Express.js, and MongoDB, I've developed a strong project management skillset. In my previous role, I led a team to create a job portal prototype, where I was responsible for job filters. I identified and solved irrelevant results, working closely with the team to test and refine the solution. This experience improved job matching and boosted my confidence in communication."
+    },
+    {
+        "audio_file": "217.wav",
+        "transcript": "My name is Arudis Anik, and my goal is to build a career and a full stack developer. I have hand-on experience with React, Node.js, and MySQL. A strong project and ample learning portal for education. My responsibility was course access. I solved a lot of issues by finding the cause, working with the team, and testing the solution. The final outcome improved student access, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Arudis, your answer is clear, but it could be more structured. You mentioned your goal and experience, but it would be better to explain how your skills relate to the project.",
+        "strengths": [
+            "Strong project and ample learning portal for education",
+            "Improved student access"
+        ],
+        "weaknesses": [
+            "Lack of clear explanation of how skills relate to the project"
+        ],
+        "suggestions": [
+            "Provide specific examples of how your skills were applied in the project",
+            "Explain how your experience aligns with the project's goals"
+        ],
+        "better_answer_example": "I'm Arudis Anik, and I'm excited to build a career as a full-stack developer. In my previous role, I worked on a project that involved building a learning portal using React, Node.js, and MySQL. My responsibility was to ensure course access for students. I successfully resolved several issues by identifying the root cause, collaborating with the team, and testing the solution. This experience not only improved student access but also boosted my confidence in communication and problem-solving. I believe my skills and experience make me a strong fit for this role."
+    },
+    {
+        "audio_file": "218.wav",
+        "transcript": "My name is Keshen Paris, and my goal is to build a career as a data engineer. I have hand-on experience with Python, SQL, and ETL pipelines. A strong project and ample inventory dashboard for inventory. My responsibility was to report. I solved data mismatch, I finding the cause, working with the team, and testing the solution. The final outcome reduced manual checking, and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Your answer clearly states your career goal and relevant experience. However, it would be more effective to provide specific examples of how you applied your skills in a data engineering context.",
+        "strengths": [
+            "Good communication skills",
+            "Ability to work with a team"
+        ],
+        "weaknesses": [
+            "Lack of specific project examples",
+            "Limited explanation of technical skills"
+        ],
+        "suggestions": [
+            "Provide a detailed example of a data engineering project you worked on",
+            "Explain how you applied technical skills such as Python, SQL, and ETL pipelines"
+        ],
+        "better_answer_example": "In my previous role as a data engineer, I worked on a project to build an inventory dashboard using Python and SQL. I was responsible for designing the ETL pipeline to extract data from multiple sources and load it into a data warehouse. Through this project, I gained hands-on experience with data engineering tools and developed strong problem-solving skills. I would be happy to discuss this project further and explain how I applied my technical skills to achieve the desired outcome."
+    },
+    {
+        "audio_file": "219.wav",
+        "transcript": "My name is Kasumi Fernando, and my goal is to build a career as a machine learning engineer. I have hand-man experience with Python, Sikit Learn, and Pandas. A strong project and mempoli-food ordering app for e-commerce. My responsibility was checkout validation. I solved cart calculation errors by finding the cause, working with the team, and testing the solution. The final outcome made ordering faster, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Kasumi, your answer is clear, but it could be more structured. You mentioned your goal, experience, and a project, but it would be better to explain how your skills relate to the role of a machine learning engineer.",
+        "strengths": [
+            "You have hands-on experience with relevant tools like Python, Scikit Learn, and Pandas.",
+            "You described a specific project and your responsibilities, which shows you can apply your skills in a real-world scenario."
+        ],
+        "weaknesses": [
+            "Your answer could be more focused on machine learning engineering. You mentioned a project, but it seems more related to e-commerce.",
+            "You could have explained how your experience and skills will help you in this role."
+        ],
+        "suggestions": [
+            "Be more specific about how your skills and experience relate to machine learning engineering.",
+            "Use examples that are directly related to the role and the project.",
+            "Practice structuring your answer to make it easier to follow.",
+            "Show how your experience and skills will help you in this role."
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a machine learning engineer, I aim to leverage my experience with Python, Scikit Learn, and Pandas to develop and implement predictive models. In my previous project, I worked on a food ordering app, where I was responsible for checkout validation. I used my skills to identify and solve cart calculation errors, which improved the ordering process. I believe my experience and skills make me a strong fit for this role, and I'm excited to apply them to develop innovative machine learning solutions.'"
+    },
+    {
+        "audio_file": "220.wav",
+        "transcript": "My name is Sasha Nipera and my goal is to build a career as a cybersecurity analyst. I have had non-experience with network security, risk assessment, and team. A strong project and ample in a sales dashboard for business. My responsibility was sales reports. I solved missing data by finding the cause, working with the team, and testing the solution. The final outcome made reporting easier and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Sasha, you have a clear goal to become a cybersecurity analyst, but your experience is mostly in sales. You can improve by providing specific examples of your network security and risk assessment skills.",
+        "strengths": [
+            "You have experience working with a team and creating sales dashboards.",
+            "You were able to solve a problem with missing data and improve reporting."
+        ],
+        "weaknesses": [
+            "You lack experience in network security, risk assessment, and team leadership in a cybersecurity context.",
+            "Your answer could be more structured and clear."
+        ],
+        "suggestions": [
+            "Provide specific examples of your cybersecurity skills and experience.",
+            "Practice answering behavioral questions in a clear and structured way."
+        ],
+        "better_answer_example": "I'd like to build on my experience in sales by applying my analytical skills to a cybersecurity role. In my previous position, I created a sales dashboard that helped the team make data-driven decisions. I believe this skillset can be transferred to a cybersecurity analyst role, where I can analyze network security threats and provide recommendations to improve risk assessment."
+    },
+    {
+        "audio_file": "221.wav",
+        "transcript": "My name is Amanda Erising, and my goal is to build a career as a cloud engineer. I have hand-on experience with AWS, Linux, and Terraform. A strong project and mental is a bus tracking mobile app for transport. My responsibility was outtracking. I solved GPS delay by finding the cause, working with the team, and testing the solution. The final outcome improved tracking accuracy, and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Amanda, your answer is clear and shows you have hands-on experience with relevant technologies. However, it would be more effective if you explained how your skills align with the role of a cloud engineer and provided more details about your project.",
+        "strengths": [
+            "Good communication skills",
+            "Hands-on experience with AWS, Linux, and Terraform"
+        ],
+        "weaknesses": [
+            "Lack of clear explanation of how skills align with the role",
+            "Insufficient project details"
+        ],
+        "suggestions": [
+            "Explain how your skills match the role of a cloud engineer",
+            "Provide more details about your project and its relevance to the role"
+        ],
+        "better_answer_example": "I'm Amanda Erising, and I'm excited to build a career as a cloud engineer. In my current role, I've gained hands-on experience with AWS, Linux, and Terraform, which I believe are essential skills for this position. One of my notable projects was a bus tracking mobile app for transportation, where I was responsible for outtracking. I successfully solved a GPS delay issue by identifying the cause, collaborating with my team, and testing the solution. This experience not only improved the app's tracking accuracy but also enhanced my confidence and communication skills, which I believe are crucial for a cloud engineer. I'm eager to bring my skills and experience to this role and contribute to the team's success."
+    },
+    {
+        "audio_file": "222.wav",
+        "transcript": "My name is Ness Meilver, and my goal is to build a career as a mobile app developer. I have hand-on experience with Flutter, Firebase, and REST API. A strong project and mempels I expand tracking app for finance. My responsibility was monthly reports. I solved wrong categories by finding the cause, working with the team, and testing the solution. The final outcome made reports clearer, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You did a great job sharing your experience and goals. However, your answer could be more structured and clear. For example, you could start by explaining how your experience with Flutter, Firebase, and REST API relates to the project.",
+        "strengths": [
+            "Good experience with Flutter, Firebase, and REST API",
+            "Confident communication"
+        ],
+        "weaknesses": [
+            "Lack of clear structure in the answer",
+            "Some sentences are hard to understand"
+        ],
+        "suggestions": [
+            "Use a clear and concise introduction to set the context",
+            "Provide more details about your experience and how it relates to the project",
+            "Use simple language to make your answer easier to understand"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a mobile app developer, I'm excited to apply my skills in building a career in this field. With hands-on experience in Flutter, Firebase, and REST API, I'm confident in my ability to create a user-friendly and efficient app. In my previous project, I worked on an expense tracking app for finance, where I was responsible for creating monthly reports. I identified an issue with incorrect categories and worked with the team to find a solution, which improved the clarity of the reports and boosted my confidence in communication.'"
+    },
+    {
+        "audio_file": "223.wav",
+        "transcript": "My name is NUDJ Using, and my goal is to build a career as a database administrator. I have hand-on experience with my SQL, database design, and backup management. A strong project and ample support chatbot for customer service. My responsibility was response testing. I solved run responses by finding the cause, working with the team, and testing the solution. The final outcome improved and so consistent and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but sometimes your sentences are a bit long and hard to follow. You also mention a chatbot, but it's not clear how it relates to your role as a database administrator.",
+        "strengths": [
+            "You have hands-on experience with SQL, database design, and backup management.",
+            "You were able to improve a project by finding the cause of the issue and working with your team."
+        ],
+        "weaknesses": [
+            "You mention a chatbot, but it's not clear how it relates to your role.",
+            "Your answer could be more focused on your experience and skills as a database administrator."
+        ],
+        "suggestions": [
+            "Be more specific about your experience and skills.",
+            "Use shorter sentences to make your answer easier to follow.",
+            "Avoid mentioning unrelated topics, such as a chatbot."
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As a database administrator, I have hands-on experience with SQL, database design, and backup management. In my previous role, I was responsible for ensuring the database was running smoothly. I identified an issue with the database and worked with my team to resolve it, resulting in improved performance and consistency.'"
+    },
+    {
+        "audio_file": "224.wav",
+        "transcript": "My name is Arashi Pereira and my goal is to build a career as a system analyst. I have hand-man experience with process modeling, documentation and SQL. A strong project and ample in a student management system for education. My responsibility was to do the records. I solved and clear requirements by finding the cause, working with the team and testing the solution. I had a final outcome reduced to duplicate records and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Arashi, your answer clearly shows your experience in process modeling and SQL. However, it's a bit hard to understand the project's impact and your role in it. Try to explain it in simpler terms.",
+        "strengths": [
+            "Good communication skills",
+            "Experience with process modeling and SQL"
+        ],
+        "weaknesses": [
+            "Difficulty explaining project impact and role",
+            "Lack of clarity in some parts"
+        ],
+        "suggestions": [
+            "Use simple language to explain complex ideas",
+            "Provide more details about the project and your role"
+        ],
+        "better_answer_example": "I'd like to give an example of a project I worked on. In a student management system, I was responsible for creating a database and ensuring data accuracy. To improve data quality, I worked with the team to identify and fix errors. This experience taught me the importance of collaboration and attention to detail."
+    },
+    {
+        "audio_file": "225.wav",
+        "transcript": "My name is Bibi Fernando, and my goal is to build a career and support engineer. I have hand non-experience with decoding, Windows troubleshooting, and network basics. A strong product and ample in appointment booking system for healthcare. My responsibility was booking validation. I solved double booking errors by finding the cause, working with the team, and testing the solution. The final outcome improved booking accuracy, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Bibi, you did a good job sharing your experience and goals. However, your answer could be more focused on the skills and experiences relevant to the role of a support engineer.",
+        "strengths": [
+            "You have experience with a product and appointment booking system for healthcare",
+            "You were able to solve a double booking error and improve booking accuracy"
+        ],
+        "weaknesses": [
+            "You mentioned you have no experience with decoding, Windows troubleshooting, and network basics",
+            "Your answer could be more structured and clear"
+        ],
+        "suggestions": [
+            "Practice answering behavioral questions in a clear and structured way",
+            "Research and learn about decoding, Windows troubleshooting, and network basics to improve your skills"
+        ],
+        "better_answer_example": "I'd like to give an example of a time when I used my problem-solving skills to resolve an issue. In my previous role, I encountered a double booking error in the appointment system. I worked with the team to identify the cause, tested a solution, and implemented it. As a result, the booking accuracy improved, and I gained confidence in my ability to troubleshoot and resolve technical issues."
+    },
+    {
+        "audio_file": "226.wav",
+        "transcript": "My name is Duranee Weige Singh, and my goal is to build a career as a product owner assistant. I have hand non-experience with agile planning, backlog, and stakeholder communication. A strong project and mempels a job portal prototype for recruitment. My responsibility was job filters. I solved irrelevant results I find in the cause, working with the team, and testing the solution. The final outcome improved job matching, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer could be more clear and concise. You mentioned your goal and experience, but it's hard to understand how it relates to the role of a product owner assistant.",
+        "strengths": [
+            "You have experience working with a team and testing solutions",
+            "You were able to improve job matching on a job portal prototype"
+        ],
+        "weaknesses": [
+            "Your answer was not very clear and concise",
+            "You mentioned having no experience with agile planning, backlog, and stakeholder communication"
+        ],
+        "suggestions": [
+            "Be more specific about your experience and how it relates to the role",
+            "Practice answering behavioral questions to improve your clarity and concision"
+        ],
+        "better_answer_example": "I'm excited to apply for the product owner assistant role because I have experience working on a job portal prototype where I was responsible for job filters. I improved the job matching by solving irrelevant results and working with the team to test the solution. I believe this experience has prepared me to effectively communicate with stakeholders and plan agile projects."
+    },
+    {
+        "audio_file": "227.wav",
+        "transcript": "My name is Nadisha Silva, and my goal is to build a career as AI engineer. I have hand-man experience with Python, NLP, and Model evaluation. A strong project and ample learning portal for education. My responsibility was course access. I solved a lot of issues by finding the cause, working with the team, and testing the solution. The final outcome improved student access, and it improved my confidence and communication.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Nadisha, your answer clearly states your career goal and relevant skills. However, it lacks specific examples of how you applied these skills in a real-world scenario.",
+        "strengths": [
+            "Strong project and learning portal for education",
+            "Improved student access through problem-solving"
+        ],
+        "weaknesses": [
+            "Lack of specific examples of AI engineering skills",
+            "Vague description of responsibilities"
+        ],
+        "suggestions": [
+            "Provide specific examples of AI engineering projects you've worked on",
+            "Be more detailed about your responsibilities and accomplishments"
+        ],
+        "better_answer_example": "I'd like to build a career as an AI engineer by leveraging my experience with Python, NLP, and model evaluation. In my previous role, I worked on a project that involved developing a chatbot for customer support. I was responsible for testing and evaluating the model's performance, which improved student access to the system. This experience not only honed my technical skills but also enhanced my communication and problem-solving abilities."
+    },
+    {
+        "audio_file": "228.wav",
+        "transcript": "My name is Diduki Karanarati and my goal is to build a career as a test automation engineer. I have hand-man experience with Selenium, Java and TestNG, a strong project and ample inventory dashboard for inventory. My responsibility was to report. I solved data mismatch by finding the cause, working with the team and testing the solution. The final outcome reduced manual checking, and it improved my confidence and communication.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "Your answer clearly states your goal and experience, but could be more specific about how your skills apply to the role. You also could have provided more details about your accomplishments.",
+        "strengths": [
+            "Good communication skills",
+            "Experience with Selenium, Java, and TestNG"
+        ],
+        "weaknesses": [
+            "Lack of specific examples",
+            "Limited details about accomplishments"
+        ],
+        "suggestions": [
+            "Provide specific examples of how you applied your skills in previous roles",
+            "Quantify your accomplishments by including metrics or statistics"
+        ],
+        "better_answer_example": "I'm Diduki Karanarati, and I'm excited to build a career as a test automation engineer. In my previous role, I used Selenium, Java, and TestNG to automate inventory management. I successfully reduced manual checking by 30% and improved data accuracy by 25%. I'm confident that my skills and experience make me a strong fit for this role."
+    },
+    {
+        "audio_file": "229.wav",
+        "transcript": "My name is Tharindu Pereira. I am a recent computing graduate preparing for a software engineer role. I practiced Java, Spring Boot, and my SQL. I worked on inventory dashboard for inventory. My part was talk reports. The issue was made a mismatch. The system reduced manual checking. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Tharindu, your answer is clear, but it could be more structured. You mentioned your role in the project, but didn't explain how your skills align with the software engineer position. Try to provide more context and details.",
+        "strengths": [
+            "practiced Java, Spring Boot, and SQL",
+            "worked on an inventory dashboard project"
+        ],
+        "weaknesses": [
+            "lacked clarity on how skills align with the software engineer role",
+            "answer was not well-structured"
+        ],
+        "suggestions": [
+            "provide more context about the project and your role",
+            "explain how your skills match the software engineer position",
+            "use a more structured approach to answer the question"
+        ],
+        "better_answer_example": "I'm a recent computing graduate with experience in Java, Spring Boot, and SQL. In my previous project, I worked on an inventory dashboard where I was responsible for developing the talk reports feature. This experience has helped me develop skills that align well with the software engineer role, such as problem-solving and data analysis. I'm excited to apply these skills in a software engineer position and continue to improve my skills in this field."
+    },
+    {
+        "audio_file": "230.wav",
+        "transcript": "My name is Chamath Silver. I am an IT intern preparing for a car engineer role. I practiced Selenium, Postman, and Geera. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Chamath, your answer was clear, but it lacked structure and details about your skills. You mentioned practicing Selenium, Postman, and Geera, but didn't explain how they relate to the car engineer role. You also didn't provide enough information about your experience with the food ordering app.",
+        "strengths": [
+            "You have some relevant experience with a food ordering app"
+        ],
+        "weaknesses": [
+            "Lack of structure and details about your skills",
+            "Limited understanding of the car engineer role"
+        ],
+        "suggestions": [
+            "Provide a clear and concise answer",
+            "Explain how your skills relate to the car engineer role",
+            "Give more details about your experience with the food ordering app"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'As an IT intern looking to transition into a car engineer role, I've been working on a food ordering app for e-commerce. My part was checkout validation, where I used Selenium to automate testing and Postman to test API integrations. I also practiced Geera, which helped me improve my coding skills. I believe my experience with automation and API testing can be applied to the car engineer role, where I can use similar tools to improve the efficiency of the manufacturing process.'"
+    },
+    {
+        "audio_file": "231.wav",
+        "transcript": "My name is Passendufernando. I am an entry-level IT professional preparing for a data analyst role. I practiced Python, SQL, and Power BI. I worked on a sales dashboard for business. My part was sales report. The issue was missing data. The system made reporting easier. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You did a good job explaining your experience with a sales dashboard project. However, your answer could be more structured and clear. Try to focus on the specific problem you solved and how you used your skills to achieve it.",
+        "strengths": [
+            "Good experience with Python, SQL, and Power BI",
+            "Ability to work on a sales dashboard project"
+        ],
+        "weaknesses": [
+            "Lack of clarity in the answer",
+            "Poor structure in the answer"
+        ],
+        "suggestions": [
+            "Be more specific about the problem you solved",
+            "Use a clearer and more structured format to present your answer"
+        ],
+        "better_answer_example": "I worked on a sales dashboard project where I was responsible for creating a sales report. The challenge was that the system was missing some data, which made it difficult to generate accurate reports. I used my skills in Python and SQL to extract the missing data and then created a report using Power BI. This improved the reporting process and made it easier for the business to make informed decisions."
+    },
+    {
+        "audio_file": "232.wav",
+        "transcript": "My name is Nuwenjia Surria. I am a final year IT undergraduate preparing for a new ISASHUX designer role. I practiced Figma, wireframes, and usability testing. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+        "predicted_level": 3,
+        "communication_skill_level": "Good Communication",
+        "feedback": "You did a good job explaining your experience with the bus tracking mobile app. However, your answer could be more structured and clear. For example, you could have explained the problem you faced in more detail and how you overcame it.",
+        "strengths": [
+            "Good communication skills",
+            "Experience with Figma, wireframes, and usability testing"
+        ],
+        "weaknesses": [
+            "Lack of clarity and structure in the answer",
+            "Limited explanation of the problem and solution"
+        ],
+        "suggestions": [
+            "Practice answering behavioral questions with a clear and structured format",
+            "Provide more details about the problem you faced and how you solved it"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my final year project, I worked on a bus tracking mobile app where I was responsible for the out-tracking feature. However, we faced an issue with GPS delay, which affected the accuracy of the tracking system. To overcome this, I suggested using a combination of GPS and other location-based services to improve the accuracy. We implemented this solution and saw a significant improvement in tracking accuracy. This experience taught me the importance of considering multiple factors when designing a system and the value of collaboration in finding innovative solutions.'"
+    },
+    {
+        "audio_file": "233.wav",
+        "transcript": "My name is Dylan Madu Sanker. I am a recent computing graduate preparing for a dev-op engineer role. I practiced soccer, GitHub actions, and all. I worked on X-Pen's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+        "predicted_level": 1,
+        "communication_skill_level": "Poor Communication",
+        "feedback": "You could have been more clear about your role in the project and how your skills align with the dev-op engineer position. Try to give more specific examples.",
+        "strengths": [
+            "practiced GitHub actions",
+            "improved the system's reporting feature"
+        ],
+        "weaknesses": [
+            "poor communication skills",
+            "lack of clarity in describing your role"
+        ],
+        "suggestions": [
+            "research the company and the role before the interview",
+            "prepare specific examples of your skills and experiences"
+        ],
+        "better_answer_example": "I'm Dylan, a recent computing graduate with a passion for dev-op engineering. In my previous role at X-Pen, I worked on the tracking app's finance feature, where I was responsible for creating monthly reports. I identified an issue with categorization and improved the system's reporting feature, making it clearer for users. I'm excited to apply my skills in this role and continue learning."
+    },
+    {
+        "audio_file": "234.wav",
+        "transcript": "My name is Atheru Weijsing. I am an IT intern preparing for a business analyst role. I practice trick wirements, user stories, and you at. I work on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Atheru, you provided a clear introduction, but your answer could be more structured. You mentioned specific projects and skills, but it's not entirely clear how they relate to the business analyst role.",
+        "strengths": [
+            "You mentioned specific projects and skills, such as working on a support chatbot for customer service."
+        ],
+        "weaknesses": [
+            "Your answer could be more structured and clearly explain how your skills relate to the business analyst role."
+        ],
+        "suggestions": [
+            "Provide specific examples of how your skills and experience align with the business analyst role. Use a clear and logical structure to organize your thoughts."
+        ],
+        "better_answer_example": "For example, I could say: 'As an IT intern, I've worked on a support chatbot for customer service, where I focused on response testing and improving answer consistency. This experience has taught me the importance of clear and consistent communication, which is a key aspect of being a business analyst. I believe my skills in this area make me a strong candidate for this role.'"
+    },
+    {
+        "audio_file": "235.wav",
+        "transcript": "My name is Chasura and I'm an entry-level IT professional preparing for a front-end developer role. I practiced React, JavaScript, and Bootstrap. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I wanted to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Chasura, you provided a clear introduction, but your answer could be more structured. You mentioned a specific project, but didn't explain how your skills align with the front-end developer role.",
+        "strengths": [
+            "You have experience working on a project with unclear requirements",
+            "You practiced relevant skills like React, JavaScript, and Bootstrap"
+        ],
+        "weaknesses": [
+            "Your answer lacked a clear explanation of how your skills relate to the front-end developer role",
+            "You didn't provide enough details about your project"
+        ],
+        "suggestions": [
+            "Be more specific about how your skills match the job requirements",
+            "Provide more details about your project and your role in it"
+        ],
+        "better_answer_example": "I'm an entry-level IT professional with a strong foundation in front-end development. In my previous project, I worked on a student management system using React, JavaScript, and Bootstrap. My role was to develop the student records feature. I overcame the challenge of unclear requirements by breaking down the task into smaller, manageable parts. This experience has prepared me to tackle similar challenges in a front-end developer role."
+    },
+    {
+        "audio_file": "236.wav",
+        "transcript": "My name is Supern Kararena Rasa. I am a final year IT undergraduate preparing for a Mac and developer role. I practiced Node.js, Express.js, and MongoDB. I worked on a pointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear overview of your background and experience. However, your answer could be more structured and focused on specific examples. For instance, you could have elaborated more on the technical challenges you faced while working on the appointment booking system and how you overcame them.",
+        "strengths": [
+            "Good understanding of Node.js, Express.js, and MongoDB"
+        ],
+        "weaknesses": [
+            "Lack of clarity and structure in the answer"
+        ],
+        "suggestions": [
+            "Provide more specific examples from your experience",
+            "Focus on the technical aspects of the project",
+            "Use a more structured approach to answer the question"
+        ],
+        "better_answer_example": "I'd like to share an example from my experience working on the appointment booking system. One of the technical challenges I faced was handling double booking errors. To overcome this, I implemented a validation system that checked for conflicts before booking an appointment. This improved the system's accuracy and reduced errors. I'm proud of the impact this had on the project and I'm eager to apply similar problem-solving skills in a Mac and developer role."
+    },
+    {
+        "audio_file": "237.wav",
+        "transcript": "My name is Isaru Disanic. I am a recent computing graduate preparing for a full stack developer role. I practice React, Node.js, and my SQL. I work on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but could benefit from more detail about the technologies you used and how you overcame the issue. For example, you could explain how you used React, Node.js, and SQL to improve job matching.",
+        "strengths": [
+            "good understanding of the project",
+            "ability to identify and solve a problem"
+        ],
+        "weaknesses": [
+            "lack of detail about technologies used",
+            "answer could be more structured"
+        ],
+        "suggestions": [
+            "provide more specific examples of your work",
+            "explain how you used different technologies to solve the problem",
+            "use a more structured approach to your answer"
+        ],
+        "better_answer_example": "I'd like to give an example of how I improved job matching on the job portal prototype. I used React to create a user-friendly interface, Node.js to handle server-side logic, and SQL to store and retrieve job data. I noticed that irrelevant results were a major issue, so I implemented a filtering system that used a combination of keywords and job categories to match candidates with relevant jobs. This improved the overall user experience and made it easier for candidates to find suitable job openings."
+    },
+    {
+        "audio_file": "238.wav",
+        "transcript": "My name is Keshen Paris. I am an IT intern preparing for a data engineer role. I practiced Python, SQL, and ETL pipelines. I worked on learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Keshen, your answer was clear, but it lacked a clear structure. You mentioned your role in the project, but didn't explain how your skills align with the data engineer position. Try to provide more context and show how your experience can be applied to the role.",
+        "strengths": [
+            "You have experience with Python, SQL, and ETL pipelines",
+            "You worked on a learning portal project"
+        ],
+        "weaknesses": [
+            "Your answer lacked a clear structure",
+            "You didn't explain how your skills align with the data engineer position"
+        ],
+        "suggestions": [
+            "Practice answering behavioral questions with a clear structure",
+            "Emphasize how your skills can be applied to the data engineer role"
+        ],
+        "better_answer_example": "I'm Keshen Paris, an IT intern looking to transition into a data engineer role. In my current internship, I worked on a learning portal project where I was responsible for core access. I encountered login issues, but I was able to improve student access by implementing a more efficient system. This experience has taught me the importance of data pipelines and SQL in a real-world setting, which I believe are essential skills for a data engineer. I'm excited to apply my knowledge and skills to this role and contribute to the team's success."
+    },
+    {
+        "audio_file": "239.wav",
+        "transcript": "My name is Kasuni Fernando. I am an entry-level IT professional preparing for a machine learning engineer role. I practiced Python, Sikit Learn, and Pandas. I worked on inventory dashboard for inventory. My part was talk reports. The issue was data mismatch. The system reduced manual checking. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You did a good job explaining your experience with inventory dashboard and the issue you faced. However, your answer could be more structured and clear. Try to explain your role and responsibilities more clearly.",
+        "strengths": [
+            "You have experience with Python, Scikit Learn, and Pandas"
+        ],
+        "weaknesses": [
+            "Your answer lacked clarity and structure",
+            "You didn't explain how you improved the system"
+        ],
+        "suggestions": [
+            "Practice answering behavioral questions with a clear structure",
+            "Focus on explaining how you improved the system and what you learned from the experience"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my previous role, I worked on an inventory dashboard project where I was responsible for developing reports to help the team make data-driven decisions. However, we faced an issue with data mismatch, which led to manual checking. To improve this, I suggested automating the data validation process, which reduced manual checking by 30%. Through this experience, I learned the importance of data quality and how to implement data validation techniques using Python and Scikit Learn.'"
+    },
+    {
+        "audio_file": "240.wav",
+        "transcript": "My name is Sashini Pereira. I am a final year IT undergraduate preparing for a cyber security analyst role. I practiced network security, risk assessment, and seam. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear introduction, but your answer could be more structured. You mentioned specific projects, but didn't explain your role in them. Try to focus on your achievements and how they relate to the cyber security analyst role.",
+        "strengths": [
+            "You have experience working on a food ordering app for e-commerce",
+            "You practiced network security, risk assessment, and seam"
+        ],
+        "weaknesses": [
+            "Your answer lacked clarity and structure",
+            "You didn't explain how your projects relate to the cyber security analyst role"
+        ],
+        "suggestions": [
+            "Practice answering behavioral questions with a clear structure",
+            "Focus on specific achievements and how they relate to the role"
+        ],
+        "better_answer_example": "I'm a final year IT undergraduate with a strong interest in cyber security. In my previous project, I worked on a food ordering app for e-commerce, where I was responsible for implementing checkout validation to prevent cart calculation errors. This experience has given me a solid understanding of network security and risk assessment, which I believe are essential skills for a cyber security analyst. I'm excited to apply my knowledge and skills to this role and continue learning and growing."
+    },
+    {
+        "audio_file": "241.wav",
+        "transcript": "My name is Amanda Erderising. I am a recent computing graduate preparing for a cloud engineer role. I practice AWS, Linux, and Terraform. I work at a sales dashboard for business. My part was sales report. The issue was missing later. The system made reporting easier. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Amanda, you provided a clear overview of your background and skills. However, your answer could be more structured and focused on specific examples of your accomplishments in the cloud engineer role. For instance, you could have described a project where you used AWS, Linux, and Terraform to solve a problem or improve a process.",
+        "strengths": [
+            "Good knowledge of AWS, Linux, and Terraform",
+            "Recent computing graduate"
+        ],
+        "weaknesses": [
+            "Lack of specific examples",
+            "Answer could be more structured"
+        ],
+        "suggestions": [
+            "Provide specific examples of your accomplishments",
+            "Use a more structured format to answer the question"
+        ],
+        "better_answer_example": "In my previous role as a sales dashboard developer, I used AWS to improve the scalability of our reporting system. I worked with Linux to optimize the system's performance and Terraform to automate the deployment process. This resulted in a 30% reduction in reporting time and improved overall system reliability."
+    },
+    {
+        "audio_file": "242.wav",
+        "transcript": "My name is Esmi Silva. I am an IT intern preparing for a mobile app developer role. I practiced Flutter, Firebase, and REST API. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Esmi, you provided a clear overview of your experience, but your answer could be more structured. For example, you could have explained how you overcame the GPS delay issue in more detail.",
+        "strengths": [
+            "Good experience with Flutter, Firebase, and REST API",
+            "Ability to work on a real-world project"
+        ],
+        "weaknesses": [
+            "Lack of clarity in explaining the project's impact",
+            "Insufficient detail on how you overcame the GPS delay issue"
+        ],
+        "suggestions": [
+            "Provide specific examples to support your claims",
+            "Explain how your skills align with the mobile app developer role"
+        ],
+        "better_answer_example": "Here's an example of a better answer: 'In my previous internship, I worked on a bus tracking mobile app using Flutter and Firebase. I was responsible for the out-tracking feature, which faced a GPS delay issue. To overcome this, I implemented a data buffering system that improved the tracking accuracy by 30%. This experience has taught me the importance of data handling in mobile app development, and I'm excited to apply this knowledge in a mobile app developer role.'"
+    },
+    {
+        "audio_file": "243.wav",
+        "transcript": "My name is Anu DJ A Singh. I am an entry-level IT professional preparing for a database administrator role. I practiced my SQL, database design, and backup management. I worked on XPAN's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear overview of your background and experience, but could improve by providing more specific examples and details about your accomplishments.",
+        "strengths": [
+            "Practiced SQL, database design, and backup management",
+            "Improved monthly reports on XPAN's tracking app"
+        ],
+        "weaknesses": [
+            "Lacked clarity in structuring the answer",
+            "Could have provided more details about the project and your role"
+        ],
+        "suggestions": [
+            "Provide specific examples of your accomplishments",
+            "Use a clear and structured format to present your answer"
+        ],
+        "better_answer_example": "I'm an entry-level IT professional aiming for a database administrator role. In my previous project, I worked on XPAN's tracking app, where I designed and implemented a database to store financial data. I also created monthly reports that provided clear insights into the company's financial performance. To improve my skills, I plan to focus on learning advanced database management techniques and practicing with real-world projects."
+    },
+    {
+        "audio_file": "244.wav",
+        "transcript": "My name is Arashi Pereira. I am a final year IT undergraduate preparing for a system analyst role. I practiced process modeling, documentation, and SQL. I worked on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Arashi, you provided a clear overview of your background and experience. However, your answer could be more structured and detailed. For example, you could explain how your skills in process modeling and SQL relate to the system analyst role.",
+        "strengths": [
+            "Good background in IT and system analyst role",
+            "Practical experience with a support chatbot"
+        ],
+        "weaknesses": [
+            "Lack of clear structure in the answer",
+            "Limited explanation of skills and experience"
+        ],
+        "suggestions": [
+            "Provide a clear and concise introduction to your background and experience",
+            "Use specific examples to demonstrate your skills and experience",
+            "Practice answering behavioral questions to improve your structure and detail"
+        ],
+        "better_answer_example": "I'm a final year IT undergraduate with a strong interest in the system analyst role. In my previous project, I worked on a support chatbot for customer service, where I was responsible for response testing. I identified an issue with inconsistent responses and proposed a solution to improve answer consistency. Through this experience, I developed my skills in process modeling and SQL, which I believe are essential for a system analyst role. I'm excited to apply my skills and knowledge to this position and continue to learn and grow."
+    },
+    {
+        "audio_file": "245.wav",
+        "transcript": "My name is Bihumi Fernando. I am a recent computing graduate preparing for its support and general. I practiced ticketing, Windows troubleshooting, and network basics. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I want to improve my skills.",
+        "predicted_level": 1,
+        "communication_skill_level": "Poor Communication",
+        "feedback": "You provided a clear overview of your background and experience, but your answer lacked specific examples and details about your accomplishments. Try to focus on the impact of your work and how it relates to the role.",
+        "strengths": [
+            "practiced ticketing, Windows troubleshooting, and network basics",
+            "worked on a student management system"
+        ],
+        "weaknesses": [
+            "poor communication",
+            "lack of specific examples"
+        ],
+        "suggestions": [
+            "provide specific examples of your accomplishments",
+            "explain the impact of your work",
+            "use more professional language"
+        ],
+        "better_answer_example": "I'm a recent computing graduate with experience in ticketing, Windows troubleshooting, and network basics. In my previous project, I worked on a student management system where I was responsible for student records. I successfully implemented a feature to reduce duplicate records, which improved the system's efficiency. I'm excited to apply my skills in a support role and continue to learn and grow."
+    },
+    {
+        "audio_file": "246.wav",
+        "transcript": "My name is Dulany Wyj Singh. I am an IT intern preparing for a product owner assistant role. I practice agile planning, backlog, and take older communication. I work time appointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Your answer is clear, but could be more structured. You mentioned specific skills and a project, but didn't explain how they relate to the product owner assistant role.",
+        "strengths": [
+            "practicing agile planning",
+            "improving booking accuracy"
+        ],
+        "weaknesses": [
+            "lack of clear role alignment",
+            "insufficient explanation of skills"
+        ],
+        "suggestions": [
+            "provide specific examples of how your skills relate to the product owner assistant role",
+            "explain how your project experience can be applied to the role"
+        ],
+        "better_answer_example": "In my previous role as an IT intern, I worked on a time appointment booking system for healthcare. My responsibilities included booking validation, where I identified and resolved double booking errors. This experience taught me the importance of agile planning and effective communication in ensuring booking accuracy. As a product owner assistant, I believe I can leverage these skills to prioritize tasks, manage backlogs, and collaborate with stakeholders to deliver high-quality products."
+    },
+    {
+        "audio_file": "247.wav",
+        "transcript": "My name is Adisha Silva. I am an entry-level IT professional preparing for a I-engineer role. I practiced Python, NLP, and Model evaluation. I worked on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "Adisha, your answer is clear but lacks structure. You could have explained how your project improved job matching in more detail.",
+        "strengths": [
+            "practiced relevant skills",
+            "improved job matching"
+        ],
+        "weaknesses": [
+            "lacked structure in answer",
+            "did not provide enough details"
+        ],
+        "suggestions": [
+            "use bullet points to structure your answer",
+            "provide specific examples to support your claims"
+        ],
+        "better_answer_example": "I'd like to share an example of how I improved job matching on the job portal prototype. I used Python to develop a filtering system that reduced irrelevant results by 30%. This improvement was achieved by implementing a more efficient algorithm and refining the search criteria. I believe this experience has prepared me well for a I-engineer role."
+    },
+    {
+        "audio_file": "248.wav",
+        "transcript": "My name is Didu Kikarra Naratni. I am a final year IT undergraduate preparing for a test automation engineer role. I practiced Selenium, Java, and TestNG. I worked on a learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+        "predicted_level": 2,
+        "communication_skill_level": "Average Communication",
+        "feedback": "You provided a clear overview of your background and skills, but your answer could be more focused on specific examples and how they relate to the role. Consider using the STAR method to structure your answer.",
+        "strengths": [
+            "practical experience with Selenium, Java, and TestNG",
+            "ability to work on a learning portal project"
+        ],
+        "weaknesses": [
+            "lack of clarity in the structure of your answer",
+            "limited depth in discussing your project experience"
+        ],
+        "suggestions": [
+            "provide more specific examples of your project work",
+            "explain how your skills align with the requirements of the test automation engineer role"
+        ],
+        "better_answer_example": "I'd like to give an example of how I applied my skills in a previous project. In my final year project, I worked on a learning portal for education, where I was responsible for core access. I identified and resolved login issues, which improved student access. This experience has taught me the importance of attention to detail and problem-solving in test automation engineering. I believe my skills in Selenium, Java, and TestNG, along with my experience in resolving complex issues, make me a strong candidate for this role."
+    }
+]

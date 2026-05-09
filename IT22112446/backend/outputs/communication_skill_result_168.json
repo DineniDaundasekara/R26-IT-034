@@ -1,0 +1,20 @@
+{
+    "audio_file": "168.wav",
+    "transcript": "My name is Didu Kikarra Naratni. I am a final year IT undergraduate preparing for a test automation engineer role. I practiced Selenium, Java, and TestNG. I worked on a learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear overview of your background and experience, but could improve by providing more specific examples and details about your accomplishments.",
+    "strengths": [
+        "practical experience with Selenium, Java, and TestNG",
+        "desire to improve skills"
+    ],
+    "weaknesses": [
+        "lack of clarity in the structure of the answer",
+        "limited details about the learning portal project"
+    ],
+    "suggestions": [
+        "provide specific examples of how you applied Selenium, Java, and TestNG in your project",
+        "explain the impact of your work on the learning portal"
+    ],
+    "better_answer_example": "I'm a final year IT undergraduate with a strong interest in test automation. In my previous project, I worked on a learning portal where I was responsible for core access. I successfully resolved login issues, improving student access to the system. To further improve my skills, I plan to explore more advanced test automation tools and techniques."
+}

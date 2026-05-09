@@ -1,0 +1,22 @@
+{
+    "audio_file": "94.wav",
+    "transcript": "My name is Esmi Silva. I am an IT intern preparing for a mobile app developer role. I practiced Flutter, Firebase, and REST API. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Esmi, your introduction is clear, but the structure of your answer could be improved. You jumped directly into your project without explaining how your skills and experience align with the mobile app developer role. Try to connect your skills and project to the job requirements to show your relevance for the position.",
+    "strengths": [
+        "clear introduction of yourself and your skills",
+        "completeness of the answer, covering your background and project experience"
+    ],
+    "weaknesses": [
+        "lack of clear structure in the answer",
+        "limited professional vocabulary and expressions used"
+    ],
+    "suggestions": [
+        "start with a brief overview of your background and how it aligns with the mobile app developer role",
+        "use transitional phrases to connect your ideas and make your answer flow better",
+        "practice using more professional expressions to describe your skills and experiences",
+        "prepare examples that demonstrate your problem-solving skills and achievements in the project"
+    ],
+    "better_answer_example": "As a detail-oriented IT intern with a passion for mobile app development, I've been focusing on enhancing my skills in Flutter, Firebase, and REST API. Recently, I worked on a bus tracking mobile app where I was responsible for the outing tracking feature. One of the challenges we faced was GPS delay, which affected the accuracy of our tracking system. I collaborated with my team to implement a solution that significantly improved the tracking accuracy. This experience not only deepened my understanding of mobile app development but also taught me the importance of teamwork and innovative problem-solving in overcoming technical hurdles. I'm excited to continue improving my skills and contributing to the development of user-centric mobile applications."
+}

@@ -1,0 +1,21 @@
+{
+    "transcript": "Sachini, I am a recent computing graduate and I like QA Engineer work. I know some Selenium, Postman and Girat, I did online appointment booking, held Kya, it was not big project, but I learned things from it. My project part was about booking validation, appointment management. There are many problems mainly double booking errors. We fix eat up.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "During the interview, you showed enthusiasm for the QA Engineer role and shared your experience with relevant tools like Selenium and Postman. However, your answer lacked clarity and structure, making it difficult to follow your project's details and the challenges you overcame. To improve, focus on organizing your thoughts and using professional vocabulary to describe your experiences.",
+    "strengths": [
+        "Showed enthusiasm for the QA Engineer role",
+        "Mentioned relevant tools and technologies"
+    ],
+    "weaknesses": [
+        "Lacked clarity in explaining project details",
+        "Used informal language and sentence structure"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Improve vocabulary by learning common industry terms",
+        "Record yourself speaking and identify areas for improvement",
+        "Prepare examples of how you applied your skills to real-world problems"
+    ],
+    "better_answer_example": "As a recent computing graduate, I'm excited about the QA Engineer role because it aligns with my passion for ensuring software quality. In my project, I utilized Selenium and Postman to develop an online appointment booking system. My focus was on booking validation and appointment management, where I encountered challenges like double booking errors. By analyzing the issues and collaborating with my team, we were able to implement a solution that significantly reduced errors and improved the overall user experience."
+}

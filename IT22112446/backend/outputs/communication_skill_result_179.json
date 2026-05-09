@@ -1,0 +1,22 @@
+{
+    "audio_file": "179.wav",
+    "transcript": "My name is Kasunifernando, and I am a final year IT undergraduate interested in a machine learning engineer role. I practiced Python, Sikit Learn, and Pandas through Projects. One project was a pointment booking system for healthcare. My work was booking validation. We faced double booking errors, so I helped test a solution. The final system improved booking accuracy.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You did a good job explaining your project and how it relates to the machine learning engineer role. However, your answer could be more structured and clear. Try to use a more logical flow and provide more details about your role in the project.",
+    "strengths": [
+        "You have hands-on experience with Python, Scikit Learn, and Pandas through projects.",
+        "You can apply your skills to real-world problems, such as the appointment booking system for healthcare."
+    ],
+    "weaknesses": [
+        "Your answer could be more structured and clear.",
+        "You didn't explain how your machine learning skills were used in the project."
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with a clear and structured format.",
+        "Provide more details about your role in the project and how your machine learning skills were applied.",
+        "Use specific examples to demonstrate your skills and experience.",
+        "Make sure to explain how your project relates to the machine learning engineer role."
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my final year project, I developed a pointment booking system for healthcare using Python, Scikit Learn, and Pandas. My role was to implement booking validation, which involved testing a solution to prevent double booking errors. Through this project, I gained hands-on experience with machine learning algorithms and their application in real-world problems. I believe this experience makes me a strong candidate for a machine learning engineer role, where I can apply my skills to develop innovative solutions.'"
+}

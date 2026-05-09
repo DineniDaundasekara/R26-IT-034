@@ -1,0 +1,22 @@
+{
+    "audio_file": "58.wav",
+    "transcript": "My name is Heroin Jai Simha and I am a recent graduate in Information Technology preparing for the Cybersecurity Analysts. I have practiced Nectar Security, DST, Assism and SIEM tools through academic work and small projects. One project I work on was Expenses Tracking Application in Finance Domain. My main contribution was monthly expenses report and traction categorization. The main issue was incorrect transaction categorized. So I checked the problem and discussed it with my team at the end. The system made spending reports clear and easier to understand. I am applying for this role because I want to real industry expose and chance to improve my technical skills. My strength is quick learning but I still need to improve organizing answers faster.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Your introduction is clear, and you have provided relevant project experience. However, your answer could be more structured and aligned with the role of a Cybersecurity Analyst. You jumped between different topics, such as the Expenses Tracking Application and your desire for industry exposure, without fully explaining how they relate to the position.",
+    "strengths": [
+        "clear introduction",
+        "relevant project experience"
+    ],
+    "weaknesses": [
+        "lack of structure",
+        "limited role alignment"
+    ],
+    "suggestions": [
+        "Use a more chronological structure to walk the interviewer through your experience",
+        "Emphasize how your skills and projects, such as Nectar Security and SIEM tools, directly apply to the Cybersecurity Analyst role",
+        "Practice answering behavioral questions to improve your ability to give concise and relevant examples",
+        "Focus on demonstrating your passion for cybersecurity and how this role fits into your long-term career goals"
+    ],
+    "better_answer_example": "As a recent IT graduate with a focus on cybersecurity, I'm excited to apply for this Cybersecurity Analyst position. In my academic projects, I've gained hands-on experience with Nectar Security, DST, Assism, and SIEM tools. One project that stands out is the Expenses Tracking Application, where I developed a monthly expenses report and implemented traction categorization. Although the project was outside the cybersecurity domain, it taught me valuable skills in data analysis and problem-solving, which I believe are highly transferable. I'm eager to bring my skills and knowledge to a real-world setting and contribute to a team dedicated to protecting against cyber threats. I'm confident that this role will provide me with the industry exposure and opportunities to improve my technical skills, aligning with my career aspirations in cybersecurity."
+}

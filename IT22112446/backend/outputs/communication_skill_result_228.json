@@ -1,0 +1,20 @@
+{
+    "audio_file": "228.wav",
+    "transcript": "My name is Diduki Karanarati and my goal is to build a career as a test automation engineer. I have hand-man experience with Selenium, Java and TestNG, a strong project and ample inventory dashboard for inventory. My responsibility was to report. I solved data mismatch by finding the cause, working with the team and testing the solution. The final outcome reduced manual checking, and it improved my confidence and communication.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Your answer clearly states your goal and experience, but could be more specific about how your skills apply to the role. You also could have provided more details about your accomplishments.",
+    "strengths": [
+        "Good communication skills",
+        "Experience with Selenium, Java, and TestNG"
+    ],
+    "weaknesses": [
+        "Lack of specific examples",
+        "Limited details about accomplishments"
+    ],
+    "suggestions": [
+        "Provide specific examples of how you applied your skills in previous roles",
+        "Quantify your accomplishments by including metrics or statistics"
+    ],
+    "better_answer_example": "I'm Diduki Karanarati, and I'm excited to build a career as a test automation engineer. In my previous role, I used Selenium, Java, and TestNG to automate inventory management. I successfully reduced manual checking by 30% and improved data accuracy by 25%. I'm confident that my skills and experience make me a strong fit for this role."
+}

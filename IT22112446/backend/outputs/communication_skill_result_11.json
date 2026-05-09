@@ -1,0 +1,22 @@
+{
+    "audio_file": "11.wav",
+    "transcript": "Myself Sashini, I am a recent computing graduate and I like QE Engineer work. I know some Selenium postman and Jira. I did online appointment booking system for healthcare. It was not a big project but I learned things from it. My project part was about booking validation and appointment management. There were many problems. Mainly double booking errors. We fixed it after trying many times. I want this job because I like IT and I think I can do work. Because I get nervous when I speak. I forgot some points. This project helped me understand in team working and basic software testing.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You have a good foundation to build on, with relevant experience in QE Engineer work and hands-on experience with tools like Selenium and Jira. However, to improve, focus on clearly structuring your thoughts and expressing them confidently, especially when discussing your projects and role alignment.",
+    "strengths": [
+        "Relevant technical skills",
+        "Hands-on project experience"
+    ],
+    "weaknesses": [
+        "Nervousness affecting speech",
+        "Lack of clear structure in the answer"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in a structured way",
+        "Use professional vocabulary related to QE Engineer work",
+        "Prepare examples of challenges faced and how you overcame them",
+        "Focus on confident delivery to effectively communicate your ideas"
+    ],
+    "better_answer_example": "As a recent computing graduate with a passion for QE Engineer work, I leveraged my skills in Selenium, Postman, and Jira to contribute to an online appointment booking system for healthcare. My role involved booking validation and appointment management, where I encountered and resolved double booking errors through persistent effort. This project not only deepened my understanding of team working and basic software testing but also instilled in me the importance of meticulous testing. I am excited about this role because it aligns with my interest in IT and my belief in my capability to contribute meaningfully to the field."
+}

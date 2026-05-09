@@ -1,0 +1,11 @@
+{
+    "audio_file": "138.wav",
+    "transcript": "My name is here only. I am new person for IT work and I like front end developer. I know some things like react. See is this my project is learning hotel. It helps education little bit. We face issue and I confuse also but finally project I won't answer to learn I am speak not speak professional.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

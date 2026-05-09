@@ -1,0 +1,22 @@
+{
+    "audio_file": "74.wav",
+    "transcript": "myself, Ness. I like mobile app developer. I know some Flutter, Firebase, and REST API. I did a student management system for education. My part was student records. We had a clear requirement. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ness, your answer shows enthusiasm for the mobile app developer role, but it lacks a clear and structured approach. You jumped between introducing yourself, mentioning your skills, and explaining a project without connecting them smoothly. To improve, focus on creating a narrative that highlights your relevant experience and skills for the job.",
+    "strengths": [
+        "You have hands-on experience with relevant technologies like Flutter, Firebase, and REST API",
+        "You completed a project, a student management system, which demonstrates your ability to apply your skills"
+    ],
+    "weaknesses": [
+        "Your answer lacked a clear and logical structure, making it hard to follow",
+        "You didn't fully explain your role in the project or the challenges you faced, which are important for showcasing your skills and problem-solving abilities"
+    ],
+    "suggestions": [
+        "Practice structuring your answers using the STAR method ( Situation, Task, Action, Result) to provide clear and concise responses",
+        "Emphasize your achievements and the impact of your work, such as what you learned from the student management system project and how it aligns with the job requirements",
+        "Use more professional vocabulary and avoid simplistic expressions like 'I like IT'",
+        "Prepare examples that demonstrate your skills and experience, and be ready to explain them in detail"
+    ],
+    "better_answer_example": "As a mobile app developer with experience in Flutter, Firebase, and REST API, I'm excited about this role. In my previous project, a student management system for education, I was responsible for developing the student records module. We started with clear requirements, but we encountered challenges during implementation. Through teamwork and iterative testing, we successfully fixed the issues and delivered the module. This experience not only deepened my understanding of the technologies but also taught me the importance of collaboration and problem-solving in software development. I believe my skills and experience make me a strong fit for this position, and I'm looking forward to contributing to the team."
+}

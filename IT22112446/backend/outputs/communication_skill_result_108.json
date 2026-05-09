@@ -1,0 +1,22 @@
+{
+    "audio_file": "108.wav",
+    "transcript": "Myself, Netmi, I am in final year undergraduate and I like back in developer work. I know ExpressJ is enraged API, not but not expert but I try to did job portal prototype for requirement. It was not big, I work on it with my team. I handled authentication logic some other things. We had UI consistency issue. I want this job, I like IT sometimes. I try to improve my speaking.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Netmi, your answer shows enthusiasm for the developer role, but it lacks clarity and structure. You jumped between different topics, such as your experience with ExpressJ, the job portal prototype, and your interest in IT. To improve, focus on organizing your thoughts and using professional vocabulary to describe your experiences and skills.",
+    "strengths": [
+        "Showed interest in the developer role",
+        "Mentioned a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacked clarity and structure in the answer",
+        "Used informal language and grammar"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Improve vocabulary by learning common IT and developer terms",
+        "Focus on one main point per sentence to improve clarity",
+        "Record yourself speaking and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "As a final-year undergraduate, I've developed a strong interest in back-end development, particularly with ExpressJ. In my recent project, I worked on a job portal prototype where I was responsible for handling authentication logic and ensuring UI consistency. Although it was a team effort, I learned a great deal about the importance of attention to detail and effective collaboration. I believe this experience has prepared me well for a developer role, and I'm excited about the opportunity to contribute to the IT field."
+}

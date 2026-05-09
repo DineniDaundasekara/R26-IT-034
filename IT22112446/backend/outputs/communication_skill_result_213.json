@@ -1,0 +1,19 @@
+{
+    "audio_file": "213.wav",
+    "transcript": "My name is Dylan Madju Sanka, and my goal is to build a career as a dev-art engineer. I have hand-man experience with darker, good-her-mactions, and all. A strong project and ample support chatbot for customer service. My responsibility was response testing. I solved run responses by finding the cause, working with the team, and testing the solution. The final outcome improved answer consistency, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer was clear, but it contained some errors in grammar and vocabulary. You also mentioned some unrelated skills and tools.",
+    "strengths": [
+        "You have experience with project management and customer service chatbots"
+    ],
+    "weaknesses": [
+        "Your answer contained grammatical errors",
+        "You mentioned unrelated skills and tools"
+    ],
+    "suggestions": [
+        "Practice speaking in English to improve your vocabulary and grammar",
+        "Focus on the skills and tools relevant to the dev-art engineer role"
+    ],
+    "better_answer_example": "I'm Dylan, and I'm excited to build a career as a dev-art engineer. My experience with project management and customer service chatbots has taught me the importance of teamwork and effective communication. In my previous role, I was responsible for response testing, where I identified and resolved issues that improved answer consistency. I'm confident that my skills and experience make me a strong fit for this role."
+}

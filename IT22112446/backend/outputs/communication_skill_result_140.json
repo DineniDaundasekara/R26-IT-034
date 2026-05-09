@@ -1,0 +1,11 @@
+{
+    "audio_file": "140.wav",
+    "transcript": "myself amadi I like database administrator job I am beginner in software field I know little my SQL I did job portal my part was some coding I do project again and again I want this job because IT is nice I get nervous when I talk",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

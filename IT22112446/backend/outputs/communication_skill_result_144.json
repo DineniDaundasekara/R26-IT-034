@@ -1,0 +1,11 @@
+{
+    "audio_file": "144.wav",
+    "transcript": "Myself Yashmita, I like frontend developer job. I am final year IT undergraduate. I know little react and HTML. I did learning portal for education. My part was some coding and fixing. Project had many problems, so we do again, again. I was, won't this job. I nervous when talk.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

@@ -1,0 +1,19 @@
+{
+    "audio_file": "196.wav",
+    "transcript": "My name is Supercar and I'm preparing for a Mac and Demeloper role. I can hand on practice with node.js, express.js, and MongoDB. I work time a food ordering app in the e-commerce domain. My main contribution was checkout validation. The challenge was cart calculation errors. I discussed it with my team, tested the fix, and the system made ordering faster.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but could be more structured. You mentioned a specific project, but didn't explain your role in it. Try to provide more context and details.",
+    "strengths": [
+        "practical experience with Node.js, Express.js, and MongoDB"
+    ],
+    "weaknesses": [
+        "lack of clear role description",
+        "insufficient explanation of project context"
+    ],
+    "suggestions": [
+        "provide more details about your role in the project",
+        "explain how your skills align with the Mac and Developer role"
+    ],
+    "better_answer_example": "I'm Supercar, a Mac and Developer candidate. In my previous role, I worked on a food ordering app in the e-commerce domain. As a developer, I was responsible for implementing the checkout validation feature. The challenge was cart calculation errors, which I resolved by discussing the issue with my team and testing the fix. This improved the ordering process, making it faster and more efficient."
+}

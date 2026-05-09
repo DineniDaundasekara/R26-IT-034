@@ -1,0 +1,20 @@
+{
+    "audio_file": "221.wav",
+    "transcript": "My name is Amanda Erising, and my goal is to build a career as a cloud engineer. I have hand-on experience with AWS, Linux, and Terraform. A strong project and mental is a bus tracking mobile app for transport. My responsibility was outtracking. I solved GPS delay by finding the cause, working with the team, and testing the solution. The final outcome improved tracking accuracy, and it improved my confidence and communication.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Amanda, your answer is clear and shows you have hands-on experience with relevant technologies. However, it would be more effective if you explained how your skills align with the role of a cloud engineer and provided more details about your project.",
+    "strengths": [
+        "Good communication skills",
+        "Hands-on experience with AWS, Linux, and Terraform"
+    ],
+    "weaknesses": [
+        "Lack of clear explanation of how skills align with the role",
+        "Insufficient project details"
+    ],
+    "suggestions": [
+        "Explain how your skills match the role of a cloud engineer",
+        "Provide more details about your project and its relevance to the role"
+    ],
+    "better_answer_example": "I'm Amanda Erising, and I'm excited to build a career as a cloud engineer. In my current role, I've gained hands-on experience with AWS, Linux, and Terraform, which I believe are essential skills for this position. One of my notable projects was a bus tracking mobile app for transportation, where I was responsible for outtracking. I successfully solved a GPS delay issue by identifying the cause, collaborating with my team, and testing the solution. This experience not only improved the app's tracking accuracy but also enhanced my confidence and communication skills, which I believe are crucial for a cloud engineer. I'm eager to bring my skills and experience to this role and contribute to the team's success."
+}

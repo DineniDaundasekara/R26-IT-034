@@ -1,0 +1,20 @@
+{
+    "audio_file": "238.wav",
+    "transcript": "My name is Keshen Paris. I am an IT intern preparing for a data engineer role. I practiced Python, SQL, and ETL pipelines. I worked on learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Keshen, your answer was clear, but it lacked a clear structure. You mentioned your role in the project, but didn't explain how your skills align with the data engineer position. Try to provide more context and show how your experience can be applied to the role.",
+    "strengths": [
+        "You have experience with Python, SQL, and ETL pipelines",
+        "You worked on a learning portal project"
+    ],
+    "weaknesses": [
+        "Your answer lacked a clear structure",
+        "You didn't explain how your skills align with the data engineer position"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with a clear structure",
+        "Emphasize how your skills can be applied to the data engineer role"
+    ],
+    "better_answer_example": "I'm Keshen Paris, an IT intern looking to transition into a data engineer role. In my current internship, I worked on a learning portal project where I was responsible for core access. I encountered login issues, but I was able to improve student access by implementing a more efficient system. This experience has taught me the importance of data pipelines and SQL in a real-world setting, which I believe are essential skills for a data engineer. I'm excited to apply my knowledge and skills to this role and contribute to the team's success."
+}

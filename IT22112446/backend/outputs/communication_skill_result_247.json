@@ -1,0 +1,20 @@
+{
+    "audio_file": "247.wav",
+    "transcript": "My name is Adisha Silva. I am an entry-level IT professional preparing for a I-engineer role. I practiced Python, NLP, and Model evaluation. I worked on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Adisha, your answer is clear but lacks structure. You could have explained how your project improved job matching in more detail.",
+    "strengths": [
+        "practiced relevant skills",
+        "improved job matching"
+    ],
+    "weaknesses": [
+        "lacked structure in answer",
+        "did not provide enough details"
+    ],
+    "suggestions": [
+        "use bullet points to structure your answer",
+        "provide specific examples to support your claims"
+    ],
+    "better_answer_example": "I'd like to share an example of how I improved job matching on the job portal prototype. I used Python to develop a filtering system that reduced irrelevant results by 30%. This improvement was achieved by implementing a more efficient algorithm and refining the search criteria. I believe this experience has prepared me well for a I-engineer role."
+}

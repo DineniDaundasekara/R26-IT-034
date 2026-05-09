@@ -1,0 +1,22 @@
+{
+    "audio_file": "72.wav",
+    "transcript": "myself as shiny. I like cyber security analyst. I know some network security, risk assessment, and seam. I did expand tracking app for finance. My part was monthly reports. We had wrong categories. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer showed enthusiasm for the cyber security analyst role, but lacked clarity and professional expression. You jumped between different topics, such as your experience with network security and the finance tracking app, without fully explaining your contributions or the skills you applied. To improve, focus on structuring your answer to clearly highlight your relevant skills and experiences.",
+    "strengths": [
+        "Showing interest in the IT field",
+        "Mentioning a specific project experience"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Using informal expressions"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use more professional vocabulary, such as 'I specialize in' instead of 'I like'",
+        "Prepare examples that demonstrate your skills and experiences in cyber security",
+        "Speak slowly and confidently to ensure your message is conveyed clearly"
+    ],
+    "better_answer_example": "As a detail-oriented individual with a passion for cyber security, I am excited about this analyst role. With knowledge in network security, risk assessment, and security information and event management, I believe I can make a significant contribution. In my previous project, I worked on a finance tracking app where I was responsible for generating monthly reports. Initially, we encountered issues with incorrect categorization, but through diligent effort and teamwork, we were able to rectify the problem. This experience not only honed my analytical skills but also taught me the importance of meticulousness in IT projects. I am eager to apply my skills and knowledge in this role to drive positive outcomes in cyber security."
+}

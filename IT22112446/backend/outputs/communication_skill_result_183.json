@@ -1,0 +1,22 @@
+{
+    "audio_file": "183.wav",
+    "transcript": "My name is Anu DJ I sing, and I am a final year IT undergraduate interested in a database administrator role. I practiced my SQL, database design, and backup management through projects. One project was a food ordering app for e-commerce. My work was checkout validation. We faced cart calculation errors, so I helped test a solution. The final system made ordering faster.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Anu, you provided a clear introduction of yourself, but your answer could be more structured. You mentioned a project, but didn't explain how it directly relates to the database administrator role.",
+    "strengths": [
+        "You have hands-on experience with SQL, database design, and backup management.",
+        "You demonstrated problem-solving skills by helping to test a solution for cart calculation errors."
+    ],
+    "weaknesses": [
+        "Your answer could be more focused on the database administrator role.",
+        "You didn't explain how your project experience aligns with the role's responsibilities."
+    ],
+    "suggestions": [
+        "Provide more specific examples of how your project experience applies to the database administrator role.",
+        "Emphasize your skills and qualifications that directly relate to the role.",
+        "Use a more structured approach to your answer, such as the STAR method.",
+        "Highlight any relevant tools or technologies you've used in your projects."
+    ],
+    "better_answer_example": "In my final year project, I designed a database for a food ordering app. I ensured data consistency and integrity by implementing proper normalization and indexing techniques. This experience has prepared me to handle database administration tasks, such as data backup and recovery, and performance tuning."
+}

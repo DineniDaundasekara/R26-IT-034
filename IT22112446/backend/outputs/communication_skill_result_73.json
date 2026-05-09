@@ -1,0 +1,22 @@
+{
+    "audio_file": "73.wav",
+    "transcript": "myself a man. I like cloud engineer. I know some AWS, Linux and Terraform. I did a support chatbot for customer service. My part was response testing. We had wrong responses. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the IT field and highlighted relevant technical skills like AWS, Linux, and Terraform. However, the answer lacked a clear structure and specific examples to demonstrate their experience and skills in depth. To improve, focus on providing detailed stories about your projects, such as the support chatbot, including the challenges faced, the solutions implemented, and the outcomes achieved.",
+    "strengths": [
+        "Shows interest in the IT field",
+        "Mentions relevant technical skills"
+    ],
+    "weaknesses": [
+        "Lacks clear structure in the answer",
+        "Does not provide detailed examples of experience"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to provide structured responses",
+        "Prepare specific examples of projects you've worked on, including your role, challenges, and achievements",
+        "Focus on using professional vocabulary related to the job role",
+        "Work on confidently and clearly articulating your thoughts and experiences"
+    ],
+    "better_answer_example": "As a cloud engineer, I've had the opportunity to work on various projects, including a support chatbot for customer service. My role in this project was to conduct response testing, where I identified issues with incorrect responses. Through a process of trial and error, we were able to fix these issues and significantly improve the chatbot's performance. This experience not only deepened my understanding of AWS, Linux, and Terraform but also taught me the importance of thorough testing and collaboration in IT projects. I'm excited about this job because it aligns with my passion for cloud engineering and my desire to continue growing in the IT field."
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "38.wav",
+    "transcript": "Myself Kavindu, I am a recent computing graduate and I like mobile lab developer work. I know some flutter, firebase and rest APIs. I did customer support chatbot for customer service. It was not a big project, but I learned things from it. My project part was about intent, flow design and response testing. There were many problems, mainly wrong responses for similar questions. We fixed it after trying many times. I want this job because I like ITN, I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic mobile lab development.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kavindu, your answer shows enthusiasm for mobile lab development, but it lacks a clear structure and professional tone. You jumped between different ideas, such as your project, skills, and reasons for wanting the job. To improve, focus on organizing your thoughts and using more formal language to convey your message effectively.",
+    "strengths": [
+        "You showed eagerness to work in mobile lab development",
+        "You shared a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in your answer",
+        "Nervousness affected your speech and caused you to forget points"
+    ],
+    "suggestions": [
+        "Practice answering questions with a clear introduction, body, and conclusion to improve your structure",
+        "Use professional vocabulary related to the IT industry",
+        "Prepare examples of your projects and skills to confidently discuss them",
+        "Take deep breaths before speaking to help manage nervousness"
+    ],
+    "better_answer_example": "As a recent computing graduate with a passion for mobile lab development, I'm excited about the opportunity to work with ITN. In my previous project, I developed a customer support chatbot using Flutter, Firebase, and REST APIs. I was responsible for intent, flow design, and response testing. Although we faced challenges with wrong responses to similar questions, we overcame them through teamwork and perseverance. This experience not only taught me about mobile lab development but also the importance of collaboration and problem-solving. I believe my skills and experience align with this role, and I'm looking forward to contributing to ITN's team."
+}

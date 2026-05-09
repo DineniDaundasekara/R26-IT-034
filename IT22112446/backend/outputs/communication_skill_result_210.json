@@ -1,0 +1,20 @@
+{
+    "audio_file": "210.wav",
+    "transcript": "My name is Chemacilva, and my goal is to build a career and a car engineer. I have had my experience with Selenium, Postman, and Gera, a strong project and member of a sales dashboard for business. My responsibility was sales reports. I solved missing data by finding the cause, working with the team, and testing the solution. The final outcome made reporting easier, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Chemacilva, your answer is clear, but it could be more structured. You mentioned your goal, experience, and a specific project, but it's hard to follow. Try to connect your experiences to the role and the project more clearly.",
+    "strengths": [
+        "You have experience with Selenium, Postman, and Gera",
+        "You were a strong project member and solved a real problem"
+    ],
+    "weaknesses": [
+        "Your answer could be more structured and easier to follow",
+        "You didn't clearly explain how your skills match the role"
+    ],
+    "suggestions": [
+        "Use a clear and simple structure to present your experiences and skills",
+        "Explain how your skills match the role and the project"
+    ],
+    "better_answer_example": "I'm Chemacilva, and I'm excited about the car engineer role. In my previous project, I used Selenium to automate sales reports. I worked with the team to find and fix missing data, which improved reporting and my communication skills. I believe my experience with Gera and Postman, along with my problem-solving skills, make me a strong fit for this role."
+}

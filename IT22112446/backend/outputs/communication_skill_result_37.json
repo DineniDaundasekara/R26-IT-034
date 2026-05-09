@@ -1,0 +1,22 @@
+{
+    "audio_file": "37.wav",
+    "transcript": "Myself Ravindu, I am final year IT undergraduate and I like cloud engineering work. I know some AWS Linux and Terraform. I did a foot-duttering application for e-commerce. It was not a big project but I learned things from it. My project part was about order, flow and checkout validation. There were many problems, mainly card calculation errors. We fixed it after trying many times. I want this job because I like it at the end. I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic cloud infrastructure.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ravindu, your passion for cloud engineering and experience with AWS, Linux, and Terraform are great strengths. However, during the interview, you seemed a bit nervous, which affected the clarity of your message. To improve, focus on structuring your thoughts before speaking and practice articulating your experiences in a more professional tone.",
+    "strengths": [
+        "Experience with cloud engineering tools like AWS and Terraform",
+        "Hands-on project experience in e-commerce application development"
+    ],
+    "weaknesses": [
+        "Nervousness during the interview",
+        "Lack of clear structure in the answer"
+    ],
+    "suggestions": [
+        "Prepare a brief overview of your project before the interview to speak about it confidently",
+        "Use more professional vocabulary, such as 'I developed an e-commerce application utilizing AWS and Terraform'",
+        "Practice speaking in front of a mirror or with a friend to reduce nervousness",
+        "Emphasize what you learned from the project and how it aligns with the job role"
+    ],
+    "better_answer_example": "Hello, I'm Ravindu, a final-year IT undergraduate with a strong interest in cloud engineering. In my recent project, I developed an e-commerce application using AWS and Terraform, focusing on order flow and checkout validation. Although it was a small project, I learned valuable lessons about teamwork, cloud infrastructure, and problem-solving, particularly in resolving card calculation errors. I'm excited about this role because it aligns with my passion for cloud engineering, and I believe my skills and experience make me a strong fit."
+}

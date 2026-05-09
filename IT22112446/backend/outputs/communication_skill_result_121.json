@@ -1,0 +1,22 @@
+{
+    "audio_file": "121.wav",
+    "transcript": "Myself Sanju, I like data as administrator job. I am final year IT undergraduate. I know little backup queries. I did job portal prototype. My part for some coding project had many problems. We do again. I want this job because IT is nice. I get nervous so sometimes I forgot words.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Sanju, your enthusiasm for the data administrator job is clear, but your answer could be improved by providing more specific examples and details about your experience and skills. For instance, instead of just mentioning that you know 'little backup queries', you could explain what you mean by that and how it relates to the job. Additionally, when talking about your job portal prototype, try to highlight what you learned from the project and how it demonstrates your abilities as a data administrator.",
+    "strengths": [
+        "showing interest in the data administrator role",
+        "attempting to share relevant project experience"
+    ],
+    "weaknesses": [
+        "lack of clarity in explaining technical skills",
+        "nervousness affecting verbal communication"
+    ],
+    "suggestions": [
+        "practice explaining technical terms like 'backup queries' in simple language",
+        "prepare examples of how your projects, like the job portal prototype, align with the data administrator role",
+        "focus on speaking slowly and confidently to reduce nervousness",
+        "use professional vocabulary to describe your experiences, such as 'I developed a prototype' instead of 'I did job portal prototype'"
+    ],
+    "better_answer_example": "As a final year IT undergraduate, I'm excited about the data administrator position because it aligns with my passion for working with data. In my current studies, I've been introduced to database management and have learned about backup queries, which I believe are essential for ensuring data integrity. One project that stands out to me is a job portal prototype I worked on, where I applied my coding skills to develop a functional prototype. Although we encountered some issues, we were able to rework the project, and I learned a lot about teamwork and problem-solving. I'm looking forward to bringing my skills and enthusiasm to a role like this and continuing to learn and grow in the field of IT."
+}

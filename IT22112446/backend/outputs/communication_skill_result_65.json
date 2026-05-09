@@ -1,0 +1,22 @@
+{
+    "audio_file": "65.wav",
+    "transcript": "myself Dylan. I like devops and jean ear. I know some darker, good her actions and all. I did a pointment booking system for healthcare. My part was booking validation. We had double booking errors. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Dylan, your answer shows enthusiasm for DevOps and IT, but it lacks clarity and structure. You jumped between introducing yourself, mentioning a project, and stating your interest in the job without connecting the dots. To improve, focus on telling a story that highlights your skills and experience, and practice using professional vocabulary to express your ideas.",
+    "strengths": [
+        "Completed a project related to the job",
+        "Shows interest in the IT field"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Uses informal language and unclear terms"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use technical terms correctly, such as 'Java' instead of 'jean ear'",
+        "Prepare to talk about your projects in a structured way, including challenges and achievements",
+        "Record yourself and listen to identify areas for improvement in pronunciation and fluency"
+    ],
+    "better_answer_example": "Hello, I'm Dylan. With a strong passion for DevOps, I've been exploring its applications in various fields. One of my notable projects was developing a pointment booking system for healthcare, where I was responsible for the booking validation component. We encountered an issue with double booking errors, but through diligent effort, we were able to resolve it. This experience not only deepened my understanding of DevOps tools but also taught me the importance of meticulous testing. I'm excited about this role because it aligns with my interests in IT and offers the opportunity to contribute my skills and experience to make a meaningful impact."
+}

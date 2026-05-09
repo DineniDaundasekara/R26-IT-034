@@ -1,0 +1,22 @@
+{
+    "audio_file": "54.wav",
+    "transcript": "My name is Dilun Vijay Singh and I am intern with the academic project experience preparing for back in developer role. I have practiced not just express chase and MongoDB through work, academic work and small projects. One project I work or I was a job portal prototype in recruitment to human domain. My main contribution was job search fillers and profile matching. The main issue was irrelevant job results. So I checked the problem and discussed it with my team. At the end, the system improved job matching and helped you to find more suitable roles. I am applying for this role because I want real industry experts and a chance to improve my technical skills. My strength is consistent education but I still need to improve using stronger examples in interviews.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Dilun, your answer shows a good foundation in communicating your experience and skills, but there's room for improvement in structuring your thoughts and using more professional language to align with the role you're applying for. You effectively highlighted your project experience and the challenges you overcame, which is great. However, to make a stronger impression, focus on clearly outlining your achievements and how they directly relate to the job requirements.",
+    "strengths": [
+        "Clear project experience",
+        "Ability to identify and solve problems"
+    ],
+    "weaknesses": [
+        "Lack of professional vocabulary",
+        "Needs improvement in structuring the answer"
+    ],
+    "suggestions": [
+        "Practice using technical terms related to the developer role to enhance your professional expression",
+        "Structure your answer around the STAR method (Situation, Task, Action, Result) to provide a clearer narrative",
+        "Emphasize how your skills and experiences align with the job description",
+        "Prepare examples that demonstrate your strengths and how they can contribute to the company's goals"
+    ],
+    "better_answer_example": "As a detail-oriented and technically skilled individual with experience in back-end development, I'm excited about the opportunity to apply my skills in a real-world setting. In my academic project, I developed a job portal prototype that utilized Express and MongoDB. A significant challenge was refining the job search filters to provide more relevant results. Through meticulous analysis and collaboration with my team, we successfully enhanced the profile matching algorithm, leading to more accurate job matches. This experience not only deepened my understanding of back-end development but also taught me the importance of teamwork and problem-solving in achieving project goals. I'm looking forward to leveraging my skills and knowledge in a professional environment and continuing to grow as a developer."
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "83.wav",
+    "transcript": "My name is Passendufernando. I am an entry-level IT professional preparing for a data analyst role. I practiced Python, SQL, and Power BI. I worked on a sales dashboard for business. My part was sales report. The issue was missing data. The system made reporting easier. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "To improve your interview performance, focus on clearly structuring your thoughts and using professional vocabulary. For instance, instead of saying 'I practiced Python, SQL, and Power BI', you could say 'I developed skills in Python, SQL, and Power BI to enhance my data analysis capabilities'. This will help you sound more confident and aligned with the data analyst role.",
+    "strengths": [
+        "You have relevant technical skills for the data analyst role",
+        "You have experience working on a sales dashboard project"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in your answer",
+        "Limited use of professional expressions"
+    ],
+    "suggestions": [
+        "Use transitional phrases to connect your ideas",
+        "Prepare examples that demonstrate your skills and experience",
+        "Practice speaking in a more formal tone",
+        "Emphasize the impact of your work on the business, such as 'the sales report I created helped the business make informed decisions'"
+    ],
+    "better_answer_example": "As an entry-level IT professional, I've been preparing for a data analyst role by developing skills in Python, SQL, and Power BI. In my recent project, I worked on a sales dashboard where I was responsible for creating a sales report. One of the challenges I faced was missing data, but I was able to use my technical skills to create a system that made reporting easier and more efficient. Through this experience, I learned the importance of data-driven decision making and I'm excited to continue improving my skills to contribute to a business's success."
+}

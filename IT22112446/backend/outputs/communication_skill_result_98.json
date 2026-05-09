@@ -1,0 +1,22 @@
+{
+    "audio_file": "98.wav",
+    "transcript": "My name is Dulany Wyj Singh. I am an IT intern preparing for a product owner assistant role. I practice agile planning, backlog, and take older communication. I work time appointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "To improve your communication skills, focus on clearly structuring your thoughts and using professional vocabulary. In your answer, you jumped between introducing yourself, explaining your role, and discussing a project. Try to connect your ideas logically and use transitions to guide the listener through your story.",
+    "strengths": [
+        "You have relevant experience in agile planning and backlog management",
+        "You can describe a specific project and its outcome"
+    ],
+    "weaknesses": [
+        "Your answer lacks a clear structure and logical flow",
+        "You use simple sentences and basic vocabulary"
+    ],
+    "suggestions": [
+        "Practice using transitional phrases to connect your ideas",
+        "Use more descriptive language to explain your role and responsibilities",
+        "Prepare examples that demonstrate your skills and accomplishments",
+        "Focus on the impact of your work, such as 'I improved booking accuracy by resolving double booking errors'"
+    ],
+    "better_answer_example": "As an IT intern with experience in agile planning and backlog management, I'm excited about the product owner assistant role. In my current project, I worked on an appointment booking system for healthcare, where I was responsible for booking validation. By resolving double booking errors, I significantly improved the system's accuracy, which enhanced the overall user experience. I'm eager to build on this experience and further develop my skills in this area."
+}

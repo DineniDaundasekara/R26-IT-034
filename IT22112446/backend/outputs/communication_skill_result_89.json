@@ -1,0 +1,22 @@
+{
+    "audio_file": "89.wav",
+    "transcript": "My name is Isaru Disanic. I am a recent computing graduate preparing for a full stack developer role. I practice React, Node.js, and my SQL. I work on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You effectively introduced yourself and highlighted your relevant skills for a full-stack developer role, such as React, Node.js, and MySQL. However, your answer could be improved by providing more specific details about your project, such as the challenges you faced and how you overcame them, to demonstrate your problem-solving skills and experience.",
+    "strengths": [
+        "Clear introduction of yourself and your skills",
+        "Relevant project experience mentioned"
+    ],
+    "weaknesses": [
+        "Lack of specific details about the project",
+        "Limited explanation of how you improved the system"
+    ],
+    "suggestions": [
+        "Practice explaining technical details in simple terms",
+        "Use the STAR method to structure your answers",
+        "Emphasize your achievements and the impact of your work",
+        "Prepare examples that demonstrate your skills and experience in the role"
+    ],
+    "better_answer_example": "As a recent computing graduate, I've been focusing on developing my skills in React, Node.js, and MySQL to become a proficient full-stack developer. In my job portal prototype project, I was responsible for implementing job filters. Initially, we faced the issue of irrelevant job results, which affected the user experience. To improve this, I worked on enhancing the filtering algorithm, which significantly increased the accuracy of job matching. Through this project, I not only gained hands-on experience with the technologies but also learned the importance of iterative testing and refinement to achieve better outcomes."
+}

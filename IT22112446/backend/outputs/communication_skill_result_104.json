@@ -1,0 +1,22 @@
+{
+    "audio_file": "104.wav",
+    "transcript": "Myself, Sassini, I am a final year IT undergraduate and I like UI UX designer work. I know some Figma and Prototyping not expert but I try. I did sales analytics dashboard for small business operations. I was very big. It was not a very big just a project but I work on it with team. Part was tested the design with users and some other things. We had UI consistency issue so sometimes we change again. The project helped because it helped the team find problem easier. I want this job because I like IT and I can learn. Sometimes I get nervous but I am trying to improve my speaking and go work properly.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sassini, your enthusiasm for UI UX design is evident, but your answer could be more structured and clear. You jumped between different aspects of your project, such as designing a sales analytics dashboard and working with a team. Try to focus on one key point at a time and elaborate on it before moving to the next.",
+    "strengths": [
+        "Showed passion for UI UX design",
+        "Shared a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacked clarity in explaining the project",
+        "Used informal language"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more professional vocabulary, such as 'collaborated' instead of 'work on it with team'",
+        "Prepare examples that demonstrate your skills and accomplishments",
+        "Speak slowly and confidently to convey your message effectively"
+    ],
+    "better_answer_example": "In my final year of IT undergraduate studies, I developed a strong interest in UI UX design, particularly in creating user-friendly interfaces. One project that stands out was designing a sales analytics dashboard for a small business. I worked collaboratively with my team to identify the client's needs and created prototypes using Figma. We conducted user testing, which helped us refine the design and address UI consistency issues. Through this project, I learned the importance of iterative design and effective teamwork. I believe this experience has prepared me for a role in UI UX design, where I can apply my skills and knowledge to create innovative solutions."
+}

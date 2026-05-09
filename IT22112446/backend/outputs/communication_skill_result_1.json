@@ -1,0 +1,22 @@
+{
+    "audio_file": "1.wav",
+    "transcript": "My name is Namboda Siddhi Vardhanan. I am a recent graduating information technology preparing for an UYUX designer role. My background includes hands-on work with user research, wireframes and usability testing mainly through academic projects, individual practice and collaborative assignments. One area I enjoy most is improving software quality. For example, I contributed to an online appointment booking platform in the education domain where I learned how to plan tasks, communicate with teammates and deliver features with clean ownership. I am planning for this role because I want to strengthen my engineering foundation in a real production environment and grow into a professional who combines team collaboration with consistent execution. At the same time, I am actively working on planning explaining technical ideas more briefly so I can present my ideas more effectively in technical discussions. A project I am proud of is an expense-tracking application created for the campus administration domain. I work in a team of three and my main contributions were to create dashboards and reports and cleaned and prepare the data pipeline. We use prototyping, Adobe XD and Figma to build the solution. One of the main challenges was UY consistency issues. To address it, I broke the problem into smaller tasks, discussed options with the team and tested the final approach before integration. The project was valuable because it not only strengthened my technical understanding but also taught me how to communicate progress clearly and collaborate under pressure. As a result, the final system gave users a clear view of their data and in our internal review, we estimated an improvement of for more than 100 users.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Your answer effectively highlights your relevant experience and skills for the UX designer role, showcasing your ability to work on projects such as the online appointment booking platform and the expense-tracking application. However, to further improve, focus on providing more specific examples and quantifiable results to demonstrate the impact of your work.",
+    "strengths": [
+        "Ability to provide relevant project examples",
+        "Clear enthusiasm for improving software quality and team collaboration"
+    ],
+    "weaknesses": [
+        "Lack of specific metrics to measure project success",
+        "Could improve in providing a clearer structure to the answer"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to provide more structured responses",
+        "Work on incorporating more technical terms and industry-specific vocabulary to enhance professional expression",
+        "Prepare to discuss common UX design challenges and how you would approach solving them",
+        "Emphasize transferable skills, such as problem-solving and communication, to demonstrate role alignment"
+    ],
+    "better_answer_example": "As a soon-to-be IT graduate preparing for a UX designer role, I've had hands-on experience with user research, wireframing, and usability testing through academic projects and personal initiatives. For instance, in the online appointment booking platform project, I applied user-centered design principles to improve the booking process, resulting in a 30% reduction in user errors. In another project, an expense-tracking application for campus administration, I worked in a team to design dashboards and reports, ensuring a consistent UI and enhancing data visualization. By breaking down complex problems into manageable tasks and collaborating with teammates, we achieved a significant improvement in user engagement, with over 100 users benefiting from the new system. I'm excited to leverage my skills and experience in a real-world production environment to further grow as a professional UX designer."
+}

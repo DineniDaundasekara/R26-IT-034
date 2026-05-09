@@ -1,0 +1,19 @@
+{
+    "audio_file": "236.wav",
+    "transcript": "My name is Supern Kararena Rasa. I am a final year IT undergraduate preparing for a Mac and developer role. I practiced Node.js, Express.js, and MongoDB. I worked on a pointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear overview of your background and experience. However, your answer could be more structured and focused on specific examples. For instance, you could have elaborated more on the technical challenges you faced while working on the appointment booking system and how you overcame them.",
+    "strengths": [
+        "Good understanding of Node.js, Express.js, and MongoDB"
+    ],
+    "weaknesses": [
+        "Lack of clarity and structure in the answer"
+    ],
+    "suggestions": [
+        "Provide more specific examples from your experience",
+        "Focus on the technical aspects of the project",
+        "Use a more structured approach to answer the question"
+    ],
+    "better_answer_example": "I'd like to share an example from my experience working on the appointment booking system. One of the technical challenges I faced was handling double booking errors. To overcome this, I implemented a validation system that checked for conflicts before booking an appointment. This improved the system's accuracy and reduced errors. I'm proud of the impact this had on the project and I'm eager to apply similar problem-solving skills in a Mac and developer role."
+}

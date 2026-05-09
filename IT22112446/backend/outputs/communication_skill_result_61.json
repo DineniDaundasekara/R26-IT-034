@@ -1,0 +1,22 @@
+{
+    "audio_file": "61.wav",
+    "transcript": "myself are in do. I like software engineer. I know some Java, Spring Boot and my SQL. I did a must-racking mobile app for transport. My part was out tracking. We had GPS delay. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the software engineer role and highlighted relevant technical skills like Java, Spring Boot, and MySQL. However, the answer lacked clarity and structure, making it hard to follow. The candidate could improve by providing more specific details about their project, such as the challenges faced and the solutions implemented, and by expressing their thoughts in a more organized and professional manner.",
+    "strengths": [
+        "Shows enthusiasm for the IT field",
+        "Mentions relevant technical skills"
+    ],
+    "weaknesses": [
+        "Lacks clarity in expression",
+        "Fails to provide a structured answer"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Focus on using professional vocabulary and grammar",
+        "Prepare examples that demonstrate problem-solving skills and experience",
+        "Work on maintaining a confident tone and pace during the interview"
+    ],
+    "better_answer_example": "In my previous project, I worked on a mobile app for transport, where I was responsible for the tracking feature. We encountered a significant challenge with GPS delay, which affected the app's performance. To resolve this, I collaborated with my team to troubleshoot and implement a solution. After several attempts, we successfully fixed the issue, and the app's tracking feature improved significantly. This experience not only honed my technical skills in Java, Spring Boot, and MySQL but also taught me the importance of perseverance and teamwork in software development. I'm excited about this role because it aligns with my passion for IT and my desire to continue growing as a software engineer."
+}

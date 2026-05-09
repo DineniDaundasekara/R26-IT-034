@@ -1,0 +1,22 @@
+{
+    "audio_file": "130.wav",
+    "transcript": "Hello I am Faruji, I want to be DevOps Engineer. I studied IT but still learning. I used Linux and AWS in one job portal. It was recruitment. I done small part only like ad page check errors. It was not being. I think I can work if someone guide. My talking is not best.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Faruji, your enthusiasm for becoming a DevOps Engineer is clear, but your answer could be improved by providing more specific examples of your experience with Linux and AWS, and by structuring your thoughts in a more logical and easy-to-follow way. This would help you to showcase your skills and knowledge more effectively.",
+    "strengths": [
+        "showing eagerness to learn and work",
+        "having some experience with relevant tools like Linux and AWS"
+    ],
+    "weaknesses": [
+        "lack of clarity in expressing thoughts",
+        "inability to provide detailed examples of work experience"
+    ],
+    "suggestions": [
+        "practice speaking about your experiences in a structured way",
+        "use simple and professional language to describe your skills and tasks",
+        "prepare examples of challenges you faced and how you overcame them",
+        "focus on highlighting what you learned from your experiences"
+    ],
+    "better_answer_example": "In my previous role, I had the opportunity to work with Linux and AWS on a recruitment project. Although my part was small, I was responsible for checking ad pages for errors. I learned a lot about the importance of attention to detail and how to use these tools efficiently. With guidance, I am confident I can take on more complex tasks and contribute to a team as a DevOps Engineer."
+}

@@ -1,0 +1,20 @@
+{
+    "audio_file": "186.wav",
+    "transcript": "My name is Duranee Wyj Singh, and I am an entry-level IT professional interested in a product owner-assistant role. I practice agile planning, backlog, and take older communication through projects. One project was a expense tracking app for finance. My work was monthly reports. We faced wrong categories, so I helped test a solution. The final system made reports clearer.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer could be improved by providing more specific examples of your experience with agile planning and backlog management. You also mentioned a project, but didn't explain your role in it.",
+    "strengths": [
+        "You have some experience with agile planning and backlog management",
+        "You were able to help test and improve a solution for a project"
+    ],
+    "weaknesses": [
+        "Your answer was not very clear and concise",
+        "You didn't explain your role in the project you mentioned"
+    ],
+    "suggestions": [
+        "Provide more specific examples of your experience",
+        "Explain your role in the project and how it relates to the product owner-assistant role"
+    ],
+    "better_answer_example": "For example, I could say: 'As an entry-level IT professional, I have experience with agile planning and backlog management. In my previous role, I worked on a project to develop an expense tracking app for finance. My responsibilities included creating monthly reports and working with the team to identify and fix issues. One challenge we faced was incorrect categorization, so I helped test a solution that improved the accuracy of our reports. This experience has taught me the importance of clear communication and collaboration in a team environment, which I believe are essential skills for a product owner-assistant role.'"
+}

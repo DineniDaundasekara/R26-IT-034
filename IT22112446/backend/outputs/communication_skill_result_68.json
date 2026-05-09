@@ -1,0 +1,22 @@
+{
+    "audio_file": "68.wav",
+    "transcript": "myself super. I like Mac and developer. I know some node.js, express.js, and MundoDB. I did inventory dashboard for inventory. My part was talk reports. We had made a mismatch. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the IT field and shared a relevant project experience, but struggled to clearly articulate their thoughts and roles within the project. To improve, focus on organizing your thoughts before speaking and using more descriptive language to convey your message.",
+    "strengths": [
+        "Shows interest in the IT field",
+        "Has relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacks clarity in communication",
+        "Uses simplistic language"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in a structured way, starting with an introduction, then the challenge, and finally the solution",
+        "Use more technical vocabulary related to your field, such as specific technologies or methodologies",
+        "Prepare examples that demonstrate your skills and how they align with the job requirements",
+        "Record yourself speaking and listen to identify areas for improvement in clarity and professionalism"
+    ],
+    "better_answer_example": "In my previous project, I developed an inventory dashboard using Node.js, Express.js, and MongoDB. My role involved creating interactive reports, which required resolving a mismatch issue that our team encountered. Through persistence and teamwork, we successfully fixed the problem, enhancing my understanding of collaborative problem-solving in IT. I'm excited about this job because it aligns with my passion for IT and my skills in web development."
+}

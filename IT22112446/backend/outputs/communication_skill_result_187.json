@@ -1,0 +1,20 @@
+{
+    "audio_file": "187.wav",
+    "transcript": "My name is Nadisha Silva, and I am a final year IT undergraduate interested in AI engineer role. I practiced Python, NLP, and model evaluation through projects. One project was a support chatbot for customer service. My work was response testing. We faced wrong responses, so I helped test a solution. The final system improved answer consistency.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Nadisha, your answer is clear, but could be more structured. You provided a specific example from your project, which is great, but could have been more detailed.",
+    "strengths": [
+        "Provided a specific example from a project",
+        "Showed interest in AI engineer role"
+    ],
+    "weaknesses": [
+        "Lacked structure in the answer",
+        "Could have provided more details about the project"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with a clear structure",
+        "Provide more details about the project and your role in it"
+    ],
+    "better_answer_example": "I'm Nadisha Silva, a final year IT undergraduate with a strong interest in AI engineer roles. In my project, I worked on a support chatbot for customer service, focusing on response testing. I identified issues with wrong responses and helped implement a solution that improved answer consistency. This experience has given me a solid understanding of NLP and model evaluation, and I'm excited to apply these skills in a real-world AI engineer role."
+}

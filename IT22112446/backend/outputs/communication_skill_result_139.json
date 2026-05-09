@@ -1,0 +1,11 @@
+{
+    "audio_file": "139.wav",
+    "transcript": "Hello Myself Kabini. I am entry level IT student and looking cloud support engineer. I know basic AWS troubleshooting. I made food ordering app. It was small business. I did simple task. Sometimes not understand. After asking team, I fixed some part. I need this job because I like computing. My communication is very weak.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "137.wav",
+    "transcript": "I am Sajani. I want to be DevOps Engineer. I studied but still learning. I use Docker in one job portal. It was recruitment. I done small part only. It was not a big project. I think I work if someone guide my talking not very good.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sajani, your answer shows enthusiasm for the DevOps Engineer role, but it lacks clarity and structure. You mentioned using Docker in a recruitment project, which is a good start, but you could elaborate more on your responsibilities and what you learned from the experience.",
+    "strengths": [
+        "Showed interest in the DevOps Engineer role",
+        "Mentioned relevant tool experience with Docker"
+    ],
+    "weaknesses": [
+        "Lacked clear and concise language",
+        "Failed to provide detailed examples of work experience"
+    ],
+    "suggestions": [
+        "Practice speaking in a structured way, starting with a brief introduction, then describing your experience, and finally highlighting what you learned",
+        "Use more professional vocabulary, such as 'implemented' instead of 'done'",
+        "Prepare to talk about specific challenges you faced and how you overcame them",
+        "Focus on showcasing your skills and accomplishments rather than apologizing for your language skills"
+    ],
+    "better_answer_example": "As a detail-oriented and ambitious individual, I'm excited about the opportunity to work as a DevOps Engineer. In my previous experience, I had the chance to work on a recruitment project where I implemented Docker to containerize applications. Although it was a small project, I learned a great deal about the importance of efficient deployment and scaling. I'm eager to expand my skills and take on more complex challenges in this role."
+}

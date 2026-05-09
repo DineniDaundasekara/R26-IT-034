@@ -1,0 +1,22 @@
+{
+    "audio_file": "79.wav",
+    "transcript": "myself Nadisha. I like AI engineer. I know some Python, NLP, and model evaluation. I did a food ordering app for e-commerce. My part was checkout validation. We had cart calculation errors. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Nadisha, your introduction is clear, but your answer lacks specific details about your experience and skills as an AI engineer. You mentioned working on a food ordering app, but could elaborate more on your contributions and the technologies used.",
+    "strengths": [
+        "You started with a clear introduction of yourself",
+        "You mentioned a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lack of specific details about your skills and experience",
+        "Limited explanation of your role in the project"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in more detail, focusing on your specific contributions",
+        "Use more professional vocabulary related to AI engineering, such as 'natural language processing' and 'machine learning'",
+        "Prepare to answer common interview questions, such as 'Why do you want this job?' with more specific reasons",
+        "Work on structuring your answer to have a clear beginning, middle, and end, with a focus on your achievements"
+    ],
+    "better_answer_example": "Hello, I'm Nadisha, an aspiring AI engineer with a strong foundation in Python, NLP, and model evaluation. In my previous project, a food ordering app for e-commerce, I was responsible for developing the checkout validation feature. Initially, we encountered cart calculation errors, but through meticulous testing and debugging, we successfully resolved the issue. This experience not only honed my technical skills but also taught me the importance of thorough testing and collaboration. I'm excited about this role because it aligns with my passion for IT and AI, and I believe my skills and experience make me a strong fit."
+}

@@ -1,0 +1,22 @@
+{
+    "audio_file": "96.wav",
+    "transcript": "My name is Arashi Pereira. I am a final year IT undergraduate preparing for a system analyst role. I practiced process modeling, documentation, and SQL. I worked on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Arashi, your introduction is clear, but your answer could be more structured and detailed to showcase your skills and experience as a system analyst. You mentioned working on a support chatbot, which is a great project, but you could elaborate more on your role and the impact of your work.",
+    "strengths": [
+        "clear introduction of yourself and your background",
+        "completion of the answer with a clear goal"
+    ],
+    "weaknesses": [
+        "lack of detail in project description",
+        "limited professional vocabulary"
+    ],
+    "suggestions": [
+        "use transitional phrases to connect your ideas",
+        "describe specific challenges you faced and how you overcame them",
+        "use technical terms related to system analysis to sound more professional",
+        "practice answering behavioral questions to improve your structure and confidence"
+    ],
+    "better_answer_example": "As a final year IT undergraduate preparing for a system analyst role, I've been focusing on developing my skills in process modeling, documentation, and SQL. One project that stands out is the support chatbot I worked on for customer service. My role was to test the responses, and I identified an issue with inconsistent answers. I worked on refining the response testing process, which led to a significant improvement in the system's answer consistency. This experience not only honed my technical skills but also taught me the importance of attention to detail and collaboration in a team. I'm excited to apply these skills in a system analyst role and continue to grow as a professional."
+}

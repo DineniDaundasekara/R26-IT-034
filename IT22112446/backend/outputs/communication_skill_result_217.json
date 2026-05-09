@@ -1,0 +1,19 @@
+{
+    "audio_file": "217.wav",
+    "transcript": "My name is Arudis Anik, and my goal is to build a career and a full stack developer. I have hand-on experience with React, Node.js, and MySQL. A strong project and ample learning portal for education. My responsibility was course access. I solved a lot of issues by finding the cause, working with the team, and testing the solution. The final outcome improved student access, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Arudis, your answer is clear, but it could be more structured. You mentioned your goal and experience, but it would be better to explain how your skills relate to the project.",
+    "strengths": [
+        "Strong project and ample learning portal for education",
+        "Improved student access"
+    ],
+    "weaknesses": [
+        "Lack of clear explanation of how skills relate to the project"
+    ],
+    "suggestions": [
+        "Provide specific examples of how your skills were applied in the project",
+        "Explain how your experience aligns with the project's goals"
+    ],
+    "better_answer_example": "I'm Arudis Anik, and I'm excited to build a career as a full-stack developer. In my previous role, I worked on a project that involved building a learning portal using React, Node.js, and MySQL. My responsibility was to ensure course access for students. I successfully resolved several issues by identifying the root cause, collaborating with the team, and testing the solution. This experience not only improved student access but also boosted my confidence in communication and problem-solving. I believe my skills and experience make me a strong fit for this role."
+}

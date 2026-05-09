@@ -1,0 +1,22 @@
+{
+    "audio_file": "26.wav",
+    "transcript": "My name is Amanda Eterie Singay, and I am an entry-level IT professional preparing for a software engineer role. My background includes hands-on work with Java, Spring Boot, and MySQL, mainly through academic projects, individual practice, and collaborative assignments. One area I enjoy most is building reliable backend services. For example, I contributed to a food ordering application in the e-commerce domain, where I learned how to plan tasks, communicate with teammates, and deliver features with clear ownership. I am applying for this role because I want to strengthen my technical foundation in a real production environment, and grow into a professional who combines ownership of tasks with consistent execution. At the same time, I am actively working on organizing answers faster so I can present my ideas more effectively in professional discussions. A project I am proud of is the food ordering application, which was created for the e-commerce domain. I worked in a team of three, and my main contribution was to develop order management and checkout validation features. We used Java, Spring Boot, and MySQL to build and validate the solution. One of the main challenges was cart calculation errors. To address it, I broke the issue into smaller parts, discussed possible solutions with the team, and tested the final approach before completing the integration. The project was valuable because it improved my technical understanding and taught me how to communicate progress clearly under deadlines. As a result, the final system made the ordering process faster and more reliable.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Amanda effectively conveyed her background, interests, and relevant experience as a software engineer, showcasing her ability to work on backend services and collaborate with teammates. However, there were moments where she repeated information, such as mentioning the food ordering application twice, which slightly disrupted the flow of her answer.",
+    "strengths": [
+        "clearly highlighting relevant technical skills",
+        "providing specific examples from past projects"
+    ],
+    "weaknesses": [
+        "repetition of information",
+        "somewhat lengthy introduction"
+    ],
+    "suggestions": [
+        "practice answering questions within a set time frame to improve response efficiency",
+        "use transitional phrases to connect ideas between different parts of the answer",
+        "focus on varying sentence structure to maintain listener engagement",
+        "prepare to discuss a variety of projects to demonstrate versatility"
+    ],
+    "better_answer_example": "As an entry-level IT professional, I'm excited about the opportunity to leverage my skills in Java, Spring Boot, and MySQL to contribute to a dynamic team. One of my notable projects was a food ordering application, where I developed order management and checkout validation features. By breaking down challenges like cart calculation errors into manageable parts and collaborating with my team, we successfully integrated a reliable solution. This experience not only honed my technical skills but also taught me the importance of clear communication under deadlines. I'm looking forward to applying these skills in a real production environment and growing as a professional who consistently delivers high-quality results."
+}

@@ -1,0 +1,20 @@
+{
+    "audio_file": "193.wav",
+    "transcript": "My name is Dylan Madju Sanka and I'm preparing for a Divap's engineer role. I have hands on practice with Docker, GitHub actions, and Oz. I work on a job portal prototype in the recruitment domain. My main contribution was job filters. The challenge was irrelevant results. I discussed it with my team, tested the fix, and the system improved job matching.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but could be more structured. You could have started by explaining the project's goal and your role in it.",
+    "strengths": [
+        "Hands-on practice with Docker, GitHub actions, and Oz",
+        "Contributed to a job portal prototype in the recruitment domain"
+    ],
+    "weaknesses": [
+        "Lack of clarity on the project's goal and your role",
+        "Limited explanation of the challenge and its impact"
+    ],
+    "suggestions": [
+        "Provide a clear overview of the project and your role",
+        "Explain the challenge in more detail and its impact on the project"
+    ],
+    "better_answer_example": "For example, 'I worked on a job portal prototype in the recruitment domain, where my main contribution was implementing job filters. The challenge was that users were getting irrelevant results. I discussed this issue with my team, tested a fix, and the system improved job matching. This experience has prepared me for a Divap's engineer role, where I can apply my skills in Docker, GitHub actions, and Oz to improve the efficiency of the recruitment process.'"
+}

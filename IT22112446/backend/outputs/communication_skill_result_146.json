@@ -1,0 +1,11 @@
+{
+    "audio_file": "146.wav",
+    "transcript": "Hello, I am Nippuni. I am beginner in software field and looking software engineer work. I know basing Springwood. I made learning portal. It was about education. I did simple task and sometimes not understand requirements. After asking team, I fixed my part. I need this job because I like this industry. My communication is little bit weak.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

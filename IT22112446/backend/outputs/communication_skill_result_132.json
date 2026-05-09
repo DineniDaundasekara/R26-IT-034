@@ -1,0 +1,22 @@
+{
+    "audio_file": "132.wav",
+    "transcript": "I am Prahansa. Hello, myself Prahansa. I am new graduate in Information Technology, looking Cloud Support Engineer. I know basic monitoring. I made ERP system with friends. It was about small business. I did simple task, sometimes not understand requirement. After asking team, I need this job because I like computer site.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Prahansa, your introduction was a bit repetitive, and it took some time to understand your background and the role you're applying for. You also seemed uncertain about your project experience, which made it hard to gauge your skills. However, you showed enthusiasm for the field and a willingness to learn, which is a great starting point.",
+    "strengths": [
+        "You have some experience with basic monitoring and have worked on a project, an ERP system, which is relevant to the Cloud Support Engineer role",
+        "You expressed your interest in computers and the field, which is important for motivation"
+    ],
+    "weaknesses": [
+        "Your explanation of your project and role in it was unclear and lacked specific details",
+        "You didn't clearly articulate why you're a good fit for the Cloud Support Engineer position"
+    ],
+    "suggestions": [
+        "Practice explaining your project experience in a clear, step-by-step manner to improve clarity",
+        "Use more professional vocabulary related to the IT and cloud support field to sound more confident and knowledgeable",
+        "Prepare to talk about specific challenges you faced in your project and how you overcame them",
+        "Make sure to explicitly state how your skills and interests align with the job requirements"
+    ],
+    "better_answer_example": "Hello, I'm Prahansa, a recent graduate in Information Technology, and I'm excited to apply for the Cloud Support Engineer role. In my final year, I worked on an ERP system project with my friends, where I was responsible for the monitoring aspect. Although it was a simple task, I learned a lot about the importance of efficient system monitoring in a cloud environment. Sometimes, I faced difficulties in understanding the requirements, but I learned to ask the right questions and work collaboratively with my team to resolve them. I believe my basic knowledge of monitoring, coupled with my enthusiasm for learning and growing in the field of cloud support, makes me a strong candidate for this position."
+}

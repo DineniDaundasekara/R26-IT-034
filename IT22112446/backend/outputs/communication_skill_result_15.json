@@ -1,0 +1,22 @@
+{
+    "audio_file": "15.wav",
+    "transcript": "My name is Kassundi Fanando and I am a final ES of KIA Engineering student preparing for a software engineering role. I have a practiced Java, Springwood and MySQL through academic work and small projects. One project I work on was inventory tracking dashboard in inventory management domain. My domain contribution was stock update reports and dashboard waves. The main issue was data mismatch between reports and stock records. So I checked the problem and discussed it with my team at the technical skills. My strength is team collaboration but I still need to improve using stronger example in interviews.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kassundi, your answer shows potential, but it lacks a clear structure and professional tone. You jumped between introducing yourself, mentioning your skills, and describing a project. To improve, focus on telling a story that highlights your strengths and experiences, and practice using more formal language in your responses.",
+    "strengths": [
+        "team collaboration",
+        "relevant project experience"
+    ],
+    "weaknesses": [
+        "lack of clear structure",
+        "limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Use a more formal greeting to start your answer",
+        "Practice answering behavioral questions using the STAR method",
+        "Focus on one or two key skills and provide specific examples",
+        "Record yourself and listen to identify areas for improvement in your tone and pace"
+    ],
+    "better_answer_example": "As a soon-to-be graduate in software engineering, I've developed strong skills in Java, Spring, and MySQL through academic projects and personal initiatives. One notable project was an inventory tracking dashboard, where I contributed to resolving data mismatches between reports and stock records. By collaborating with my team and applying technical skills, we successfully updated the stock reports and dashboard, ensuring data consistency. This experience not only showcased my ability to work effectively in a team but also demonstrated my problem-solving skills in a real-world scenario, which I believe are essential for a software engineering role."
+}

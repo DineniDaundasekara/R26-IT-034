@@ -1,0 +1,22 @@
+{
+    "audio_file": "111.wav",
+    "transcript": "My name is Yasirunin. I am new person for IT work and I like front-end developer. I know some things I like, UIComponent, HTA, ML, my project is learning portal. It helps education a little bit. We face issue and I confused also, but finally project finished. I was changed to learn more. I am not speaking professional, but I try best.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Yasirunin, your enthusiasm for front-end development and your project, the learning portal, is clear. However, to effectively communicate your ideas, focus on organizing your thoughts and using professional vocabulary to describe your experiences and skills.",
+    "strengths": [
+        "Showing passion for front-end development",
+        "Having a project that demonstrates your skills"
+    ],
+    "weaknesses": [
+        "Lack of clarity in expressing thoughts",
+        "Limited use of professional terminology"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in a structured way, starting with an introduction, then details, and finally the outcome",
+        "Learn and use technical terms related to front-end development to describe your work",
+        "Prepare examples of challenges you faced and how you overcame them to show problem-solving skills",
+        "Record yourself speaking about your projects and listen to identify areas for improvement"
+    ],
+    "better_answer_example": "Hello, my name is Yasirunin, and I'm excited about front-end development. Recently, I worked on a learning portal project that aimed to enhance educational experiences. The project involved designing UI components and integrating them with HTML and CSS. Although we encountered some issues, I was able to learn from them and successfully complete the project. This experience not only deepened my understanding of front-end technologies but also taught me the importance of perseverance in software development."
+}

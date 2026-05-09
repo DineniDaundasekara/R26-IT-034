@@ -1,0 +1,20 @@
+{
+    "audio_file": "209.wav",
+    "transcript": "My name is Arindu Pereira and my goal is to build a career as a software engineer. I have hand-man experience with Java, Spring Boot and my SQL. A strong project and memple is a food ordering app for e-commerce. My responsibility was checkout validation. I solved cart calculation errors by finding the cause, working with the team and testing the solution. The final outcome made ordering faster and it improved my confidence and communication.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Arindu, your answer is clear and shows good communication skills. However, it's a bit short and lacks specific details about your project. Try to elaborate more on your project and the problems you solved.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work with a team"
+    ],
+    "weaknesses": [
+        "Lack of specific details about the project",
+        "Short answer"
+    ],
+    "suggestions": [
+        "Provide more details about your project and the problems you solved",
+        "Use specific examples to demonstrate your skills"
+    ],
+    "better_answer_example": "For example, you could say: 'In my previous role, I worked on a food ordering app project where I was responsible for checkout validation. I encountered a cart calculation error and worked with the team to identify the cause and implement a solution. This improved the ordering process and increased customer satisfaction. I learned the importance of teamwork and effective communication in resolving complex issues.'"
+}

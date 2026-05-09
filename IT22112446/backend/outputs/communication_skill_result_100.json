@@ -1,0 +1,22 @@
+{
+    "audio_file": "100.wav",
+    "transcript": "My name is Didu Kikarra Naratni. I am a final year IT undergraduate preparing for a test automation engineer role. I practiced Selenium, Java, and TestNG. I worked on a learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You effectively introduced yourself and shared your relevant experience with Selenium, Java, and TestNG, which aligns well with the test automation engineer role. However, your answer could be improved by providing more specific details about your project, such as the challenges you faced and how you overcame them, to demonstrate your problem-solving skills and showcase your achievements more clearly.",
+    "strengths": [
+        "Relevant technical skills",
+        "Clear introduction"
+    ],
+    "weaknesses": [
+        "Lack of specific project details",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice describing your projects in a structured way, focusing on challenges, actions, and outcomes",
+        "Use more professional terms related to test automation, such as 'automated testing frameworks' and 'test scripts'",
+        "Prepare examples that highlight your skills in improving system access and resolving issues like login problems",
+        "Record yourself and listen to identify areas for improvement in clarity and confidence"
+    ],
+    "better_answer_example": "As a final year IT undergraduate preparing for a test automation engineer role, I've been focusing on developing my skills in Selenium, Java, and TestNG. In my recent project, a learning portal for education, I was responsible for core access, where I encountered and resolved significant login issues. By implementing automated testing using Selenium and TestNG, I was able to improve student access to the portal, enhancing the overall user experience. This project not only deepened my understanding of test automation but also taught me the importance of thorough testing in ensuring system reliability and efficiency."
+}

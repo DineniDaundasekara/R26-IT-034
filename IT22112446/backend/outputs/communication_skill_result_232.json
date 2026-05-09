@@ -1,0 +1,20 @@
+{
+    "audio_file": "232.wav",
+    "transcript": "My name is Nuwenjia Surria. I am a final year IT undergraduate preparing for a new ISASHUX designer role. I practiced Figma, wireframes, and usability testing. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You did a good job explaining your experience with the bus tracking mobile app. However, your answer could be more structured and clear. For example, you could have explained the problem you faced in more detail and how you overcame it.",
+    "strengths": [
+        "Good communication skills",
+        "Experience with Figma, wireframes, and usability testing"
+    ],
+    "weaknesses": [
+        "Lack of clarity and structure in the answer",
+        "Limited explanation of the problem and solution"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with a clear and structured format",
+        "Provide more details about the problem you faced and how you solved it"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my final year project, I worked on a bus tracking mobile app where I was responsible for the out-tracking feature. However, we faced an issue with GPS delay, which affected the accuracy of the tracking system. To overcome this, I suggested using a combination of GPS and other location-based services to improve the accuracy. We implemented this solution and saw a significant improvement in tracking accuracy. This experience taught me the importance of considering multiple factors when designing a system and the value of collaboration in finding innovative solutions.'"
+}

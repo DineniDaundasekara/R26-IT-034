@@ -1,0 +1,22 @@
+{
+    "audio_file": "106.wav",
+    "transcript": "Myself Sandhuni, I am an final undergraduate and I like business analyst work. I know some user stories and documentation not expert but try. I did student management system for education. It was not very big just a project. But I worked on it with team. The part was supported, user acceptance testing and some other things. We had UI consistency issue. Sometimes we had changed again and again. I am trying to improve my speaking and do the work best.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Sandhuni, your answer shows enthusiasm for business analyst work, but it lacks clarity and structure. You jumped between different aspects of your project, such as user acceptance testing and UI consistency issues, without fully explaining your role or the impact of your work. To improve, focus on telling a cohesive story about your project, highlighting your specific contributions and what you learned from the experience.",
+    "strengths": [
+        "Shows enthusiasm for business analyst work",
+        "Mentions specific project experience"
+    ],
+    "weaknesses": [
+        "Lacks clarity in explaining project details",
+        "Does not clearly align work with business analyst role"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to structure your responses",
+        "Use more professional vocabulary, such as 'implemented' instead of 'did'",
+        "Emphasize your achievements and the skills you applied in your project",
+        "Prepare examples that demonstrate your understanding of business analyst responsibilities"
+    ],
+    "better_answer_example": "In my final year project, I worked as a business analyst on a student management system for an educational institution. My role involved gathering requirements, creating user stories, and collaborating with the development team to ensure user acceptance testing. One challenge we faced was maintaining UI consistency, which required iterative changes and feedback from stakeholders. Through this experience, I learned the importance of effective communication, adaptability, and attention to detail in business analysis, skills that I believe are essential for a business analyst role."
+}

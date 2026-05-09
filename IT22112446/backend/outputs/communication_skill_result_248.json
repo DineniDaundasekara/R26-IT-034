@@ -1,0 +1,20 @@
+{
+    "audio_file": "248.wav",
+    "transcript": "My name is Didu Kikarra Naratni. I am a final year IT undergraduate preparing for a test automation engineer role. I practiced Selenium, Java, and TestNG. I worked on a learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear overview of your background and skills, but your answer could be more focused on specific examples and how they relate to the role. Consider using the STAR method to structure your answer.",
+    "strengths": [
+        "practical experience with Selenium, Java, and TestNG",
+        "ability to work on a learning portal project"
+    ],
+    "weaknesses": [
+        "lack of clarity in the structure of your answer",
+        "limited depth in discussing your project experience"
+    ],
+    "suggestions": [
+        "provide more specific examples of your project work",
+        "explain how your skills align with the requirements of the test automation engineer role"
+    ],
+    "better_answer_example": "I'd like to give an example of how I applied my skills in a previous project. In my final year project, I worked on a learning portal for education, where I was responsible for core access. I identified and resolved login issues, which improved student access. This experience has taught me the importance of attention to detail and problem-solving in test automation engineering. I believe my skills in Selenium, Java, and TestNG, along with my experience in resolving complex issues, make me a strong candidate for this role."
+}

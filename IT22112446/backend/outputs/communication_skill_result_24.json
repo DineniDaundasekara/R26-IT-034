@@ -1,0 +1,22 @@
+{
+    "audio_file": "24.wav",
+    "transcript": "Myself, VHunger. I am an entry-level IT professional and I like cyber security and resist work. I know some network security, risk assessment and SIEN tools. I did an online appointment booking system for healthcare. It was not a big project but I learned things from it. My project part was about booking validation and appointment management. There were many problems. Mainly double booking errors. We fixed it after trying many times. I want this job because I like IT and I think I can do the work. Sometimes I get nervous when I speak English and I forget some points. This project helped me understand teamwork and basic security analysis.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You effectively shared your experience with the online appointment booking system, highlighting your role in booking validation and appointment management. However, there were moments where you seemed nervous, which affected the clarity of your message. To improve, focus on speaking confidently and using professional terms to describe your skills and experiences.",
+    "strengths": [
+        "Ability to share personal project experience",
+        "Basic understanding of network security and risk assessment"
+    ],
+    "weaknesses": [
+        "Nervousness when speaking English",
+        "Lack of professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice speaking English regularly to boost confidence",
+        "Use specific examples to demonstrate your skills and knowledge",
+        "Prepare answers to common interview questions in advance",
+        "Focus on aligning your skills and interests with the job requirements"
+    ],
+    "better_answer_example": "As an entry-level IT professional with a passion for cybersecurity, I'm excited about this role. In my previous project, an online appointment booking system for healthcare, I was responsible for booking validation and appointment management. I applied my knowledge of network security and risk assessment to ensure the system's integrity. Although we encountered double booking errors, our team collaborated to resolve the issue through iterative testing and feedback. This experience not only taught me the importance of teamwork but also enhanced my understanding of basic security analysis. I believe my skills and interests align well with this position, and I'm eager to contribute to and learn from the team."
+}

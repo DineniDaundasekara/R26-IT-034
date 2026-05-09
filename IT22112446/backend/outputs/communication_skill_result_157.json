@@ -1,0 +1,11 @@
+{
+    "audio_file": "157.wav",
+    "transcript": "My name is Isaru Disanic. I am a recent computing graduate preparing for a full stack developer role. I practice React, Node.js, and my SQL. I work on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

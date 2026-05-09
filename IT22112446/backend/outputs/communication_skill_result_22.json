@@ -1,0 +1,22 @@
+{
+    "audio_file": "22.wav",
+    "transcript": "Myself Ishaan. I am finally a software engineering student and I like data engineering work. I know some Python, SQL and ETL pipelines. I did learning management for portal for education. It was not a big project, but I learned things from it. My project part was about course access and role-based logging. There were many problems. Mainly logging access and permission issues. We fixed it after crying many times. I want this job because I like ITN. I think I can do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand team work and basic data pipelines development.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Ishaan, your passion for data engineering and experience with Python, SQL, and ETL pipelines are great strengths. However, during the interview, you sometimes struggled to express your thoughts clearly and concisely, which made it hard to fully understand your project's impact. Practicing to articulate your experiences and the challenges you overcame will help you present yourself more confidently and effectively.",
+    "strengths": [
+        "Experience with relevant technologies like Python and SQL",
+        "Ability to work on projects like the learning management portal"
+    ],
+    "weaknesses": [
+        "Difficulty in articulating thoughts clearly and concisely",
+        "Nervousness when speaking, leading to forgotten points"
+    ],
+    "suggestions": [
+        "Prepare examples of your projects and practice explaining them in a structured way",
+        "Focus on using professional vocabulary related to data engineering and IT",
+        "Work on maintaining a calm demeanor during interviews to reduce nervousness",
+        "Emphasize what you learned from your projects and how they align with the job role"
+    ],
+    "better_answer_example": "As a software engineering student with a keen interest in data engineering, I've had the opportunity to work on a learning management portal project. My role involved developing course access and role-based logging features. Although it was a challenging project, I successfully overcame issues related to logging access and permission. This experience not only taught me about teamwork and data pipeline development but also deepened my understanding of ETL pipelines and the importance of precise logging mechanisms. I'm excited about the prospect of joining ITN because I believe my skills and passion for data engineering align well with the company's goals."
+}

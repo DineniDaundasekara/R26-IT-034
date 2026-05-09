@@ -1,0 +1,22 @@
+{
+    "audio_file": "19.wav",
+    "transcript": "Myself, Malib. I am finally a IT undergraduate and I like front-end developer work. I know some react and JavaScript. I did a online appointment book system for healthcare. It was not a big project, but I learned things from it. My project part was about booking validation and appointment management. There were many problems, mainly double booking errors. We fixed it after trying many times. I want this job because I like it and I think I can do it, do the work. Sometimes I can, I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic front-end developing.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Malib, your passion for front-end development is evident, and it's great that you have hands-on experience with React and JavaScript. However, to take your interview answers to the next level, focus on providing more specific examples and details about your projects, such as the technologies used, challenges faced, and how you overcame them.",
+    "strengths": [
+        "Clear enthusiasm for front-end development",
+        "Relevant project experience"
+    ],
+    "weaknesses": [
+        "Lack of specific details in project explanation",
+        "Nervousness affecting speech"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in front of a mirror or with a friend to improve confidence",
+        "Prepare a list of common interview questions and practice answering them with specific examples",
+        "Focus on using professional vocabulary related to front-end development",
+        "Emphasize what you learned from your project and how it aligns with the job role"
+    ],
+    "better_answer_example": "As a front-end developer, I'm excited about the opportunity to work on projects that challenge me. In my recent project, an online appointment booking system for healthcare, I utilized React and JavaScript to develop the booking validation and appointment management features. One of the significant challenges we faced was double booking errors, but through persistence and teamwork, we were able to resolve the issue. This experience not only deepened my understanding of front-end development but also taught me the importance of teamwork and effective communication in a development environment."
+}

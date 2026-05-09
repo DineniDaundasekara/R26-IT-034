@@ -1,0 +1,22 @@
+{
+    "audio_file": "123.wav",
+    "transcript": "Hello I am Kusum. I am new person for IT work and I like data analyst. I know some things like Excel Power BI. My project is Food App. It helps small, big little bit. We face issue and I confuse also. But finally project finish. I want chance to learn. I am speaking not professional. But I try best.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kusum, your introduction and interest in data analysis are clear, but your answer lacks structure and professional expression. You jumped between ideas, such as your project and personal skills, without connecting them smoothly. Focus on organizing your thoughts and using more professional vocabulary to enhance your communication.",
+    "strengths": [
+        "Showed enthusiasm for data analysis",
+        "Mentioned relevant tools like Excel and Power BI"
+    ],
+    "weaknesses": [
+        "Lacked clear structure in the answer",
+        "Used informal expressions"
+    ],
+    "suggestions": [
+        "Practice answering questions with a clear beginning, middle, and end",
+        "Use more professional words and phrases, like 'I utilized' instead of 'I know'",
+        "Connect your personal skills and experiences to the job role more explicitly",
+        "Prepare examples of how your projects, like the Food App, demonstrate your skills and problem-solving abilities"
+    ],
+    "better_answer_example": "Hello, I'm Kusum, and I'm excited about the opportunity to work in IT as a data analyst. With skills in Excel and Power BI, I've developed a strong foundation for data analysis. My recent project, the Food App, aimed to assist small and large businesses. Although we encountered challenges, I successfully applied my skills to overcome them. I'm eager to continue learning and growing in this role, and I believe my experience and passion for data analysis make me a strong fit."
+}

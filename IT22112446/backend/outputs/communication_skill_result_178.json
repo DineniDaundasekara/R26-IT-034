@@ -1,0 +1,22 @@
+{
+    "audio_file": "178.wav",
+    "transcript": "My name is Keshen Paris, and I am an entry-level IT professional interested in a data engineer role. I practiced Python, SQL, and ETL pipelines through projects. One project was a student management system for education. My work was student records. We faced unclear requirements, so I helped test a solution. The final system reduced duplicate records.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Keshen, your answer was clear and easy to understand. However, it would be better to explain how your project improved data quality and efficiency.",
+    "strengths": [
+        "Good communication skills",
+        "Practical experience with Python, SQL, and ETL pipelines"
+    ],
+    "weaknesses": [
+        "Lack of specific details about data quality and efficiency improvements",
+        "Limited explanation of project requirements and challenges"
+    ],
+    "suggestions": [
+        "Provide specific examples of how your project improved data quality and efficiency",
+        "Explain how you handled unclear project requirements and challenges",
+        "Emphasize your role in the project and how it aligns with the data engineer position",
+        "Highlight any soft skills you used during the project, such as teamwork or problem-solving"
+    ],
+    "better_answer_example": "In my student management system project, I used Python and SQL to improve data quality by reducing duplicate records. I worked with the team to clarify unclear project requirements and implemented a solution that increased data efficiency by 25%. As a data engineer, I believe my experience with ETL pipelines and data quality improvement makes me a strong candidate for this role."
+}

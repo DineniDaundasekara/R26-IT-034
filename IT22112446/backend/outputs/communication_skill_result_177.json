@@ -1,0 +1,19 @@
+{
+    "audio_file": "177.wav",
+    "transcript": "My name is Isaru Disanic, and I am an IT intern interested in a full stack developer role. I practiced React, Node.js, and my SQL through projects. One project was a support chatbot for customer service. My work was response testing. We faced wrong responses, so I helped test a solution. The final system improved and circumsistancy.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Isaru, your answer was clear, but sometimes hard to follow. You mentioned a project, but didn't explain it well. Try to give more details about your work.",
+    "strengths": [
+        "You have experience with React, Node.js, and SQL"
+    ],
+    "weaknesses": [
+        "Your answer was hard to follow",
+        "You didn't explain your project well"
+    ],
+    "suggestions": [
+        "Give more details about your projects",
+        "Use simple language to explain your work"
+    ],
+    "better_answer_example": "I'm Isaru, an IT intern interested in a full stack developer role. I worked on a support chatbot project using React, Node.js, and SQL. My task was to test responses for customer service. We faced issues with wrong responses, so I helped test a solution. The final system improved significantly. I'm proud of my contribution to the project."
+}

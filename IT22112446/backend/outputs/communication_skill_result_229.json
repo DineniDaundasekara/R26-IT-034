@@ -1,0 +1,21 @@
+{
+    "audio_file": "229.wav",
+    "transcript": "My name is Tharindu Pereira. I am a recent computing graduate preparing for a software engineer role. I practiced Java, Spring Boot, and my SQL. I worked on inventory dashboard for inventory. My part was talk reports. The issue was made a mismatch. The system reduced manual checking. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Tharindu, your answer is clear, but it could be more structured. You mentioned your role in the project, but didn't explain how your skills align with the software engineer position. Try to provide more context and details.",
+    "strengths": [
+        "practiced Java, Spring Boot, and SQL",
+        "worked on an inventory dashboard project"
+    ],
+    "weaknesses": [
+        "lacked clarity on how skills align with the software engineer role",
+        "answer was not well-structured"
+    ],
+    "suggestions": [
+        "provide more context about the project and your role",
+        "explain how your skills match the software engineer position",
+        "use a more structured approach to answer the question"
+    ],
+    "better_answer_example": "I'm a recent computing graduate with experience in Java, Spring Boot, and SQL. In my previous project, I worked on an inventory dashboard where I was responsible for developing the talk reports feature. This experience has helped me develop skills that align well with the software engineer role, such as problem-solving and data analysis. I'm excited to apply these skills in a software engineer position and continue to improve my skills in this field."
+}

@@ -1,0 +1,20 @@
+{
+    "audio_file": "227.wav",
+    "transcript": "My name is Nadisha Silva, and my goal is to build a career as AI engineer. I have hand-man experience with Python, NLP, and Model evaluation. A strong project and ample learning portal for education. My responsibility was course access. I solved a lot of issues by finding the cause, working with the team, and testing the solution. The final outcome improved student access, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Nadisha, your answer clearly states your career goal and relevant skills. However, it lacks specific examples of how you applied these skills in a real-world scenario.",
+    "strengths": [
+        "Strong project and learning portal for education",
+        "Improved student access through problem-solving"
+    ],
+    "weaknesses": [
+        "Lack of specific examples of AI engineering skills",
+        "Vague description of responsibilities"
+    ],
+    "suggestions": [
+        "Provide specific examples of AI engineering projects you've worked on",
+        "Be more detailed about your responsibilities and accomplishments"
+    ],
+    "better_answer_example": "I'd like to build a career as an AI engineer by leveraging my experience with Python, NLP, and model evaluation. In my previous role, I worked on a project that involved developing a chatbot for customer support. I was responsible for testing and evaluating the model's performance, which improved student access to the system. This experience not only honed my technical skills but also enhanced my communication and problem-solving abilities."
+}

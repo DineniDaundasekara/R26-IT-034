@@ -1,0 +1,22 @@
+{
+    "audio_file": "39.wav",
+    "transcript": "Myself Ishan, I am recent graduating information technology and I like database administrator work. I know some MySQL database design and backup management. I did a learning management portal for education. It was not a big project, but I learned things from it. My project part was about course access and role-based logging. There were many problems, mainly logging access and access promises issue. We fixed it after trying many times. I want this job because I like ITN, I think I can do the work. Sometimes I get nervous when I speak in and I forget some points. This project helped me understand teamwork and basic database administration.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ishan, your answer shows enthusiasm for the database administrator role, but it lacks a clear structure and professional expression. You jumped between different ideas, such as your project experience and your reasons for wanting the job, without connecting them smoothly. Focus on organizing your thoughts and using more formal language to convey your message effectively.",
+    "strengths": [
+        "You have relevant technical skills like MySQL database design and backup management",
+        "You gained valuable experience from your learning management portal project"
+    ],
+    "weaknesses": [
+        "Your answer lacked a clear and logical structure",
+        "You struggled to express yourself confidently and professionally"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve your structure",
+        "Use more professional vocabulary related to the IT field",
+        "Prepare examples that demonstrate your skills and experience in database administration",
+        "Take a few deep breaths before answering to help manage your nerves and speak more clearly"
+    ],
+    "better_answer_example": "As a recent graduate in information technology with a passion for database administration, I'm excited about the opportunity to work with ITN. In my previous project, a learning management portal for education, I was responsible for designing and implementing course access and role-based logging. Although we faced challenges with logging access and access promises, our team collaborated to resolve these issues through persistence and creative problem-solving. This experience not only deepened my understanding of database administration but also taught me the importance of teamwork and effective communication in a technical role. I believe my skills and experience make me a strong fit for this position, and I'm looking forward to contributing to ITN's success."
+}

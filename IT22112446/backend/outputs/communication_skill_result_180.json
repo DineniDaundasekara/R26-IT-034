@@ -1,0 +1,20 @@
+{
+    "audio_file": "180.wav",
+    "transcript": "My name is Ashini Pereira and I am a recent computing graduate interested in a cyber security analyst role. I practiced network security, risk assessment, and seem through projects. One project was a job portal prototype for recruitment. My work was job filters. We faced irrelevant results, so I helped test a solution. The final system improved job matching.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ashini, your answer is clear and shows you have relevant experience. However, it could be more structured and professional.",
+    "strengths": [
+        "practical experience in network security, risk assessment, and project development",
+        "ability to identify and solve problems"
+    ],
+    "weaknesses": [
+        "answer could be more structured and professional",
+        "some points could be more clearly explained"
+    ],
+    "suggestions": [
+        "use a clear and concise format to present your answer",
+        "provide more details about your projects and experiences"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As a recent computing graduate with a passion for cyber security, I've gained hands-on experience in network security and risk assessment through various projects. In one project, I developed a job portal prototype where I implemented job filters to improve job matching. I'd like to build on this experience and contribute to a team that shares my enthusiasm for cyber security.'"
+}

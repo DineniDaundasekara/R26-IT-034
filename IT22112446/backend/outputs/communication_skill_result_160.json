@@ -1,0 +1,11 @@
+{
+    "audio_file": "160.wav",
+    "transcript": "My name is Sashini Pereira. I am a final year IT undergraduate preparing for a cyber security analyst role. I practiced network security, risk assessment, and seam. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

@@ -1,0 +1,20 @@
+{
+    "audio_file": "215.wav",
+    "transcript": "My name is Chessura Mendarra and my goal is to build a career at a frontend developer. I have hand non-experience with React, JavaScript and Bootstrap. A strong project and ample appointment booking system for healthcare. My responsibility was booking validation. I solved double booking errors by finding the cause, working with the team and testing the solution. The final outcome improved booking accuracy and it improved my confidence and communication.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "You did a great job sharing your experience with the appointment booking system. However, your answer could be more structured and clear. Try to break down your experience into smaller points and explain each one in detail.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work with a team"
+    ],
+    "weaknesses": [
+        "Lack of clarity in the answer",
+        "Limited experience with React, JavaScript and Bootstrap"
+    ],
+    "suggestions": [
+        "Provide more specific examples of your experience",
+        "Practice answering behavioral questions in a clear and structured way"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my previous role, I worked on a project to build an appointment booking system for healthcare. My responsibility was to ensure booking validation. I identified a double booking error and worked with the team to find the cause and test a solution. We implemented a new validation process that improved booking accuracy by 30%. This experience taught me the importance of teamwork and attention to detail in software development.'"
+}

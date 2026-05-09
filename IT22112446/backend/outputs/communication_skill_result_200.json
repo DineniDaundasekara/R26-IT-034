@@ -1,0 +1,20 @@
+{
+    "audio_file": "200.wav",
+    "transcript": "My name is Ashini Pereira and I am preparing for a Cybersecurity Analyst role. I have hand-on practice with Network Security, Risk Assessment and Seem. I worked on a support chat in the customer service domain. My main contribution was response testing. The challenge was on responses. I discussed it with my team, tested the fix and the system improved and circumsistancy.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ashini, your answer is clear, but it's hard to understand the connection between your customer service experience and the Cybersecurity Analyst role. Be specific about how your skills can be applied.",
+    "strengths": [
+        "You have hands-on practice with Network Security, Risk Assessment and Seem"
+    ],
+    "weaknesses": [
+        "You didn't clearly explain how your customer service experience is relevant to the role",
+        "You mentioned a challenge but didn't provide a clear solution"
+    ],
+    "suggestions": [
+        "Provide specific examples of how your skills can be applied to the Cybersecurity Analyst role",
+        "Explain how your customer service experience can be transferred to the role",
+        "Be clear and concise in your answer"
+    ],
+    "better_answer_example": "I'm Ashini Pereira, and I'm excited about the Cybersecurity Analyst role. In my previous customer service experience, I worked on a support chat where I had to respond to complex issues. I applied similar problem-solving skills to Network Security, where I practiced identifying and mitigating risks. I believe my experience can be valuable in this role, and I'm eager to learn and grow."
+}

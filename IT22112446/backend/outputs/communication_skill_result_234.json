@@ -1,0 +1,17 @@
+{
+    "audio_file": "234.wav",
+    "transcript": "My name is Atheru Weijsing. I am an IT intern preparing for a business analyst role. I practice trick wirements, user stories, and you at. I work on a support chatbot for customer service. My part was response testing. The issue was on responses. The system improved answer consistency. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Atheru, you provided a clear introduction, but your answer could be more structured. You mentioned specific projects and skills, but it's not entirely clear how they relate to the business analyst role.",
+    "strengths": [
+        "You mentioned specific projects and skills, such as working on a support chatbot for customer service."
+    ],
+    "weaknesses": [
+        "Your answer could be more structured and clearly explain how your skills relate to the business analyst role."
+    ],
+    "suggestions": [
+        "Provide specific examples of how your skills and experience align with the business analyst role. Use a clear and logical structure to organize your thoughts."
+    ],
+    "better_answer_example": "For example, I could say: 'As an IT intern, I've worked on a support chatbot for customer service, where I focused on response testing and improving answer consistency. This experience has taught me the importance of clear and consistent communication, which is a key aspect of being a business analyst. I believe my skills in this area make me a strong candidate for this role.'"
+}

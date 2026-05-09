@@ -1,0 +1,20 @@
+{
+    "audio_file": "163.wav",
+    "transcript": "My name is Anu DJ A Singh. I am an entry-level IT professional preparing for a database administrator role. I practiced my SQL, database design, and backup management. I worked on XPAN's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but could be more structured. You mentioned specific projects and skills, but didn't explain how they relate to the database administrator role. Try to connect your experiences to the job requirements.",
+    "strengths": [
+        "practiced SQL, database design, and backup management",
+        "improved monthly reports on XPAN's tracking app"
+    ],
+    "weaknesses": [
+        "lacked clear connection to database administrator role",
+        "briefly mentioned a problem, but didn't explain how you solved it"
+    ],
+    "suggestions": [
+        "be more specific about how your skills relate to the job",
+        "explain your problem-solving process in more detail"
+    ],
+    "better_answer_example": "I'm an entry-level IT professional aiming for a database administrator role. To prepare, I focused on SQL, database design, and backup management. In my previous project, I worked on XPAN's tracking app, where I created monthly reports. However, I encountered an issue with categories. To resolve this, I redesigned the report system to make it clearer. This experience has taught me the importance of database management and I'm eager to apply my skills in this role."
+}

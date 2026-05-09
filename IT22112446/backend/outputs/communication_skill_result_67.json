@@ -1,0 +1,22 @@
+{
+    "audio_file": "67.wav",
+    "transcript": "myself chasiora. I like front end developer. I know some react. JavaScript and bootstrap. I did a learning portal for education. My part was course access. We had login issues. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate showed enthusiasm for the front-end developer role and highlighted relevant skills like React, JavaScript, and Bootstrap. However, the answer lacked clarity and structure, making it hard to follow. For instance, the transition from discussing the learning portal project to expressing interest in the job felt abrupt.",
+    "strengths": [
+        "Shows interest in the IT field and the role of a front-end developer",
+        "Mentions specific technologies and a project, indicating some experience"
+    ],
+    "weaknesses": [
+        "Lacks clear and structured communication",
+        "Fails to confidently and professionally express thoughts and experiences"
+    ],
+    "suggestions": [
+        "Practice speaking in a more structured way, using introductions, bodies, and conclusions for answers",
+        "Use more professional vocabulary, such as 'I'm passionate about front-end development' instead of 'I like front end developer'",
+        "Prepare examples from projects that demonstrate problem-solving skills and achievements",
+        "Rehearse answers to common interview questions to improve confidence and clarity"
+    ],
+    "better_answer_example": "Hello, my name is Chasiora, and I'm excited about the front-end developer position. With skills in React, JavaScript, and Bootstrap, I believe I can make a significant contribution. One of my notable projects was a learning portal for education, where I was responsible for course access. We encountered login issues, but through teamwork and perseverance, we were able to resolve them. This experience not only honed my technical skills but also taught me the importance of collaboration and problem-solving. I'm drawn to this role because it aligns with my passion for IT and my desire to create user-friendly, interactive web applications."
+}

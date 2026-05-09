@@ -1,0 +1,22 @@
+{
+    "audio_file": "133.wav",
+    "transcript": "I am made, I want to be cloud support engineer, I studied IT but still learning. I used double shooting and Linux in one foot-duttering app. It was for small business. I done sport a small part. Check errors, it was not big. I think I can work. My talking is not very good.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "The candidate's answer lacks clarity and structure, making it difficult to understand their experience and qualifications for the cloud support engineer role. They mention using double shooting and Linux in a foot-duttering app, but the context and details are unclear. To improve, the candidate should focus on organizing their thoughts and using professional vocabulary to describe their experiences.",
+    "strengths": [
+        "willingness to learn",
+        "some relevant technical knowledge"
+    ],
+    "weaknesses": [
+        "poor communication skills",
+        "lack of confidence in speaking"
+    ],
+    "suggestions": [
+        "practice speaking in front of a mirror or with a friend to improve confidence",
+        "use simple and clear language to explain technical concepts",
+        "prepare examples of projects or experiences that align with the job role",
+        "focus on one main point at a time to improve answer structure"
+    ],
+    "better_answer_example": "In my previous project, I worked on a small business application using Linux and some scripting skills. My role was to troubleshoot and resolve errors, which helped me develop problem-solving skills. Although it was a small part, I learned a lot and I'm excited to apply my skills and knowledge to a cloud support engineer role."
+}

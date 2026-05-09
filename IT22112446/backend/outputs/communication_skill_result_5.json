@@ -1,0 +1,11 @@
+{
+    "audio_file": "5.wav",
+    "transcript": "My name is Shashi Nipereira and I am a recent computing graduate preparing for a QA Engineer role. My background includes hands on work with Selenium Postman and Jira mainly through academic projects, individual practice and collaborative assignment. One area I enjoy most is improving software quality through structured testing with clear ownership. I am applied for this role because I want to strengthen my technical foundation in real production environment and grow into professional who combines problems solving with contest execution. At the same time I actively working on answering under pressure so I can present my ideas more effectively in professional discussions.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

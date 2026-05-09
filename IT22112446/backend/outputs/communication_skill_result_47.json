@@ -1,0 +1,22 @@
+{
+    "audio_file": "47.wav",
+    "transcript": "My name is Tharindu Fernandu and I am finally a software engineering student preparing for software engineer role. I have practiced Java Spring Boots and MySQL through academic work and small projects. One project I work on was inventory tracking dashboard in the inventory management domain. My main contribute was stock update reports and dashboard views. The main issue was data mismatch between reports and stock record. So I checked the problems and discussed it with my team. And the end, the system reduce manual checking and improved stock visibility. I am applying for this job because I want real industry exposure and a chance to improve my technical skills. My strength is team collaboration and I still need to improve using stronger examples in interviews.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Tharindu effectively introduced himself and highlighted his relevant experience with Java Spring Boots and MySQL, showcasing his project work in inventory management. However, to take his interview to the next level, he could focus on providing more specific examples and quantifiable results from his projects, such as the percentage of manual checking reduced or the exact improvement in stock visibility.",
+    "strengths": [
+        "Clear introduction of himself and his background",
+        "Ability to discuss a relevant project and his contributions"
+    ],
+    "weaknesses": [
+        "Lack of specific examples and metrics to demonstrate impact",
+        "Could improve in discussing his role alignment and career goals more clearly"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to provide structured responses",
+        "Prepare examples that highlight not just technical skills but also soft skills like teamwork and problem-solving",
+        "Emphasize what he learned from his projects and how those skills can be applied to the role he's applying for",
+        "Consider ending the interview on a stronger note by reiterating his enthusiasm for the position and the company"
+    ],
+    "better_answer_example": "In my recent project, an inventory tracking dashboard, I led the development of stock update reports and dashboard views. We faced a significant challenge with data mismatch, which I addressed by collaborating with my team to identify the root cause and implement a solution. As a result, we reduced manual stock checking by 30% and improved real-time stock visibility by 25%. This experience not only deepened my understanding of Java Spring Boots and MySQL but also taught me the importance of teamwork and agile problem-solving in software engineering. I'm excited about this role because it offers the opportunity to apply my skills in a real-world setting and continue to grow as a professional."
+}

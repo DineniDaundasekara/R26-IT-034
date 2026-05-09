@@ -1,0 +1,20 @@
+{
+    "audio_file": "246.wav",
+    "transcript": "My name is Dulany Wyj Singh. I am an IT intern preparing for a product owner assistant role. I practice agile planning, backlog, and take older communication. I work time appointment booking system for healthcare. My part was booking validation. The issue was double booking errors. The system improved booking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but could be more structured. You mentioned specific skills and a project, but didn't explain how they relate to the product owner assistant role.",
+    "strengths": [
+        "practicing agile planning",
+        "improving booking accuracy"
+    ],
+    "weaknesses": [
+        "lack of clear role alignment",
+        "insufficient explanation of skills"
+    ],
+    "suggestions": [
+        "provide specific examples of how your skills relate to the product owner assistant role",
+        "explain how your project experience can be applied to the role"
+    ],
+    "better_answer_example": "In my previous role as an IT intern, I worked on a time appointment booking system for healthcare. My responsibilities included booking validation, where I identified and resolved double booking errors. This experience taught me the importance of agile planning and effective communication in ensuring booking accuracy. As a product owner assistant, I believe I can leverage these skills to prioritize tasks, manage backlogs, and collaborate with stakeholders to deliver high-quality products."
+}

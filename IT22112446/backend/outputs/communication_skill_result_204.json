@@ -1,0 +1,20 @@
+{
+    "audio_file": "204.wav",
+    "transcript": "My name is Arashi Pereira and I am preparing for a system analyst role. I have hand-on practice with process modeling, documentation, and SQL. I worked on learning portal in the education domain. My main contribution was course access. The challenge was login issues. I discussed it with my team, tested the fix, and the system improved student access.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Arashi, your answer was clear, but could be more structured. You mentioned specific skills and a project, but didn't fully explain how they relate to the system analyst role.",
+    "strengths": [
+        "hand-on practice with process modeling, documentation, and SQL",
+        "identified and fixed a login issue"
+    ],
+    "weaknesses": [
+        "answer could be more structured",
+        "did not fully explain how skills relate to the system analyst role"
+    ],
+    "suggestions": [
+        "provide a clear and concise overview of the system analyst role",
+        "explain how your skills and experience align with the role"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'In my previous role as a system analyst, I worked on a project to improve student access to a learning portal. I used my skills in process modeling and documentation to identify and fix a login issue that was causing problems. This experience has prepared me well for this role, where I will be working on similar projects to improve system efficiency and user experience.'"
+}

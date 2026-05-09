@@ -1,0 +1,20 @@
+{
+    "audio_file": "226.wav",
+    "transcript": "My name is Duranee Weige Singh, and my goal is to build a career as a product owner assistant. I have hand non-experience with agile planning, backlog, and stakeholder communication. A strong project and mempels a job portal prototype for recruitment. My responsibility was job filters. I solved irrelevant results I find in the cause, working with the team, and testing the solution. The final outcome improved job matching, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer could be more clear and concise. You mentioned your goal and experience, but it's hard to understand how it relates to the role of a product owner assistant.",
+    "strengths": [
+        "You have experience working with a team and testing solutions",
+        "You were able to improve job matching on a job portal prototype"
+    ],
+    "weaknesses": [
+        "Your answer was not very clear and concise",
+        "You mentioned having no experience with agile planning, backlog, and stakeholder communication"
+    ],
+    "suggestions": [
+        "Be more specific about your experience and how it relates to the role",
+        "Practice answering behavioral questions to improve your clarity and concision"
+    ],
+    "better_answer_example": "I'm excited to apply for the product owner assistant role because I have experience working on a job portal prototype where I was responsible for job filters. I improved the job matching by solving irrelevant results and working with the team to test the solution. I believe this experience has prepared me to effectively communicate with stakeholders and plan agile projects."
+}

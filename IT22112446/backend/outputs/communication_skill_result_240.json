@@ -1,0 +1,20 @@
+{
+    "audio_file": "240.wav",
+    "transcript": "My name is Sashini Pereira. I am a final year IT undergraduate preparing for a cyber security analyst role. I practiced network security, risk assessment, and seam. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear introduction, but your answer could be more structured. You mentioned specific projects, but didn't explain your role in them. Try to focus on your achievements and how they relate to the cyber security analyst role.",
+    "strengths": [
+        "You have experience working on a food ordering app for e-commerce",
+        "You practiced network security, risk assessment, and seam"
+    ],
+    "weaknesses": [
+        "Your answer lacked clarity and structure",
+        "You didn't explain how your projects relate to the cyber security analyst role"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions with a clear structure",
+        "Focus on specific achievements and how they relate to the role"
+    ],
+    "better_answer_example": "I'm a final year IT undergraduate with a strong interest in cyber security. In my previous project, I worked on a food ordering app for e-commerce, where I was responsible for implementing checkout validation to prevent cart calculation errors. This experience has given me a solid understanding of network security and risk assessment, which I believe are essential skills for a cyber security analyst. I'm excited to apply my knowledge and skills to this role and continue learning and growing."
+}

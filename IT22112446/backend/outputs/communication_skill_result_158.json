@@ -1,0 +1,11 @@
+{
+    "audio_file": "158.wav",
+    "transcript": "My name is Keshen Paris. I am an IT intern preparing for a data engineer role. I practiced Python, SQL, and ETL pipelines. I worked on learning portal for education. My part was core access. The issue was login issues. The system improved student access. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

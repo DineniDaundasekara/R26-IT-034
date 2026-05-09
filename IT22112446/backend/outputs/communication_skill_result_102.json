@@ -1,0 +1,22 @@
+{
+    "audio_file": "102.wav",
+    "transcript": "Myself Ishani, I am final year IT undergraduate and I like QA engineer work. I know some API testing, Jira not expert but I tried. I did food ordering application for e-commerce. It was not very big, just a project but I worked on it with my team. My part was, wrote test cases and some other things. We had UI consistency issue so sometimes we changed again and again. The project helped because it made the work flow faster. I want this job because I like it and I can learn sometimes I get nervous and I forget points. But I am trying to improve my speaking and do the work best.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Ishani, your answer shows enthusiasm for the QA engineer role, but it lacks a clear structure and professional expression. You jumped between different ideas, such as your experience with API testing, the food ordering application project, and your desire to learn and improve. To improve, focus on organizing your thoughts and using more professional vocabulary to describe your experiences and skills.",
+    "strengths": [
+        "Showed enthusiasm for the QA engineer role",
+        "Shared relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacked a clear structure in the answer",
+        "Used informal language and hesitated during the response"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use more professional vocabulary, such as 'utilized' instead of 'tried'",
+        "Prepare examples of your experiences and practice speaking about them to improve confidence",
+        "Emphasize specific skills and accomplishments relevant to the QA engineer role, such as 'developed and executed test cases'"
+    ],
+    "better_answer_example": "As a final-year IT undergraduate, I'm excited about the QA engineer role because it aligns with my interests and skills. In my recent project, a food ordering application for e-commerce, I worked with my team to develop and execute test cases, ensuring UI consistency and resolving issues that arose. Although it was a small project, it helped me understand the importance of thorough testing and collaboration. I'm eager to apply my skills and knowledge in API testing and Jira, and I'm confident that this role will provide opportunities for growth and learning."
+}

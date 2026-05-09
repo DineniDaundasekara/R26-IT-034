@@ -1,0 +1,22 @@
+{
+    "audio_file": "128.wav",
+    "transcript": "Hello Myself Nihari, I am Final Year IT Undergraduate and Looking for Software Engineer Work. I know basic REST API and Spring. I made learning portal with friends. It was about education. I did simple task and sometimes not understanding requirement. After asking team, I fixed some part. I need this job. I like computer side.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Nihari, your answer shows that you have some experience with REST API and Spring, and you've worked on a learning portal project, which is great. However, your answer could be more structured and clear. You jumped between different ideas, such as introducing yourself, talking about your project, and expressing your need for the job. Try to connect your ideas more logically and use more professional vocabulary to describe your experiences and skills.",
+    "strengths": [
+        "You have hands-on experience with relevant technologies like REST API and Spring",
+        "You've worked on a team project, which shows your ability to collaborate"
+    ],
+    "weaknesses": [
+        "Your answer lacks a clear structure and coherence",
+        "You used simple vocabulary and sentence structures"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to structure your answers",
+        "Use more professional and technical terms to describe your skills and experiences",
+        "Prepare examples that demonstrate your skills and accomplishments in software engineering",
+        "Show enthusiasm and confidence when talking about your interests and qualifications for the role"
+    ],
+    "better_answer_example": "As a final-year IT undergraduate, I'm excited to apply for a software engineer position. In my recent project, a learning portal, I applied my knowledge of REST API and Spring to develop a user-friendly education platform. I worked with my team to design and implement key features, and when I encountered challenges, I collaborated with my team to resolve them. For instance, when I was unsure about a requirement, I asked for clarification and then implemented the necessary changes. This experience not only deepened my understanding of software development but also taught me the importance of teamwork and communication in achieving project goals."
+}

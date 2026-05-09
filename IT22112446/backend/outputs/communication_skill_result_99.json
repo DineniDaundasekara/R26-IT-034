@@ -1,0 +1,22 @@
+{
+    "audio_file": "99.wav",
+    "transcript": "My name is Adisha Silva. I am an entry-level IT professional preparing for a I-engineer role. I practiced Python, NLP, and Model evaluation. I worked on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Adisha, your introduction is clear, but the structure of your answer could be improved. You jumped directly into your project without explaining how your skills in Python, NLP, and model evaluation are relevant to the I-engineer role. Focus on connecting your technical skills to the job requirements and elaborate on your achievements in the project.",
+    "strengths": [
+        "Clear introduction of yourself and your role",
+        "Completeness in covering your experience and interest in improving skills"
+    ],
+    "weaknesses": [
+        "Lack of structure in presenting your experience",
+        "Limited professional vocabulary and expressions"
+    ],
+    "suggestions": [
+        "Start with a brief overview of your background and how it aligns with the I-engineer role",
+        "Use transitional phrases to connect your ideas and make your answer more cohesive",
+        "Practice using more professional terms related to the IT field",
+        "Prepare examples that demonstrate your problem-solving skills and achievements in your projects"
+    ],
+    "better_answer_example": "As an entry-level IT professional aiming for an I-engineer role, I've been focusing on developing my skills in Python, NLP, and model evaluation. Recently, I worked on a job portal prototype, where I was responsible for designing and implementing job filters. The challenge was to improve the relevance of job matching results. By applying my knowledge of NLP and model evaluation, I was able to enhance the system's performance, leading to more accurate job matches. This experience not only deepened my understanding of IT applications but also motivated me to further improve my skills and contribute to innovative projects like this in the future."
+}

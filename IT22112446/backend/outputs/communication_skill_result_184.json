@@ -1,0 +1,19 @@
+{
+    "audio_file": "184.wav",
+    "transcript": "My name is Tharashi Pereira, and I am a recent computing graduate interested in a system analyst role. I practiced process modeling, documentation, and SQL through projects. One project was a sales dashboard for business. My work was sales reports. We faced missing data, so I helped test a solution. The final system made reporting easier.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Tharashi, your answer is clear, but it could be more structured. You mentioned specific projects, but didn't explain your role in them. Try to focus on your achievements and how they relate to the system analyst role.",
+    "strengths": [
+        "You have experience with process modeling, documentation, and SQL"
+    ],
+    "weaknesses": [
+        "Your answer could be more structured and focused on your achievements"
+    ],
+    "suggestions": [
+        "Provide specific examples of your work as a system analyst",
+        "Explain how your skills align with the system analyst role",
+        "Use a clear and concise structure in your answer"
+    ],
+    "better_answer_example": "I'm a recent computing graduate with a strong interest in system analysis. In my final project, I worked on a sales dashboard for a business, where I was responsible for designing and implementing the data model. This experience taught me the importance of data quality and how to handle missing data. I'm excited to bring my skills in process modeling, documentation, and SQL to a system analyst role, where I can help organizations improve their data-driven decision making."
+}

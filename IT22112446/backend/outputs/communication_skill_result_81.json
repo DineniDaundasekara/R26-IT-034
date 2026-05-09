@@ -1,0 +1,22 @@
+{
+    "audio_file": "81.wav",
+    "transcript": "My name is Tharindu Pereira. I am a recent computing graduate preparing for a software engineer role. I practiced Java, Spring Boot, and my SQL. I worked on inventory dashboard for inventory. My part was talk reports. The issue was made a mismatch. The system reduced manual checking. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Tharindu, your introduction is clear, but your answer lacks a structured approach to explaining your experience and skills. You jump between different topics, such as your education, technical skills, and project work, without connecting them smoothly. To improve, focus on creating a narrative that showcases your strengths and relevance to the software engineer role.",
+    "strengths": [
+        "Clear introduction of yourself and your background",
+        "Relevant technical skills mentioned for the role"
+    ],
+    "weaknesses": [
+        "Lack of structure in presenting your experience and skills",
+        "Limited professional vocabulary and expression"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to structure your responses",
+        "Enhance your professional vocabulary by learning industry-specific terms and phrases",
+        "Focus on highlighting achievements and the impact of your work rather than just tasks",
+        "Prepare examples that demonstrate your problem-solving skills and alignment with the software engineer role"
+    ],
+    "better_answer_example": "As a recent computing graduate with a strong foundation in Java, Spring Boot, and MySQL, I'm excited to apply for a software engineer position. In my previous project, I worked on an inventory dashboard, specifically on the reporting feature. I encountered an issue with data mismatch, which I resolved by implementing an automated checking system, significantly reducing manual effort. This experience not only honed my technical skills but also taught me the importance of attention to detail and efficient problem-solving. I'm eager to continue improving my skills and contributing to innovative projects as a software engineer."
+}

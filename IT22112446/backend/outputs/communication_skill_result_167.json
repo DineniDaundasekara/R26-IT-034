@@ -1,0 +1,21 @@
+{
+    "transcript": "My name is Adisha Silva. I am an entry-level IT professional preparing for a I-engineer role. I practiced Python, NLP, and Model evaluation. I worked on a job portal prototype for recruitment. My part was job filters. The issue was irrelevant results. The system improved job matching. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Adisha, your introduction is clear, but the structure of your answer could be improved. You jumped directly to your project without explaining how your skills in Python, NLP, and model evaluation are relevant to the I-engineer role. Focus on connecting your technical skills to the job requirements and elaborate on your achievements in the project.",
+    "strengths": [
+        "Clear introduction of yourself and your role",
+        "Completeness in covering the main points of your experience"
+    ],
+    "weaknesses": [
+        "Lack of structure in presenting your experience",
+        "Limited professional vocabulary and expressions"
+    ],
+    "suggestions": [
+        "Start with a brief overview of your background and how it aligns with the I-engineer role",
+        "Use transitional phrases to connect your ideas and make your answer more cohesive",
+        "Practice using more professional terms related to the IT field",
+        "Prepare specific examples of how you applied your skills in Python, NLP, and model evaluation to the job portal prototype"
+    ],
+    "better_answer_example": "As an entry-level IT professional with a strong foundation in Python, NLP, and model evaluation, I am excited about the I-engineer role. In my recent project, a job portal prototype for recruitment, I was responsible for developing job filters. Initially, we faced the challenge of irrelevant results, but by applying my skills in model evaluation and NLP, I was able to improve the system's job matching capabilities significantly. This experience not only deepened my understanding of how technical skills can be applied to real-world problems but also instilled in me a desire to further enhance my abilities in IT, particularly in areas that can contribute to more efficient and effective recruitment processes."
+}

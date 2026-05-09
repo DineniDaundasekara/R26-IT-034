@@ -1,0 +1,22 @@
+{
+    "audio_file": "64.wav",
+    "transcript": "myself new one. I like you I slash a designer. I know some figma, wire frames, and usability testing. I did a student management system for education. My part was student records. We had unclear requirements. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate's answer lacked clarity and structure, making it difficult to understand their role in the student management system project and how their skills align with the job. Although they mentioned relevant tools like Figma and usability testing, the explanation was brief and lacked specific examples.",
+    "strengths": [
+        "Mentioned relevant technical skills like Figma and usability testing",
+        "Showed enthusiasm for the IT field"
+    ],
+    "weaknesses": [
+        "Lacked clear and concise explanation of their project experience",
+        "Failed to demonstrate a strong understanding of the job requirements"
+    ],
+    "suggestions": [
+        "Practice explaining technical projects in a simple and structured way",
+        "Prepare examples that demonstrate how your skills and experience align with the job requirements",
+        "Use professional vocabulary and avoid filler words",
+        "Show confidence by maintaining eye contact and speaking clearly"
+    ],
+    "better_answer_example": "As a designer, I had the opportunity to work on a student management system for education, where my primary responsibility was to develop the student records feature. Initially, we faced some challenges due to unclear requirements, but through iterative testing and feedback, we were able to refine the system and deliver a user-friendly solution. I utilized tools like Figma to create wireframes and conducted usability testing to ensure the system met the needs of its users. I'm excited about this role because it aligns with my passion for IT and design, and I believe my skills and experience make me a strong fit."
+}

@@ -1,0 +1,20 @@
+{
+    "audio_file": "194.wav",
+    "transcript": "My name is Laferu Weig Singh, and I'm preparing for a business analyst role. I have hands on practice with requirements, user stories, and you at. I worked on learning portal in the education domain. My main contribution was course access. The challenge was login issues. I discussed it with my team, tested the fix, and the system improved student access.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Laferu, your answer is clear and easy to understand. However, it would be better to provide more context about your role in the project and how your contribution impacted the business.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work with a team"
+    ],
+    "weaknesses": [
+        "Lack of business impact explanation",
+        "Limited project context"
+    ],
+    "suggestions": [
+        "Provide specific examples of how your contribution affected the business",
+        "Explain your role in the project and how it relates to the business analyst position"
+    ],
+    "better_answer_example": "In my previous role as a business analyst, I worked on a project to improve student access to courses on a learning portal. My main contribution was designing a new login system that reduced login issues by 30%. This improvement led to a significant increase in student engagement and course completion rates. I achieved this by collaborating with the development team, testing the new system, and gathering feedback from students. This experience has prepared me to analyze business needs and develop solutions that drive business growth."
+}

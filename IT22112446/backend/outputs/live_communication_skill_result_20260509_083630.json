@@ -1,0 +1,21 @@
+{
+    "transcript": "I am a final year software engineering student and I like data engineering work. I know some Python, SQL and ATL pipelines. I did learning management per portal for education. It was not a big project, but I learned things from it. My project art was about course access and role-based logging.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate's answer provides some relevant information about their background and project experience, but it lacks clarity and structure. To improve, focus on clearly explaining your role in the project, the technologies used, and the challenges you overcame, and try to use more professional vocabulary to describe your work.",
+    "strengths": [
+        "Relevant technical skills mentioned",
+        "Attempt to provide a specific project example"
+    ],
+    "weaknesses": [
+        "Lack of clear project explanation",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice explaining technical concepts in simple terms",
+        "Use a structured approach to answer questions, such as STAR method",
+        "Focus on highlighting achievements and lessons learned from projects",
+        "Prepare to talk about your role in the project and how it aligns with the job description"
+    ],
+    "better_answer_example": "In my final year of software engineering, I developed a strong interest in data engineering, particularly in using Python, SQL, and Azure pipelines to manage and analyze data. One project that stands out is the learning management portal I worked on, where I focused on implementing role-based logging and course access features. Although it was a relatively small project, I learned a great deal about the importance of access control and data security in educational platforms. I believe this experience has given me a solid foundation to contribute to data engineering projects and I'm excited to apply my skills in a professional setting."
+}

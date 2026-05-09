@@ -1,0 +1,22 @@
+{
+    "audio_file": "62.wav",
+    "transcript": "myself, I like car engineer. I know some Selenium, Postman, and Gear. I did expense tracking app for finance. My part was monthly reports. We had wrong categories. We fixed it after riding. I won't this job because I like IT.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "The candidate's answer lacked clarity and structure, making it difficult to understand their experience and skills. For example, they mentioned working on an expense tracking app, but the explanation of their role and the problem they solved was unclear. To improve, it's essential to practice explaining technical projects and experiences in a simple and organized way.",
+    "strengths": [
+        "Shows enthusiasm for the IT field",
+        "Has experience with relevant tools like Selenium and Postman"
+    ],
+    "weaknesses": [
+        "Struggles to express thoughts clearly",
+        "Fails to provide specific details about their projects"
+    ],
+    "suggestions": [
+        "Practice speaking about technical projects using simple language",
+        "Use a structured approach to answer questions, starting with an introduction, then the problem, and finally the solution",
+        "Focus on highlighting specific skills and experiences relevant to the job role",
+        "Prepare examples that demonstrate problem-solving skills and teamwork"
+    ],
+    "better_answer_example": "In my previous project, I worked as a car engineer and developed an expense tracking app for finance. My role was to generate monthly reports, but we encountered an issue with incorrect categories. I collaborated with my team to identify the problem and implement a solution, which improved the accuracy of our reports. This experience not only deepened my understanding of tools like Selenium and Postman but also taught me the importance of attention to detail and teamwork in IT projects."
+}

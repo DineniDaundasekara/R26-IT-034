@@ -1,0 +1,11 @@
+{
+    "audio_file": "149.wav",
+    "transcript": "My name is Tharindu Pereira. I am a recent computing graduate preparing for a software engineer role. I practiced Java, Spring Boot, and my SQL. I worked on inventory dashboard for inventory. My part was talk reports. The issue was made a mismatch. The system reduced manual checking. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

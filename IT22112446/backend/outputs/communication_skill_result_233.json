@@ -1,0 +1,20 @@
+{
+    "audio_file": "233.wav",
+    "transcript": "My name is Dylan Madu Sanker. I am a recent computing graduate preparing for a dev-op engineer role. I practiced soccer, GitHub actions, and all. I worked on X-Pen's tracking app for finance. My part was monthly reports. The issue was on categories. The system made reports clearer. I want to improve my skills.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "You could have been more clear about your role in the project and how your skills align with the dev-op engineer position. Try to give more specific examples.",
+    "strengths": [
+        "practiced GitHub actions",
+        "improved the system's reporting feature"
+    ],
+    "weaknesses": [
+        "poor communication skills",
+        "lack of clarity in describing your role"
+    ],
+    "suggestions": [
+        "research the company and the role before the interview",
+        "prepare specific examples of your skills and experiences"
+    ],
+    "better_answer_example": "I'm Dylan, a recent computing graduate with a passion for dev-op engineering. In my previous role at X-Pen, I worked on the tracking app's finance feature, where I was responsible for creating monthly reports. I identified an issue with categorization and improved the system's reporting feature, making it clearer for users. I'm excited to apply my skills in this role and continue learning."
+}

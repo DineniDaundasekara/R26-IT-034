@@ -1,0 +1,20 @@
+{
+    "audio_file": "176.wav",
+    "transcript": "My name is Superncarna Racer and I am a recent computing graduate interested in a Macand developer role. I practiced Node.js, Express.js, and MondoDB through projects. One project was a X-Penstraking app for Finance. My work was monthly reports. We faced wrong categories, so I helped test a solution. The final system made reports clearer.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Your answer is clear, but could be more structured. You mentioned specific projects, but didn't explain your role in them. Try to be more specific about your responsibilities and how they relate to the position.",
+    "strengths": [
+        "You have experience with Node.js, Express.js, and MongoDB",
+        "You can work on a team to solve problems"
+    ],
+    "weaknesses": [
+        "Your answer could be more structured and clear",
+        "You didn't explain how your projects relate to the Mac and developer role"
+    ],
+    "suggestions": [
+        "Use a clear and concise format to present your answer",
+        "Explain how your projects and skills align with the position"
+    ],
+    "better_answer_example": "I'm Superncarna Racer, a recent computing graduate interested in a Mac and developer role. In my previous project, I worked on a X-Penstraking app for Finance as a developer. My main responsibility was to create monthly reports using Node.js and MongoDB. When we encountered issues with wrong categories, I helped test a solution and worked with the team to implement a new system that made reports clearer. This experience has taught me the importance of teamwork and problem-solving in a Mac and developer role."
+}

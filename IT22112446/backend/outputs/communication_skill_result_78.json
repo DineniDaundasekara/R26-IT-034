@@ -1,0 +1,22 @@
+{
+    "audio_file": "78.wav",
+    "transcript": "myself do not need. I like product owner assistant. I know some agile planning, Mac log, and take older communication. I did inventory dashboard for inventory. My part was talk reports. We had made a mismatch. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "The candidate's answer lacks clarity and structure, making it difficult to understand their experience and skills. They seem to have some relevant knowledge, such as agile planning and creating an inventory dashboard, but struggle to express it in a professional and concise manner.",
+    "strengths": [
+        "Some relevant technical knowledge",
+        "Attempt to provide a specific example from their experience"
+    ],
+    "weaknesses": [
+        "Poorly structured answer",
+        "Lack of professional vocabulary and expression"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Improve vocabulary by learning common IT and business terms",
+        "Focus on clearly explaining accomplishments and skills",
+        "Prepare to talk about why you're a good fit for the role and company"
+    ],
+    "better_answer_example": "In my previous role, I worked as a product owner assistant where I applied agile planning principles and utilized tools like Mac log to enhance team communication. One of my key accomplishments was developing an inventory dashboard, where I was responsible for creating reports. Initially, we encountered a mismatch, but through collaborative effort, we were able to resolve the issue. This experience not only deepened my understanding of IT but also taught me the importance of effective communication in a team. I'm excited about this job because it aligns with my passion for IT and my skills in agile planning and communication."
+}

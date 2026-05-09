@@ -1,0 +1,11 @@
+{
+    "audio_file": "2.wav",
+    "transcript": "My name is Amanda Ratnaike and I am an early career professional with about one year of experience preparing for a date and a list role. My background includes hands-on work with Tablu, Excel and SQL, mainly through academic projects, individual practice and collaborative assignments. One area I enjoy most is understanding business needs and translating them into systems. For example, I contributed to a job portal prototype in the inventory management domain where I learned how to plan tasks, communicate with teammates and deliver features with clear ownership. I am applying for this role because I want to strengthen my engineering foundation in a real production environment and grow into a professional who combines adaptability with consistent execution. At the same time, I am actively working on reducing filler words while speaking so I can present my ideas more effectively in technical decisions. A project I am proud of is a food ordering application created for the inventory management domain. I worked in a team of three and my main contributions were to build the backend APIs and develop the user interface components. We used Power BI Python and Data Cleaning to build the solution. One of the main challenges was integration errors to address it. I broke the problem into smaller tasks, discussed options with the team and tested the final approach before integration. Project was valuable because it is not only strengthen my technical understanding but also taught me how to communicate progress clearly and collaborate under pressure. As a result, the final system made the product easier to maintain and in our internal review we estimated an improvement of by several lovers each week.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

@@ -1,0 +1,19 @@
+{
+    "audio_file": "190.wav",
+    "transcript": "My name is Camercileva, and I am preparing for a card and an ear roll. I have hand-on practice with Selenium, Postman, and Hero. I work on a support chat part in the customer service domain. My main contribution was response testing. The challenge was on responses. I discussed it with my team, tested the fix, and the system improved and circumsistancy.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Camercileva, your answer was clear, but it was hard to understand what you were preparing for. You mentioned specific tools, but it would be better to explain how they relate to the role.",
+    "strengths": [
+        "You have hands-on experience with Selenium, Postman, and Hero"
+    ],
+    "weaknesses": [
+        "Your answer was unclear about the project or role you're preparing for",
+        "You mentioned a challenge, but didn't clearly explain how you overcame it"
+    ],
+    "suggestions": [
+        "Be more specific about the project or role you're preparing for",
+        "Explain how you overcame the challenge you mentioned"
+    ],
+    "better_answer_example": "I'm preparing for a customer service chatbot project, where I used Selenium to automate testing and Postman to test API responses. My main contribution was improving response testing, which involved discussing the issue with my team, testing the fix, and seeing significant improvements in system performance."
+}

@@ -1,0 +1,11 @@
+{
+    "audio_file": "145.wav",
+    "transcript": "Hello I am Pooja. I want to be cloud support engineer and I study but still learning. I use Linux and monitoring, one foot door in app. It was small. I done small part and I like it at page. It was not a big project. I can work if guide me. My talking is not good.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

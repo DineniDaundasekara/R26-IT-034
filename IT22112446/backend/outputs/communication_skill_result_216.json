@@ -1,0 +1,20 @@
+{
+    "audio_file": "216.wav",
+    "transcript": "My name is Supercarna Ressena, and my goal is to build a career as a Mac and developer. I have hand-man experience with Node.js, Express.js, and MandoDB, a strong project and mempels a job portal prototype for recruitment. My responsibility was job filters. I solved irrelevant results I find in the cause, working with the team, and testing the solution. The final outcome improved job matching, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You provided a clear overview of your career goals, but your answer could be more concise. You also mentioned irrelevant technologies like MandoDB.",
+    "strengths": [
+        "Strong project management skills",
+        "Good communication skills"
+    ],
+    "weaknesses": [
+        "Lack of focus on relevant technologies",
+        "Inconsistent grammar and spelling"
+    ],
+    "suggestions": [
+        "Focus on the most relevant technologies for the role",
+        "Practice answering questions with a timer to improve concision"
+    ],
+    "better_answer_example": "I'm Supercarna Ressena, and I'm excited to build a career as a Mac developer. With hands-on experience in Node.js, Express.js, and MongoDB, I've developed a strong project management skillset. In my previous role, I led a team to create a job portal prototype, where I was responsible for job filters. I identified and solved irrelevant results, working closely with the team to test and refine the solution. This experience improved job matching and boosted my confidence in communication."
+}

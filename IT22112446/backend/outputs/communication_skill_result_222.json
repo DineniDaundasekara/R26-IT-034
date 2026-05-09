@@ -1,0 +1,21 @@
+{
+    "audio_file": "222.wav",
+    "transcript": "My name is Ness Meilver, and my goal is to build a career as a mobile app developer. I have hand-on experience with Flutter, Firebase, and REST API. A strong project and mempels I expand tracking app for finance. My responsibility was monthly reports. I solved wrong categories by finding the cause, working with the team, and testing the solution. The final outcome made reports clearer, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "You did a great job sharing your experience and goals. However, your answer could be more structured and clear. For example, you could start by explaining how your experience with Flutter, Firebase, and REST API relates to the project.",
+    "strengths": [
+        "Good experience with Flutter, Firebase, and REST API",
+        "Confident communication"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Some sentences are hard to understand"
+    ],
+    "suggestions": [
+        "Use a clear and concise introduction to set the context",
+        "Provide more details about your experience and how it relates to the project",
+        "Use simple language to make your answer easier to understand"
+    ],
+    "better_answer_example": "Here's an example of a better answer: 'As a mobile app developer, I'm excited to apply my skills in building a career in this field. With hands-on experience in Flutter, Firebase, and REST API, I'm confident in my ability to create a user-friendly and efficient app. In my previous project, I worked on an expense tracking app for finance, where I was responsible for creating monthly reports. I identified an issue with incorrect categories and worked with the team to find a solution, which improved the clarity of the reports and boosted my confidence in communication.'"
+}

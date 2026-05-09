@@ -1,0 +1,21 @@
+{
+    "audio_file": "162.wav",
+    "transcript": "My name is Esmi Silva. I am an IT intern preparing for a mobile app developer role. I practiced Flutter, Firebase, and REST API. I worked on a bus tracking mobile app for transport. My part was out tracking. The issue was GPS delay. The system improved tracking accuracy. I want to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Esmi, your answer was clear, but could be more structured. You mentioned specific skills and a project, but didn't explain how they relate to the role. Try to connect your experiences to the job requirements.",
+    "strengths": [
+        "practiced Flutter, Firebase, and REST API",
+        "improved tracking accuracy"
+    ],
+    "weaknesses": [
+        "lack of clear connection between skills and role",
+        "brief explanation of project responsibilities"
+    ],
+    "suggestions": [
+        "be more specific about how your skills apply to the role",
+        "explain your project responsibilities in more detail",
+        "provide examples of how you overcame challenges"
+    ],
+    "better_answer_example": "I'm Esmi Silva, an IT intern aiming for a mobile app developer role. I've practiced Flutter, Firebase, and REST API, and applied them to a bus tracking app project. My task was to implement out-tracking, which involved addressing GPS delay issues. I successfully improved tracking accuracy, demonstrating my ability to apply technical skills to real-world problems. To further improve, I'd focus on refining my skills in these areas and exploring more complex projects."
+}

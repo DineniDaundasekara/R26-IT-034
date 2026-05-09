@@ -1,0 +1,22 @@
+{
+    "audio_file": "34.wav",
+    "transcript": "My name is Kassundi Fanando and I am a final ES of KIA Engineering student preparing for a software engineering role. I have a practiced Java, Springwood and MySQL through academic work and small projects. One project I work on was inventory tracking dashboard in inventory management domain. My domain contribution was stock update reports and dashboard waves. The main issue was data mismatch between reports and stock records. So I checked the problem and discussed it with my team at the technical skills. My strength is team collaboration but I still need to improve using stronger example in interviews.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kassundi, your introduction is clear, but your project explanation could be more structured and detailed. You mentioned a specific project, the inventory tracking dashboard, but could elaborate more on your role and the technical skills you applied to resolve the data mismatch issue.",
+    "strengths": [
+        "Team collaboration",
+        "Clear introduction"
+    ],
+    "weaknesses": [
+        "Lack of detailed project explanation",
+        "Limited use of professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice explaining technical projects in a step-by-step manner",
+        "Use more professional terms like 'data inconsistency' instead of 'data mismatch'",
+        "Prepare examples that demonstrate your problem-solving skills",
+        "Emphasize your contributions to the project and the skills you used"
+    ],
+    "better_answer_example": "In my final year project, I developed an inventory tracking dashboard using Java, Spring, and MySQL. I was responsible for designing and implementing the stock update reports and dashboard visualizations. One of the key challenges we faced was data inconsistency between the reports and stock records. I worked closely with my team to identify the root cause and implemented a data validation mechanism to ensure data accuracy. Through this project, I not only improved my technical skills in Java and MySQL but also enhanced my collaboration and problem-solving skills."
+}

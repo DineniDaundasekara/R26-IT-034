@@ -1,0 +1,22 @@
+{
+    "audio_file": "30.wav",
+    "transcript": "My name is Shashi Nipereira and I am a recent computing graduate preparing for a QA Engineer role. My background includes hands on work with Selenium Postman and Jira mainly through academic projects, individual practice and collaborative assignment. One area I enjoy most is improving software quality through structured testing with clear ownership. I am applied for this role because I want to strengthen my technical foundation in real production environment and grow into professional who combines problems solving with contest execution. At the same time I actively working on answering under pressure so I can present my ideas more effectively in professional discussions.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Shashi, your introduction is clear and you effectively highlighted your relevant tools experience with Selenium, Postman, and Jira. However, to improve, focus on aligning your goals and motivations more closely with the QA Engineer role and demonstrate a deeper understanding of how your skills can contribute to the position.",
+    "strengths": [
+        "Clear introduction of yourself and background",
+        "Relevant tools experience mentioned"
+    ],
+    "weaknesses": [
+        "Lack of clear role alignment in your motivation",
+        "Limited professional vocabulary used"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions to improve your ability to give specific examples",
+        "Use more professional terms related to QA engineering, such as 'test automation' or 'quality assurance'",
+        "Emphasize how your skills can solve real-world problems in the QA field",
+        "Prepare to discuss your experience with collaborative tools and how they enhance your work"
+    ],
+    "better_answer_example": "As a recent computing graduate with hands-on experience in Selenium, Postman, and Jira, I'm excited about the QA Engineer role because it allows me to apply my technical skills in a real-world setting, enhancing software quality through structured testing. My goal is to leverage my understanding of test automation and quality assurance principles to contribute to the team's success and grow as a professional who effectively solves problems and executes projects."
+}

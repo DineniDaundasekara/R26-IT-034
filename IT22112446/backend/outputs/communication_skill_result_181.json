@@ -1,0 +1,20 @@
+{
+    "audio_file": "181.wav",
+    "transcript": "My name is Amanda Erdysing, and I am an IT intern interested in a cloud engineer role. I practiced AWS, Linux, and Terraform through projects. One project was a learning portal for education. My work was course access. We faced login issues, so I helped test a solution. The final system improved student access.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Amanda, your answer is clear and easy to understand. However, it would be more effective if you started by explaining the specific cloud engineer skills you used in your project, such as AWS, Linux, and Terraform.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work on real-world projects"
+    ],
+    "weaknesses": [
+        "Lack of clear explanation of technical skills",
+        "Could have provided more details about the project"
+    ],
+    "suggestions": [
+        "Provide specific examples of cloud engineer skills used",
+        "Explain the technical aspects of the project in more detail"
+    ],
+    "better_answer_example": "I'm Amanda Erdysing, an IT intern interested in a cloud engineer role. In my project, I used AWS to deploy a learning portal for education. I also utilized Linux to manage the server and Terraform to automate the infrastructure. One of my key responsibilities was ensuring course access for students. When we encountered login issues, I helped test a solution that improved student access. Through this project, I gained hands-on experience with cloud engineering tools and developed problem-solving skills."
+}

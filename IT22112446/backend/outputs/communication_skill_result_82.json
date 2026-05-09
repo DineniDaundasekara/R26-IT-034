@@ -1,0 +1,22 @@
+{
+    "audio_file": "82.wav",
+    "transcript": "My name is Chamath Silver. I am an IT intern preparing for a car engineer role. I practiced Selenium, Postman, and Geera. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Chamath, your answer shows enthusiasm, but lacks clarity and structure. You jumped between introducing yourself, mentioning tools, and describing a project without connecting them logically. To improve, focus on creating a cohesive narrative that highlights your relevant skills and experiences for the car engineer role.",
+    "strengths": [
+        "You showed eagerness to improve your skills",
+        "You mentioned specific tools like Selenium and Postman"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in your answer",
+        "Insufficient alignment of your experience with the car engineer role"
+    ],
+    "suggestions": [
+        "Practice organizing your thoughts before speaking",
+        "Use transitional phrases to connect your ideas",
+        "Emphasize how your skills, such as checkout validation, can be adapted to the car engineer role",
+        "Prepare examples that demonstrate your problem-solving skills in a relevant context"
+    ],
+    "better_answer_example": "As an IT intern with a passion for transitioning into a car engineer role, I've been focusing on developing skills that can be applied to both fields. For instance, my experience with Selenium and Postman has taught me about the importance of precision and testing, which I believe can be valuable in ensuring the quality of automotive systems. In my recent project, a food ordering app, I worked on checkout validation, which involved resolving cart calculation errors to improve the overall user experience. This project taught me about the need for meticulous testing and validation, skills that I'm eager to apply in a car engineering context, where precision and safety are paramount."
+}

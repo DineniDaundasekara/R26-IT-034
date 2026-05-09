@@ -1,0 +1,22 @@
+{
+    "audio_file": "60.wav",
+    "transcript": "My name is Kavidu Silva and I am an intern with the academic project experience preparing for mobile development role. I have practiced flatter firebase and rest API's true academic work and small projects. One project type work on was sales analytics dashboard in the small business operation domain. My main contribution was sales charts and monthly reporting. The main issue was missing values in sales records. I checked the problem and discussed it with my team. At the end, the system made reporting clear for business decision making. I am applying for this role because I want to real industry expose and a chance to improve my technical skills. My strength is ownership of tasks but I still need to improve reducing fila words.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Kavidu, your answer provides a good overview of your experience and skills, but it would be more effective if you could clearly align your project experience with the mobile development role you're applying for. You also tend to use filler words, which can make you appear less confident.",
+    "strengths": [
+        "ownership of tasks",
+        "ability to work on sales analytics dashboard"
+    ],
+    "weaknesses": [
+        "lack of role alignment in answer",
+        "using filler words"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions to improve structure and clarity",
+        "Use specific examples to demonstrate skills and experience",
+        "Focus on the impact of your work on the business",
+        "Record yourself and listen to identify areas for improvement in your spoken English"
+    ],
+    "better_answer_example": "In my academic project, I developed a sales analytics dashboard using Firebase and REST APIs, which helped a small business make data-driven decisions. I was responsible for creating sales charts and monthly reports, and I successfully addressed the issue of missing values in sales records by collaborating with my team. This experience has given me a solid foundation in mobile development, and I'm excited to apply my skills in a real-world setting and continue to grow as a professional."
+}

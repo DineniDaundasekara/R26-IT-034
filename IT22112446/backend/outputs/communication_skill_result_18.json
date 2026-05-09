@@ -1,0 +1,22 @@
+{
+    "audio_file": "18.wav",
+    "transcript": "Myself, Kabindu, I am entry-level IT professional and I like business analysis work. I know some requirement gathering user stories and UAT. I did a bus tracking mobile app for transport. It was not a big project, but I learned things from it. My project part was about road tracking and live location updates. There were many problems. Mainly GPS delay and inter-integrate location updates. We fixed it after trying many times. I want this job because I like it and I think I can do it, do the work. Sometimes I get nervous when I speak and I forget some points. This project helped me understand teamwork and basic business requirement analysis.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kabindu, your answer showed enthusiasm for business analysis, but lacked clarity and structure. You jumped between different aspects of your project without connecting them clearly to the job role. Focus on aligning your experiences and skills directly with the position you're applying for.",
+    "strengths": [
+        "You have hands-on experience with a relevant project",
+        "You acknowledged areas for personal improvement, such as nervousness during speaking"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in your answer",
+        "Insufficient alignment of your skills and experience with the job requirements"
+    ],
+    "suggestions": [
+        "Practice speaking about your projects in a structured way, starting with an introduction, followed by the challenge, your actions, and the outcome",
+        "Use more professional vocabulary related to business analysis and IT",
+        "Prepare examples that directly relate to the job description to show your relevance for the role",
+        "Work on your confidence by practicing interviews with a friend or mentor, focusing on maintaining eye contact and a steady voice"
+    ],
+    "better_answer_example": "As an entry-level IT professional with a passion for business analysis, I'd like to highlight my experience with a bus tracking mobile app. My role involved requirement gathering, creating user stories, and conducting UAT. Specifically, I worked on the road tracking and live location update feature, which presented challenges like GPS delay and integrating location updates. Through perseverance and teamwork, we overcame these issues. This project not only taught me about teamwork and basic business requirement analysis but also showed me how my skills can be applied to real-world problems. I believe my experience and skills align well with this job, and I'm excited about the opportunity to contribute and grow as a business analyst."
+}

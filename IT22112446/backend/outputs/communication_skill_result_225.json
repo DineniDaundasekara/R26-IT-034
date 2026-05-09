@@ -1,0 +1,20 @@
+{
+    "audio_file": "225.wav",
+    "transcript": "My name is Bibi Fernando, and my goal is to build a career and support engineer. I have hand non-experience with decoding, Windows troubleshooting, and network basics. A strong product and ample in appointment booking system for healthcare. My responsibility was booking validation. I solved double booking errors by finding the cause, working with the team, and testing the solution. The final outcome improved booking accuracy, and it improved my confidence and communication.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Bibi, you did a good job sharing your experience and goals. However, your answer could be more focused on the skills and experiences relevant to the role of a support engineer.",
+    "strengths": [
+        "You have experience with a product and appointment booking system for healthcare",
+        "You were able to solve a double booking error and improve booking accuracy"
+    ],
+    "weaknesses": [
+        "You mentioned you have no experience with decoding, Windows troubleshooting, and network basics",
+        "Your answer could be more structured and clear"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions in a clear and structured way",
+        "Research and learn about decoding, Windows troubleshooting, and network basics to improve your skills"
+    ],
+    "better_answer_example": "I'd like to give an example of a time when I used my problem-solving skills to resolve an issue. In my previous role, I encountered a double booking error in the appointment system. I worked with the team to identify the cause, tested a solution, and implemented it. As a result, the booking accuracy improved, and I gained confidence in my ability to troubleshoot and resolve technical issues."
+}

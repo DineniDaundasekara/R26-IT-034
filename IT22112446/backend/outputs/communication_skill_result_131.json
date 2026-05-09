@@ -1,0 +1,22 @@
+{
+    "audio_file": "131.wav",
+    "transcript": "My name is Premadi. I am a new person for IT work and I like front-end developer and know some things JavaScript. My project learning portal, I help education little bit, I face issue and confuse also. But project finish, I was a won't chance to learn. I am not speak professional.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Premadi, your passion for front-end development and willingness to learn are great strengths. However, your answer could be improved by clearly structuring your thoughts and using more professional vocabulary. For instance, instead of saying 'I am not speak professional', you could say 'I'm working on improving my professional communication skills'.",
+    "strengths": [
+        "Passion for front-end development",
+        "Willingness to learn and take on new projects"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Limited professional vocabulary"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use online resources to improve your professional English vocabulary",
+        "Prepare examples of your projects and experiences before the interview",
+        "Focus on confidently and clearly delivering your message"
+    ],
+    "better_answer_example": "As a front-end developer, I'm excited about creating user-friendly interfaces. In my recent project, a learning portal, I applied my JavaScript skills to help make education more accessible. Although I faced some challenges, I was able to overcome them and complete the project, which was a great learning experience for me."
+}

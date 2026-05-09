@@ -1,0 +1,22 @@
+{
+    "audio_file": "70.wav",
+    "transcript": "myself cashin'. I like David and Janere. I know some Python, SQL, and ETL pipelines. I did a sales dashboard for business. My part was sales reports. We had missing David. We fixed it after trying. I want this job because I like IT.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "The candidate's answer lacks clarity and professional expression, making it hard to understand their role in the sales dashboard project and how their skills align with the job. They mentioned working with David and Janere, but it's unclear how they contributed to the team or what they learned from the experience.",
+    "strengths": [
+        "Completed a sales dashboard project",
+        "Familiarity with Python, SQL, and ETL pipelines"
+    ],
+    "weaknesses": [
+        "Lack of clear structure in the answer",
+        "Unprofessional tone and language"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to improve structure",
+        "Use professional vocabulary and avoid slang or colloquialisms",
+        "Prepare examples that demonstrate skills and accomplishments relevant to the job",
+        "Show enthusiasm and confidence when talking about the job and industry"
+    ],
+    "better_answer_example": "In my previous project, I worked with a team to develop a sales dashboard for a business. My role was to create sales reports using Python and SQL, and I also helped design ETL pipelines to ensure data accuracy. When we encountered an issue with missing data, I collaborated with my team, including David, to resolve it. I'm excited about this job because it aligns with my interests in IT and allows me to apply my technical skills to drive business growth."
+}

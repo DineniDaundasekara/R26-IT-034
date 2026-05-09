@@ -1,0 +1,11 @@
+{
+    "audio_file": "155.wav",
+    "transcript": "My name is Chasura and I'm an entry-level IT professional preparing for a front-end developer role. I practiced React, JavaScript, and Bootstrap. I worked on a student management system for education. My part was student records. The issue was unclear requirements. The system reduced duplicate records. I wanted to improve my skills.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

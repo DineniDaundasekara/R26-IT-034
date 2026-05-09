@@ -1,0 +1,22 @@
+{
+    "audio_file": "29.wav",
+    "transcript": "My name is Sashini Pereira, and I am a recent computing graduate preparing for a QA engineer role. My background includes hands-on work with Selenium, Postman, and Gira, mainly through academic projects, individual practice, and collaborative assignments. One area I enjoy most is improving software quality through structured testing. For example, I contributed to a expense tracking application in the Finance domain, where I learned how to plan tasks, communicate with teammates, and deliver features with clear ownership. I am applying for this role because I want to strengthen my technical foundation in a real production environment, and grow into a professional who combines problem solving with consistent execution. At the same time, I am actively working on answering under pressure so I can present my ideas more effectively in professional discussions. A project I am proud of is the expense tracking application, which was created for the Finance domain. I worked in a team of four, and my main contribution was to develop reporting features and categorized transaction data. We use Selenium, Postman, and Gira to build and validate the solution. One of the main challenges was unclear transaction categories. To address it, I broke the issue into smaller parts, discussed possible solutions with the team, and tested the final approach before completing the integration. The project was valuable because it improved my technical understanding and taught me how to communicate progress clearly under deadlines. As a result, the final system helped users understand spending patterns more clearly.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "You provided a clear overview of your background and experience in QA engineering, highlighting your hands-on work with Selenium, Postman, and Gira. However, to strengthen your application, it would be beneficial to more explicitly align your skills and experiences with the specific requirements of the QA engineer role you are applying for.",
+    "strengths": [
+        "Clear description of technical skills and tools",
+        "Ability to provide specific examples from past projects"
+    ],
+    "weaknesses": [
+        "Lack of direct alignment with the QA engineer role requirements",
+        "Some repetition in mentioning the expense tracking application"
+    ],
+    "suggestions": [
+        "Prepare to discuss how your skills and experiences directly meet the job requirements",
+        "Practice structuring your answer to cover a variety of projects and experiences",
+        "Focus on highlighting unique challenges and how you overcame them in your projects",
+        "Work on confidently and concisely presenting your ideas under time pressure"
+    ],
+    "better_answer_example": "As a recent computing graduate with a strong foundation in QA engineering, I am excited to apply for this role because it aligns with my passion for improving software quality. In my academic projects and personal initiatives, I have gained hands-on experience with Selenium, Postman, and Gira, which I believe are essential tools for a QA engineer. One of my notable projects was an expense tracking application for the Finance domain, where I developed reporting features and categorized transaction data. I successfully addressed the challenge of unclear transaction categories by breaking down the issue, discussing solutions with my team, and testing our approach. This project not only deepened my technical understanding but also taught me the importance of clear communication under deadlines. I am eager to bring my skills and enthusiasm to a real production environment and contribute to delivering high-quality software solutions."
+}

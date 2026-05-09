@@ -1,0 +1,22 @@
+{
+    "audio_file": "28.wav",
+    "transcript": "My name is Kasuni Fernando and I am an entry-level IT professional preparing for a data analyst role. My background includes hands-on work with Python, SQL, and Power BI, mainly through academic projects, individual practice, and collaborative assignments. One area I enjoy most is turning raw data into useful business insights. For example, I contributed to a learning management portal in the Education Domain, where I learned how to plan tasks, communicate with teammates, and deliver features with clear ownership. I am applying for this role because I want to strengthen my technical foundation in a real production environment, and grow into a professional who combines ownership of tasks with consistent execution. At the same time, I am actively working on presenting project impact more clearly so I can present my ideas more effectively in professional discussions. A project I am proud of is the learning management portal, which was created for the Education Domain. I worked in a team of five and my main contribution was to develop course modules and validated student access flows. We used Python, SQL, and Power BI to build and validate the solution. One of the main challenges was role-based access issues. To address it, I broke the issue into smaller parts, discussed possible solutions with the team, and tested the final approach before completing the integration. The project was valuable because it improved my technical understanding and taught me how to communicate progress clearly under deadlines. As a result, the final system made the learning process smoother for students and lecturers.",
+    "predicted_level": 4,
+    "communication_skill_level": "Excellent Communication",
+    "feedback": "Kasuni, your answer effectively conveys your passion for data analysis and experience with relevant tools like Python, SQL, and Power BI. You provided a clear example of your project experience, highlighting your problem-solving skills and teamwork. However, there's room for improvement in structuring your answer to more directly address the role's requirements and in using more professional vocabulary to describe your skills and experiences.",
+    "strengths": [
+        "Providing specific examples from past projects",
+        "Showing enthusiasm for the data analyst role and its challenges"
+    ],
+    "weaknesses": [
+        "Could improve in directly aligning experiences with the job requirements",
+        "Sometimes uses simplistic language to describe complex technical skills"
+    ],
+    "suggestions": [
+        "Practice structuring your answers around the STAR method (Situation, Task, Action, Result) to better align with job requirements",
+        "Use more professional and technical vocabulary to describe your skills and experiences",
+        "Prepare to answer common data analyst interview questions to improve confidence",
+        "Consider highlighting soft skills, such as communication and teamwork, in addition to technical skills"
+    ],
+    "better_answer_example": "As a detail-oriented and analytical individual with a strong foundation in Python, SQL, and Power BI, I am excited about the data analyst role. In my previous project, a learning management portal for the Education Domain, I applied my technical skills to develop course modules and validate student access flows. By collaborating with a team of five, I not only enhanced my technical abilities but also learned the importance of clear communication in delivering project outcomes. I am eager to leverage my skills and experience in a real production environment, further developing my ability to derive meaningful insights from data and present them effectively to stakeholders."
+}

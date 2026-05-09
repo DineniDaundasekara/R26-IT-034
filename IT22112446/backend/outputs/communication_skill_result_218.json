@@ -1,0 +1,20 @@
+{
+    "audio_file": "218.wav",
+    "transcript": "My name is Keshen Paris, and my goal is to build a career as a data engineer. I have hand-on experience with Python, SQL, and ETL pipelines. A strong project and ample inventory dashboard for inventory. My responsibility was to report. I solved data mismatch, I finding the cause, working with the team, and testing the solution. The final outcome reduced manual checking, and it improved my confidence and communication.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Your answer clearly states your career goal and relevant experience. However, it would be more effective to provide specific examples of how you applied your skills in a data engineering context.",
+    "strengths": [
+        "Good communication skills",
+        "Ability to work with a team"
+    ],
+    "weaknesses": [
+        "Lack of specific project examples",
+        "Limited explanation of technical skills"
+    ],
+    "suggestions": [
+        "Provide a detailed example of a data engineering project you worked on",
+        "Explain how you applied technical skills such as Python, SQL, and ETL pipelines"
+    ],
+    "better_answer_example": "In my previous role as a data engineer, I worked on a project to build an inventory dashboard using Python and SQL. I was responsible for designing the ETL pipeline to extract data from multiple sources and load it into a data warehouse. Through this project, I gained hands-on experience with data engineering tools and developed strong problem-solving skills. I would be happy to discuss this project further and explain how I applied my technical skills to achieve the desired outcome."
+}

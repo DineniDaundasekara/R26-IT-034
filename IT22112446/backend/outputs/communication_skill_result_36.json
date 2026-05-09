@@ -1,0 +1,22 @@
+{
+    "audio_file": "36.wav",
+    "transcript": "My name is Amanda Idri Singh and I am an entry-level IT professional preparing for data analyst role. I have practiced Python, SQL and Power BI through academic work and small projects. One project I work on was job portal prototype in the requirement domain. My domain contribution was job search filters and profile matching the main issue was irrelevant job results. So, I check the problem and discuss with my team at the end the system improved job matching and help user find more suitable roles. I am applying for this job role because I want real industry exposure and a chance to improve my technical skills. My strength is clear communication but I still need to improve presenting project impact more clearly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Amanda effectively introduced herself and highlighted her relevant technical skills, such as Python, SQL, and Power BI, which align with the data analyst role. However, she could improve by providing more specific examples of how her skills were applied in the job portal prototype project and clearly quantifying the impact of her contributions, such as the percentage improvement in job matching.",
+    "strengths": [
+        "clear communication",
+        "relevant technical skills"
+    ],
+    "weaknesses": [
+        "lack of specific examples",
+        "difficulty in presenting project impact clearly"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method to provide structured responses",
+        "Use numbers and statistics to demonstrate the impact of your work",
+        "Prepare examples that showcase your skills and experience in data analysis",
+        "Focus on confident and professional body language during the interview"
+    ],
+    "better_answer_example": "In my academic projects and small-scale data analysis tasks, I developed strong skills in Python, SQL, and Power BI. One project that stands out was the development of a job portal prototype, where I focused on creating job search filters and profile matching algorithms. Initially, we faced the challenge of irrelevant job results, but through rigorous testing and discussion with my team, we were able to improve the system's job matching capability by 30%, significantly enhancing the user experience. This project not only deepened my understanding of data analysis but also taught me the importance of collaborative problem-solving. I am excited about this data analyst role as it offers the opportunity to apply my skills in a real-world setting, further refine my technical abilities, and contribute meaningfully to the organization."
+}

@@ -1,0 +1,11 @@
+{
+    "audio_file": "150.wav",
+    "transcript": "My name is Chamath Silver. I am an IT intern preparing for a car engineer role. I practiced Selenium, Postman, and Geera. I worked on a food ordering app for e-commerce. My part was checkout validation. The issue was cart calculation errors. The system made ordering faster. I want to improve my skills.",
+    "predicted_level": 1,
+    "communication_skill_level": "Poor Communication",
+    "feedback": "Feedback generation failed. Please check the Groq API key, internet connection, or model availability.",
+    "strengths": [],
+    "weaknesses": [],
+    "suggestions": [],
+    "better_answer_example": ""
+}

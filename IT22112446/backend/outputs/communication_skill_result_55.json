@@ -1,0 +1,22 @@
+{
+    "audio_file": "55.wav",
+    "transcript": "My name is Nadisha Silva and I am an entry-level IG professional preparing for a full-stack developer role. I have practiced react, not JS and my SQL through academic work and small projects. One project I worked on was sales analytics and dashboard in small business operation domain. My main contribution was sales charts and monthly reporting. The main issue was missing values in sales records. So I checked the problem and discussed it with my team. At the end, the system made reporting easier and for business decision making. I am applying for the digital because I want real industry exposed and chance to improve my technical skills. My strength is problem solving but I still need to improve explaining technical ideas more briefly.",
+    "predicted_level": 3,
+    "communication_skill_level": "Good Communication",
+    "feedback": "Nadisha, your introduction is clear and you effectively highlighted your experience with React and SQL. However, there are areas where you can improve, such as providing more concise explanations of technical concepts and enhancing the structure of your response to better align with the role of a full-stack developer.",
+    "strengths": [
+        "clear introduction of yourself and background",
+        "ability to identify and discuss a specific project and its challenges"
+    ],
+    "weaknesses": [
+        "difficulty in explaining technical ideas briefly",
+        "need for improvement in structuring the interview answer"
+    ],
+    "suggestions": [
+        "Practice summarizing technical concepts into shorter, more impactful statements",
+        "Use a more structured approach to answering questions, such as the STAR method",
+        "Emphasize how your skills and experiences align with the requirements of a full-stack developer role",
+        "Prepare examples that demonstrate your problem-solving skills and ability to work in a team"
+    ],
+    "better_answer_example": "As an entry-level IG professional with a background in React and SQL, I'm excited about the opportunity to apply my skills in a full-stack developer role. In my previous project, a sales analytics and dashboard for a small business, I successfully addressed the issue of missing values in sales records by collaborating with my team and implementing effective data visualization techniques. This experience not only honed my problem-solving skills but also taught me the importance of clear communication in technical projects. I believe my strengths in problem-solving and my passion for improving my technical skills make me a strong fit for this role, and I look forward to the opportunity to contribute to and learn from a professional team."
+}

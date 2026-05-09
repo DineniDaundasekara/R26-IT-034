@@ -1,0 +1,22 @@
+{
+    "audio_file": "10.wav",
+    "transcript": "Myself Kasuni, I am a final year IT undergraduate and I like software engineer work. I know some Java Springboard and my SQL. I did bus tracking mobile app for transport. It was not a big project but I learned things from it. My project part was about route tracking and live location updates. There were many problems, mainly GPS delay and inaccurate location updates. We fixed it after trying many times. I want this job because I like it and I think I can do it. Sometimes I get nervous when I speak and I forget some points. This project helped me understanding teamwork and basic backend development.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Kasuni, your answer shows enthusiasm for the software engineer role, but it lacks a clear structure and professional expression. You jumped between different points, such as your project, skills, and personal qualities. To improve, focus on organizing your thoughts and using more formal language to convey your message effectively.",
+    "strengths": [
+        "Showed passion for the software engineer role",
+        "Shared a relevant project experience"
+    ],
+    "weaknesses": [
+        "Lacked a clear and structured answer",
+        "Used informal language and simple sentences"
+    ],
+    "suggestions": [
+        "Practice answering behavioral questions using the STAR method",
+        "Use more professional vocabulary, such as 'utilized Java Spring' instead of 'know some Java Springboard'",
+        "Prepare examples that demonstrate your skills and experience in software engineering",
+        "Take a few seconds to collect your thoughts before answering to reduce nervousness"
+    ],
+    "better_answer_example": "As a final-year IT undergraduate, I'm excited about the software engineer role. In my recent project, a bus tracking mobile app, I utilized Java Spring and MySQL to develop the route tracking and live location updates feature. Although we faced challenges like GPS delay and inaccurate location updates, our team collaborated to resolve them. This experience not only deepened my understanding of teamwork and backend development but also taught me the importance of persistence in troubleshooting. I believe my skills and passion for software engineering make me a strong fit for this role."
+}

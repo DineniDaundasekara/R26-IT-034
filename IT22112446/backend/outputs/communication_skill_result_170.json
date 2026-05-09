@@ -1,0 +1,19 @@
+{
+    "audio_file": "170.wav",
+    "transcript": "My name is Chamath Silver, and I am an entry-level IT professional interested in a car engineer role. I practiced Selenium, Postman, and Gera through Projects. One project was a job portal prototype for recruitment. My work was job filters. We faced irrelevant results, so I helped test a solution. The final system improved job matching.",
+    "predicted_level": 2,
+    "communication_skill_level": "Average Communication",
+    "feedback": "Chamath, your answer is clear, but it's not directly related to the car engineer role. You should focus on how your IT skills can be applied to the automotive industry.",
+    "strengths": [
+        "You have hands-on experience with Selenium, Postman, and Gera through projects"
+    ],
+    "weaknesses": [
+        "Your answer lacks direct connection to the car engineer role",
+        "You didn't explain how your IT skills can be applied to the automotive industry"
+    ],
+    "suggestions": [
+        "Provide specific examples of how your IT skills can be applied to the car engineer role",
+        "Emphasize your transferable skills, such as problem-solving or analytical skills"
+    ],
+    "better_answer_example": "I'm an entry-level IT professional interested in a car engineer role. In my previous projects, I applied my knowledge of Selenium to automate testing for automotive systems. I also used Postman to test APIs for vehicle tracking systems. These experiences have given me a solid foundation in understanding how IT can be applied to the automotive industry."
+}
