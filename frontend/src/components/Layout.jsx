@@ -11,7 +11,7 @@ export default function Layout({ children }) {
 
   return (
     <div className="flex h-screen bg-gray-50 text-gray-900 font-sans">
-      <aside className="w-64 bg-white border-r border-gray-200 flex flex-col">
+      { /* <aside className="w-64 bg-white border-r border-gray-200 flex flex-col">
         <div className="p-6">
           <h1 className="text-2xl font-black bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 tracking-tighter">
             RiskAssess AI.
@@ -37,7 +37,7 @@ export default function Layout({ children }) {
         <div className="p-6 text-xs text-center text-gray-400 font-medium">
           Rule-based XAI Core<br />No LLMs Active
         </div>
-      </aside>
+      </aside> */}
       <main className="flex-1 overflow-y-auto w-full relative">
         {children}
       </main>

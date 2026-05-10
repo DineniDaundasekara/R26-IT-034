@@ -1,0 +1,9 @@
+{
+  "name": "ai-hiring-system",
+  "version": "1.0.0",
+  "scripts": {
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend-node",
+    "dev:python": "cd backend-python && source venv/bin/activate && uvicorn main:app --reload --port 8000"
+  }
+}
