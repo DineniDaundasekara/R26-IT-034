@@ -1,13 +1,15 @@
 import React, { useMemo, useState } from "react";
 import axios from "axios";
 import "./Prediction.css";
+import Sidebar from "../components/Sidebar";
 
 const SCALE_OPTIONS = [1, 2, 3, 4, 5];
-const NAV_ITEMS = ["Dashboard", "Prediction", "Results & History", "Model Information", "About"];
 
 const QUESTION_BANK = {
   sie: {
-    title: "Internship Experience (SIE1-SIE14)",
+    title: "Internship Experience (SIE1–SIE14)",
+    icon: "💼",
+    subtitle: "Rate your internship experience.",
     groups: [
       {
         title: "Clear Internship Objectives",
@@ -45,8 +47,11 @@ const QUESTION_BANK = {
       },
     ],
   },
+
   comp: {
-    title: "Competence (C1-C10)",
+    title: "Competence (C1–C10)",
+    icon: "🎓",
+    subtitle: "Rate your competence and abilities.",
     groups: [
       {
         title: "Life and Career Competencies",
@@ -75,8 +80,11 @@ const QUESTION_BANK = {
       },
     ],
   },
+
   psy: {
-    title: "Psychological Capital (PsyCap1-PsyCap14)",
+    title: "Psychological Capital (PsyCap1–PsyCap14)",
+    icon: "🧠",
+    subtitle: "Rate your psychological strengths.",
     groups: [
       {
         title: "Hope",
@@ -118,9 +126,8 @@ const QUESTION_BANK = {
 
 const sections = Object.entries(QUESTION_BANK).map(([key, value]) => ({
   key,
-  title: value.title,
+  ...value,
   items: value.groups.flatMap((group) => group.items),
-  groups: value.groups,
 }));
 
 const getLevelClass = (level) => {
@@ -136,10 +143,33 @@ const getDimensionStrength = (avg) => {
   return "Developing";
 };
 
+const getFeedback = (score, level) => {
+  if (score === null) {
+    return "Complete the questionnaire and click Predict Employability to view personalized feedback.";
+  }
+
+  const normalized = (level || "").toLowerCase();
+
+  if (normalized === "high") {
+    return "Your overall employability is High. Continue building on your strengths and keep growing.";
+  }
+
+  if (normalized === "medium") {
+    return "Your overall employability is Medium. Strengthen lower-scoring areas to improve readiness.";
+  }
+
+  return "Your overall employability needs improvement. Focus on internship exposure, competence, and psychological strengths.";
+};
+
 const Prediction = () => {
-  const [sieValues, setSieValues] = useState(Array(sections.find((section) => section.key === "sie").items.length).fill(4));
-  const [compValues, setCompValues] = useState(Array(sections.find((section) => section.key === "comp").items.length).fill(4));
-  const [psyValues, setPsyValues] = useState(Array(sections.find((section) => section.key === "psy").items.length).fill(4));
+  const sieSection = sections.find((section) => section.key === "sie");
+  const compSection = sections.find((section) => section.key === "comp");
+  const psySection = sections.find((section) => section.key === "psy");
+
+  const [sieValues, setSieValues] = useState(Array(sieSection.items.length).fill(4));
+  const [compValues, setCompValues] = useState(Array(compSection.items.length).fill(4));
+  const [psyValues, setPsyValues] = useState(Array(psySection.items.length).fill(4));
+
   const [openSection, setOpenSection] = useState("sie");
   const [showAll, setShowAll] = useState({ sie: false, comp: false, psy: false });
 
@@ -155,7 +185,9 @@ const Prediction = () => {
   const SIE_avg = useMemo(() => average(sieValues), [sieValues]);
   const Comp_avg = useMemo(() => average(compValues), [compValues]);
   const PsyCap_avg = useMemo(() => average(psyValues), [psyValues]);
-  const qualityLabel = score === null ? "--" : (Number(score) >= 4 ? "High" : Number(score) >= 3 ? "Medium" : "Low");
+
+  const displayLevel = level || "No Prediction";
+  const feedback = getFeedback(score, level);
 
   const handleChange = (type, index, value) => {
     const parsed = Number(value);
@@ -164,11 +196,15 @@ const Prediction = () => {
       const updated = [...sieValues];
       updated[index] = parsed;
       setSieValues(updated);
-    } else if (type === "comp") {
+    }
+
+    if (type === "comp") {
       const updated = [...compValues];
       updated[index] = parsed;
       setCompValues(updated);
-    } else if (type === "psy") {
+    }
+
+    if (type === "psy") {
       const updated = [...psyValues];
       updated[index] = parsed;
       setPsyValues(updated);
@@ -205,74 +241,64 @@ const Prediction = () => {
   };
 
   const handleReset = () => {
-    setSieValues(Array(sections.find((section) => section.key === "sie").items.length).fill(4));
-    setCompValues(Array(sections.find((section) => section.key === "comp").items.length).fill(4));
-    setPsyValues(Array(sections.find((section) => section.key === "psy").items.length).fill(4));
+    setSieValues(Array(sieSection.items.length).fill(4));
+    setCompValues(Array(compSection.items.length).fill(4));
+    setPsyValues(Array(psySection.items.length).fill(4));
     setScore(null);
     setLevel("");
   };
 
   return (
-    <div className="prediction-dashboard">
-      <aside className="prediction-sidebar">
-        <div className="brand-wrap">
-          <div className="brand-icon">EP</div>
-          <div>
-            <h2>Employability Prediction System</h2>
-          </div>
-        </div>
-
-        <nav className="sidebar-nav">
-          {NAV_ITEMS.map((item) => (
-            <button
-              key={item}
-              type="button"
-              className={`nav-item ${item === "Prediction" ? "active" : ""}`}
-            >
-              {item}
-            </button>
-          ))}
-        </nav>
-
-        <div className="sidebar-footer-card">
-          <p className="sidebar-footer-title">Admin User</p>
-          <p className="sidebar-footer-sub">admin@eps.edu</p>
-        </div>
-      </aside>
+    <div className="dashboard-layout">
+      <Sidebar />
 
       <main className="prediction-main">
-        <header className="page-header">
-          <h1>Employability Prediction System</h1>
-          <p>Predict and assess employability based on key factors</p>
-        </header>
+        <header className="prediction-topbar">
+          <div>
+            <h1>Employability Prediction System</h1>
+            <p>Predict and assess employability based on key factors</p>
+          </div>
 
-        <section className="top-stats">
-          <article className="stat-card highlight">
-            <p>Latest Prediction</p>
-            <h3>{score !== null ? Number(score).toFixed(2) : "--"}</h3>
-            <span>{qualityLabel}</span>
-          </article>
-          <article className="stat-card">
-            <p>Internship Average</p>
-            <h3>{SIE_avg.toFixed(2)}</h3>
-            <span>{getDimensionStrength(SIE_avg)}</span>
-          </article>
-          <article className="stat-card">
-            <p>Competence Average</p>
-            <h3>{Comp_avg.toFixed(2)}</h3>
-            <span>{getDimensionStrength(Comp_avg)}</span>
-          </article>
-          <article className="stat-card">
-            <p>PsyCap Average</p>
-            <h3>{PsyCap_avg.toFixed(2)}</h3>
-            <span>{getDimensionStrength(PsyCap_avg)}</span>
-          </article>
-        </section>
+          <div className="topbar-user">
+            <span className="help-icon">?</span>
+            <span className="user-avatar">U</span>
+            <span>User⌄</span>
+          </div>
+        </header>
+        <section className="dynamic-stats">
+  <article className="dynamic-stat-card main-stat">
+    <p>Latest Prediction</p>
+    <h3>{score !== null ? Number(score).toFixed(2) : "--"}</h3>
+    <span className={getLevelClass(level)}>{level || "No Prediction"}</span>
+  </article>
+
+  <article className="dynamic-stat-card">
+    <p>Internship Average</p>
+    <h3>{SIE_avg.toFixed(2)}</h3>
+    <span>{getDimensionStrength(SIE_avg)}</span>
+  </article>
+
+  <article className="dynamic-stat-card">
+    <p>Competence Average</p>
+    <h3>{Comp_avg.toFixed(2)}</h3>
+    <span>{getDimensionStrength(Comp_avg)}</span>
+  </article>
+
+  <article className="dynamic-stat-card">
+    <p>PsyCap Average</p>
+    <h3>{PsyCap_avg.toFixed(2)}</h3>
+    <span>{getDimensionStrength(PsyCap_avg)}</span>
+  </article>
+</section>
 
         <div className="prediction-layout">
           <section className="input-panel">
             <div className="panel-head">
-              <h3>Input Factors</h3>
+              <div>
+                <h3>Input Factors</h3>
+                <p>Please rate the following statements on a scale of 1 to 5.</p>
+              </div>
+
               <div className="scale-help">
                 <span>1 = Strongly Disagree</span>
                 <span>5 = Strongly Agree</span>
@@ -285,7 +311,9 @@ const Prediction = () => {
                 section={section}
                 values={getValuesByType(section.key)}
                 isOpen={openSection === section.key}
-                onToggle={() => setOpenSection(openSection === section.key ? "" : section.key)}
+                onToggle={() =>
+                  setOpenSection(openSection === section.key ? "" : section.key)
+                }
                 onChange={handleChange}
                 showAll={showAll[section.key]}
                 onToggleShowAll={() =>
@@ -298,45 +326,55 @@ const Prediction = () => {
             ))}
 
             <div className="form-actions">
-              <button type="button" className="predict-btn secondary" onClick={handleReset} disabled={loading}>
-                Reset
+              <button className="predict-btn" onClick={handlePredict} disabled={loading}>
+                ↗ {loading ? "Predicting..." : "Predict Employability"}
               </button>
-              <button type="button" className="predict-btn" onClick={handlePredict} disabled={loading}>
-                {loading ? "Predicting..." : "Predict Employability"}
+
+              <button className="predict-btn secondary" onClick={handleReset} disabled={loading}>
+                ⟳ Reset
               </button>
             </div>
           </section>
 
           <aside className="result-card">
-            <h3>Prediction Result</h3>
-            <p className="result-label">Predicted Employability Score</p>
+            <div className="result-head">
+              <div className="result-head-icon">↗</div>
+              <h3>Prediction Result</h3>
+            </div>
 
-            <p className="score-value">{score !== null ? Number(score).toFixed(2) : "--"}</p>
+            <div className="score-area">
+              <p className="result-label">Predicted Employability Score</p>
 
-            <div className="level-wrap">
-              <span className={`level-badge ${getLevelClass(level)}`}>
-                {level || "No Prediction"}
-              </span>
+              <p className="score-value">
+                {score !== null ? Number(score).toFixed(2) : "--"}
+              </p>
+
+              <div className="score-line"></div>
+
+              <p className="result-level-title">Predicted Level</p>
+
+              <div className="level-wrap">
+                <span className={`level-badge ${getLevelClass(level)}`}>
+                  ↗ {displayLevel}
+                </span>
+              </div>
             </div>
 
             <div className="summary-box">
               <h4>Dimension Summary</h4>
-              <div className="summary-row">
-                <span>Internship Experience</span>
-                <strong>{getDimensionStrength(SIE_avg)}</strong>
-              </div>
-              <div className="summary-row">
-                <span>Competence</span>
-                <strong>{getDimensionStrength(Comp_avg)}</strong>
-              </div>
-              <div className="summary-row">
-                <span>Psychological Capital</span>
-                <strong>{getDimensionStrength(PsyCap_avg)}</strong>
-              </div>
+
+              <SummaryRow icon="💼" label="Internship Experience" value={getDimensionStrength(SIE_avg)} />
+              <SummaryRow icon="🎓" label="Competence" value={getDimensionStrength(Comp_avg)} />
+              <SummaryRow icon="🧠" label="Psychological Capital" value={getDimensionStrength(PsyCap_avg)} />
+            </div>
+
+            <div className={`feedback-box ${getLevelClass(level)}`}>
+              <span className="feedback-icon">★</span>
+              <p>{feedback}</p>
             </div>
 
             <div className="result-note">
-              This prediction is based on your selected responses and is intended for guidance.
+              🛡️ This prediction is based on the information you provided and is intended for reference only.
             </div>
           </aside>
         </div>
@@ -345,16 +383,38 @@ const Prediction = () => {
   );
 };
 
-const SectionCard = ({ section, values, isOpen, onToggle, onChange, showAll, onToggleShowAll }) => {
-  const visibleCount = section.key === "comp" ? 3 : 4;
+const SummaryRow = ({ icon, label, value }) => (
+  <div className="summary-row">
+    <span className="summary-icon">{icon}</span>
+    <span className="summary-label">{label}</span>
+    <span className="summary-dots"></span>
+    <strong>{value}</strong>
+  </div>
+);
+
+const SectionCard = ({
+  section,
+  values,
+  isOpen,
+  onToggle,
+  onChange,
+  showAll,
+  onToggleShowAll,
+}) => {
+  const visibleCount = section.key === "comp" ? 2 : 3;
   let cursor = 0;
 
   return (
-    <div className="section-card">
+    <div className={`section-card ${section.key}`}>
       <button type="button" className="section-title-btn" onClick={onToggle}>
-        <span>{section.title}</span>
-        <span className="section-metric">Avg: {(values.reduce((acc, item) => acc + item, 0) / values.length).toFixed(2)}</span>
-        <span className={`chevron ${isOpen ? "open" : ""}`}>⌄</span>
+        <span className="section-icon">{section.icon}</span>
+
+        <span className="section-title-text">
+          <strong>{section.title}</strong>
+          <small>{section.subtitle}</small>
+        </span>
+
+        <span className={`chevron ${isOpen ? "open" : ""}`}>⌃</span>
       </button>
 
       {isOpen && (
@@ -362,24 +422,32 @@ const SectionCard = ({ section, values, isOpen, onToggle, onChange, showAll, onT
           {section.groups.map((group) => {
             const itemOffset = cursor;
             cursor += group.items.length;
-            const displayedItems = showAll ? group.items : group.items.slice(0, visibleCount);
+
+            const displayedItems = showAll
+              ? group.items
+              : group.items.slice(0, visibleCount);
 
             return (
               <div className="question-group" key={`${section.key}-${group.title}`}>
-                <h4>{group.title}</h4>
+                {showAll && <h4>{group.title}</h4>}
+
                 {displayedItems.map((item, index) => {
                   const itemIndex = itemOffset + index;
 
                   return (
                     <div className="question-row" key={item.code}>
                       <div className="question-text-wrap">
-                        <label htmlFor={`${section.key}-${itemIndex}`}>{item.code}</label>
-                        <p>{item.text}</p>
+                        <label htmlFor={`${section.key}-${itemIndex}`}>
+                          {item.code}. {item.text}
+                        </label>
                       </div>
+
                       <select
                         id={`${section.key}-${itemIndex}`}
                         value={values[itemIndex]}
-                        onChange={(event) => onChange(section.key, itemIndex, event.target.value)}
+                        onChange={(event) =>
+                          onChange(section.key, itemIndex, event.target.value)
+                        }
                       >
                         {SCALE_OPTIONS.map((option) => (
                           <option key={option} value={option}>
@@ -395,7 +463,8 @@ const SectionCard = ({ section, values, isOpen, onToggle, onChange, showAll, onT
           })}
 
           <button type="button" className="show-toggle-btn" onClick={onToggleShowAll}>
-            {showAll ? "Show less items" : `Show all ${section.items.length} items`}
+            {showAll ? "Show less" : `Show all (${section.items[3]?.code || section.items[2]?.code}–${section.items[section.items.length - 1].code})`}
+            <span>⌄</span>
           </button>
         </div>
       )}
