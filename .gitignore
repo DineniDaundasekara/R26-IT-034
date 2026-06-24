@@ -1,3 +1,29 @@
+# Dependencies
 node_modules/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+frontend/dist/
+dist/
+build/
+
+# Uploads & Temp Cache
+backend/node/uploads/*
+!backend/node/uploads/.gitkeep
+cache/
+
+# Environment variables
 .env
-npm-debug.log*
+.env.local
+
+# Large raw archives
+*.zip
+data/raw/03_resume_corpus/*.zip
+data/raw/07_repo_quality/results.csv
