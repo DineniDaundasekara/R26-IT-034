@@ -1,9 +1,26 @@
 {
-  "name": "ai-hiring-system",
+  "name": "skillverify-mern-ai-system",
   "version": "1.0.0",
+  "description": "Evidence-based technical candidate skill verification system (MERN Stack + Python AI Microservice)",
   "scripts": {
-    "dev:frontend": "npm run dev --prefix frontend",
-    "dev:backend": "npm run dev --prefix backend-node",
-    "dev:python": "cd backend-python && source venv/bin/activate && uvicorn main:app --reload --port 8000"
+    "dev": "npx concurrently -n \"PYTHON-AI,NODE-API,REACT-UI\" -c \"magenta,blue,green\" \"npm run dev:python\" \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend/node && npm run dev",
+    "dev:python": "/opt/anaconda3/bin/python3 backend/python/main.py",
+    "build:frontend": "cd frontend && npm run build",
+    "test": "/opt/anaconda3/bin/python3 -m unittest discover -s tests",
+    "train:ml": "/opt/anaconda3/bin/python3 backend/python/training/run_all_training.py",
+    "train:step0": "/opt/anaconda3/bin/python3 backend/python/training/00_extract_raw_data.py",
+    "train:step1": "/opt/anaconda3/bin/python3 backend/python/training/01_validate_raw_datasets.py",
+    "train:step2": "/opt/anaconda3/bin/python3 backend/python/training/02_preprocess_and_clean_data.py",
+    "train:step3": "/opt/anaconda3/bin/python3 backend/python/training/03_build_training_features.py",
+    "train:step4": "/opt/anaconda3/bin/python3 backend/python/training/04_train_models.py",
+    "train:step5": "/opt/anaconda3/bin/python3 backend/python/training/05_test_saved_model.py",
+    "train:step6": "/opt/anaconda3/bin/python3 backend/python/training/06_run_ablation_study.py",
+    "ablation": "/opt/anaconda3/bin/python3 backend/python/training/06_run_ablation_study.py"
+
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
   }
 }
