@@ -1,0 +1,38 @@
+[
+  {
+    "configuration": "M1_Text_Only (TF-IDF)",
+    "description": "Linguistic Text Baseline",
+    "cv_macro_f1_mean": 0.6965,
+    "test_accuracy": 0.7083,
+    "test_macro_f1": 0.5804,
+    "test_macro_precision": 0.5764,
+    "test_macro_recall": 0.625
+  },
+  {
+    "configuration": "M2_Audio_Only (Acoustic)",
+    "description": "Acoustic Signal Features Only",
+    "cv_macro_f1_mean": 0.4704,
+    "test_accuracy": 0.5417,
+    "test_macro_f1": 0.5095,
+    "test_macro_precision": 0.5667,
+    "test_macro_recall": 0.4792
+  },
+  {
+    "configuration": "M3_Text_Plus_Audio (No STAR)",
+    "description": "Multimodal Without STAR Structure",
+    "cv_macro_f1_mean": 0.6853,
+    "test_accuracy": 0.75,
+    "test_macro_f1": 0.7191,
+    "test_macro_precision": 0.8438,
+    "test_macro_recall": 0.7083
+  },
+  {
+    "configuration": "M4_Full_MultiModal_Pipeline (Proposed)",
+    "description": "Proposed Multimodal Framework (Acoustic + NLP + STAR)",
+    "cv_macro_f1_mean": 0.7422,
+    "test_accuracy": 0.7917,
+    "test_macro_f1": 0.8123,
+    "test_macro_precision": 0.8474,
+    "test_macro_recall": 0.8042
+  }
+]

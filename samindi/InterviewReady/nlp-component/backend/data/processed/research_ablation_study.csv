@@ -1,0 +1,5 @@
+configuration,description,cv_macro_f1_mean,test_accuracy,test_macro_f1,test_macro_precision,test_macro_recall
+M1_Text_Only (TF-IDF),Linguistic Text Baseline,0.6965,0.7083,0.5804,0.5764,0.625
+M2_Audio_Only (Acoustic),Acoustic Signal Features Only,0.4704,0.5417,0.5095,0.5667,0.4792
+M3_Text_Plus_Audio (No STAR),Multimodal Without STAR Structure,0.6853,0.75,0.7191,0.8438,0.7083
+M4_Full_MultiModal_Pipeline (Proposed),Proposed Multimodal Framework (Acoustic + NLP + STAR),0.7422,0.7917,0.8123,0.8474,0.8042
