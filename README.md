@@ -32,7 +32,7 @@ The table below lists the **research team**, **registration numbers**, and **sub
 
 | Student name | Registration no. | Sub-objective (summary) |
 | :--- | :--- | :--- |
-| Daundasekara D.M.D.C | **IT22176110** | Behaviour-aware career guidance: learning and work-related behavioural indicators, regression and what-if scenarios, explainable improvement-oriented outputs (no biometric or intrusive monitoring). |
+| Daundasekara D.M.D.C | **IT22176110** | Behaviour-aware career guidance: learning and work-related behavioural indicators, regression and what-if   scenarios, explainable improvement-oriented outputs (no biometric or intrusive monitoring). |
 | Kaluarachchi S.M | **IT22112446** | Interview readiness and career path guidance: ethical, consented data (e.g. CV, LinkedIn, job portals), qualitative explanation-based readiness (not numeric hiring scores), multimodal interview indicators where appropriate. |
 | Wickramasinghe T.B.B | **IT22201614** | Career safety for experienced professionals: automation exposure, industry stability, skill transferability, adaptability and upskilling readiness, rule-based risk categories with explainable mitigation guidance. |
 | Muaz M.M.R | **IT22546470** | Employer trust and hiring risk assessment: observable professional behaviour (e.g. GitHub, LinkedIn), optional referral context without penalising missing data, standards-based indicators and human-readable suggestions—**no** automated hiring decisions. |
