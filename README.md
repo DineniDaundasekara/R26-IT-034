@@ -1,4 +1,4 @@
-# SkillVerify — AI-Assisted Technical Candidate Assessment & Cross-Source Consistency Verification System
+#AI-Assisted Technical Candidate Assessment & Cross-Source Consistency Verification System
 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/node.js-v22-green.svg)](https://nodejs.org/)
@@ -19,8 +19,8 @@ Traditional technical recruitment relies almost exclusively on self-reported can
 2. **False Alarm Bias Against Enterprise Engineers**: Automated Applicant Tracking Systems (ATS) and naive scrapers frequently penalize genuine senior developers whose primary codebases reside in private corporate repositories, erroneously classifying absence of public code as dishonesty.
 3. **Black-Box Scoring**: Commercial tools compute arbitrary percentage scores (e.g. "88% Match") without mathematical derivations, empirical calibration, or auditable evidence trails.
 
-### The SkillVerify Solution
-SkillVerify addresses these challenges through an explainable **4-Way Epistemic Framework** grounded in the principle that **"Absence of public evidence is NOT evidence of falsehood"**:
+### The Solution
+This Project addresses these challenges through an explainable **4-Way Epistemic Framework** grounded in the principle that **"Absence of public evidence is NOT evidence of falsehood"**:
 * **SUPPORTED (Verified with Public Code)**: Corroborated by active public repositories, commit spans, and package dependency manifests.
 * **PARTIALLY_SUPPORTED**: Public evidence exists, but observed tenure or volume is less than claimed.
 * **INSUFFICIENT_EVIDENCE (Private Enterprise Experience)**: Mentioned on the CV but unobserved on public GitHub. Treated respectfully without score deductions; provides recruiter interview probes.
@@ -30,7 +30,7 @@ SkillVerify addresses these challenges through an explainable **4-Way Epistemic 
 
 ## 2. System Architecture
 
-SkillVerify is architected as a decoupled 3-tier system featuring a **React Single-Page Application (SPA)** with persistent sidebar navigation, an **Express.js API Gateway**, and a high-performance **Python AI Inference Microservice**:
+This Project is architected as a decoupled 3-tier system featuring a **React Single-Page Application (SPA)** with persistent sidebar navigation, an **Express.js API Gateway**, and a high-performance **Python AI Inference Microservice**:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
