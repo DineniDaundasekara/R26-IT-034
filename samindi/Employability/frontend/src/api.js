@@ -163,7 +163,9 @@ export async function deleteCareerRiskHistoryItem(id) {
 // ---------------------------------------------------------------------------
 
 export async function checkEmployabilityHealth(phaseId) {
-  const response = await fetch(`${API_BASE}/api/employability/${phaseId}/health`);
+  const response = await fetch(`${API_BASE}/api/employability/${phaseId}/health`, {
+    headers: { ...authHeaders() },
+  });
   const body = await readJson(response);
   if (!response.ok) {
     throw new Error(body?.detail || "Employability model health check failed.");
@@ -174,7 +176,7 @@ export async function checkEmployabilityHealth(phaseId) {
 export async function predictEmployability(phaseId, responses) {
   const response = await fetch(`${API_BASE}/api/employability/${phaseId}/predict`, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: { "Content-Type": "application/json", ...authHeaders() },
     body: JSON.stringify(responses),
   });
   const body = await readJson(response);
@@ -187,7 +189,7 @@ export async function predictEmployability(phaseId, responses) {
 export async function simulateEmployability(phaseId, responses, overrides) {
   const response = await fetch(`${API_BASE}/api/employability/${phaseId}/what-if`, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: { "Content-Type": "application/json", ...authHeaders() },
     body: JSON.stringify({ responses, overrides }),
   });
   const body = await readJson(response);
@@ -195,6 +197,21 @@ export async function simulateEmployability(phaseId, responses, overrides) {
     throw new Error(body?.detail || "Employability what-if failed.");
   }
   return body;
+}
+
+/** Phase ids used by the unified employability simulator. */
+export const EMPLOYABILITY_PHASE_IDS = ["phase1", "phase2", "phase3"];
+
+export async function checkAllEmployabilityModels() {
+  const results = {};
+  for (const phaseId of EMPLOYABILITY_PHASE_IDS) {
+    try {
+      results[phaseId] = await checkEmployabilityHealth(phaseId);
+    } catch (error) {
+      results[phaseId] = { ok: false, error: error.message };
+    }
+  }
+  return results;
 }
 
 // ---------------------------------------------------------------------------
