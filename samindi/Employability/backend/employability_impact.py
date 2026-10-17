@@ -41,6 +41,14 @@ def priority_area_name(ranking: List[Dict[str, Any]], fallback: str) -> str:
     return str(rows[0]["name"])
 
 
+def estimated_total_gain(ranking: List[Dict[str, Any]], limit: int = 3) -> float:
+    """Sum of positive expected gains for the top priority constructs."""
+    total = 0.0
+    for row in positive_impact_rows(ranking)[:limit]:
+        total += float(row.get("expected_gain") or 0)
+    return round(total, 4)
+
+
 def trusted_learning_cards(selected_resources: List[Dict[str, Any]]) -> List[Dict[str, str]]:
     """Keep only library links. The language model must not invent course URLs."""
     cards = []
