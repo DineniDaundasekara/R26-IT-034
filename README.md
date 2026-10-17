@@ -107,7 +107,9 @@ When you open **http://127.0.0.1:8000**, sign in (or create an account). After a
   - *Phase 2 — Competence → Employability*: 10-item life/career, learning/innovation, and IT/media skills assessment scored by a trained **Linear Regression** model.
   - *Phase 3 — Psychological Capital → Employability*: 12-item hope, optimism, resilience, and self-efficacy assessment scored by a trained **ElasticNet** model.
 - **Construct-Level Explainability**: Each phase decomposes the overall prediction into construct scores with a Strong / Developing / Needs Improvement guidance level.
-- **Personalized Development Guidance**: Top strengths and priority development areas, each with a concrete, actionable next step — never an artificial improvement percentage.
+- **What-If Simulation**: Raise one construct toward the improvement target while holding others fixed; the frozen model re-predicts so priorities are ordered by estimated score gain.
+- **Personalized Development Guidance**: Top strengths and priority development areas, each with a concrete, actionable next step — never an artificial improvement percentage. OpenAI only writes grounded text from that evidence; it does not change the ML score.
+- **Module docs**: see `samindi/Employability/README_RUN.md` and `samindi/Employability/EMPLOYABILITY_RESEARCH_AND_IMPLEMENTATION.md`.
 
 ### Component 5: HR Candidate Selection (Admin Only)
 - **Access Control**: Visible only to accounts with the `admin` role; every backend endpoint independently verifies the admin role (see Role-Based Access above).
@@ -175,6 +177,7 @@ When you open **http://127.0.0.1:8000**, sign in (or create an account). After a
 | `DELETE` | `/api/career-risk/history/{id}` | Delete one saved career risk assessment |
 | `GET` | `/api/employability/{phase_id}/health` | Health check for one employability phase model |
 | `POST` | `/api/employability/{phase_id}/predict` | Employability prediction & construct-level guidance for a phase (`phase1`/`phase2`/`phase3`) |
+| `POST` | `/api/employability/{phase_id}/what-if` | What-if re-prediction after construct overrides (same frozen model) |
 | `GET`/`POST` | `/api/hr-candidates/roles` | *(admin only)* List / create job role profiles |
 | `GET` | `/api/hr-candidates/skills/search` | *(admin only)* ESCO skill lookup & canonicalization |
 | `POST` | `/api/hr-candidates/candidates/assess` | *(admin only)* Resume vs. GitHub/LinkedIn cross-source candidate verification |
