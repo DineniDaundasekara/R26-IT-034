@@ -1,0 +1,4 @@
+feature,label,score,level,shap_value,absolute_shap,effect,career_relevance
+LifeCareer_avg,Life & Career Skills,3.8,Developing,0.002202229872542346,0.002202229872542346,Increases Prediction,"These skills support adaptability, teamwork, planning, leadership, and effective functioning in professional environments."
+LearningInnovation_avg,Learning & Innovation Skills,3.2,Developing,-0.17862583760619716,0.17862583760619716,Decreases Prediction,"These skills support problem-solving, collaboration, continuous learning, creativity, and innovation in the workplace."
+ITMedia_avg,IT & Media Skills,4.3,Strong,0.13822643859238437,0.13822643859238437,Increases Prediction,"These skills support digital communication, information literacy, professional media use, and technology-supported work."

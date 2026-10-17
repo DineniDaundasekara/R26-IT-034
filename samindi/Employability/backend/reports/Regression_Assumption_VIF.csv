@@ -1,0 +1,6 @@
+Variable,VIF,Interpretation
+const,140.88938288565225,High Multicollinearity
+Clear_Objectives,1.937934807389223,No Multicollinearity
+School_Support,2.957221984830738,No Multicollinearity
+Workplace_Environment,2.9623941477600884,No Multicollinearity
+Career_Development,2.110418536512855,No Multicollinearity

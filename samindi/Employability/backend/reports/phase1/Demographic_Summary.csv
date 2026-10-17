@@ -1,0 +1,14 @@
+Level,Count,Variable
+Male,649,Gender
+Female,543,Gender
+Prefer not to say,32,Gender
+18–20,546,Age
+21–23,470,Age
+24–26,159,Age
+Above 26,49,Age
+Information Technology,624,Degree_Program
+Engineering,257,Degree_Program
+Business Management,194,Degree_Program
+Other,149,Degree_Program
+Synthetic,957,Data_Source
+Real,267,Data_Source

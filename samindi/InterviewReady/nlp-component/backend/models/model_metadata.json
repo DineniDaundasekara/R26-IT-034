@@ -1,0 +1,42 @@
+{
+  "selected_model": "Linear SVM",
+  "classes": [
+    "average",
+    "excellent",
+    "good",
+    "poor"
+  ],
+  "numeric_feature_columns": [
+    "word_count",
+    "sentence_count",
+    "average_sentence_length",
+    "vocabulary_diversity",
+    "filler_count",
+    "filler_ratio",
+    "action_verb_count",
+    "professional_word_count",
+    "result_word_count",
+    "ownership_phrase_count",
+    "star_context",
+    "star_task",
+    "star_action",
+    "star_result",
+    "audio_duration_seconds",
+    "speech_duration_seconds",
+    "silence_ratio",
+    "pause_count",
+    "average_pause_duration",
+    "speaking_rate_wpm"
+  ],
+  "cross_validation_method": "StratifiedGroupKFold",
+  "cross_validation_folds": 5,
+  "held_out_split_method": "StratifiedGroupKFold",
+  "training_rows_total": 117,
+  "research_train_rows": 93,
+  "research_test_rows": 24,
+  "unique_transcript_groups": 107,
+  "rows_in_exact_duplicate_groups": 20,
+  "model_selection_metric": "Macro-F1",
+  "selection_rule": "Highest mean group-aware cross-validated Macro-F1 on training partition.",
+  "candidate_output_policy": "Candidate UI shows category and evidence-grounded guidance only; no confidence, research accuracy, Macro-F1, or raw feature scores."
+}

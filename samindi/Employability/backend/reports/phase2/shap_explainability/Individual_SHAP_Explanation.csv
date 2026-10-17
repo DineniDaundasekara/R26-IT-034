@@ -1,0 +1,4 @@
+Feature,Feature_Value,SHAP_Value,Effect
+LifeCareer_avg,4.0,0.04624682732338987,Increases Prediction
+ITMedia_avg,4.0,0.04326170978845623,Increases Prediction
+LearningInnovation_avg,4.0,0.0171285049759367,Increases Prediction

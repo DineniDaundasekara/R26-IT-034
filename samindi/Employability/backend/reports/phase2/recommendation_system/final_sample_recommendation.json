@@ -1,0 +1,191 @@
+{
+    "prediction": {
+        "EVS_avg": 4.0548
+    },
+    "competence_scores": {
+        "LifeCareer_avg": 3.75,
+        "LearningInnovation_avg": 3.3333333333333335,
+        "ITMedia_avg": 4.333333333333333
+    },
+    "item_level_evidence": [
+        {
+            "item": "C1",
+            "skill": "Adaptability to changing situations",
+            "area": "Life & Career Skills",
+            "score": 4.0,
+            "level": "Strong"
+        },
+        {
+            "item": "C2",
+            "skill": "Communication with diverse team members",
+            "area": "Life & Career Skills",
+            "score": 4.0,
+            "level": "Strong"
+        },
+        {
+            "item": "C3",
+            "skill": "Project planning and execution",
+            "area": "Life & Career Skills",
+            "score": 3.0,
+            "level": "Developing"
+        },
+        {
+            "item": "C4",
+            "skill": "Leadership ability",
+            "area": "Life & Career Skills",
+            "score": 4.0,
+            "level": "Strong"
+        },
+        {
+            "item": "C5",
+            "skill": "Reasoning and decision-making",
+            "area": "Learning & Innovation Skills",
+            "score": 3.0,
+            "level": "Developing"
+        },
+        {
+            "item": "C6",
+            "skill": "Communication and collaboration",
+            "area": "Learning & Innovation Skills",
+            "score": 4.0,
+            "level": "Strong"
+        },
+        {
+            "item": "C7",
+            "skill": "Creativity and innovation",
+            "area": "Learning & Innovation Skills",
+            "score": 3.0,
+            "level": "Developing"
+        },
+        {
+            "item": "C8",
+            "skill": "Information access and evaluation",
+            "area": "IT & Media Skills",
+            "score": 4.0,
+            "level": "Strong"
+        },
+        {
+            "item": "C9",
+            "skill": "Media communication skills",
+            "area": "IT & Media Skills",
+            "score": 5.0,
+            "level": "Strong"
+        },
+        {
+            "item": "C10",
+            "skill": "Media analysis and creation",
+            "area": "IT & Media Skills",
+            "score": 4.0,
+            "level": "Strong"
+        }
+    ],
+    "shap_explanation": {
+        "LifeCareer_avg": -0.008809,
+        "LearningInnovation_avg": -0.146,
+        "ITMedia_avg": 0.148778
+    },
+    "area_analysis": [
+        {
+            "area": "Life & Career Skills",
+            "strengths": [
+                "Adaptability to changing situations (4.0/5)",
+                "Communication with diverse team members (4.0/5)",
+                "Leadership ability (4.0/5)"
+            ],
+            "areas_for_improvement": [
+                "Project planning and execution (3.0/5)"
+            ],
+            "career_readiness_impact": "Life & Career Skills support working effectively with others, adjusting to changing conditions, and taking on responsibility. The model-level SHAP contribution for this construct was -0.0088, indicating a small negative influence on the predicted employability score.",
+            "practical_suggestions": [
+                "Complete a short introduction to project management (e.g., watch a 'Project Management Fundamentals' video) and apply one basic framework (define scope, set milestones, assign tasks) to a small project.",
+                "Use simple planning tools (checklist, calendar, Kanban board) for a 4–8 week task to practice breaking work into phases and tracking progress.",
+                "Volunteer to manage a small team task (even informal) and request a brief feedback session afterward focused on planning and execution."
+            ]
+        },
+        {
+            "area": "Learning & Innovation Skills",
+            "strengths": [
+                "Communication and collaboration (4.0/5)"
+            ],
+            "areas_for_improvement": [
+                "Reasoning and decision-making (3.0/5)",
+                "Creativity and innovation (3.0/5)"
+            ],
+            "career_readiness_impact": "Learning & Innovation Skills support problem-solving, creative thinking, and effective collaboration. The model-level SHAP contribution for this construct was -0.1460, indicating it had a noticeable negative influence on the predicted employability score.",
+            "practical_suggestions": [
+                "Take a short structured course or video on creative problem solving (e.g., audit 'Creative Thinking and Problem Solving' on Coursera or watch 'Design Thinking for Beginners') and apply one method (empathy map, ideation, prototyping) to a real short task.",
+                "Practice a simple decision-making routine (define objective, list options, evaluate pros/cons, make a decision, note outcome) on small work choices for 4–6 weeks to build reasoning habit.",
+                "Join or organize brief collaborative brainstorming sessions to practice divergent thinking and rapid idea selection; keep a log of ideas and what you tried."
+            ]
+        },
+        {
+            "area": "IT & Media Skills",
+            "strengths": [
+                "Media communication skills (5.0/5)",
+                "Information access and evaluation (4.0/5)",
+                "Media analysis and creation (4.0/5)"
+            ],
+            "areas_for_improvement": [],
+            "career_readiness_impact": "IT & Media Skills support digital communication, information literacy, and producing media or content professionally. The model-level SHAP contribution for this construct was +0.1488, indicating it positively influenced the predicted employability score.",
+            "practical_suggestions": [
+                "Maintain a small portfolio (examples, short case notes or clips) of media work to demonstrate capability when relevant to roles or opportunities.",
+                "Experiment with one new media tool or format (short video, infographic, or thread) every 6–8 weeks to stay current and grow creative options.",
+                "Offer to mentor or run a short workshop for peers on a media skill you excel at (e.g., creating clear media messages) to consolidate skill and gain leadership visibility."
+            ]
+        }
+    ],
+    "top_3_strengths": [
+        "Media communication skills (5.0/5)",
+        "Leadership ability (4.0/5)",
+        "Communication with diverse team members (4.0/5)"
+    ],
+    "top_3_areas_for_improvement": [
+        "Project planning and execution (3.0/5)",
+        "Reasoning and decision-making (3.0/5)",
+        "Creativity and innovation (3.0/5)"
+    ],
+    "personalized_action_plan": [
+        "Week 1–2: Watch an introductory 'Project Management Fundamentals' video and set up a simple planning board (To Do / Doing / Done) for an upcoming 4–6 week task.",
+        "Weeks 3–6: Audit the Coursera 'Creative Thinking and Problem Solving' course (free-to-audit) and practice one creative method on a small project; document one short outcome or learning note.",
+        "Weeks 7–12: Apply a basic decision-making routine to 3–5 small work choices; record decisions and outcomes to build reasoning practice.",
+        "Ongoing: Publish or compile 3–6 examples of media work (short write-ups, images, or clips) and offer a short peer session to share methods for media communication."
+    ],
+    "overall_career_readiness_summary": "Your profile shows strong IT & Media Skills and solid interpersonal strengths (leadership, adaptability, working with diverse team members). Areas that appear as developing are project planning, reasoning/decision-making, and creativity—these are actionable growth opportunities. Model-level SHAP values indicate your IT & Media Skills contributed positively to the model's prediction, while Learning & Innovation Skills and Life & Career Skills had small negative influences on the prediction.",
+    "recommended_next_steps": [
+        "Start with one focused learning activity: watch the 'Project Management Fundamentals' video to gain a practical planning framework.",
+        "Enroll (free-to-audit) in the Coursera 'Creative Thinking and Problem Solving' course and schedule short weekly practice sessions.",
+        "Set measurable short goals (e.g., lead one small project, complete one course module per week, produce one media example per month) and review progress every 4 weeks.",
+        "Request specific feedback after a completed task (project plan, decision log, or creative prototype) from a colleague or mentor."
+    ],
+    "recommended_learning_resources": [
+        {
+            "area": "Learning & Innovation Skills",
+            "provider": "Coursera",
+            "resource_type": "Free-to-Audit Course Topic",
+            "topic": "Creative Thinking and Problem Solving",
+            "reason": "Structured course material to practice creativity and problem-solving methods you can apply to small projects."
+        },
+        {
+            "area": "Learning & Innovation Skills",
+            "provider": "YouTube",
+            "resource_type": "Video Learning",
+            "topic": "Design Thinking for Beginners",
+            "reason": "Short, practical introduction to design-thinking methods useful for creativity and user-centered problem solving."
+        },
+        {
+            "area": "Life & Career Skills",
+            "provider": "OpenLearn",
+            "resource_type": "Free Course / Learning Module",
+            "topic": "Leadership and Management",
+            "reason": "Material to reinforce leadership strengths and to support planning, delegation, and managing small projects."
+        },
+        {
+            "area": "Life & Career Skills",
+            "provider": "YouTube",
+            "resource_type": "Video Learning",
+            "topic": "Project Management Fundamentals",
+            "reason": "Concise, practical guidance on planning and execution that can be applied immediately to a short project."
+        }
+    ],
+    "recommendation_source": "openai_api"
+}

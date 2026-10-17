@@ -1,0 +1,15 @@
+Check,Status
+Dummy baseline evaluated,PASS
+Linear Regression evaluated,PASS
+Ridge evaluated,PASS
+ElasticNet evaluated,PASS
+SVR-RBF evaluated,PASS
+Random Forest evaluated,PASS
+XGBoost evaluated,PASS
+Same primary feature representation used,PASS
+Repeated 5x10 CV completed,PASS
+Train-validation gaps calculated,PASS
+Fixed hold-out supporting evidence calculated,PASS
+Item-level nonlinear sensitivity experiment completed,PASS
+Step 08 candidate models identified,PASS
+Reports saved,PASS

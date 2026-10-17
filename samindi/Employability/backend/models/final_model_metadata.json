@@ -1,0 +1,38 @@
+{
+    "model_name": "XGBoost",
+    "features": [
+        "Clear_Objectives",
+        "School_Support",
+        "Workplace_Environment",
+        "Career_Development"
+    ],
+    "target": "Employability_Score",
+    "dataset_size": 1224,
+    "validation_method": "5-fold Nested Cross-Validation + 5x5 Repeated CV",
+    "final_oof_metrics": {
+        "R2": 0.8817215511378537,
+        "MAE": 0.23019171764258467,
+        "RMSE": 0.3172188806127557
+    },
+    "final_model_parameters": {
+        "subsample": 0.9,
+        "reg_lambda": 2,
+        "reg_alpha": 0.3,
+        "n_estimators": 500,
+        "min_child_weight": 8,
+        "max_depth": 2,
+        "learning_rate": 0.01,
+        "colsample_bytree": 1.0
+    },
+    "selection_note": "Ridge nested OOF R2 was 0.88173 vs XGBoost 0.88172. XGBoost was retained to preserve the frozen Phase 01 architecture, Tree SHAP recommendation pipeline, and existing research model family. The practical difference is negligible.",
+    "data_status": "Expanded Phase 01 dataset (real + synthetic, exact duplicates removed)",
+    "source_file": "Phase01_Internship_Experience_raw.xlsx",
+    "previous_frozen_baseline": {
+        "model_name": "XGBoost",
+        "R2": 0.4686142754818975,
+        "MAE": 0.17160207390785218,
+        "RMSE": 0.2701999376640529,
+        "note": "Previous frozen nested-CV evidence on the 1000-row development set"
+    },
+    "recommendation_status": "Prototype recommendation mapping pending expert validation"
+}

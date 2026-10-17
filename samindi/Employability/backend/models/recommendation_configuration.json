@@ -1,0 +1,36 @@
+{
+    "feature_names": [
+        "Clear_Objectives",
+        "School_Support",
+        "Workplace_Environment",
+        "Career_Development"
+    ],
+    "small_shap_threshold": 0.04426671263259901,
+    "large_shap_threshold": 0.09142386875051567,
+    "score_bands": {
+        "low_upper_exclusive": 3.0,
+        "moderate_upper_exclusive": 4.0
+    },
+    "recommendations": {
+        "Clear_Objectives": [
+            "Discuss internship goals and expected outcomes with the supervisor.",
+            "Break assigned tasks into clear weekly objectives.",
+            "Request clarification when tasks or performance expectations are unclear."
+        ],
+        "School_Support": [
+            "Schedule regular discussions with the academic internship supervisor.",
+            "Use institutional career and internship support services.",
+            "Request guidance on internship assignments and workplace challenges."
+        ],
+        "Workplace_Environment": [
+            "Request regular and constructive feedback from the workplace supervisor.",
+            "Seek opportunities to collaborate with experienced professionals.",
+            "Discuss workplace support needs through the appropriate supervision channel."
+        ],
+        "Career_Development": [
+            "Participate in challenging projects that build industry-relevant experience.",
+            "Seek networking, mentoring, and professional development opportunities.",
+            "Document achievements and skills gained during the internship."
+        ]
+    }
+}

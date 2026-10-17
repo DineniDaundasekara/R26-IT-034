@@ -1,0 +1,186 @@
+{
+    "model_name": "Logistic Regression",
+    "model_type": "Supervised NLP CV Career Path Classification Model",
+    "task": "Career path guidance from extracted CV text",
+    "dataset_file": "C:\\Users\\User\\Desktop\\research-component-2\\component 2-with frontend\\backend\\data\\cv_training_dataset.csv",
+    "total_records": 300,
+    "train_records": 240,
+    "test_records": 60,
+    "input_feature": "combined_training_text",
+    "target_label": "career_path_label",
+    "accuracy": 0.7167,
+    "precision": 0.719,
+    "recall": 0.7167,
+    "f1_score": 0.7103,
+    "classification_report": {
+        "Backend Developer": {
+            "precision": 0.14285714285714285,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.2,
+            "support": 3.0
+        },
+        "Business Analyst": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 4.0
+        },
+        "Data Analyst": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1-score": 0.8888888888888888,
+            "support": 5.0
+        },
+        "DevOps Engineer": {
+            "precision": 1.0,
+            "recall": 0.75,
+            "f1-score": 0.8571428571428571,
+            "support": 4.0
+        },
+        "Frontend Developer": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.4,
+            "support": 3.0
+        },
+        "Full Stack Developer": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 4.0
+        },
+        "QA Engineer": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 4.0
+        },
+        "Software Engineer": {
+            "precision": 0.696969696969697,
+            "recall": 0.7931034482758621,
+            "f1-score": 0.7419354838709677,
+            "support": 29.0
+        },
+        "UI UX Designer": {
+            "precision": 1.0,
+            "recall": 0.75,
+            "f1-score": 0.8571428571428571,
+            "support": 4.0
+        },
+        "accuracy": 0.7166666666666667,
+        "macro avg": {
+            "precision": 0.7044252044252044,
+            "recall": 0.6399744572158366,
+            "f1-score": 0.660567787449508,
+            "support": 60.0
+        },
+        "weighted avg": {
+            "precision": 0.719011544011544,
+            "recall": 0.7166666666666667,
+            "f1-score": 0.7102952722307561,
+            "support": 60.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0
+        ],
+        [
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            2,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            3,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0
+        ],
+        [
+            6,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            23,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    "saved_model_path": "C:\\Users\\User\\Desktop\\research-component-2\\component 2-with frontend\\backend\\models\\logistic_regression_cv_model.pkl"
+}

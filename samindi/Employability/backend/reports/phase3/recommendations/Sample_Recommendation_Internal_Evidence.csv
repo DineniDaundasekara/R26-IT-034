@@ -1,0 +1,5 @@
+Feature,Construct,Value,Median_Benchmark,Status,Global_Importance_Percent,Local_SHAP,Lowest_Item,Lowest_Item_Value,Priority_Score_Internal
+SelfEfficacy_avg,Self-Efficacy,3.0,4.0,Development Priority,41.96687997271973,-0.31046121119552506,PsyCap11,2,0.4972841025260786
+Resilience_avg,Resilience,3.3333333333333335,4.333333333333333,Development Priority,34.547882724046666,-0.19359768146423137,PsyCap7,3,0.3938782476065243
+Optimism_avg,Optimism,4.0,4.333333333333333,Growth Opportunity,12.630413435296738,-0.03564448890316803,PsyCap4,4,0.05101250034344777
+Hope_avg,Hope,4.0,4.333333333333333,Growth Opportunity,10.854823867936888,-0.022219996835021714,PsyCap1,4,0.04173774543521169

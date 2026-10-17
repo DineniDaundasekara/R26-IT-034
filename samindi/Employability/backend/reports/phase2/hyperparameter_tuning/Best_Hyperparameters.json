@@ -1,0 +1,28 @@
+{
+    "Random_Forest": {
+        "n_estimators": 200,
+        "min_samples_split": 5,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "max_depth": 5
+    },
+    "SVR": {
+        "model__C": 50,
+        "model__epsilon": 0.2,
+        "model__gamma": 0.01,
+        "model__kernel": "rbf"
+    },
+    "XGBoost": {
+        "subsample": 1.0,
+        "reg_lambda": 5,
+        "reg_alpha": 0.01,
+        "n_estimators": 500,
+        "min_child_weight": 1,
+        "max_depth": 4,
+        "learning_rate": 0.01,
+        "colsample_bytree": 1.0
+    },
+    "Ridge": {
+        "model__alpha": 100
+    }
+}

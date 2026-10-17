@@ -1,0 +1,4 @@
+Validation performed before packaging:
+- Python source: compileall completed successfully for app/, ml/, and training/.
+- React/JavaScript source: every src/*.js and src/*.jsx file parsed successfully with Babel's JSX parser.
+- The project is packaged without node_modules, .venv, audio recordings, API keys, or the trained model binary.

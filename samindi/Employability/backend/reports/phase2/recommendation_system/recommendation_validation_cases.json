@@ -1,0 +1,53 @@
+[
+    {
+        "case": 1,
+        "input": {
+            "LifeCareer_avg": 4.5,
+            "LearningInnovation_avg": 4.2,
+            "ITMedia_avg": 4.4
+        },
+        "predicted_evs_avg": 4.4531362532278225,
+        "strongest_feature": "Life & Career Skills",
+        "weakest_feature": "Learning & Innovation Skills",
+        "recommendation_source": "openai_api",
+        "recommendations": [
+            "Use your Life & Career Skills to create a focused development plan for Learning & Innovation Skills: set 2–3 specific learning objectives, timelines, and short checkpoints to track progress.",
+            "Leverage your IT & Media Skills to access and apply digital learning resources and prototyping tools (e.g., online modules, collaboration platforms) that let you practice new ideas quickly.",
+            "Adopt a short-cycle practice-feedback loop: try small experiments to apply new approaches, gather quick feedback, reflect, and iterate. Keep each cycle to 1–2 weeks to build learning agility."
+        ]
+    },
+    {
+        "case": 2,
+        "input": {
+            "LifeCareer_avg": 3.5,
+            "LearningInnovation_avg": 3.0,
+            "ITMedia_avg": 4.1
+        },
+        "predicted_evs_avg": 3.8443170232964556,
+        "strongest_feature": "IT & Media Skills",
+        "weakest_feature": "Learning & Innovation Skills",
+        "recommendation_source": "openai_api",
+        "recommendations": [
+            "Leverage your IT & Media Skills (4.10) to create small, demonstrable projects that require iterative problem solving — use these projects to practice and record learning processes.",
+            "Set focused, short-term learning goals to strengthen Learning & Innovation Skills (3.00): define one concrete objective, try an experiment, and capture what you learned and what you'd change next time.",
+            "Use digital tools you are strong with to structure and show Life & Career Skills (3.50): plan tasks, communicate progress, and keep simple evidence of planning, time management, and collaboration."
+        ]
+    },
+    {
+        "case": 3,
+        "input": {
+            "LifeCareer_avg": 2.8,
+            "LearningInnovation_avg": 3.2,
+            "ITMedia_avg": 2.9
+        },
+        "predicted_evs_avg": 3.35924060264831,
+        "strongest_feature": "Learning & Innovation Skills",
+        "weakest_feature": "Life & Career Skills",
+        "recommendation_source": "openai_api",
+        "recommendations": [
+            "Leverage your Learning & Innovation strengths to structure short, focused learning cycles: pick a specific IT/media skill to practice in 1–4 week sprints, use reflection to consolidate learning, and adjust the next sprint based on what worked.",
+            "Address Life & Career Skills with a concise career routine: define 2–3 short-term SMART goals (career readiness, communication, time management), schedule weekly 30–60 minute action and reflection sessions, and use brief role-plays or mock interviews to practice professional interactions.",
+            "Seek regular, specific feedback: after completing micro-project milestones, request concrete feedback from a peer, mentor, or instructor to guide next steps for both IT & Media tasks and career-skill practice."
+        ]
+    }
+]

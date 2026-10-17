@@ -1,0 +1,2 @@
+Previous_Model,Previous_Repeated_CV_R2,Previous_Test_R2,New_Model,New_OOF_R2,New_OOF_MAE,New_OOF_RMSE,Best_Non_LR_Model,Best_Non_LR_OOF_R2,LinearRegression_OOF_R2,Improved,Replace_Frozen_Model,Reason
+Linear Regression,0.5376375821114658,0.5457322654308476,LinearRegression,0.925991464013727,0.1754838332420681,0.23480669410361407,SVR_RBF,0.92733992371657,0.925991464013727,True,True,Linear Regression retained: nested OOF R2 0.9260 within 0.005 of SVR_RBF (0.9273) to preserve Phase 02 interpretability / SHAP evidence architecture.

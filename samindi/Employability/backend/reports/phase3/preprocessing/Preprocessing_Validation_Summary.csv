@@ -1,0 +1,8 @@
+Validation_Check,Status
+Required columns,PASS
+Duplicate Response_ID,PASS
+Exact duplicate rows,PASS
+Missing required values,PASS
+Likert value range,PASS
+Construct value range,PASS
+PsyCap calculation verification,PASS

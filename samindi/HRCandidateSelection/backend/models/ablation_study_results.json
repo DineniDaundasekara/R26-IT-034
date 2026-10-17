@@ -1,0 +1,278 @@
+{
+  "Model A (Resume-Only Baseline)": {
+    "classification": {
+      "macroF1": 0.0963,
+      "accuracy": 0.2384,
+      "perClass": {
+        "SUPPORTED": {
+          "precision": 0.2384,
+          "recall": 1.0,
+          "f1": 0.3851,
+          "support": 304
+        },
+        "PARTIALLY_SUPPORTED": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 187
+        },
+        "INSUFFICIENT_EVIDENCE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 712
+        },
+        "POTENTIAL_CONTRADICTION": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 72
+        }
+      },
+      "confusionMatrix": [
+        [
+          304,
+          0,
+          0,
+          0
+        ],
+        [
+          187,
+          0,
+          0,
+          0
+        ],
+        [
+          712,
+          0,
+          0,
+          0
+        ],
+        [
+          72,
+          0,
+          0,
+          0
+        ]
+      ],
+      "classes": [
+        "SUPPORTED",
+        "PARTIALLY_SUPPORTED",
+        "INSUFFICIENT_EVIDENCE",
+        "POTENTIAL_CONTRADICTION"
+      ]
+    },
+    "calibration": {
+      "ece": 0.6616,
+      "brierScore": 0.6193
+    },
+    "totalEvaluations": 1275
+  },
+  "Model B (Resume + Raw GitHub Keyword)": {
+    "classification": {
+      "macroF1": 0.1556,
+      "accuracy": 0.178,
+      "perClass": {
+        "SUPPORTED": {
+          "precision": 0.5073,
+          "recall": 0.6875,
+          "f1": 0.5838,
+          "support": 304
+        },
+        "PARTIALLY_SUPPORTED": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 187
+        },
+        "INSUFFICIENT_EVIDENCE": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 712
+        },
+        "POTENTIAL_CONTRADICTION": {
+          "precision": 0.0209,
+          "recall": 0.25,
+          "f1": 0.0385,
+          "support": 72
+        }
+      },
+      "confusionMatrix": [
+        [
+          209,
+          0,
+          0,
+          95
+        ],
+        [
+          149,
+          0,
+          0,
+          38
+        ],
+        [
+          0,
+          0,
+          0,
+          712
+        ],
+        [
+          54,
+          0,
+          0,
+          18
+        ]
+      ],
+      "classes": [
+        "SUPPORTED",
+        "PARTIALLY_SUPPORTED",
+        "INSUFFICIENT_EVIDENCE",
+        "POTENTIAL_CONTRADICTION"
+      ]
+    },
+    "calibration": {
+      "ece": 0.6043,
+      "brierScore": 0.4924
+    },
+    "totalEvaluations": 1275
+  },
+  "Model C (Full Proposed Cross-Source)": {
+    "classification": {
+      "macroF1": 0.8524,
+      "accuracy": 0.8541,
+      "perClass": {
+        "SUPPORTED": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 304
+        },
+        "PARTIALLY_SUPPORTED": {
+          "precision": 0.53,
+          "recall": 0.8984,
+          "f1": 0.6667,
+          "support": 187
+        },
+        "INSUFFICIENT_EVIDENCE": {
+          "precision": 0.9663,
+          "recall": 0.7654,
+          "f1": 0.8542,
+          "support": 712
+        },
+        "POTENTIAL_CONTRADICTION": {
+          "precision": 0.8,
+          "recall": 1.0,
+          "f1": 0.8889,
+          "support": 72
+        }
+      },
+      "confusionMatrix": [
+        [
+          304,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          168,
+          19,
+          0
+        ],
+        [
+          0,
+          149,
+          545,
+          18
+        ],
+        [
+          0,
+          0,
+          0,
+          72
+        ]
+      ],
+      "classes": [
+        "SUPPORTED",
+        "PARTIALLY_SUPPORTED",
+        "INSUFFICIENT_EVIDENCE",
+        "POTENTIAL_CONTRADICTION"
+      ]
+    },
+    "calibration": {
+      "ece": 0.1863,
+      "brierScore": 0.1393
+    },
+    "totalEvaluations": 1275
+  },
+  "Model D (SkillVerify + Repository Engineering Evidence)": {
+    "classification": {
+      "macroF1": 0.8524,
+      "accuracy": 0.8541,
+      "perClass": {
+        "SUPPORTED": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 304
+        },
+        "PARTIALLY_SUPPORTED": {
+          "precision": 0.53,
+          "recall": 0.8984,
+          "f1": 0.6667,
+          "support": 187
+        },
+        "INSUFFICIENT_EVIDENCE": {
+          "precision": 0.9663,
+          "recall": 0.7654,
+          "f1": 0.8542,
+          "support": 712
+        },
+        "POTENTIAL_CONTRADICTION": {
+          "precision": 0.8,
+          "recall": 1.0,
+          "f1": 0.8889,
+          "support": 72
+        }
+      },
+      "confusionMatrix": [
+        [
+          304,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          168,
+          19,
+          0
+        ],
+        [
+          0,
+          149,
+          545,
+          18
+        ],
+        [
+          0,
+          0,
+          0,
+          72
+        ]
+      ],
+      "classes": [
+        "SUPPORTED",
+        "PARTIALLY_SUPPORTED",
+        "INSUFFICIENT_EVIDENCE",
+        "POTENTIAL_CONTRADICTION"
+      ]
+    },
+    "calibration": {
+      "ece": 0.1742,
+      "brierScore": 0.1358
+    },
+    "totalEvaluations": 1275
+  }
+}

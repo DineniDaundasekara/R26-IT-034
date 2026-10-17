@@ -1,0 +1,8 @@
+Step,Count
+Raw rows loaded,1500
+Timestamp dropped,1
+Out-of-range Likert rows removed,0
+Exact duplicate rows removed,276
+Prepared rows,1224
+Real rows,267
+Synthetic rows,957

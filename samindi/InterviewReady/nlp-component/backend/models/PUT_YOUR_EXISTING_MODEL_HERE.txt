@@ -1,0 +1,7 @@
+Copy your already-trained final model into this folder:
+
+communication_pipeline.joblib
+model_metadata.json
+research_metrics.json
+
+Your current research run selected Linear SVM. Do not retrain simply to use the OpenAI guidance layer.

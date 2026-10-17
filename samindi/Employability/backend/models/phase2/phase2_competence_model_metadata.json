@@ -1,0 +1,38 @@
+{
+    "phase": "Phase 02",
+    "model_purpose": "Competence to Employability prediction",
+    "model_type": "Linear Regression",
+    "pipeline": [
+        "StandardScaler",
+        "LinearRegression"
+    ],
+    "features": [
+        "LifeCareer_avg",
+        "LearningInnovation_avg",
+        "ITMedia_avg"
+    ],
+    "target": "EVS_avg",
+    "test_size": 0.2,
+    "random_state": 42,
+    "dataset_rows": 1500,
+    "training_rows": 1200,
+    "testing_rows": 300,
+    "raw_source": "phase02_competence_new.csv",
+    "metrics": {
+        "train_r2": 0.9251991457165311,
+        "test_r2": 0.9304268229804611,
+        "mae": 0.17914639286065773,
+        "rmse": 0.23572376097201972,
+        "mape_percent": 5.5661388516883745,
+        "train_test_r2_gap": -0.005227677263930031,
+        "repeated_cv_mean_r2": 0.925991464013727,
+        "repeated_cv_std_r2": 0.0
+    },
+    "prediction_range_validation": {
+        "Minimum_Prediction": 1.2644798165059594,
+        "Maximum_Prediction": 5.030286179056914,
+        "Predictions_Below_1": 0,
+        "Predictions_Above_5": 1
+    },
+    "status": "FROZEN"
+}

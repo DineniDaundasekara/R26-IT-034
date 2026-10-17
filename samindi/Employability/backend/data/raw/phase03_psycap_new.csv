@@ -1,0 +1,1501 @@
+Response ID,Gender,Age,Degree Program,Internship Status,I can find various ways to overcome obstacles that arise during my studies.,I realize that different approaches can be used to overcome the problems I face in my studies.,I am committed to doing my best and working hard to achieve the goals I set.,I have high hopes that I can succeed in my learning activities.,I am optimistic that the time and effort I invest now will bring positive results in the future.,"I tend to identify positive lessons from my learning experiences, whether they involve success or failure.",I can identify and analyze problems that arise during my learning activities.,"When I receive low grades, I try to identify the reasons and find ways to improve.","I understand that failure can happen, and I am able to recover and continue working toward long-term success.",I believe that I can successfully complete difficult tasks.,I am confident enough to ask my teacher or lecturer for help when I have difficulty completing an assignment.,I am confident that I can make a meaningful and useful contribution to others using my abilities.,I have the ability to discuss professionally with various professionals or technical aspects of work,I achieved a level of education sufficient to operate as a prospective new employee in the job,I am able to evaluate sufficient technical skills to be able to complete tasks or solve problems at school,I have a satisfactory level of professional experience to operate on the job,I am able to convince others about work when decisions within the team have to be made,Building social relationships can have a positive effect on my life,I have a clear plan for my career,I have clear career goals,I have a clear strategy to achieve my career goals,I have a clear idea of the target industry according to my field of work,I am able to achieve a balance between my work goals and the support of my colleagues,I am able to achieve a balance between my career goals and the support of my colleagues,Data Source
+1,Female,18–20,Information Technology,Yes,5,4,4,4,5,4,4,4,4,3,4,4,5,5,5,4,4,4,5,5,5,5,5,5,real
+2,Female,21–23,Business Management,Yes,3,5,5,4,4,4,4,4,3,3,4,4,3,4,4,4,3,5,4,4,2,4,3,2,real
+3,Male,18–20,Information Technology,Yes,4,5,4,5,4,4,3,4,3,3,4,3,4,4,3,4,4,5,4,3,3,4,3,4,real
+4,Male,18–20,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+5,Male,21–23,Business Management,Yes,3,3,5,3,5,4,4,3,4,1,4,5,4,4,4,4,5,5,4,4,5,5,4,4,real
+6,Female,21–23,Information Technology,Yes,3,5,2,5,5,5,5,5,5,5,4,5,4,5,3,5,5,4,2,5,5,4,5,5,real
+7,Female,21–23,Information Technology,Yes,5,5,5,4,5,4,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,5,4,4,real
+8,Female,21–23,Business Management,No,3,3,5,3,4,4,3,5,3,3,4,3,3,3,3,3,3,4,3,4,4,3,4,3,real
+9,Female,27 or above,Information Technology,Yes,4,4,4,5,4,5,4,4,3,4,4,5,4,4,5,4,5,5,4,4,5,5,4,5,real
+10,Female,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,5,4,4,4,real
+11,Female,18–20,Information Technology,Yes,4,4,5,4,4,4,4,5,4,4,5,4,4,4,4,4,4,5,4,4,4,4,4,4,real
+12,Male,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,4,5,4,4,5,4,5,5,5,5,4,4,4,real
+13,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,5,4,4,4,4,4,3,4,4,real
+14,Male,24–26,Engineering,Yes,4,5,5,5,5,3,3,5,4,3,5,5,3,3,4,4,4,4,4,4,4,4,4,4,real
+15,Male,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,4,4,4,4,4,4,4,5,5,5,5,4,4,real
+16,Prefer not to say,21–23,Engineering,Yes,4,5,5,4,5,4,5,5,4,5,5,5,4,4,5,5,4,5,5,4,5,3,3,4,real
+17,Female,24–26,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+18,Male,21–23,Information Technology,No,4,5,5,4,5,4,4,4,4,3,5,5,4,4,4,4,4,4,5,5,5,4,4,4,real
+19,Female,21–23,Engineering,Yes,4,5,5,4,5,5,4,5,5,4,5,4,5,4,4,3,4,4,4,4,3,3,3,3,real
+20,Female,21–23,Information Technology,Yes,4,4,3,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,real
+21,Female,21–23,Engineering,No,4,5,4,5,4,3,4,5,3,3,5,5,3,3,4,4,3,4,3,3,3,4,4,4,real
+22,Male,21–23,Other,Yes,4,4,3,3,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,5,4,4,4,real
+23,Male,18–20,Information Technology,Yes,4,5,5,4,5,5,5,5,4,5,5,5,5,5,5,4,4,5,5,5,4,4,4,5,real
+24,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,3,3,3,4,4,4,5,5,5,5,5,5,4,3,4,real
+25,Prefer not to say,21–23,Other,No,5,5,4,5,5,4,4,5,5,4,5,5,5,2,4,5,4,5,5,5,4,4,4,4,real
+26,Male,21–23,Engineering,Yes,4,5,4,4,5,3,5,4,1,5,4,5,5,5,5,5,4,5,5,5,5,4,5,5,real
+27,Male,21–23,Information Technology,Yes,4,5,5,4,5,4,5,5,4,4,5,5,4,4,4,3,4,4,4,4,4,4,3,4,real
+28,Male,27 or above,Business Management,Yes,4,4,5,4,5,4,4,4,3,4,4,4,3,4,3,4,4,4,5,4,4,4,4,4,real
+29,Female,18–20,Other,No,4,5,4,4,4,5,4,5,4,4,4,4,4,3,4,4,3,4,4,3,3,4,5,4,real
+30,Male,21–23,Engineering,Yes,3,4,5,4,5,3,5,4,5,5,3,4,4,5,2,3,2,4,2,3,5,3,3,3,real
+31,Female,21–23,Business Management,Yes,4,3,3,2,2,3,3,2,4,3,2,3,3,4,4,4,4,4,4,2,4,4,4,4,real
+32,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,4,3,4,4,4,3,4,3,4,4,4,5,5,4,4,4,4,real
+33,Female,24–26,Information Technology,Yes,4,5,5,4,5,5,4,5,3,4,5,5,4,5,5,3,4,5,5,5,5,4,4,4,real
+34,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,real
+35,Male,24–26,Business Management,Yes,4,5,4,3,5,4,4,5,3,3,4,5,5,4,4,5,4,5,3,5,4,3,4,4,real
+36,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,3,3,1,3,4,4,4,4,4,4,5,5,4,real
+37,Male,21–23,Information Technology,No,4,4,4,2,4,1,1,2,2,1,4,3,2,3,3,2,2,3,4,4,4,3,3,2,real
+38,Male,21–23,Other,Yes,4,4,5,4,4,4,4,4,4,4,4,5,3,4,4,3,4,4,4,4,4,3,3,4,real
+39,Male,21–23,Information Technology,Yes,2,4,5,3,4,4,3,5,1,3,5,4,4,5,4,4,3,3,3,4,3,4,3,3,real
+40,Male,21–23,Information Technology,Yes,4,4,4,3,4,5,3,2,4,5,5,5,4,3,3,4,4,3,2,1,2,2,2,2,real
+41,Male,21–23,Information Technology,No,4,4,4,4,3,3,4,4,4,4,4,4,3,4,3,4,3,4,3,4,4,4,3,4,real
+42,Female,18–20,Information Technology,Yes,4,4,4,3,5,3,5,5,4,3,4,4,4,4,3,4,4,5,4,5,4,4,4,4,real
+43,Male,18–20,Other,Yes,4,4,4,3,4,4,4,4,4,4,4,3,4,4,3,2,3,4,4,5,4,3,3,3,real
+44,Female,24–26,Business Management,Yes,1,1,4,4,4,4,1,4,4,1,5,1,2,4,2,2,2,4,1,2,2,4,2,2,real
+45,Male,21–23,Information Technology,Yes,4,5,4,5,5,4,4,5,4,4,4,4,3,3,3,3,4,4,3,4,4,3,4,4,real
+46,Female,21–23,Other,Yes,4,5,4,4,5,4,4,5,4,4,5,5,5,5,4,4,4,4,4,5,4,5,4,5,real
+47,Male,21–23,Business Management,Yes,4,4,4,4,5,5,4,5,4,4,5,5,4,5,4,4,4,4,4,4,4,4,4,5,real
+48,Male,21–23,Information Technology,Yes,4,4,5,5,5,4,3,5,3,4,5,5,4,3,2,2,4,5,5,4,3,2,4,4,real
+49,Male,24–26,Information Technology,No,3,4,5,4,4,4,4,4,3,4,4,4,3,2,3,4,3,4,4,4,3,2,2,2,real
+50,Female,18–20,Other,No,4,4,5,4,4,4,4,4,3,4,4,4,3,2,3,4,3,4,4,2,3,2,2,2,real
+51,Female,24–26,Business Management,Yes,2,4,4,1,4,4,4,2,2,2,3,4,4,5,3,4,3,3,4,4,3,3,4,3,real
+52,Female,21–23,Information Technology,Yes,3,4,5,4,4,4,4,4,3,4,4,4,3,2,3,4,3,4,4,4,3,2,2,2,real
+53,Male,27 or above,Information Technology,No,4,4,5,4,3,3,4,5,3,4,5,5,3,3,4,5,3,3,4,5,4,5,3,4,real
+54,Male,21–23,Other,No,3,4,5,5,5,5,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,real
+55,Female,21–23,Information Technology,Yes,3,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,5,5,5,4,3,4,3,real
+56,Female,21–23,Information Technology,No,3,4,4,5,5,5,4,5,3,4,3,4,3,3,4,4,3,4,3,3,3,3,3,3,real
+57,Male,21–23,Information Technology,No,4,4,5,4,5,4,3,5,3,4,4,5,4,3,3,3,4,5,4,5,5,4,5,4,real
+58,Male,27 or above,Information Technology,Yes,4,5,5,4,5,5,4,4,5,4,5,4,4,4,4,5,4,5,4,4,4,4,5,4,real
+59,Female,21–23,Information Technology,Yes,4,4,5,5,5,4,4,4,5,4,5,4,4,4,4,5,4,5,4,4,4,4,5,4,real
+60,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,3,4,4,5,4,4,4,5,4,3,real
+61,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,5,3,4,4,4,5,4,4,5,5,5,4,4,3,3,real
+62,Male,21–23,Information Technology,Yes,4,4,5,5,5,5,4,5,3,3,5,5,5,3,4,4,3,5,4,4,4,4,4,4,real
+63,Female,21–23,Information Technology,No,5,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,real
+64,Male,21–23,Other,No,4,5,5,4,4,5,4,4,3,3,5,3,3,4,3,4,3,4,4,5,4,4,4,4,real
+65,Male,21–23,Information Technology,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,real
+66,Female,24–26,Information Technology,Yes,3,3,4,4,5,4,4,5,4,4,4,4,4,3,4,3,3,4,4,3,4,3,3,3,real
+67,Female,21–23,Engineering,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,real
+68,Female,18–20,Business Management,Yes,4,5,4,5,5,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,real
+69,Female,24–26,Information Technology,Yes,3,4,4,3,5,4,4,5,3,4,5,5,5,5,4,4,5,5,4,4,5,4,4,4,real
+70,Male,21–23,Information Technology,Yes,4,5,5,3,5,4,4,5,4,4,5,4,4,4,4,3,5,5,5,5,4,4,5,4,real
+71,Female,21–23,Engineering,Yes,4,5,5,3,5,4,4,5,4,4,5,4,4,4,4,3,5,5,5,5,4,4,5,4,real
+72,Female,24–26,Business Management,Yes,4,4,4,3,3,3,2,4,3,3,4,4,4,3,3,2,2,4,3,3,2,3,3,3,real
+73,Male,21–23,Information Technology,No,4,4,3,5,2,3,4,4,4,4,4,5,4,3,3,4,4,4,4,5,4,4,5,5,real
+74,Female,21–23,Business Management,Yes,4,4,5,5,5,5,4,4,4,4,5,5,4,4,4,5,5,5,5,5,4,4,4,4,real
+75,Male,18–20,Information Technology,No,4,3,5,4,5,4,4,5,3,4,4,4,4,4,4,3,4,5,4,4,4,4,4,4,real
+76,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,5,4,5,4,4,4,4,5,5,5,5,5,5,4,4,real
+77,Male,18–20,Information Technology,No,5,4,5,5,5,5,3,5,4,4,5,5,4,4,3,5,4,5,5,5,5,4,4,5,real
+78,Female,24–26,Business Management,Yes,4,5,4,5,4,5,3,5,4,4,4,5,3,2,4,3,2,5,4,5,4,5,3,4,real
+79,Male,18–20,Business Management,No,4,4,4,5,4,5,4,5,4,4,4,5,4,4,4,4,5,4,5,5,3,3,2,2,real
+80,Male,21–23,Information Technology,No,4,4,5,5,5,5,4,5,4,3,4,3,3,4,4,3,3,5,5,4,3,3,2,2,real
+81,Female,27 or above,Business Management,No,4,4,4,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,4,4,4,4,real
+82,Male,21–23,Information Technology,No,4,4,5,3,5,4,4,5,4,4,5,5,4,4,4,4,4,4,5,5,4,4,4,4,real
+83,Female,24–26,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,real
+84,Female,18–20,Business Management,No,4,4,4,4,5,5,4,5,3,4,4,5,3,5,4,3,3,5,5,5,5,3,3,3,real
+85,Male,24–26,Information Technology,Yes,4,4,5,3,4,5,4,5,3,3,4,3,3,4,4,3,3,5,5,4,3,3,2,2,real
+86,Female,21–23,Information Technology,Yes,4,4,5,4,5,5,4,5,3,3,4,3,3,4,4,3,3,3,4,5,3,3,2,2,real
+87,Male,24–26,Other,Yes,5,3,5,4,5,4,4,5,3,4,5,5,3,5,4,3,3,5,5,5,4,3,3,3,real
+88,Female,21–23,Other,Yes,3,4,5,5,5,4,4,5,3,3,4,4,3,3,4,5,4,4,5,5,4,3,4,4,real
+89,Female,18–20,Other,Yes,4,5,5,4,5,5,5,5,5,5,5,5,5,4,4,4,5,4,5,5,5,5,4,5,real
+90,Female,21–23,Information Technology,Yes,5,5,5,4,5,4,5,5,3,4,4,5,4,4,5,4,4,5,5,5,4,3,4,4,real
+91,Female,21–23,Engineering,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,real
+92,Male,21–23,Information Technology,No,4,4,5,4,4,4,4,4,3,4,5,5,4,4,4,4,4,5,5,5,5,5,5,4,real
+93,Male,24–26,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,3,4,4,4,4,4,4,real
+94,Female,21–23,Information Technology,Yes,4,4,5,5,5,4,4,5,5,4,5,4,4,4,4,5,4,5,5,5,5,4,4,4,real
+95,Female,21–23,Information Technology,No,3,3,4,2,3,4,3,4,4,2,2,4,4,3,3,1,3,1,1,1,1,2,3,3,real
+96,Female,21–23,Information Technology,Yes,4,4,4,3,5,4,4,5,3,3,4,4,4,3,4,2,4,4,5,5,4,4,4,4,real
+97,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,5,3,5,4,4,3,5,5,5,5,3,4,5,real
+98,Female,21–23,Other,Yes,4,4,5,5,5,5,4,5,4,5,5,5,4,4,4,4,4,4,5,5,4,4,4,4,real
+99,Male,21–23,Information Technology,Yes,3,5,5,5,4,5,3,5,3,3,5,4,3,3,2,3,4,5,4,4,3,4,4,3,real
+100,Male,21–23,Engineering,Yes,5,5,5,4,5,5,5,5,4,4,4,5,4,4,4,4,4,3,3,3,3,3,3,4,real
+101,Male,21–23,Information Technology,No,4,5,4,4,5,4,4,5,4,4,5,4,5,5,5,4,5,4,4,4,5,4,4,4,real
+102,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,5,4,5,4,4,4,4,4,4,5,5,5,5,5,4,5,real
+103,Female,21–23,Business Management,No,4,4,5,3,4,4,4,5,4,4,3,3,3,3,3,3,4,4,4,4,3,3,3,3,real
+104,Female,21–23,Information Technology,Yes,4,4,5,3,4,4,4,5,4,3,3,3,3,3,3,3,4,4,4,4,3,3,3,3,real
+105,Male,21–23,Business Management,Yes,4,5,5,5,4,4,4,5,4,4,5,5,4,4,4,3,4,5,5,5,4,4,4,4,real
+106,Male,21–23,Information Technology,Yes,4,5,5,5,5,5,4,5,4,5,5,4,4,5,4,4,5,5,5,5,5,4,4,4,real
+107,Female,21–23,Engineering,Yes,4,5,5,5,5,4,4,5,4,4,4,5,4,5,5,5,5,5,5,5,5,5,4,4,real
+108,Female,24–26,Information Technology,Yes,4,4,4,5,5,5,4,5,4,3,4,4,3,4,4,3,3,5,4,4,4,4,4,4,real
+109,Male,27 or above,Information Technology,Yes,4,4,4,5,5,5,4,5,4,4,4,4,3,3,4,3,4,5,4,4,4,3,3,4,real
+110,Male,24–26,Information Technology,No,4,4,4,3,4,3,4,5,3,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,real
+111,Female,27 or above,Engineering,No,4,4,4,5,5,4,4,5,4,4,4,4,4,4,3,3,3,4,4,4,5,5,4,4,real
+112,Female,21–23,Business Management,Yes,5,4,5,4,4,5,4,5,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,real
+113,Female,21–23,Business Management,No,4,5,5,2,5,4,4,5,4,4,5,5,4,5,4,4,5,5,5,5,4,4,4,5,real
+114,Female,21–23,Information Technology,Yes,5,5,5,5,5,4,4,5,4,5,5,5,5,4,5,4,4,4,5,5,5,5,5,5,real
+115,Female,21–23,Engineering,Yes,5,5,5,4,5,4,4,5,3,4,5,5,5,4,5,3,4,5,5,5,4,4,5,5,real
+116,Male,21–23,Information Technology,Yes,3,3,5,5,5,5,4,5,2,3,4,4,4,5,4,4,4,5,5,5,5,4,4,4,real
+117,Female,18–20,Information Technology,Yes,4,3,5,5,5,4,4,5,4,5,4,4,3,4,4,4,4,5,5,5,5,4,4,4,real
+118,Female,18–20,Information Technology,Yes,4,4,5,5,5,5,4,5,4,4,5,4,4,4,4,4,4,5,4,5,5,4,5,4,real
+119,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,real
+120,Female,21–23,Business Management,No,5,3,5,1,5,5,3,5,5,1,3,5,3,4,5,5,3,4,3,3,5,5,3,5,real
+121,Male,18–20,Information Technology,No,4,5,5,4,4,4,4,4,3,3,3,5,4,4,4,5,4,5,4,5,5,4,4,3,real
+122,Female,27 or above,Information Technology,No,5,4,5,5,5,5,4,5,5,4,5,5,4,5,5,5,4,5,5,5,5,5,4,4,real
+123,Female,21–23,Information Technology,Yes,4,4,4,4,5,5,4,5,5,3,5,4,4,4,4,3,4,5,4,5,5,4,5,4,real
+124,Male,18–20,Information Technology,Yes,4,5,5,4,5,5,4,5,3,4,3,4,4,5,4,2,3,5,5,5,5,4,5,5,real
+125,Male,18–20,Information Technology,Yes,4,4,4,3,4,4,3,4,2,3,3,3,2,3,5,3,3,3,3,3,3,3,5,5,real
+126,Female,18–20,Information Technology,Yes,4,5,5,4,5,5,5,4,4,4,5,4,4,4,4,5,4,4,5,5,4,5,5,5,real
+127,Male,21–23,Information Technology,Yes,4,5,5,5,4,5,4,4,5,4,5,5,4,4,3,4,4,4,5,4,4,4,5,4,real
+128,Male,21–23,Information Technology,Yes,5,5,5,4,5,5,4,5,4,4,4,5,5,5,4,4,4,4,5,5,5,5,4,4,real
+129,Female,21–23,Business Management,No,4,4,4,3,4,4,4,5,4,4,4,5,4,4,4,4,4,4,5,4,5,5,4,4,real
+130,Male,18–20,Information Technology,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,real
+131,Prefer not to say,21–23,Engineering,No,4,4,4,4,4,5,4,4,3,4,4,4,4,5,4,5,4,4,4,4,5,4,4,4,real
+132,Female,24–26,Other,Yes,5,5,5,5,5,5,5,5,5,5,5,5,3,5,4,4,4,3,4,4,4,4,5,5,real
+133,Male,18–20,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+134,Female,21–23,Engineering,No,4,5,5,4,5,5,4,5,3,3,4,4,4,4,4,4,4,5,5,5,5,4,5,5,real
+135,Male,21–23,Business Management,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,2,4,3,4,5,5,5,5,4,4,4,real
+136,Female,27 or above,Information Technology,Yes,5,5,5,3,5,4,4,3,4,3,5,3,4,2,4,1,4,5,5,5,4,4,2,4,real
+137,Male,21–23,Other,Yes,4,4,4,4,4,4,3,4,3,3,4,4,3,3,3,4,4,4,4,4,4,4,3,4,real
+138,Female,18–20,Engineering,Yes,4,4,5,4,4,3,3,5,3,4,4,4,4,4,3,3,3,5,4,4,4,4,4,4,real
+139,Male,24–26,Business Management,Yes,3,4,4,4,4,3,3,4,3,3,4,3,3,4,4,3,4,4,4,4,4,3,3,4,real
+140,Male,27 or above,Business Management,Yes,3,4,4,4,4,3,3,4,3,4,5,5,4,4,3,3,4,4,4,4,4,4,4,4,real
+141,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,3,4,3,3,3,4,3,4,4,3,3,4,4,4,4,4,4,4,real
+142,Female,24–26,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+143,Female,24–26,Business Management,Yes,4,3,4,4,4,3,4,4,3,3,4,4,3,4,4,4,4,4,4,4,4,3,4,4,real
+144,Female,27 or above,Information Technology,No,4,5,4,4,5,4,4,5,4,4,4,4,3,4,3,3,4,5,5,5,4,3,3,3,real
+145,Female,21–23,Information Technology,No,4,4,4,4,4,4,3,4,3,4,4,4,4,3,3,4,3,4,4,4,3,3,3,3,real
+146,Male,24–26,Business Management,Yes,4,5,5,3,4,4,4,4,4,4,5,5,3,4,4,3,3,4,4,4,3,4,3,3,real
+147,Female,21–23,Information Technology,Yes,4,4,5,4,4,4,4,4,4,3,4,4,3,4,3,3,3,4,4,5,4,4,4,3,real
+148,Male,18–20,Business Management,Yes,4,4,4,5,5,5,4,4,4,4,5,5,4,4,4,4,4,5,4,4,4,4,5,5,real
+149,Male,24–26,Information Technology,No,5,4,5,4,5,4,4,4,4,4,4,5,4,5,5,4,4,4,5,5,4,4,4,4,real
+150,Female,21–23,Information Technology,No,4,4,4,4,5,5,3,4,3,3,5,5,4,4,4,4,4,5,4,4,4,5,5,5,real
+151,Male,21–23,Information Technology,No,5,4,5,5,5,5,3,4,3,4,4,4,3,4,4,3,3,4,4,4,3,4,4,4,real
+152,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,5,4,4,4,4,4,real
+153,Male,21–23,Engineering,Yes,4,5,4,5,5,4,4,4,4,4,4,4,4,3,4,4,4,4,5,5,5,5,4,4,real
+154,Female,21–23,Information Technology,Yes,4,5,4,2,5,4,3,4,3,3,4,4,3,4,3,3,4,5,5,4,5,4,4,4,real
+155,Female,21–23,Business Management,Yes,4,5,5,5,5,4,5,5,4,4,5,5,3,3,4,3,4,4,3,4,4,5,4,4,real
+156,Male,18–20,Information Technology,Yes,5,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,real
+157,Female,24–26,Information Technology,Yes,4,5,5,4,5,4,4,4,4,4,4,3,4,5,4,3,4,5,5,5,5,4,5,5,real
+158,Female,21–23,Other,Yes,4,4,4,3,4,4,3,4,3,2,4,4,4,3,4,4,3,5,4,4,4,4,4,4,real
+159,Male,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,5,4,5,5,5,5,5,4,5,5,5,real
+160,Male,18–20,Information Technology,Yes,5,5,5,4,5,5,5,5,4,4,5,5,5,5,5,4,5,5,5,5,5,4,4,4,real
+161,Prefer not to say,21–23,Engineering,Yes,4,4,4,4,4,3,4,5,4,3,4,3,4,4,4,5,4,5,4,4,4,4,4,4,real
+162,Female,21–23,Business Management,Yes,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+163,Male,21–23,Information Technology,Yes,5,3,5,4,4,3,5,3,2,4,2,3,3,3,3,2,3,2,1,3,3,3,3,4,real
+164,Female,21–23,Business Management,Yes,4,5,5,5,5,5,5,5,5,4,5,4,5,5,4,5,4,5,5,5,5,5,4,5,real
+165,Male,21–23,Information Technology,Yes,4,4,4,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,5,4,4,4,4,4,real
+166,Female,21–23,Other,Yes,4,4,4,4,5,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,real
+167,Female,21–23,Business Management,Yes,4,5,5,4,4,4,4,4,4,4,4,5,4,4,4,4,5,4,4,4,4,4,4,4,real
+168,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,5,3,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+169,Prefer not to say,21–23,Engineering,Yes,3,4,4,2,3,4,4,4,2,4,2,4,2,5,4,4,2,3,4,3,2,4,4,5,real
+170,Female,24–26,Information Technology,Yes,3,4,4,2,4,4,4,4,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,real
+171,Female,18–20,Information Technology,Yes,3,4,3,2,3,4,4,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,real
+172,Male,21–23,Engineering,Yes,5,3,5,3,5,3,3,5,3,3,4,4,4,3,2,2,3,5,4,3,4,2,3,3,real
+173,Male,21–23,Business Management,Yes,5,3,4,3,4,3,3,3,3,4,3,3,2,4,3,2,3,4,4,4,3,3,4,4,real
+174,Female,24–26,Business Management,Yes,4,4,4,4,5,4,4,4,4,4,4,4,4,5,3,4,3,5,5,5,5,4,4,4,real
+175,Female,24–26,Information Technology,Yes,5,4,5,4,5,5,4,5,5,5,5,4,4,4,3,3,4,5,5,5,5,4,4,4,real
+176,Female,24–26,Business Management,Yes,4,4,4,4,5,5,5,5,5,4,4,4,4,4,4,4,4,4,5,5,5,4,5,4,real
+177,Male,21–23,Business Management,Yes,5,5,5,4,5,5,4,5,4,4,4,5,4,5,4,3,4,5,4,4,4,4,4,4,real
+178,Male,18–20,Engineering,Yes,2,4,3,1,2,1,2,4,1,1,5,4,4,4,4,3,4,1,3,1,1,1,1,2,real
+179,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,3,3,4,4,4,4,3,3,3,real
+180,Male,21–23,Information Technology,Yes,3,4,3,1,3,3,1,2,1,3,1,2,2,2,4,2,1,4,2,1,1,1,1,1,real
+181,Male,27 or above,Business Management,Yes,5,5,5,5,5,4,4,5,5,3,4,4,4,4,4,4,4,4,3,3,3,3,4,3,real
+182,Female,27 or above,Engineering,Yes,3,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+183,Male,24–26,Information Technology,Yes,4,4,4,4,3,4,4,4,5,4,5,4,4,4,4,4,4,4,5,5,5,4,4,3,real
+184,Female,18–20,Engineering,Yes,3,3,4,3,5,3,3,3,2,3,3,3,3,3,3,2,3,3,4,5,5,4,3,3,real
+185,Female,18–20,Information Technology,Yes,4,4,5,3,4,3,3,4,3,3,3,4,5,5,5,4,5,5,5,5,5,5,5,5,real
+186,Female,24–26,Information Technology,Yes,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,real
+187,Male,24–26,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+188,Male,21–23,Information Technology,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,real
+189,Male,21–23,Other,Yes,5,5,4,5,5,5,5,5,4,4,4,4,4,5,5,4,4,5,5,5,4,5,5,5,real
+190,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,4,4,5,4,real
+191,Female,21–23,Business Management,Yes,4,3,2,4,4,4,4,5,4,5,4,5,4,4,5,5,5,5,4,4,5,5,5,5,real
+192,Female,24–26,Information Technology,Yes,4,2,5,4,5,4,5,5,4,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,real
+193,Male,27 or above,Engineering,Yes,1,2,4,4,3,2,1,2,2,2,2,1,2,4,5,4,4,4,4,4,4,3,4,4,real
+194,Male,21–23,Engineering,Yes,5,4,5,3,5,5,3,5,5,4,5,5,4,4,4,4,4,5,5,4,4,4,4,4,real
+195,Prefer not to say,24–26,Information Technology,Yes,5,5,5,4,5,3,3,4,4,3,4,5,3,3,3,3,3,5,5,5,5,4,5,5,real
+196,Female,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,3,4,4,3,3,4,4,4,4,4,4,4,4,4,3,real
+197,Male,24–26,Other,Yes,4,5,5,4,5,4,4,5,4,4,5,4,4,4,4,5,5,5,4,5,4,4,4,4,real
+198,Female,21–23,Other,Yes,1,1,1,2,1,1,1,1,2,2,2,1,2,2,2,2,3,1,2,1,2,2,2,2,real
+199,Female,24–26,Information Technology,No,5,5,5,4,4,3,4,5,5,5,5,5,4,5,5,5,5,3,3,3,3,4,4,4,real
+200,Male,24–26,Information Technology,No,1,1,1,4,4,3,3,4,3,3,4,4,3,4,3,3,4,4,3,3,3,4,4,4,real
+201,Male,21–23,Engineering,No,4,4,4,4,4,4,4,4,4,4,4,4,3,3,4,4,3,4,4,4,4,4,4,4,real
+202,Female,18–20,Information Technology,Yes,1,1,2,1,2,1,1,2,1,1,2,1,3,3,3,3,3,3,3,3,3,3,3,3,real
+203,Female,21–23,Information Technology,Yes,3,4,5,5,5,5,4,4,3,5,5,5,4,5,5,4,5,5,5,5,5,5,5,5,real
+204,Male,21–23,Engineering,Yes,1,2,2,2,2,3,3,2,3,3,2,2,3,2,3,3,3,1,2,2,2,2,2,2,real
+205,Female,18–20,Business Management,No,4,3,5,5,4,4,4,5,4,5,4,5,5,5,4,4,3,4,5,5,5,5,4,4,real
+206,Female,21–23,Engineering,No,4,5,5,5,5,5,5,5,5,4,5,5,5,4,5,5,5,5,5,4,4,4,5,5,real
+207,Prefer not to say,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,real
+208,Female,24–26,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+209,Female,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+210,Female,18–20,Information Technology,No,5,4,5,5,5,5,4,4,5,4,4,4,4,5,4,4,4,5,5,5,5,4,5,4,real
+211,Male,21–23,Engineering,No,1,3,3,1,2,1,2,3,3,3,3,4,4,5,5,4,4,5,5,5,5,5,4,4,real
+212,Female,24–26,Information Technology,Yes,4,4,4,4,5,5,4,5,3,4,5,4,3,4,4,4,4,5,4,5,4,4,4,4,real
+213,Female,24–26,Business Management,Yes,4,5,5,4,5,5,4,5,4,5,5,5,5,5,4,5,4,4,4,5,5,5,5,5,real
+214,Male,21–23,Other,No,1,3,1,1,1,1,1,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,real
+215,Female,21–23,Information Technology,Yes,4,5,5,5,5,4,4,5,4,4,4,4,5,4,4,4,5,4,4,4,4,4,5,4,real
+216,Female,21–23,Engineering,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+217,Male,24–26,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,real
+218,Male,21–23,Engineering,No,2,4,5,5,5,5,5,3,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,real
+219,Male,18–20,Business Management,Yes,5,3,5,5,5,4,4,3,3,3,3,5,2,1,2,2,2,5,5,5,5,2,4,5,real
+220,Male,24–26,Information Technology,Yes,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,4,5,5,5,5,5,4,4,4,real
+221,Male,21–23,Information Technology,No,4,5,5,4,5,5,5,5,5,5,4,5,5,5,5,4,4,5,4,4,5,4,4,4,real
+222,Female,21–23,Information Technology,Yes,3,4,5,5,5,5,5,5,3,4,5,5,4,4,4,4,4,5,4,4,5,4,4,5,real
+223,Male,21–23,Engineering,Yes,4,5,4,4,5,5,4,4,3,4,3,4,5,4,3,4,3,5,4,4,4,3,4,4,real
+224,Male,24–26,Information Technology,Yes,1,1,2,2,1,1,1,2,2,2,1,1,1,2,2,2,1,1,3,3,2,3,3,3,real
+225,Female,21–23,Engineering,Yes,5,5,5,5,5,5,5,4,3,2,4,4,5,4,4,3,3,4,4,4,4,4,4,4,real
+226,Prefer not to say,21–23,Other,Yes,3,3,4,4,5,4,3,3,3,3,3,5,3,4,3,3,4,5,4,5,5,5,4,4,real
+227,Male,21–23,Engineering,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,real
+228,Male,21–23,Information Technology,No,4,5,5,4,5,5,4,5,4,4,4,5,5,4,4,4,5,5,5,5,5,5,5,5,real
+229,Male,24–26,Engineering,Yes,3,3,5,3,5,4,4,5,4,4,5,4,3,3,3,3,4,3,5,5,4,3,4,4,real
+230,Female,21–23,Engineering,No,5,5,4,4,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,real
+231,Female,24–26,Engineering,No,5,3,5,4,5,4,4,5,4,4,4,5,4,5,3,4,4,4,5,5,5,4,4,4,real
+232,Female,21–23,Information Technology,Yes,5,5,4,4,5,5,3,4,3,4,4,4,3,4,4,2,3,4,4,4,4,4,4,4,real
+233,Female,18–20,Information Technology,No,3,4,5,4,4,3,3,4,4,4,3,4,4,4,3,3,3,3,5,5,4,3,3,3,real
+234,Male,18–20,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4,4,3,3,3,4,3,3,real
+235,Female,24–26,Business Management,Yes,5,5,5,5,5,5,5,4,3,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,real
+236,Female,21–23,Business Management,No,4,4,4,4,4,4,4,5,4,4,4,4,5,4,4,5,4,4,5,5,5,5,5,5,real
+237,Male,18–20,Other,Yes,5,3,4,4,5,4,4,4,3,4,4,3,3,3,4,3,3,4,5,5,5,4,3,4,real
+238,Female,24–26,Business Management,No,5,5,5,4,4,4,5,5,5,5,4,4,4,4,4,4,5,4,5,5,5,4,4,4,real
+239,Female,24–26,Information Technology,No,4,5,5,5,5,5,5,5,5,4,4,5,4,4,4,4,4,4,5,5,5,5,5,5,real
+240,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,4,4,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,real
+241,Female,21–23,Business Management,No,4,4,5,5,4,4,4,4,5,4,5,4,4,4,4,3,4,4,4,4,4,4,4,4,real
+242,Male,21–23,Information Technology,No,3,5,5,5,5,3,4,5,4,4,4,5,3,5,4,3,4,4,5,5,5,4,5,4,real
+243,Female,24–26,Information Technology,Yes,4,4,5,4,4,4,4,4,4,4,3,5,4,4,4,3,4,4,5,4,4,3,4,3,real
+244,Female,24–26,Information Technology,Yes,4,4,5,5,5,5,5,5,5,3,5,5,4,4,4,1,1,5,5,5,5,4,4,4,real
+245,Male,24–26,Information Technology,Yes,5,4,4,3,4,4,4,3,3,3,4,5,3,4,4,4,4,4,1,1,4,4,4,4,real
+246,Male,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,5,4,5,5,4,4,4,4,4,4,5,5,5,5,4,4,real
+247,Female,21–23,Other,Yes,3,3,4,4,5,5,3,5,4,3,5,4,3,4,4,4,3,3,3,4,3,3,4,4,real
+248,Female,18–20,Information Technology,Yes,4,5,4,4,5,4,3,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,real
+249,Female,21–23,Other,Yes,4,5,5,4,4,5,4,4,3,4,4,5,3,4,3,4,4,3,5,4,4,3,4,4,real
+250,Male,21–23,Other,No,4,4,5,4,4,4,3,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,real
+251,Male,21–23,Information Technology,No,3,4,4,4,5,4,4,4,5,3,4,4,4,4,3,4,4,4,5,5,5,5,4,4,real
+252,Male,21–23,Information Technology,Yes,4,4,5,5,4,5,4,5,4,4,4,4,4,4,4,3,4,5,5,5,5,5,4,4,real
+253,Female,21–23,Engineering,Yes,4,4,4,3,5,4,3,4,3,3,4,3,2,2,3,2,3,4,4,4,3,4,4,3,real
+254,Female,18–20,Business Management,Yes,3,3,5,4,4,3,3,4,3,5,3,4,3,4,4,4,3,4,5,4,4,4,4,4,real
+255,Male,21–23,Information Technology,No,5,3,5,3,4,3,2,4,3,5,3,4,3,5,4,4,4,4,5,4,4,4,4,4,real
+256,Male,21–23,Business Management,Yes,4,4,4,4,4,3,3,4,3,4,3,5,3,4,3,4,4,3,3,3,3,4,3,3,real
+257,Male,24–26,Information Technology,No,3,4,5,4,4,3,3,4,4,4,4,4,4,4,4,3,4,4,3,3,3,3,4,4,real
+258,Male,18–20,Information Technology,Yes,4,5,5,4,3,4,4,5,4,3,4,4,4,4,4,3,4,4,5,5,5,4,4,4,real
+259,Female,18–20,Information Technology,No,4,5,5,4,3,4,4,5,4,3,4,4,4,4,4,3,4,4,5,5,5,4,4,4,real
+260,Male,21–23,Information Technology,Yes,4,5,5,4,4,4,5,4,4,3,3,4,5,4,4,5,4,5,5,5,5,4,4,5,real
+261,Female,21–23,Business Management,Yes,4,3,4,2,2,2,3,5,3,2,3,2,3,3,3,3,2,3,3,3,3,3,3,3,real
+262,Female,21–23,Information Technology,Yes,5,5,5,5,5,5,4,5,4,4,5,4,2,2,4,3,4,4,4,4,4,3,4,4,real
+263,Female,18–20,Business Management,No,4,5,5,4,5,4,3,4,3,3,4,3,2,3,2,2,2,4,3,3,3,4,3,3,real
+264,Female,21–23,Other,Yes,4,5,5,4,5,5,5,5,5,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,real
+265,Female,21–23,Engineering,Yes,3,4,4,4,4,5,4,5,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,real
+266,Female,18–20,Information Technology,Yes,5,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,real
+267,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,3,5,5,4,4,4,3,4,5,5,5,5,4,4,4,synthetic
+268,Male,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+269,Female,18–20,Business Management,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+270,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+271,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+272,Male,18–20,Information Technology,Yes,4,4,4,4,5,4,4,5,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+273,Male,18–20,Other,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+274,Female,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+275,Female,21–23,Engineering,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+276,Male,18–20,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+277,Female,24–26,Business Management,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+278,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+279,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+280,Male,24–26,Engineering,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+281,Female,27 or above,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+282,Female,18–20,Other,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+283,Male,18–20,Business Management,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+284,Male,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,3,3,4,4,3,4,3,3,4,4,4,4,3,4,4,4,synthetic
+285,Male,18–20,Engineering,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+286,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+287,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+288,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+289,Female,21–23,Engineering,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+290,Male,21–23,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,4,5,4,4,4,synthetic
+291,Male,21–23,Engineering,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+292,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+293,Male,21–23,Information Technology,Yes,4,4,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+294,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+295,Male,21–23,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,4,5,4,4,4,synthetic
+296,Female,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+297,Male,18–20,Other,No,4,4,4,4,5,4,4,4,3,4,4,4,3,4,4,3,3,4,4,4,4,4,4,4,synthetic
+298,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+299,Male,18–20,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+300,Female,24–26,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+301,Female,21–23,Engineering,Yes,5,5,5,5,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+302,Male,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+303,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+304,Female,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+305,Female,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+306,Female,24–26,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+307,Female,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,3,4,4,4,4,4,3,4,5,5,5,5,4,4,4,synthetic
+308,Male,24–26,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+309,Female,24–26,Engineering,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+310,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+311,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+312,Male,24–26,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+313,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+314,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+315,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+316,Male,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+317,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,5,4,4,4,4,4,synthetic
+318,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+319,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+320,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+321,Male,18–20,Engineering,Yes,4,4,4,4,5,4,4,5,4,3,4,5,4,4,4,3,4,4,5,5,5,4,4,4,synthetic
+322,Female,21–23,Other,No,5,5,5,5,5,5,4,5,3,3,5,5,4,4,4,3,4,5,5,5,5,4,4,4,synthetic
+323,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,5,3,4,4,3,4,4,5,5,4,3,4,4,synthetic
+324,Female,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+325,Female,21–23,Information Technology,No,3,4,5,4,4,4,4,4,3,4,4,4,3,4,3,3,3,4,4,4,4,3,4,4,synthetic
+326,Female,21–23,Business Management,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+327,Female,21–23,Engineering,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+328,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+329,Female,21–23,Information Technology,Yes,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+330,Male,24–26,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,5,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+331,Female,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+332,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+333,Female,24–26,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+334,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+335,Male,21–23,Business Management,Yes,5,5,5,5,5,5,4,5,5,5,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+336,Female,21–23,Business Management,Yes,4,4,4,4,5,4,4,5,3,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+337,Female,21–23,Other,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+338,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+339,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+340,Male,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+341,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+342,Female,21–23,Other,Yes,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,4,5,5,synthetic
+343,Male,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+344,Male,18–20,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+345,Male,27 or above,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+346,Female,24–26,Engineering,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+347,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+348,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+349,Male,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+350,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,3,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+351,Male,18–20,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+352,Male,18–20,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+353,Male,21–23,Information Technology,Yes,4,4,5,4,4,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+354,Male,21–23,Information Technology,Yes,4,4,5,4,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+355,Female,18–20,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+356,Female,21–23,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+357,Male,21–23,Engineering,No,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+358,Male,18–20,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+359,Female,21–23,Business Management,No,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,synthetic
+360,Male,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,5,4,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+361,Male,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+362,Female,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+363,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+364,Male,24–26,Information Technology,No,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+365,Female,21–23,Business Management,Yes,4,4,4,4,5,4,4,4,3,3,4,5,3,3,4,3,4,4,5,5,5,4,4,4,synthetic
+366,Male,24–26,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+367,Male,21–23,Business Management,No,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+368,Female,21–23,Other,Yes,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+369,Female,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+370,Female,18–20,Engineering,No,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+371,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+372,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+373,Male,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+374,Prefer not to say,21–23,Other,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+375,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+376,Female,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+377,Female,18–20,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+378,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+379,Female,24–26,Information Technology,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,4,5,synthetic
+380,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+381,Male,18–20,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+382,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+383,Male,27 or above,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,5,4,4,4,4,4,synthetic
+384,Female,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+385,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+386,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+387,Female,24–26,Business Management,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+388,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+389,Male,21–23,Information Technology,No,5,5,5,5,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+390,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+391,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+392,Prefer not to say,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+393,Female,18–20,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+394,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+395,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+396,Male,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+397,Male,18–20,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+398,Male,24–26,Business Management,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+399,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+400,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+401,Female,18–20,Engineering,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+402,Female,24–26,Engineering,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+403,Male,18–20,Engineering,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+404,Female,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+405,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+406,Female,24–26,Engineering,Yes,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+407,Male,18–20,Information Technology,Yes,5,5,5,5,5,5,4,5,3,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+408,Male,21–23,Information Technology,No,5,5,5,5,5,5,4,5,5,4,5,5,4,5,4,4,4,5,5,5,5,5,4,4,synthetic
+409,Female,24–26,Other,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+410,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+411,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+412,Male,21–23,Information Technology,No,4,4,4,4,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,5,synthetic
+413,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+414,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,3,4,4,3,4,3,3,3,4,4,4,4,4,4,4,synthetic
+415,Male,18–20,Other,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+416,Female,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+417,Female,24–26,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+418,Female,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+419,Female,24–26,Information Technology,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+420,Female,18–20,Engineering,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+421,Female,24–26,Information Technology,No,5,5,5,5,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+422,Female,18–20,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+423,Female,21–23,Other,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+424,Male,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+425,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+426,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+427,Male,27 or above,Business Management,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+428,Male,24–26,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+429,Male,24–26,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+430,Prefer not to say,21–23,Business Management,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+431,Female,18–20,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+432,Female,24–26,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+433,Female,18–20,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+434,Female,18–20,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+435,Female,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+436,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+437,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+438,Male,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+439,Female,21–23,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+440,Male,21–23,Business Management,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+441,Female,21–23,Engineering,Yes,4,4,4,4,4,4,4,4,3,3,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+442,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+443,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+444,Male,21–23,Other,No,4,4,5,4,5,5,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+445,Male,18–20,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+446,Prefer not to say,24–26,Other,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+447,Male,21–23,Business Management,Yes,4,4,4,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+448,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+449,Female,24–26,Engineering,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+450,Female,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+451,Female,21–23,Information Technology,Yes,4,5,5,4,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,4,5,5,synthetic
+452,Female,18–20,Business Management,Yes,4,4,5,4,5,5,4,5,3,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+453,Female,24–26,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+454,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+455,Male,21–23,Other,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+456,Female,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+457,Female,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+458,Female,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+459,Female,27 or above,Other,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+460,Male,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+461,Male,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+462,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+463,Male,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+464,Male,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+465,Female,18–20,Business Management,No,4,4,5,4,5,4,4,5,3,4,4,5,3,4,4,4,4,5,5,5,4,4,4,4,synthetic
+466,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+467,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+468,Male,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+469,Male,21–23,Information Technology,Yes,4,5,5,4,5,5,5,5,4,4,5,5,4,4,4,5,5,5,5,5,5,4,5,5,synthetic
+470,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+471,Male,21–23,Business Management,No,4,4,5,4,5,4,4,5,3,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+472,Male,18–20,Other,Yes,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,5,5,5,4,5,5,synthetic
+473,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+474,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+475,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+476,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+477,Male,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+478,Male,21–23,Information Technology,Yes,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,5,5,5,4,5,5,synthetic
+479,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+480,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+481,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+482,Male,21–23,Business Management,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,synthetic
+483,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+484,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,3,3,4,4,4,4,4,3,4,4,5,4,4,4,4,4,synthetic
+485,Female,18–20,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+486,Male,24–26,Business Management,No,4,4,4,4,5,4,4,4,4,3,4,5,4,4,4,3,4,4,4,4,5,4,4,4,synthetic
+487,Female,21–23,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+488,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+489,Female,21–23,Engineering,Yes,5,5,5,5,5,5,4,5,5,5,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+490,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+491,Male,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+492,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+493,Male,21–23,Information Technology,No,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,4,5,5,5,5,5,5,5,synthetic
+494,Female,18–20,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,5,5,4,4,4,synthetic
+495,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+496,Male,18–20,Engineering,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+497,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+498,Male,24–26,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+499,Male,24–26,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+500,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+501,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+502,Male,24–26,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+503,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+504,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+505,Male,18–20,Information Technology,No,4,4,4,4,5,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+506,Female,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+507,Female,24–26,Engineering,No,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+508,Female,18–20,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+509,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+510,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+511,Female,24–26,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+512,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+513,Male,27 or above,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+514,Female,18–20,Other,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+515,Male,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+516,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+517,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+518,Male,27 or above,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+519,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+520,Male,18–20,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+521,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+522,Male,24–26,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+523,Female,21–23,Business Management,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,3,4,4,4,4,4,4,4,synthetic
+524,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+525,Male,21–23,Information Technology,No,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+526,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+527,Female,24–26,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+528,Male,24–26,Information Technology,No,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+529,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+530,Female,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+531,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+532,Male,27 or above,Information Technology,No,5,5,5,5,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+533,Female,24–26,Other,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+534,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+535,Female,21–23,Information Technology,Yes,4,4,5,4,5,5,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+536,Male,21–23,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+537,Female,24–26,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+538,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+539,Male,18–20,Information Technology,Yes,4,5,5,5,5,5,4,5,5,5,5,5,4,5,4,4,4,5,5,5,5,5,4,4,synthetic
+540,Male,24–26,Engineering,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+541,Male,21–23,Information Technology,Yes,4,4,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+542,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+543,Male,24–26,Business Management,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+544,Male,24–26,Information Technology,No,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+545,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+546,Male,18–20,Information Technology,No,4,4,5,4,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+547,Male,24–26,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+548,Male,27 or above,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+549,Prefer not to say,18–20,Information Technology,No,4,4,5,4,5,4,4,5,3,3,4,5,3,4,4,3,3,5,5,5,5,4,4,4,synthetic
+550,Male,24–26,Other,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+551,Female,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+552,Female,21–23,Other,Yes,4,4,4,4,4,4,4,4,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+553,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+554,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+555,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+556,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+557,Male,18–20,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+558,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+559,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+560,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+561,Female,27 or above,Engineering,Yes,4,5,5,4,5,5,4,5,5,4,5,5,4,5,4,5,5,5,5,5,5,4,5,5,synthetic
+562,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+563,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+564,Male,21–23,Information Technology,Yes,4,4,5,4,4,4,4,5,3,4,4,4,3,4,3,3,3,4,4,4,4,4,4,4,synthetic
+565,Female,18–20,Information Technology,Yes,4,4,4,4,5,4,3,5,3,3,4,5,4,4,4,3,4,5,5,3,5,4,4,4,synthetic
+566,Female,21–23,Engineering,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+567,Male,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+568,Prefer not to say,18–20,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+569,Male,21–23,Other,No,4,4,5,4,5,4,4,5,3,3,4,4,3,4,4,3,4,4,5,5,4,3,4,4,synthetic
+570,Male,21–23,Information Technology,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+571,Male,21–23,Business Management,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,3,3,3,4,4,4,4,4,4,4,synthetic
+572,Male,21–23,Engineering,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+573,Female,21–23,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+574,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+575,Female,24–26,Information Technology,Yes,4,4,4,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+576,Female,21–23,Engineering,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+577,Female,18–20,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+578,Male,21–23,Other,Yes,4,4,5,4,5,4,4,5,3,4,4,5,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+579,Female,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+580,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+581,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+582,Prefer not to say,21–23,Information Technology,No,4,5,5,4,5,5,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+583,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+584,Female,21–23,Engineering,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+585,Male,21–23,Business Management,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+586,Female,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+587,Male,27 or above,Information Technology,No,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+588,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+589,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+590,Male,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+591,Female,21–23,Engineering,Yes,4,5,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+592,Prefer not to say,21–23,Information Technology,Yes,4,4,4,4,5,4,4,4,3,3,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+593,Female,27 or above,Information Technology,Yes,4,4,5,4,5,5,4,5,3,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+594,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+595,Female,18–20,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+596,Female,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+597,Male,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,3,3,3,4,4,4,3,3,4,4,synthetic
+598,Male,21–23,Information Technology,No,4,5,5,5,5,5,4,5,5,4,5,5,4,5,4,4,4,5,5,5,5,5,4,4,synthetic
+599,Female,21–23,Engineering,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+600,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,5,4,4,4,4,4,synthetic
+601,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+602,Male,18–20,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+603,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+604,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+605,Female,21–23,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+606,Female,18–20,Information Technology,Yes,4,4,4,4,5,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+607,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+608,Female,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+609,Female,21–23,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+610,Male,18–20,Business Management,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+611,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+612,Female,24–26,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,5,synthetic
+613,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,3,3,5,5,4,4,4,3,4,5,5,5,5,4,4,4,synthetic
+614,Female,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+615,Prefer not to say,18–20,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+616,Male,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+617,Female,21–23,Other,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+618,Male,24–26,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+619,Female,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+620,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+621,Male,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+622,Male,21–23,Business Management,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+623,Female,18–20,Other,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+624,Female,27 or above,Business Management,Yes,4,4,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+625,Female,21–23,Business Management,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,3,4,4,synthetic
+626,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+627,Male,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+628,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+629,Female,21–23,Other,Yes,4,4,5,4,5,5,4,5,3,4,4,5,4,4,4,3,4,5,5,5,5,4,4,4,synthetic
+630,Male,24–26,Business Management,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+631,Male,21–23,Information Technology,Yes,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+632,Female,21–23,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+633,Male,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+634,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+635,Male,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+636,Male,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,5,5,4,4,4,4,synthetic
+637,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+638,Female,18–20,Other,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+639,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+640,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+641,Male,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+642,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,5,5,4,4,4,4,synthetic
+643,Male,21–23,Business Management,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+644,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+645,Female,18–20,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,5,4,synthetic
+646,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+647,Prefer not to say,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+648,Female,21–23,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+649,Male,21–23,Engineering,No,4,4,5,4,5,5,4,5,4,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+650,Male,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+651,Male,27 or above,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+652,Male,18–20,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+653,Female,24–26,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+654,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+655,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+656,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,3,4,5,3,4,4,3,4,4,5,5,5,3,4,4,synthetic
+657,Female,21–23,Other,No,4,4,4,4,4,4,4,4,3,3,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+658,Female,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+659,Male,21–23,Business Management,No,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+660,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+661,Male,18–20,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+662,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+663,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+664,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,4,3,3,4,4,3,3,3,3,3,4,4,4,3,4,3,4,synthetic
+665,Female,21–23,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+666,Female,18–20,Engineering,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+667,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,3,3,4,4,3,4,4,3,4,4,5,5,4,3,4,4,synthetic
+668,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+669,Female,18–20,Business Management,No,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+670,Male,27 or above,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+671,Female,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+672,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,4,3,3,4,4,3,4,4,3,4,4,4,4,3,3,4,4,synthetic
+673,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+674,Female,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+675,Female,21–23,Information Technology,Yes,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,5,4,4,synthetic
+676,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+677,Female,18–20,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+678,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+679,Female,21–23,Other,No,5,4,5,5,5,5,4,5,3,4,5,5,3,4,4,3,4,5,5,5,5,4,4,4,synthetic
+680,Male,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+681,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+682,Female,18–20,Business Management,No,4,4,5,4,5,4,4,5,3,4,4,5,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+683,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+684,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+685,Male,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,5,4,4,4,4,5,5,5,4,5,4,4,5,4,synthetic
+686,Male,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+687,Male,24–26,Business Management,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+688,Male,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+689,Female,24–26,Other,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+690,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+691,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+692,Prefer not to say,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+693,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+694,Prefer not to say,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+695,Female,18–20,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+696,Female,21–23,Information Technology,Yes,4,4,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+697,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+698,Male,18–20,Information Technology,No,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,4,5,5,synthetic
+699,Female,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+700,Male,21–23,Other,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+701,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+702,Female,24–26,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+703,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+704,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+705,Prefer not to say,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+706,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+707,Male,18–20,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+708,Male,24–26,Information Technology,Yes,5,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+709,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+710,Male,18–20,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+711,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+712,Male,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+713,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+714,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+715,Female,18–20,Engineering,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+716,Male,21–23,Engineering,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+717,Male,18–20,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+718,Female,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+719,Prefer not to say,24–26,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+720,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+721,Male,21–23,Information Technology,No,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+722,Female,18–20,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+723,Female,27 or above,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+724,Female,21–23,Business Management,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+725,Male,27 or above,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+726,Female,21–23,Business Management,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+727,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+728,Female,18–20,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+729,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+730,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+731,Male,21–23,Information Technology,Yes,4,4,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+732,Male,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+733,Female,24–26,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+734,Male,21–23,Other,No,4,5,5,4,5,5,5,5,5,5,5,5,4,5,4,5,5,5,5,5,5,5,5,5,synthetic
+735,Female,24–26,Other,Yes,4,4,4,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+736,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+737,Male,18–20,Other,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+738,Female,21–23,Information Technology,No,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+739,Female,24–26,Business Management,Yes,4,4,5,4,5,5,4,5,3,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+740,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+741,Male,21–23,Other,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+742,Male,27 or above,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+743,Female,24–26,Other,Yes,4,4,4,4,4,4,4,4,3,3,4,4,3,4,4,3,3,4,4,4,4,4,4,4,synthetic
+744,Female,24–26,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+745,Male,27 or above,Information Technology,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,synthetic
+746,Male,21–23,Engineering,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+747,Male,21–23,Information Technology,Yes,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+748,Male,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,3,4,4,4,4,4,4,4,synthetic
+749,Female,27 or above,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+750,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+751,Female,21–23,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+752,Male,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+753,Female,18–20,Information Technology,Yes,5,4,5,4,5,5,4,5,3,4,4,5,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+754,Female,21–23,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+755,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+756,Female,18–20,Business Management,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+757,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+758,Female,21–23,Information Technology,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,3,3,4,4,4,4,4,4,4,4,synthetic
+759,Male,18–20,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+760,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+761,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+762,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+763,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,3,4,5,3,4,4,3,4,4,5,5,4,4,4,4,synthetic
+764,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+765,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+766,Male,21–23,Information Technology,No,4,5,5,4,5,5,4,5,4,5,5,5,4,5,4,4,4,5,5,5,5,4,4,5,synthetic
+767,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+768,Prefer not to say,21–23,Engineering,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+769,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+770,Female,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+771,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+772,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+773,Female,18–20,Other,No,4,5,5,4,5,5,4,5,5,4,5,5,4,5,4,4,4,5,5,5,5,4,4,4,synthetic
+774,Female,18–20,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+775,Male,27 or above,Engineering,No,4,5,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+776,Male,24–26,Other,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+777,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+778,Male,24–26,Business Management,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+779,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+780,Female,24–26,Other,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+781,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+782,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+783,Female,18–20,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+784,Female,21–23,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+785,Male,21–23,Business Management,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,4,4,4,5,5,4,4,4,4,synthetic
+786,Female,18–20,Business Management,Yes,5,5,5,5,5,5,4,5,3,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+787,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+788,Female,18–20,Other,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+789,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,5,3,4,4,3,4,5,5,5,4,4,4,4,synthetic
+790,Male,21–23,Business Management,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+791,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+792,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+793,Female,24–26,Information Technology,Yes,4,4,5,4,5,5,4,5,3,3,4,5,3,4,4,3,4,5,5,5,5,4,4,4,synthetic
+794,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+795,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+796,Female,21–23,Information Technology,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+797,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+798,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+799,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+800,Male,21–23,Other,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+801,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,4,3,3,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+802,Male,24–26,Business Management,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+803,Female,21–23,Engineering,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+804,Male,24–26,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+805,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,5,4,4,4,4,synthetic
+806,Male,21–23,Engineering,No,4,4,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+807,Male,18–20,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+808,Female,21–23,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+809,Male,18–20,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+810,Female,24–26,Information Technology,No,4,4,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+811,Female,21–23,Information Technology,No,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+812,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+813,Female,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+814,Prefer not to say,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+815,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,4,3,3,4,4,3,4,4,3,3,4,4,4,3,3,4,4,synthetic
+816,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+817,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+818,Female,24–26,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+819,Male,21–23,Business Management,No,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+820,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,3,4,4,5,5,4,4,4,4,synthetic
+821,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+822,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+823,Female,24–26,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+824,Male,24–26,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+825,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,3,4,4,5,5,4,4,4,4,synthetic
+826,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+827,Female,21–23,Information Technology,No,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+828,Female,21–23,Engineering,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,4,4,4,4,4,synthetic
+829,Female,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+830,Male,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+831,Male,21–23,Engineering,Yes,4,4,4,4,5,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+832,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+833,Male,18–20,Information Technology,No,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+834,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+835,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+836,Female,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+837,Male,21–23,Engineering,Yes,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+838,Female,27 or above,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+839,Male,18–20,Other,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+840,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+841,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+842,Female,18–20,Business Management,Yes,4,4,4,4,5,4,4,4,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+843,Female,18–20,Other,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+844,Female,18–20,Engineering,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+845,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+846,Female,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+847,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+848,Female,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+849,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+850,Male,21–23,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+851,Male,18–20,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+852,Female,21–23,Information Technology,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+853,Female,24–26,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+854,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,5,5,4,4,4,4,synthetic
+855,Male,21–23,Other,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+856,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+857,Male,24–26,Information Technology,No,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+858,Male,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+859,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+860,Female,24–26,Information Technology,No,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+861,Male,21–23,Other,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+862,Male,24–26,Business Management,Yes,4,5,5,4,5,5,4,5,5,4,5,5,4,5,4,5,5,5,5,5,5,4,5,5,synthetic
+863,Female,18–20,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+864,Female,18–20,Information Technology,Yes,4,4,5,5,5,5,4,5,3,4,5,5,3,4,4,3,4,5,5,5,5,4,4,4,synthetic
+865,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+866,Male,18–20,Engineering,No,4,4,5,4,5,5,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+867,Prefer not to say,18–20,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+868,Male,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+869,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+870,Female,27 or above,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+871,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+872,Male,21–23,Engineering,Yes,4,4,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+873,Female,21–23,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+874,Female,18–20,Business Management,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+875,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+876,Prefer not to say,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+877,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+878,Male,24–26,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+879,Female,21–23,Information Technology,Yes,4,5,5,4,5,5,5,5,5,5,5,5,5,5,4,5,4,5,5,5,5,4,5,5,synthetic
+880,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+881,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,3,4,5,5,5,5,4,4,4,synthetic
+882,Female,27 or above,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+883,Male,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+884,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+885,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+886,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+887,Male,18–20,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+888,Female,18–20,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+889,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+890,Female,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+891,Female,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+892,Female,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+893,Female,18–20,Other,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+894,Female,21–23,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+895,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+896,Female,24–26,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+897,Prefer not to say,24–26,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+898,Female,27 or above,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+899,Male,21–23,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+900,Female,24–26,Business Management,No,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+901,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+902,Male,21–23,Other,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+903,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,3,3,4,5,4,4,4,3,4,5,5,5,5,4,4,4,synthetic
+904,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+905,Female,21–23,Business Management,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+906,Male,24–26,Business Management,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+907,Male,18–20,Engineering,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+908,Female,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,synthetic
+909,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+910,Male,24–26,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+911,Female,24–26,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+912,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+913,Female,24–26,Information Technology,No,4,4,5,4,5,5,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+914,Prefer not to say,21–23,Engineering,Yes,4,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,synthetic
+915,Male,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+916,Female,24–26,Business Management,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+917,Female,21–23,Engineering,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+918,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+919,Male,18–20,Information Technology,Yes,5,4,5,4,5,5,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+920,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+921,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+922,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+923,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+924,Male,24–26,Information Technology,Yes,4,4,5,4,5,5,4,5,5,4,5,5,4,5,4,5,5,5,5,5,5,4,4,4,synthetic
+925,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,5,4,4,4,3,4,5,5,5,4,4,4,4,synthetic
+926,Female,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+927,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+928,Female,27 or above,Business Management,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+929,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+930,Female,21–23,Other,Yes,4,4,5,4,4,4,3,4,3,3,4,3,3,4,3,3,3,4,4,4,3,3,3,3,synthetic
+931,Male,24–26,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+932,Female,21–23,Other,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+933,Male,24–26,Information Technology,Yes,4,4,5,4,4,4,3,4,3,3,4,4,3,4,3,3,3,4,4,4,3,3,3,4,synthetic
+934,Female,18–20,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+935,Male,27 or above,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+936,Male,21–23,Business Management,No,4,4,4,4,5,4,4,5,3,3,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+937,Male,18–20,Information Technology,No,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,synthetic
+938,Prefer not to say,24–26,Engineering,No,4,4,4,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+939,Female,18–20,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+940,Male,18–20,Business Management,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+941,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+942,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+943,Female,21–23,Engineering,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+944,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,synthetic
+945,Male,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+946,Female,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+947,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,3,4,4,4,3,4,3,4,3,4,4,4,4,4,4,4,synthetic
+948,Female,21–23,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+949,Female,24–26,Business Management,No,4,4,4,4,5,4,4,5,4,4,5,4,4,4,4,4,4,5,4,4,4,4,4,4,synthetic
+950,Male,24–26,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+951,Male,18–20,Engineering,Yes,4,4,5,4,5,4,3,5,3,3,4,4,3,4,3,3,3,4,4,4,3,3,4,4,synthetic
+952,Female,21–23,Business Management,No,4,5,5,5,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+953,Male,21–23,Engineering,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+954,Male,21–23,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+955,Male,24–26,Business Management,No,4,4,4,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+956,Female,27 or above,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+957,Male,18–20,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+958,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+959,Male,21–23,Other,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+960,Male,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+961,Female,21–23,Information Technology,Yes,4,5,4,4,5,4,4,5,4,4,5,4,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+962,Male,21–23,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+963,Male,24–26,Information Technology,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+964,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+965,Female,18–20,Engineering,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+966,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,4,3,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,synthetic
+967,Female,18–20,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+968,Female,18–20,Engineering,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+969,Female,24–26,Engineering,Yes,4,4,5,4,4,4,4,4,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+970,Prefer not to say,21–23,Business Management,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+971,Male,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+972,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+973,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+974,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+975,Female,21–23,Other,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+976,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,4,4,4,4,synthetic
+977,Male,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+978,Female,21–23,Information Technology,Yes,4,4,4,4,5,4,4,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+979,Male,27 or above,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+980,Female,24–26,Business Management,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+981,Female,18–20,Engineering,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+982,Female,24–26,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+983,Female,21–23,Information Technology,No,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+984,Female,21–23,Engineering,Yes,4,4,5,4,5,4,4,5,4,4,4,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+985,Male,18–20,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+986,Male,18–20,Information Technology,No,4,4,4,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,synthetic
+987,Male,21–23,Business Management,No,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+988,Female,21–23,Information Technology,Yes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+989,Female,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,synthetic
+990,Male,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+991,Male,21–23,Information Technology,No,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+992,Female,21–23,Information Technology,No,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,4,4,4,4,4,4,synthetic
+993,Female,21–23,Information Technology,Yes,4,4,5,4,5,4,4,5,3,3,4,4,3,4,4,3,4,4,4,4,3,3,4,4,synthetic
+994,Prefer not to say,24–26,Information Technology,No,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+995,Female,24–26,Business Management,Yes,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,synthetic
+996,Female,21–23,Business Management,Yes,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,synthetic
+997,Male,21–23,Information Technology,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+998,Male,21–23,Business Management,Yes,4,5,5,4,5,5,4,5,4,4,5,5,4,4,4,4,4,5,5,5,5,4,4,4,synthetic
+999,Male,18–20,Information Technology,Yes,4,4,5,4,5,4,4,5,3,4,4,4,3,4,4,3,4,4,5,4,4,4,4,4,synthetic
+1000,Female,18–20,Business Management,Yes,4,4,5,4,5,4,4,5,3,3,4,4,3,4,4,3,4,5,5,5,4,4,4,4,synthetic
+1001,Female,21–23,Information Technology,Yes,2,2,2,2,3,2,1,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,3,synthetic
+1002,Female,18–20,Other,Yes,5,4,5,4,5,4,4,5,3,4,5,4,4,4,4,4,4,4,5,4,3,4,4,4,synthetic
+1003,Female,24–26,Information Technology,No,2,3,3,2,3,3,1,3,1,2,2,3,3,2,2,2,2,3,3,2,3,3,2,3,synthetic
+1004,Female,18–20,Information Technology,Yes,3,3,3,3,4,3,3,3,3,3,5,3,4,3,3,3,3,3,4,3,4,3,3,3,synthetic
+1005,Female,21–23,Business Management,No,4,3,3,2,3,2,2,4,3,4,3,4,3,3,3,3,3,3,3,3,3,3,3,3,synthetic
+1006,Female,21–23,Information Technology,Yes,3,3,4,4,4,4,4,4,3,3,4,3,3,3,3,4,4,4,3,3,3,3,3,4,synthetic
+1007,Female,27 or above,Information Technology,No,2,2,3,2,2,2,2,3,3,2,2,1,2,2,2,3,2,3,3,3,2,2,3,1,synthetic
+1008,Male,18–20,Business Management,Yes,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,synthetic
+1009,Female,18–20,Other,Yes,4,4,4,3,5,4,4,4,3,4,4,5,3,5,4,4,4,4,4,5,5,4,5,5,synthetic
+1010,Female,18–20,Information Technology,Yes,3,3,4,2,2,3,2,2,2,2,2,2,2,2,2,3,2,3,2,3,2,1,2,1,synthetic
+1011,Female,24–26,Business Management,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1012,Female,21–23,Other,Yes,4,5,5,4,4,4,3,5,5,3,4,4,4,4,4,5,4,5,4,5,4,4,4,4,synthetic
+1013,Female,21–23,Information Technology,No,3,3,4,4,4,3,3,4,3,4,3,3,4,2,2,3,3,4,3,3,4,3,3,3,synthetic
+1014,Male,21–23,Information Technology,Yes,1,2,3,1,2,2,2,3,1,2,3,2,1,2,3,1,2,2,3,2,3,2,3,2,synthetic
+1015,Female,21–23,Information Technology,Yes,2,4,3,3,3,2,3,4,3,2,3,3,2,2,3,3,3,4,3,4,4,3,2,3,synthetic
+1016,Male,21–23,Information Technology,Yes,3,2,5,3,3,3,3,3,3,2,3,4,3,3,3,2,3,3,4,2,4,3,3,2,synthetic
+1017,Female,27 or above,Business Management,Yes,4,4,3,4,5,3,4,5,4,4,4,5,4,2,3,3,3,4,5,4,4,3,3,4,synthetic
+1018,Female,21–23,Information Technology,No,2,1,3,2,3,2,1,3,2,2,2,2,2,2,2,2,2,2,4,2,3,3,2,3,synthetic
+1019,Male,24–26,Information Technology,Yes,4,4,4,3,4,4,3,4,4,4,4,4,3,3,3,2,3,4,4,2,3,4,3,4,synthetic
+1020,Female,18–20,Information Technology,Yes,2,1,2,2,3,1,1,2,1,1,1,2,1,2,1,2,1,2,1,1,2,2,1,1,synthetic
+1021,Male,18–20,Information Technology,Yes,1,1,2,2,2,1,1,2,2,1,1,2,1,2,1,1,2,1,2,1,2,1,1,1,synthetic
+1022,Female,21–23,Information Technology,Yes,1,2,2,2,2,2,1,2,1,2,2,2,2,1,2,3,2,2,3,3,1,1,2,2,synthetic
+1023,Male,27 or above,Business Management,Yes,3,3,4,2,4,4,3,5,4,3,3,4,4,4,4,3,5,4,4,3,3,4,3,4,synthetic
+1024,Male,21–23,Business Management,No,3,3,3,2,3,3,3,3,2,2,3,2,2,2,3,3,3,3,3,3,2,2,2,2,synthetic
+1025,Male,21–23,Information Technology,Yes,3,2,3,3,3,3,2,3,2,3,2,3,3,3,3,2,2,2,2,4,2,2,2,2,synthetic
+1026,Male,21–23,Information Technology,Yes,2,3,3,2,3,3,2,3,3,3,2,2,3,3,2,2,2,3,3,3,3,2,3,4,synthetic
+1027,Male,24–26,Business Management,Yes,1,1,2,1,2,2,1,2,1,2,1,2,1,1,1,1,1,2,1,2,1,1,1,1,synthetic
+1028,Female,27 or above,Business Management,Yes,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,synthetic
+1029,Male,24–26,Engineering,No,3,2,3,2,3,3,2,2,3,3,2,3,2,2,2,3,2,3,3,3,3,3,2,2,synthetic
+1030,Male,21–23,Business Management,Yes,1,1,2,1,3,1,1,1,1,1,1,2,2,1,1,2,1,1,1,2,1,1,1,1,synthetic
+1031,Female,21–23,Information Technology,Yes,2,1,3,1,2,3,3,3,1,2,2,2,2,2,2,1,2,3,2,2,2,2,2,3,synthetic
+1032,Male,21–23,Business Management,Yes,2,3,3,3,4,3,3,3,2,3,3,4,3,4,4,2,3,3,3,3,3,2,3,2,synthetic
+1033,Male,18–20,Information Technology,Yes,3,5,4,3,3,4,4,4,2,3,3,4,3,3,2,3,4,4,4,3,4,4,2,3,synthetic
+1034,Female,18–20,Business Management,Yes,3,2,3,3,3,3,2,3,3,2,3,3,2,3,3,3,3,2,2,3,3,3,2,3,synthetic
+1035,Female,21–23,Engineering,No,4,3,3,4,5,4,3,4,4,4,3,3,4,3,3,3,4,4,4,4,4,3,3,3,synthetic
+1036,Male,21–23,Other,No,3,3,3,3,3,3,4,4,3,3,4,4,3,3,4,3,2,4,3,4,4,3,3,3,synthetic
+1037,Female,21–23,Engineering,Yes,3,3,4,3,3,3,3,3,3,4,4,3,3,4,3,3,2,4,3,4,3,3,4,3,synthetic
+1038,Female,21–23,Information Technology,No,1,1,2,1,2,1,1,2,2,2,2,2,1,1,1,1,2,1,2,2,1,2,1,1,synthetic
+1039,Female,21–23,Business Management,No,3,3,3,4,3,4,3,3,3,3,4,4,2,3,3,4,3,5,4,3,3,3,3,3,synthetic
+1040,Female,21–23,Engineering,No,1,1,1,1,2,1,2,2,1,1,1,2,1,2,1,1,1,2,1,2,1,1,2,1,synthetic
+1041,Female,18–20,Business Management,Yes,2,3,3,2,3,3,2,3,1,2,3,3,2,2,2,2,2,3,3,2,2,2,3,3,synthetic
+1042,Male,21–23,Information Technology,No,3,3,3,3,3,3,4,3,2,3,3,2,3,3,2,3,3,2,4,3,3,3,3,3,synthetic
+1043,Male,24–26,Information Technology,Yes,2,2,2,1,3,2,1,2,2,1,2,2,2,2,2,2,2,3,2,3,2,2,2,2,synthetic
+1044,Female,24–26,Business Management,Yes,4,4,4,5,5,4,4,5,3,5,5,5,4,4,3,4,4,4,5,5,5,4,4,5,synthetic
+1045,Female,21–23,Other,No,3,2,3,2,2,2,2,2,2,2,2,2,2,3,2,2,3,3,3,3,2,3,3,3,synthetic
+1046,Male,21–23,Information Technology,Yes,3,3,4,3,3,2,3,3,1,2,3,3,2,3,2,2,3,3,3,3,3,3,2,3,synthetic
+1047,Prefer not to say,21–23,Information Technology,Yes,3,3,3,3,3,3,3,3,3,2,3,3,2,4,2,3,2,3,3,3,3,3,2,2,synthetic
+1048,Female,21–23,Information Technology,No,5,5,5,4,5,5,5,5,5,4,5,5,5,5,4,5,4,5,5,5,5,5,5,5,synthetic
+1049,Female,24–26,Business Management,Yes,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,synthetic
+1050,Female,18–20,Business Management,Yes,2,2,1,1,2,2,1,2,1,2,2,2,1,1,2,2,1,2,2,3,3,1,2,2,synthetic
+1051,Male,24–26,Business Management,Yes,2,2,3,2,3,2,2,3,2,3,4,3,2,2,2,3,2,2,3,3,2,2,3,2,synthetic
+1052,Prefer not to say,21–23,Business Management,Yes,2,2,1,1,1,1,2,1,1,1,1,2,1,1,1,2,1,1,1,2,1,1,2,2,synthetic
+1053,Male,18–20,Business Management,Yes,1,2,3,2,3,3,2,1,1,3,2,2,3,2,3,2,2,3,3,4,3,1,2,3,synthetic
+1054,Male,21–23,Other,Yes,3,4,5,5,4,3,3,4,3,2,4,4,3,5,4,4,4,4,4,5,4,4,4,3,synthetic
+1055,Male,18–20,Information Technology,Yes,4,3,4,3,4,3,2,4,1,3,3,4,2,2,3,3,3,3,5,4,4,3,4,3,synthetic
+1056,Female,18–20,Business Management,Yes,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,synthetic
+1057,Male,18–20,Information Technology,Yes,2,3,2,2,3,3,2,2,2,2,2,2,2,3,1,2,2,2,2,3,3,2,1,2,synthetic
+1058,Female,18–20,Other,No,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,synthetic
+1059,Female,24–26,Information Technology,Yes,2,1,2,2,3,2,2,3,3,2,2,3,1,2,1,2,2,2,2,2,3,2,2,2,synthetic
+1060,Female,21–23,Information Technology,Yes,2,2,3,1,2,2,2,2,1,2,1,2,1,2,1,1,1,1,1,2,1,1,1,1,synthetic
+1061,Female,24–26,Information Technology,Yes,4,4,4,3,4,4,3,4,2,4,4,4,4,3,4,3,4,4,4,5,5,4,4,3,synthetic
+1062,Male,24–26,Information Technology,No,3,4,5,3,3,3,4,4,3,4,4,4,3,4,3,3,3,3,4,4,4,3,3,3,synthetic
+1063,Male,18–20,Information Technology,Yes,4,3,4,5,4,3,5,5,3,3,4,4,4,4,4,4,4,5,4,3,4,4,4,4,synthetic
+1064,Female,27 or above,Information Technology,Yes,3,2,2,2,4,1,2,2,2,2,1,3,2,1,3,3,3,3,3,3,3,3,2,2,synthetic
+1065,Male,18–20,Business Management,Yes,2,3,5,3,4,3,3,4,2,2,4,4,2,3,3,3,3,4,3,4,3,3,2,4,synthetic
+1066,Female,18–20,Business Management,Yes,3,2,3,4,4,2,3,3,3,3,3,4,2,2,3,3,2,2,4,3,3,2,3,3,synthetic
+1067,Male,24–26,Information Technology,Yes,3,4,4,3,5,4,3,4,4,4,3,4,3,3,3,3,4,4,4,4,4,3,4,3,synthetic
+1068,Female,21–23,Business Management,Yes,1,2,2,2,2,2,3,2,1,2,1,2,1,2,1,1,2,1,2,2,1,1,2,1,synthetic
+1069,Male,21–23,Engineering,No,2,2,3,3,3,3,2,3,3,2,2,3,3,2,3,2,1,3,2,3,3,1,2,2,synthetic
+1070,Female,21–23,Information Technology,Yes,2,3,3,3,3,3,2,4,2,3,3,3,2,3,1,2,2,3,3,3,2,2,2,2,synthetic
+1071,Female,24–26,Information Technology,No,3,2,3,3,2,3,2,3,2,2,4,2,2,2,3,2,3,3,3,3,4,3,2,3,synthetic
+1072,Female,24–26,Information Technology,No,1,2,3,2,2,2,2,3,1,1,2,3,1,2,2,2,2,2,1,2,2,1,1,1,synthetic
+1073,Male,18–20,Information Technology,Yes,4,5,5,4,5,4,4,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,5,4,synthetic
+1074,Male,18–20,Information Technology,Yes,1,2,3,2,2,2,1,2,2,2,1,2,2,3,1,2,1,2,2,2,2,2,1,1,synthetic
+1075,Male,21–23,Information Technology,No,4,4,3,3,4,3,3,4,4,4,3,5,3,4,4,3,3,3,4,4,4,3,3,4,synthetic
+1076,Male,21–23,Business Management,Yes,3,3,3,3,3,4,3,4,3,4,3,3,4,3,3,3,2,3,4,3,5,2,2,3,synthetic
+1077,Female,18–20,Information Technology,No,4,4,3,4,4,3,4,3,3,3,4,4,4,4,4,4,4,4,5,4,4,4,3,4,synthetic
+1078,Male,21–23,Other,No,2,2,2,3,3,2,3,3,1,3,2,2,2,3,2,2,3,2,4,3,1,3,3,3,synthetic
+1079,Female,21–23,Information Technology,No,4,5,4,4,4,4,4,5,4,4,4,4,4,5,5,4,4,3,4,5,4,4,5,5,synthetic
+1080,Male,18–20,Engineering,Yes,2,3,3,3,3,3,3,3,3,2,1,2,2,3,2,2,3,2,3,3,2,2,2,3,synthetic
+1081,Female,21–23,Business Management,No,3,2,3,2,2,2,2,3,1,2,2,3,2,3,2,2,1,2,2,3,2,3,2,3,synthetic
+1082,Male,21–23,Information Technology,Yes,4,2,3,2,4,3,2,4,3,3,2,3,2,1,3,2,3,4,3,3,3,3,2,2,synthetic
+1083,Prefer not to say,21–23,Other,Yes,4,3,3,4,4,3,3,4,4,3,3,4,3,4,3,3,4,4,4,4,3,3,4,3,synthetic
+1084,Male,21–23,Information Technology,Yes,1,2,2,2,3,2,2,3,1,1,2,2,1,1,1,1,1,3,2,3,2,1,2,2,synthetic
+1085,Male,21–23,Engineering,Yes,4,3,4,3,3,3,3,3,3,2,2,4,2,2,3,2,3,4,3,3,3,3,3,3,synthetic
+1086,Male,18–20,Business Management,Yes,3,4,3,4,4,4,4,3,3,4,4,4,3,4,3,2,3,4,4,5,4,3,4,3,synthetic
+1087,Female,24–26,Business Management,No,2,2,3,2,3,3,2,3,2,2,2,3,3,2,2,2,2,2,3,3,3,3,2,4,synthetic
+1088,Female,21–23,Information Technology,No,2,2,3,3,3,3,2,3,2,2,2,2,2,4,2,1,2,3,3,3,3,2,2,2,synthetic
+1089,Prefer not to say,27 or above,Information Technology,Yes,1,1,3,2,3,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,1,1,1,synthetic
+1090,Male,18–20,Information Technology,Yes,2,3,4,2,3,3,2,3,3,2,3,3,2,3,3,3,2,3,3,3,2,3,3,2,synthetic
+1091,Male,21–23,Information Technology,Yes,5,4,5,4,3,3,4,4,3,3,4,3,3,4,3,4,3,4,5,4,4,3,4,3,synthetic
+1092,Female,21–23,Engineering,Yes,3,3,3,2,3,3,3,4,2,2,3,3,3,2,3,2,2,3,3,3,4,2,3,1,synthetic
+1093,Female,21–23,Other,Yes,2,2,4,2,3,2,1,3,3,1,2,3,3,3,2,3,2,3,2,3,2,2,2,3,synthetic
+1094,Female,24–26,Other,Yes,2,2,3,2,3,2,2,3,3,2,3,4,2,2,2,1,2,2,3,2,2,3,2,2,synthetic
+1095,Male,18–20,Information Technology,Yes,2,2,2,2,3,2,2,3,2,2,2,2,2,2,1,1,2,2,2,3,2,1,2,2,synthetic
+1096,Female,21–23,Business Management,Yes,4,3,4,4,5,4,3,5,4,4,4,4,2,4,4,3,4,4,3,5,4,4,3,4,synthetic
+1097,Male,21–23,Business Management,Yes,2,2,3,1,2,2,2,3,2,2,2,2,2,2,3,2,2,3,3,2,2,2,2,1,synthetic
+1098,Female,24–26,Business Management,No,1,2,3,1,2,1,1,3,2,1,2,1,1,2,3,2,2,1,1,2,2,1,2,2,synthetic
+1099,Female,18–20,Information Technology,Yes,3,4,4,3,5,3,5,4,3,3,4,4,2,4,3,3,3,4,3,4,3,4,4,3,synthetic
+1100,Male,21–23,Engineering,No,2,3,3,2,4,2,2,2,3,3,3,4,2,3,2,2,3,3,2,2,2,3,4,3,synthetic
+1101,Male,21–23,Information Technology,Yes,1,1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,1,2,2,1,1,1,1,1,synthetic
+1102,Male,21–23,Information Technology,Yes,2,3,3,3,3,2,2,3,3,2,2,3,3,2,2,2,2,3,2,2,3,2,2,2,synthetic
+1103,Female,18–20,Information Technology,Yes,2,3,3,2,3,2,2,4,2,2,2,3,3,2,3,2,3,2,3,3,3,2,2,3,synthetic
+1104,Female,21–23,Information Technology,Yes,3,2,3,3,4,2,3,3,2,3,2,3,2,2,2,2,2,3,3,2,2,3,3,3,synthetic
+1105,Male,21–23,Business Management,Yes,2,2,2,2,2,1,1,1,1,1,2,1,2,2,1,1,1,3,1,2,1,1,1,2,synthetic
+1106,Male,24–26,Business Management,Yes,4,4,5,4,4,3,5,5,5,3,5,4,4,3,5,4,4,5,4,4,4,3,4,5,synthetic
+1107,Female,21–23,Information Technology,Yes,2,2,3,2,2,2,2,4,2,1,3,2,2,2,1,2,2,2,2,3,2,1,1,3,synthetic
+1108,Female,21–23,Information Technology,Yes,2,2,2,3,3,3,2,4,2,3,3,3,2,2,3,2,2,3,3,3,3,2,2,2,synthetic
+1109,Male,18–20,Information Technology,Yes,1,2,2,2,2,1,1,3,1,2,1,2,1,2,1,1,1,2,1,2,3,2,2,1,synthetic
+1110,Female,24–26,Information Technology,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1111,Female,21–23,Information Technology,Yes,3,3,3,3,4,3,3,4,3,3,3,3,2,3,4,3,3,3,3,4,3,3,2,2,synthetic
+1112,Female,18–20,Information Technology,No,1,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,synthetic
+1113,Male,21–23,Engineering,No,3,3,3,2,4,3,3,3,2,3,3,2,3,2,2,3,4,3,3,3,4,3,3,4,synthetic
+1114,Female,21–23,Information Technology,Yes,2,2,3,1,2,3,2,3,2,2,2,3,1,2,2,2,2,3,2,2,2,3,2,2,synthetic
+1115,Female,24–26,Information Technology,No,3,3,4,3,3,3,2,3,3,3,3,2,2,4,2,2,3,3,3,3,3,3,2,3,synthetic
+1116,Male,21–23,Information Technology,Yes,4,3,2,3,5,3,2,4,2,2,3,3,2,2,3,2,3,2,4,3,4,2,2,3,synthetic
+1117,Male,21–23,Business Management,No,4,4,5,3,4,3,3,5,3,4,3,4,4,5,4,4,4,4,4,4,4,4,3,3,synthetic
+1118,Male,21–23,Information Technology,Yes,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,synthetic
+1119,Male,21–23,Business Management,No,2,2,3,2,2,2,2,3,2,1,1,2,1,2,2,2,2,2,3,3,2,3,2,2,synthetic
+1120,Female,27 or above,Business Management,No,2,2,2,2,1,2,2,2,3,2,2,2,1,1,2,1,1,3,3,2,2,2,1,1,synthetic
+1121,Male,18–20,Engineering,Yes,1,1,1,2,2,2,1,2,1,1,2,2,2,1,1,1,1,2,1,2,2,1,2,1,synthetic
+1122,Female,21–23,Information Technology,Yes,2,3,2,3,3,2,2,3,2,2,3,3,2,2,2,2,3,3,3,3,3,2,2,3,synthetic
+1123,Female,21–23,Business Management,Yes,3,3,4,4,3,3,3,4,3,4,3,4,3,3,4,3,3,4,5,4,3,3,3,3,synthetic
+1124,Male,24–26,Information Technology,Yes,2,2,3,2,3,2,2,4,2,3,2,3,2,3,3,3,2,3,3,3,2,2,3,2,synthetic
+1125,Male,21–23,Information Technology,Yes,2,1,3,2,3,3,2,3,1,2,2,2,3,3,2,2,3,3,2,2,2,3,4,2,synthetic
+1126,Female,18–20,Engineering,No,1,2,1,2,3,2,2,3,2,1,3,2,2,1,2,2,2,2,2,2,2,1,1,2,synthetic
+1127,Male,24–26,Other,Yes,3,3,4,4,4,4,4,4,4,3,3,3,4,3,3,3,3,3,4,4,3,3,3,5,synthetic
+1128,Male,21–23,Other,Yes,3,4,2,3,4,3,2,3,3,3,2,3,2,3,3,3,3,2,2,3,2,3,3,2,synthetic
+1129,Female,24–26,Information Technology,No,1,2,3,2,2,1,1,2,2,2,1,1,2,2,1,3,1,2,2,2,1,3,2,2,synthetic
+1130,Male,21–23,Business Management,Yes,2,4,3,3,3,2,3,3,2,3,4,4,3,3,3,3,3,3,4,4,3,3,4,4,synthetic
+1131,Female,18–20,Information Technology,Yes,4,3,4,3,5,2,3,4,3,4,3,4,3,3,2,3,3,4,3,3,3,3,3,2,synthetic
+1132,Female,21–23,Information Technology,Yes,1,2,2,2,2,1,2,2,1,2,1,1,2,1,2,2,1,2,3,2,2,1,1,1,synthetic
+1133,Female,18–20,Information Technology,No,3,3,3,2,4,4,3,3,3,3,3,3,3,2,3,2,3,4,3,3,3,3,3,2,synthetic
+1134,Male,21–23,Information Technology,Yes,2,2,2,2,2,3,2,2,2,1,2,2,2,2,3,2,1,2,2,2,2,2,2,2,synthetic
+1135,Female,24–26,Business Management,Yes,2,4,2,2,2,2,1,2,2,2,2,1,3,1,3,2,2,2,2,2,2,2,1,3,synthetic
+1136,Female,21–23,Information Technology,No,2,2,3,2,2,3,3,3,2,2,2,2,2,3,2,2,3,3,3,3,2,1,3,3,synthetic
+1137,Male,21–23,Information Technology,Yes,2,3,2,2,2,3,3,2,1,2,2,2,3,2,2,2,3,2,3,3,2,3,2,3,synthetic
+1138,Female,18–20,Business Management,No,1,1,2,2,2,1,1,2,1,1,2,2,2,1,2,1,1,3,2,2,1,1,1,2,synthetic
+1139,Male,24–26,Information Technology,Yes,3,4,4,3,3,3,2,4,3,2,3,2,3,2,3,3,4,4,3,4,2,2,3,2,synthetic
+1140,Female,24–26,Engineering,No,2,3,2,3,3,3,2,3,2,2,3,3,4,2,2,2,2,3,3,3,2,3,3,2,synthetic
+1141,Female,18–20,Information Technology,Yes,3,2,3,2,4,3,2,3,2,2,3,3,2,2,2,2,2,2,3,2,3,2,3,2,synthetic
+1142,Female,21–23,Business Management,Yes,1,2,2,2,1,2,2,2,2,1,2,2,2,2,1,1,2,2,2,3,2,2,2,2,synthetic
+1143,Female,21–23,Other,Yes,2,2,2,3,3,2,3,2,2,2,2,3,3,2,3,1,2,3,2,3,2,3,3,2,synthetic
+1144,Female,21–23,Information Technology,Yes,1,1,1,1,2,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1145,Female,21–23,Information Technology,Yes,3,3,3,3,3,3,3,3,2,1,3,3,2,3,3,3,2,3,3,4,2,2,3,3,synthetic
+1146,Male,21–23,Business Management,Yes,3,3,4,3,4,3,4,4,2,3,3,3,3,2,3,2,2,3,4,3,3,2,3,1,synthetic
+1147,Male,27 or above,Information Technology,Yes,3,2,2,2,2,2,2,2,1,2,1,1,1,1,1,1,2,1,1,1,2,1,2,1,synthetic
+1148,Male,21–23,Information Technology,No,3,3,3,3,4,3,3,3,4,3,3,4,3,3,3,3,3,3,4,4,3,4,4,4,synthetic
+1149,Male,21–23,Business Management,Yes,4,3,2,3,4,3,3,5,3,3,3,3,4,3,3,3,3,3,3,3,3,3,4,3,synthetic
+1150,Female,18–20,Engineering,Yes,2,3,3,3,3,3,3,4,2,2,3,3,3,3,2,2,3,3,3,4,2,2,4,3,synthetic
+1151,Male,21–23,Engineering,Yes,2,2,1,2,3,2,2,3,2,2,2,2,2,2,3,1,2,2,2,3,3,2,2,2,synthetic
+1152,Female,24–26,Information Technology,Yes,2,2,3,3,2,2,1,3,2,3,2,4,2,2,3,2,2,3,4,3,3,3,3,2,synthetic
+1153,Female,21–23,Information Technology,Yes,3,4,4,2,4,4,3,4,3,3,4,4,3,4,3,3,3,3,3,4,5,4,3,2,synthetic
+1154,Male,21–23,Information Technology,No,3,4,3,3,4,3,3,4,3,3,4,3,2,4,3,3,3,3,3,4,3,3,2,4,synthetic
+1155,Female,21–23,Information Technology,Yes,3,2,3,2,4,2,3,3,2,2,3,2,2,1,2,2,1,2,2,2,3,3,2,2,synthetic
+1156,Female,24–26,Information Technology,Yes,1,1,2,2,2,1,1,2,1,2,1,1,2,1,1,1,1,1,2,2,2,1,1,1,synthetic
+1157,Male,18–20,Information Technology,Yes,3,2,2,2,2,2,2,3,2,2,3,2,2,2,2,2,2,2,3,3,2,3,2,1,synthetic
+1158,Female,24–26,Information Technology,No,1,1,2,2,3,2,1,1,1,1,2,3,2,2,1,1,1,1,2,2,1,2,2,1,synthetic
+1159,Female,21–23,Information Technology,Yes,3,3,3,3,3,2,2,4,3,2,3,3,3,2,3,3,2,2,3,2,3,2,3,2,synthetic
+1160,Female,21–23,Business Management,Yes,2,2,4,3,3,2,3,3,2,2,1,3,3,2,1,2,2,2,3,3,2,2,2,2,synthetic
+1161,Male,21–23,Information Technology,Yes,1,2,2,1,3,1,1,2,1,2,2,1,2,2,1,2,1,2,2,2,1,2,1,1,synthetic
+1162,Female,24–26,Business Management,Yes,2,2,3,2,3,2,1,2,2,2,2,2,1,1,2,1,2,3,2,2,3,2,2,1,synthetic
+1163,Male,21–23,Business Management,Yes,1,3,2,3,2,2,2,1,2,2,3,1,2,2,3,2,2,2,3,2,1,1,2,2,synthetic
+1164,Male,21–23,Information Technology,Yes,2,2,4,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,2,synthetic
+1165,Female,21–23,Information Technology,Yes,3,4,4,3,5,3,4,4,3,3,4,3,3,3,3,3,4,4,3,3,3,4,3,3,synthetic
+1166,Male,18–20,Business Management,No,1,2,2,2,3,1,1,1,2,2,1,2,1,2,1,1,2,2,2,2,2,2,2,2,synthetic
+1167,Female,21–23,Other,Yes,2,3,3,2,3,2,2,4,2,3,3,3,2,2,2,1,2,2,3,3,2,2,2,1,synthetic
+1168,Female,21–23,Engineering,No,3,1,3,3,2,2,1,4,2,2,3,3,1,2,2,2,1,2,2,3,2,2,2,1,synthetic
+1169,Male,18–20,Information Technology,Yes,2,3,2,1,2,1,2,2,2,2,1,1,1,1,1,3,1,2,2,2,2,1,2,2,synthetic
+1170,Male,18–20,Information Technology,No,3,4,4,3,3,3,3,4,2,2,2,2,2,2,2,2,2,3,4,3,3,3,2,2,synthetic
+1171,Female,21–23,Other,No,4,4,5,3,5,4,4,4,3,3,4,4,4,3,3,4,3,4,4,4,3,3,4,3,synthetic
+1172,Female,18–20,Information Technology,No,4,4,4,5,4,3,3,4,4,4,4,4,2,3,3,2,3,4,4,4,4,3,3,2,synthetic
+1173,Female,21–23,Information Technology,Yes,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,synthetic
+1174,Female,21–23,Engineering,No,4,3,4,2,3,3,3,3,2,3,4,4,4,3,3,3,3,3,3,3,3,3,3,3,synthetic
+1175,Female,21–23,Information Technology,No,3,4,5,3,4,3,4,5,4,3,4,4,4,4,4,4,4,3,4,5,4,4,4,4,synthetic
+1176,Female,21–23,Business Management,Yes,2,3,3,2,4,3,3,3,2,3,2,3,3,2,3,2,2,3,3,4,3,3,4,2,synthetic
+1177,Female,21–23,Information Technology,No,4,5,5,4,5,4,4,5,4,4,4,5,5,4,4,4,5,5,4,4,4,4,5,3,synthetic
+1178,Female,24–26,Information Technology,Yes,1,1,2,1,2,1,2,2,1,1,1,1,1,1,1,1,1,2,2,1,2,2,1,1,synthetic
+1179,Female,21–23,Information Technology,Yes,3,3,4,3,4,3,4,4,3,3,4,5,2,3,3,4,3,3,3,4,4,4,3,3,synthetic
+1180,Male,21–23,Other,No,3,4,3,2,4,4,3,4,2,4,3,3,3,2,4,3,4,4,3,3,3,3,3,4,synthetic
+1181,Female,21–23,Information Technology,No,4,4,4,4,5,4,4,4,3,4,4,4,4,4,4,4,4,5,5,4,4,3,4,3,synthetic
+1182,Male,18–20,Business Management,Yes,2,3,3,2,3,3,2,3,1,2,2,3,2,2,2,2,2,3,3,2,2,2,2,2,synthetic
+1183,Male,21–23,Information Technology,No,4,3,5,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,3,4,3,4,4,synthetic
+1184,Female,21–23,Engineering,No,2,3,4,4,4,3,2,4,3,3,3,3,3,3,3,3,2,4,5,4,3,3,3,4,synthetic
+1185,Male,24–26,Information Technology,No,1,2,2,1,1,2,2,2,1,1,1,2,1,2,2,1,1,2,2,2,1,1,1,1,synthetic
+1186,Male,21–23,Engineering,Yes,3,4,4,3,4,4,3,5,4,4,4,4,3,3,3,3,3,4,3,3,4,4,3,3,synthetic
+1187,Female,18–20,Business Management,Yes,2,3,4,2,3,2,2,4,2,1,3,4,1,3,1,3,2,2,3,3,3,3,2,1,synthetic
+1188,Male,21–23,Engineering,No,4,4,3,2,3,2,3,4,2,3,4,3,3,2,3,3,3,4,4,3,3,4,3,3,synthetic
+1189,Female,24–26,Business Management,Yes,2,3,3,3,3,2,2,3,1,2,3,3,2,3,2,2,2,2,3,3,3,2,3,2,synthetic
+1190,Male,18–20,Business Management,No,3,3,4,2,3,2,1,3,3,2,2,2,2,3,2,2,2,3,1,3,4,1,2,2,synthetic
+1191,Female,21–23,Information Technology,No,3,2,3,2,3,4,2,3,1,2,3,2,1,2,3,2,2,1,3,3,1,3,2,3,synthetic
+1192,Male,21–23,Information Technology,No,3,3,4,2,3,3,3,4,3,3,4,3,3,3,3,3,1,5,4,3,4,3,3,3,synthetic
+1193,Female,21–23,Information Technology,Yes,4,4,5,4,5,5,5,5,4,4,5,4,4,3,3,4,4,5,5,4,4,5,4,4,synthetic
+1194,Female,21–23,Engineering,Yes,3,2,3,3,3,2,2,3,1,2,3,2,2,2,2,2,2,3,3,3,3,2,2,2,synthetic
+1195,Male,21–23,Information Technology,Yes,2,3,3,2,3,2,1,3,2,3,2,2,2,2,2,2,2,2,3,2,2,1,2,2,synthetic
+1196,Female,18–20,Information Technology,Yes,3,3,3,3,4,3,2,4,3,3,2,2,2,3,2,3,3,3,3,2,3,2,2,2,synthetic
+1197,Male,18–20,Information Technology,Yes,4,5,4,5,4,4,3,5,3,3,4,5,4,3,4,3,4,5,4,5,4,4,4,5,synthetic
+1198,Male,21–23,Information Technology,No,5,4,5,5,5,5,4,5,4,4,5,5,4,4,4,4,5,5,5,5,4,4,4,4,synthetic
+1199,Female,24–26,Engineering,No,3,3,3,3,5,2,2,3,2,3,3,3,3,2,2,2,2,2,2,3,3,3,2,2,synthetic
+1200,Male,21–23,Information Technology,No,2,4,3,4,3,4,5,3,3,2,3,3,3,3,3,2,4,3,3,4,3,4,4,3,synthetic
+1201,Male,21–23,Information Technology,Yes,2,3,3,2,3,2,3,3,2,2,2,2,2,3,2,3,1,3,3,3,3,2,1,3,synthetic
+1202,Female,21–23,Information Technology,Yes,3,2,3,3,4,3,2,3,2,3,3,1,3,2,2,2,3,2,3,3,3,2,2,3,synthetic
+1203,Male,21–23,Information Technology,No,2,1,2,1,2,2,1,2,1,1,2,1,1,2,2,1,1,1,1,2,1,1,2,1,synthetic
+1204,Male,21–23,Information Technology,No,1,2,2,2,2,2,1,2,1,1,2,2,1,1,1,1,2,1,1,2,2,2,1,2,synthetic
+1205,Female,18–20,Information Technology,Yes,3,3,3,2,4,3,3,2,4,3,4,3,3,2,3,2,3,3,4,4,4,3,3,2,synthetic
+1206,Female,18–20,Information Technology,Yes,2,3,3,3,2,3,2,3,2,2,3,3,2,2,3,3,2,2,2,3,2,2,3,1,synthetic
+1207,Male,21–23,Information Technology,Yes,1,1,3,2,3,1,1,1,2,2,2,2,1,2,2,1,2,2,1,1,2,2,2,2,synthetic
+1208,Prefer not to say,21–23,Information Technology,No,4,5,5,4,5,3,5,5,4,4,4,5,5,3,4,4,5,5,4,5,4,5,4,5,synthetic
+1209,Female,24–26,Engineering,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1210,Female,21–23,Information Technology,Yes,1,1,2,2,2,1,1,3,1,1,1,2,1,2,1,2,1,1,2,2,2,2,1,1,synthetic
+1211,Female,21–23,Business Management,Yes,2,2,3,2,3,2,2,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,synthetic
+1212,Male,21–23,Information Technology,Yes,3,3,3,2,2,3,2,3,2,2,2,2,2,1,2,1,1,2,3,2,2,2,1,2,synthetic
+1213,Male,18–20,Information Technology,Yes,3,4,4,2,4,5,3,4,4,4,4,3,4,5,4,3,4,3,5,3,4,3,3,4,synthetic
+1214,Female,21–23,Other,No,2,2,2,2,3,3,2,4,2,2,2,3,3,2,2,3,2,3,4,3,3,3,4,3,synthetic
+1215,Male,21–23,Information Technology,No,2,3,2,2,3,2,2,4,2,2,3,2,3,2,2,1,1,1,3,2,3,2,2,2,synthetic
+1216,Male,21–23,Engineering,Yes,3,3,4,3,4,3,3,4,2,4,3,4,3,3,3,3,3,4,4,3,3,3,3,4,synthetic
+1217,Male,27 or above,Information Technology,Yes,1,2,2,3,2,2,1,2,1,2,2,2,1,1,2,1,2,3,3,1,2,2,2,1,synthetic
+1218,Male,21–23,Business Management,Yes,3,4,3,3,3,2,3,4,2,3,2,3,3,3,3,2,2,4,3,3,3,2,2,3,synthetic
+1219,Male,21–23,Information Technology,Yes,3,2,3,3,2,3,2,4,3,2,3,3,2,2,2,3,2,3,3,3,3,3,3,2,synthetic
+1220,Female,21–23,Engineering,No,4,4,5,4,4,3,4,5,4,3,4,4,3,4,4,3,4,5,4,4,4,4,3,4,synthetic
+1221,Male,27 or above,Business Management,Yes,4,3,4,3,3,2,2,3,2,1,3,3,2,2,2,3,3,3,3,3,2,2,3,2,synthetic
+1222,Female,21–23,Information Technology,Yes,1,2,1,1,3,2,3,3,2,3,2,2,2,1,1,1,2,1,2,2,2,1,1,1,synthetic
+1223,Prefer not to say,21–23,Information Technology,No,2,2,3,2,3,2,2,3,2,2,2,1,1,2,2,2,1,3,2,2,2,1,1,2,synthetic
+1224,Female,21–23,Information Technology,Yes,4,3,4,3,5,2,3,4,2,3,3,3,3,3,3,3,3,3,3,4,3,4,3,4,synthetic
+1225,Female,18–20,Engineering,Yes,1,1,2,2,3,1,1,2,2,1,1,2,1,1,2,2,1,2,2,2,1,2,2,2,synthetic
+1226,Female,18–20,Business Management,Yes,4,3,3,3,4,3,4,4,3,3,3,4,2,3,3,3,3,2,3,4,3,4,3,3,synthetic
+1227,Male,18–20,Information Technology,Yes,3,2,3,2,4,3,2,3,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,2,synthetic
+1228,Female,21–23,Information Technology,Yes,1,2,3,2,3,2,1,3,1,1,2,2,2,2,2,2,1,3,4,1,2,2,2,2,synthetic
+1229,Male,21–23,Business Management,Yes,3,3,4,3,3,2,4,4,3,3,4,4,3,2,2,3,3,3,4,3,4,4,3,3,synthetic
+1230,Male,18–20,Engineering,Yes,2,1,1,1,2,1,2,2,2,1,2,1,1,1,1,2,2,2,2,2,1,1,1,1,synthetic
+1231,Male,21–23,Information Technology,Yes,2,3,4,3,3,2,3,2,3,2,4,2,3,3,2,2,3,3,4,4,3,2,2,3,synthetic
+1232,Male,24–26,Other,Yes,3,2,2,2,3,2,2,3,1,1,2,2,2,2,1,2,2,3,2,2,3,2,1,3,synthetic
+1233,Female,21–23,Business Management,Yes,3,2,3,3,3,2,2,4,2,2,2,4,3,2,2,3,2,2,2,3,2,2,3,2,synthetic
+1234,Male,27 or above,Information Technology,No,2,3,4,3,4,2,4,3,3,3,3,3,2,3,2,3,3,3,3,3,2,3,3,3,synthetic
+1235,Male,21–23,Other,Yes,2,2,3,2,4,3,3,4,1,1,2,2,2,3,3,2,3,3,3,3,3,2,3,2,synthetic
+1236,Female,24–26,Business Management,Yes,3,3,4,3,2,2,4,4,4,3,3,3,3,3,4,4,3,3,3,4,3,3,3,3,synthetic
+1237,Male,21–23,Business Management,No,2,3,3,3,3,3,2,4,2,2,3,3,2,2,3,2,2,3,3,3,3,3,2,2,synthetic
+1238,Female,21–23,Information Technology,Yes,2,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,2,2,1,2,3,1,1,1,synthetic
+1239,Female,24–26,Business Management,Yes,2,2,3,1,3,3,2,2,1,2,2,2,1,3,2,2,3,2,2,2,2,2,2,1,synthetic
+1240,Female,21–23,Information Technology,No,2,2,3,3,3,3,2,3,3,2,2,2,2,2,2,1,2,1,3,2,2,3,2,3,synthetic
+1241,Male,24–26,Business Management,No,3,2,2,2,1,1,2,1,1,2,3,1,2,1,1,1,1,2,1,2,1,1,1,2,synthetic
+1242,Male,21–23,Business Management,No,2,3,3,2,2,2,2,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,3,synthetic
+1243,Female,18–20,Information Technology,No,2,3,4,4,3,3,3,4,3,3,3,3,3,4,3,3,3,3,4,3,4,2,3,3,synthetic
+1244,Male,21–23,Information Technology,Yes,2,1,1,1,2,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,synthetic
+1245,Female,21–23,Information Technology,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1246,Male,21–23,Information Technology,Yes,3,4,4,3,4,3,3,5,2,3,4,3,3,3,3,3,3,3,4,4,4,2,3,3,synthetic
+1247,Female,24–26,Information Technology,Yes,1,1,2,2,1,2,1,2,1,1,1,1,1,2,1,1,1,3,1,2,3,2,1,2,synthetic
+1248,Female,21–23,Business Management,Yes,2,2,2,2,3,2,2,2,2,2,2,3,2,2,2,2,1,2,2,2,2,2,2,2,synthetic
+1249,Male,24–26,Business Management,Yes,2,4,3,3,3,2,3,4,3,2,3,3,2,3,2,3,3,3,3,3,2,2,2,2,synthetic
+1250,Female,21–23,Information Technology,Yes,3,3,5,3,4,3,4,4,4,4,4,3,3,4,4,3,3,4,3,4,3,3,3,3,synthetic
+1251,Male,21–23,Information Technology,No,2,2,3,2,3,2,2,3,1,2,2,3,2,3,2,2,2,3,3,3,3,2,3,2,synthetic
+1252,Female,18–20,Information Technology,Yes,2,2,4,2,4,3,3,3,2,2,3,3,3,4,2,3,2,3,4,4,3,3,3,3,synthetic
+1253,Male,24–26,Information Technology,Yes,4,3,4,3,3,3,2,3,4,3,3,4,2,3,4,3,2,4,3,4,3,4,4,3,synthetic
+1254,Male,18–20,Information Technology,No,2,2,3,2,3,2,2,3,2,2,2,3,2,2,1,2,2,2,4,3,3,2,2,2,synthetic
+1255,Male,18–20,Business Management,Yes,2,2,2,2,4,3,3,4,2,2,2,3,2,4,2,3,2,3,4,2,2,2,2,3,synthetic
+1256,Female,21–23,Information Technology,Yes,2,3,2,3,3,3,3,4,2,1,3,3,2,2,2,1,3,2,3,2,3,2,2,2,synthetic
+1257,Female,21–23,Information Technology,Yes,4,3,4,3,3,3,3,3,2,2,2,3,3,2,3,3,3,3,4,3,2,3,2,3,synthetic
+1258,Female,18–20,Information Technology,Yes,2,1,2,2,3,2,2,3,2,1,2,4,2,1,1,1,2,3,2,2,2,1,1,2,synthetic
+1259,Female,21–23,Information Technology,Yes,2,1,2,2,3,2,2,2,2,2,2,3,1,2,2,2,1,1,3,2,2,2,1,2,synthetic
+1260,Male,21–23,Engineering,Yes,2,3,4,3,4,4,3,2,2,3,2,3,3,4,3,2,3,3,3,4,3,3,3,3,synthetic
+1261,Female,24–26,Engineering,Yes,3,4,4,3,4,3,4,4,2,3,2,3,4,3,3,2,3,4,4,4,3,3,3,3,synthetic
+1262,Female,21–23,Information Technology,Yes,1,1,3,1,2,1,1,2,1,1,1,2,1,1,1,1,1,2,1,2,2,2,1,2,synthetic
+1263,Female,24–26,Engineering,Yes,3,2,2,3,3,3,2,4,2,2,3,3,2,2,2,3,2,3,4,3,2,2,2,2,synthetic
+1264,Female,18–20,Engineering,Yes,2,2,3,2,3,3,2,3,2,2,3,3,2,2,3,2,2,3,2,2,2,2,1,2,synthetic
+1265,Male,24–26,Information Technology,No,3,3,2,3,3,3,3,3,2,3,4,3,3,3,3,2,3,3,3,3,2,4,2,3,synthetic
+1266,Prefer not to say,18–20,Information Technology,No,2,3,2,3,3,2,3,3,2,3,3,3,3,2,2,3,3,3,3,4,3,2,2,3,synthetic
+1267,Male,24–26,Information Technology,No,3,4,4,3,4,3,3,4,3,2,3,3,4,2,3,3,4,4,5,4,3,3,3,4,synthetic
+1268,Male,21–23,Business Management,No,1,2,2,1,3,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,2,1,synthetic
+1269,Male,27 or above,Business Management,Yes,2,3,3,2,3,2,2,2,2,1,2,2,2,2,2,1,1,1,2,3,2,1,2,2,synthetic
+1270,Female,18–20,Information Technology,Yes,2,2,2,1,3,1,2,2,1,1,1,2,1,2,1,1,1,1,2,3,1,1,1,2,synthetic
+1271,Male,18–20,Information Technology,Yes,3,3,3,4,4,3,3,5,3,4,4,3,3,3,3,3,4,3,4,4,4,4,3,4,synthetic
+1272,Male,21–23,Information Technology,Yes,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1273,Female,21–23,Other,Yes,1,1,2,1,2,2,1,1,2,1,1,2,1,1,1,1,1,3,1,2,1,1,1,1,synthetic
+1274,Male,21–23,Business Management,No,2,3,2,2,3,3,2,3,3,2,2,2,3,2,2,2,2,3,2,2,3,2,1,3,synthetic
+1275,Female,21–23,Information Technology,No,2,2,2,2,2,2,1,2,2,1,2,2,2,3,2,2,2,1,1,3,2,1,2,1,synthetic
+1276,Male,21–23,Information Technology,Yes,2,3,3,3,3,2,3,3,3,3,2,2,2,2,2,2,3,2,2,2,2,2,2,2,synthetic
+1277,Male,21–23,Business Management,Yes,2,2,3,2,2,2,2,3,1,2,2,2,1,2,2,2,1,1,2,1,1,2,2,2,synthetic
+1278,Female,21–23,Information Technology,Yes,2,3,2,1,3,2,3,3,2,3,2,2,2,2,1,1,1,3,2,2,1,2,2,2,synthetic
+1279,Male,21–23,Information Technology,Yes,3,4,3,3,3,2,2,2,2,2,2,4,2,2,3,2,3,3,3,3,3,3,3,3,synthetic
+1280,Female,18–20,Engineering,Yes,3,3,3,3,4,3,4,3,4,3,3,3,2,3,3,3,3,2,3,5,3,4,3,3,synthetic
+1281,Male,24–26,Information Technology,Yes,3,4,4,3,4,3,4,4,4,3,4,4,2,3,3,2,3,3,3,3,3,3,3,3,synthetic
+1282,Female,18–20,Information Technology,Yes,4,5,5,5,5,5,5,5,5,5,5,5,4,5,4,5,4,5,4,5,4,4,5,5,synthetic
+1283,Male,21–23,Information Technology,Yes,4,3,5,3,5,3,3,4,4,4,4,4,4,4,4,3,4,3,4,3,4,4,3,4,synthetic
+1284,Male,27 or above,Information Technology,No,2,3,4,2,3,4,4,4,3,3,4,3,3,3,4,4,4,3,3,4,4,3,3,3,synthetic
+1285,Male,21–23,Information Technology,No,2,2,3,2,1,2,3,2,1,2,2,3,1,1,2,1,1,2,2,2,2,1,2,3,synthetic
+1286,Prefer not to say,21–23,Information Technology,Yes,3,3,3,3,3,3,4,4,3,2,4,3,2,3,4,2,3,3,4,3,3,3,3,3,synthetic
+1287,Female,24–26,Information Technology,No,1,2,2,2,2,1,2,1,2,2,2,1,1,1,1,1,2,2,1,2,2,2,2,2,synthetic
+1288,Male,24–26,Business Management,Yes,3,2,3,3,3,3,3,4,3,2,4,3,2,3,2,3,3,3,4,3,3,4,3,3,synthetic
+1289,Male,24–26,Information Technology,Yes,1,1,2,1,2,2,2,1,1,1,2,3,1,1,2,2,1,1,3,1,2,2,2,2,synthetic
+1290,Female,21–23,Business Management,Yes,3,4,3,3,3,3,3,4,2,3,3,4,3,2,3,2,4,3,3,4,3,2,3,2,synthetic
+1291,Female,21–23,Information Technology,Yes,2,2,1,1,2,2,2,2,2,1,1,2,2,1,2,1,1,2,2,2,2,2,1,1,synthetic
+1292,Male,21–23,Information Technology,Yes,4,3,3,3,3,4,3,3,3,2,4,3,3,3,2,3,3,2,3,3,3,3,3,3,synthetic
+1293,Male,27 or above,Other,Yes,1,2,2,2,3,2,2,2,1,1,2,2,1,1,1,1,2,2,1,2,1,2,1,2,synthetic
+1294,Female,21–23,Business Management,No,2,3,2,2,3,2,2,3,2,2,2,2,2,1,2,2,2,2,3,3,2,2,2,2,synthetic
+1295,Male,24–26,Business Management,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1296,Female,24–26,Information Technology,Yes,1,1,2,1,2,1,1,2,1,2,1,1,1,1,2,2,1,1,2,2,1,1,1,1,synthetic
+1297,Male,24–26,Business Management,Yes,2,2,3,2,3,3,2,3,1,2,2,3,1,2,3,1,2,2,3,3,2,3,2,2,synthetic
+1298,Female,27 or above,Information Technology,Yes,2,3,3,2,3,2,3,3,3,2,3,3,2,2,1,3,2,3,3,2,2,3,2,3,synthetic
+1299,Male,18–20,Information Technology,Yes,3,3,3,2,3,3,2,3,2,2,3,3,2,2,2,2,2,3,3,2,3,2,2,3,synthetic
+1300,Male,21–23,Engineering,No,4,4,5,5,5,3,5,5,3,3,4,4,4,4,3,3,4,4,4,4,4,4,4,3,synthetic
+1301,Male,21–23,Information Technology,Yes,1,2,2,1,2,2,1,1,1,2,1,2,1,1,1,2,1,2,2,2,1,1,2,2,synthetic
+1302,Female,21–23,Engineering,Yes,3,3,3,3,5,4,3,4,3,2,2,3,3,3,2,3,3,3,3,3,3,3,2,2,synthetic
+1303,Female,24–26,Other,Yes,3,3,3,2,3,2,3,3,2,4,3,3,3,3,3,2,2,3,3,4,3,3,3,2,synthetic
+1304,Prefer not to say,18–20,Information Technology,Yes,3,3,2,2,4,2,3,3,2,2,3,3,2,2,3,2,2,3,3,2,3,2,2,2,synthetic
+1305,Male,24–26,Information Technology,Yes,2,2,3,3,2,2,2,3,1,2,3,4,1,3,2,2,2,3,3,3,3,1,2,2,synthetic
+1306,Male,21–23,Business Management,Yes,2,3,3,3,3,3,2,3,3,2,3,3,2,3,2,2,2,4,3,3,3,3,2,2,synthetic
+1307,Male,24–26,Information Technology,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1308,Female,27 or above,Business Management,No,1,2,2,2,3,2,2,3,2,2,2,2,2,1,1,2,2,2,3,2,2,2,1,2,synthetic
+1309,Male,21–23,Information Technology,Yes,3,3,4,3,4,4,3,4,1,3,2,3,3,3,4,3,4,3,3,3,3,3,2,3,synthetic
+1310,Male,21–23,Engineering,Yes,2,3,3,3,3,3,2,2,1,2,3,2,2,2,3,2,2,2,2,3,3,2,3,2,synthetic
+1311,Female,21–23,Information Technology,Yes,4,4,4,5,5,4,4,5,4,3,4,3,4,4,4,4,4,4,5,5,4,4,4,4,synthetic
+1312,Female,18–20,Business Management,No,1,1,1,2,2,1,1,1,1,2,1,2,1,1,2,1,1,2,2,2,1,2,1,1,synthetic
+1313,Male,21–23,Other,Yes,2,3,3,3,3,2,2,2,3,2,3,3,2,3,3,1,2,3,4,4,2,2,2,3,synthetic
+1314,Female,18–20,Business Management,No,4,4,5,4,5,4,3,4,4,3,3,4,4,3,3,3,4,3,5,4,4,4,3,3,synthetic
+1315,Female,24–26,Engineering,Yes,1,1,2,2,2,1,2,1,1,2,1,2,1,1,1,2,1,1,2,2,1,2,1,1,synthetic
+1316,Female,21–23,Information Technology,No,2,3,3,2,1,2,3,3,2,1,2,3,1,1,2,2,1,3,3,2,2,3,2,3,synthetic
+1317,Male,24–26,Other,Yes,3,3,5,4,3,4,3,3,3,3,3,3,3,3,3,4,3,5,4,3,4,3,3,4,synthetic
+1318,Male,21–23,Engineering,Yes,2,2,3,2,3,1,1,3,1,1,2,2,1,2,1,1,1,2,1,1,2,2,1,2,synthetic
+1319,Female,18–20,Engineering,Yes,3,3,4,3,4,3,2,4,3,3,3,3,3,2,2,3,4,4,3,4,4,2,2,3,synthetic
+1320,Female,18–20,Information Technology,Yes,4,3,5,2,4,3,4,5,4,3,4,4,2,2,4,3,3,4,4,4,3,4,4,3,synthetic
+1321,Male,21–23,Engineering,Yes,2,2,3,2,3,2,2,4,2,2,1,2,2,2,1,2,2,3,2,2,2,2,3,1,synthetic
+1322,Female,18–20,Engineering,Yes,3,2,3,1,2,3,2,3,1,2,2,3,3,2,2,1,1,3,2,2,3,3,2,2,synthetic
+1323,Prefer not to say,21–23,Other,Yes,2,2,3,3,4,3,3,3,3,2,3,3,2,4,3,3,3,4,2,4,2,2,3,3,synthetic
+1324,Female,27 or above,Information Technology,No,1,2,2,2,4,2,1,1,1,1,2,2,1,2,1,1,2,2,2,2,2,1,2,2,synthetic
+1325,Female,27 or above,Other,No,3,4,5,3,5,4,4,4,3,3,4,4,3,4,4,5,4,4,4,4,3,3,3,4,synthetic
+1326,Female,21–23,Information Technology,Yes,3,3,3,3,5,3,3,5,3,3,4,3,3,4,3,3,3,4,4,4,3,4,3,3,synthetic
+1327,Male,18–20,Information Technology,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1328,Male,27 or above,Information Technology,Yes,1,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,2,2,1,2,1,1,synthetic
+1329,Female,18–20,Business Management,Yes,3,3,2,2,3,2,3,3,2,3,2,3,1,2,3,3,2,2,3,2,2,3,2,1,synthetic
+1330,Female,18–20,Other,No,1,1,2,1,3,2,1,2,1,1,2,1,1,1,2,1,1,2,1,2,2,1,2,1,synthetic
+1331,Male,24–26,Information Technology,Yes,4,4,4,4,4,3,3,4,3,3,3,4,4,4,5,2,4,4,4,4,4,4,3,4,synthetic
+1332,Female,21–23,Business Management,Yes,1,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,synthetic
+1333,Male,21–23,Information Technology,Yes,2,3,3,2,3,3,2,4,2,2,2,3,2,2,3,1,3,3,3,2,3,2,2,3,synthetic
+1334,Male,27 or above,Engineering,Yes,1,1,2,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1335,Male,21–23,Information Technology,Yes,2,1,3,1,2,2,3,3,2,2,1,2,2,2,2,2,2,1,2,2,2,2,1,2,synthetic
+1336,Male,21–23,Information Technology,Yes,2,2,3,2,3,2,2,4,2,2,3,2,2,2,2,2,2,2,2,4,2,1,1,3,synthetic
+1337,Female,18–20,Information Technology,Yes,3,4,5,4,4,4,4,5,3,3,5,4,4,4,4,4,4,4,4,4,4,4,3,5,synthetic
+1338,Male,24–26,Other,Yes,2,1,2,2,1,1,1,1,1,1,2,1,1,1,1,2,1,1,2,1,1,2,1,1,synthetic
+1339,Female,21–23,Other,Yes,3,3,2,2,3,3,2,4,2,2,2,2,2,2,2,2,3,2,2,3,3,2,2,2,synthetic
+1340,Male,24–26,Information Technology,Yes,1,2,2,1,2,1,1,2,1,2,2,2,2,1,2,1,2,2,2,2,3,1,2,1,synthetic
+1341,Male,21–23,Information Technology,Yes,1,1,2,1,2,2,1,2,1,1,3,2,1,1,1,1,1,2,1,1,2,1,2,1,synthetic
+1342,Male,21–23,Other,Yes,1,1,2,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,synthetic
+1343,Male,24–26,Business Management,No,3,2,3,2,3,3,2,4,2,2,3,2,3,2,2,1,2,4,3,3,4,3,2,2,synthetic
+1344,Female,21–23,Information Technology,Yes,2,2,4,3,2,2,2,3,3,4,2,3,3,2,2,2,1,3,3,4,3,2,2,1,synthetic
+1345,Male,21–23,Business Management,Yes,2,1,2,1,2,1,2,2,1,2,1,2,1,1,2,1,2,2,2,2,2,2,1,1,synthetic
+1346,Male,21–23,Business Management,No,3,3,3,4,3,3,2,4,3,3,3,4,3,3,3,4,3,3,4,4,4,3,4,3,synthetic
+1347,Female,24–26,Information Technology,Yes,2,3,3,3,3,3,3,4,1,3,3,4,3,4,3,3,3,3,3,3,2,3,3,2,synthetic
+1348,Male,21–23,Information Technology,Yes,2,2,2,1,3,1,2,3,3,2,2,3,1,2,2,2,3,2,2,2,2,2,2,2,synthetic
+1349,Male,21–23,Other,Yes,4,4,3,2,4,5,4,4,3,4,3,4,3,3,3,4,3,3,4,3,3,4,4,4,synthetic
+1350,Male,18–20,Business Management,Yes,4,3,4,3,4,3,4,3,3,3,3,4,3,3,3,3,3,3,4,3,3,3,3,2,synthetic
+1351,Male,18–20,Information Technology,No,3,3,4,2,2,3,2,2,2,3,2,4,2,2,2,2,2,2,4,3,2,3,3,3,synthetic
+1352,Male,24–26,Other,Yes,1,1,2,1,2,2,2,2,2,2,2,1,2,1,2,2,2,2,1,2,2,2,1,1,synthetic
+1353,Male,21–23,Engineering,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1354,Male,24–26,Business Management,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1355,Prefer not to say,18–20,Information Technology,Yes,2,2,3,2,3,3,2,5,2,2,2,3,2,3,2,2,2,2,3,3,3,3,2,2,synthetic
+1356,Female,21–23,Information Technology,Yes,1,1,2,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1357,Female,24–26,Information Technology,No,4,3,4,4,5,3,4,3,3,2,3,5,4,4,3,3,4,3,4,5,3,3,4,4,synthetic
+1358,Female,27 or above,Business Management,Yes,2,2,3,2,3,3,2,2,2,2,2,2,1,2,2,1,2,2,2,2,2,2,1,1,synthetic
+1359,Female,27 or above,Information Technology,No,2,4,4,4,3,3,3,4,2,3,3,3,2,3,3,3,3,3,3,4,3,2,3,2,synthetic
+1360,Female,21–23,Business Management,Yes,1,2,2,1,2,2,1,2,2,2,2,1,2,2,2,1,1,2,2,2,2,1,1,2,synthetic
+1361,Female,24–26,Business Management,Yes,2,3,3,3,3,1,2,3,2,2,2,2,1,3,2,2,3,3,3,3,3,3,2,1,synthetic
+1362,Female,27 or above,Business Management,No,2,2,3,2,3,3,2,3,2,1,2,3,2,3,1,1,2,3,2,3,3,2,2,2,synthetic
+1363,Male,18–20,Information Technology,Yes,3,3,4,4,4,3,4,4,3,2,3,4,3,4,4,4,3,3,3,3,3,3,4,4,synthetic
+1364,Female,18–20,Information Technology,Yes,4,3,3,3,3,3,3,4,3,2,3,4,3,3,2,2,3,3,3,2,3,2,3,3,synthetic
+1365,Male,21–23,Business Management,Yes,2,3,3,2,2,1,1,1,2,2,2,2,1,1,2,1,1,1,3,2,1,1,1,1,synthetic
+1366,Female,18–20,Information Technology,No,2,3,3,3,3,4,2,3,2,2,2,3,2,3,2,2,3,4,3,3,3,2,2,3,synthetic
+1367,Female,21–23,Information Technology,No,3,2,2,2,2,3,1,2,1,2,3,3,2,2,2,1,1,3,2,2,2,2,2,2,synthetic
+1368,Male,27 or above,Information Technology,Yes,2,3,3,3,5,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,2,3,2,2,synthetic
+1369,Male,21–23,Information Technology,Yes,2,2,3,2,3,2,3,2,2,2,3,2,2,2,3,2,2,2,3,2,2,2,2,4,synthetic
+1370,Female,21–23,Business Management,No,2,2,3,3,2,2,2,2,2,2,1,3,2,2,3,2,2,2,2,2,2,2,2,2,synthetic
+1371,Female,18–20,Information Technology,Yes,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,synthetic
+1372,Female,18–20,Information Technology,Yes,2,3,2,2,3,2,3,3,2,3,3,3,2,2,3,3,2,2,3,3,2,3,2,3,synthetic
+1373,Male,21–23,Information Technology,Yes,3,3,3,3,3,4,3,4,4,2,2,4,3,2,3,2,3,3,4,4,3,3,3,3,synthetic
+1374,Prefer not to say,18–20,Information Technology,Yes,3,4,4,3,3,3,3,4,4,3,3,3,4,3,3,2,4,4,3,4,4,3,3,4,synthetic
+1375,Male,18–20,Engineering,Yes,3,3,3,2,4,3,3,3,3,2,2,3,3,3,2,3,3,3,3,3,3,2,3,2,synthetic
+1376,Female,18–20,Information Technology,No,3,4,4,3,4,5,4,4,3,3,4,4,4,3,4,4,5,3,4,4,4,3,5,4,synthetic
+1377,Male,24–26,Information Technology,No,3,2,3,2,2,2,3,3,2,2,3,2,1,2,3,3,2,2,2,3,3,3,3,2,synthetic
+1378,Male,21–23,Information Technology,Yes,3,3,3,3,4,3,3,3,2,3,2,3,3,4,3,3,3,3,3,4,4,3,2,2,synthetic
+1379,Female,18–20,Business Management,Yes,1,3,3,2,2,3,2,2,2,2,3,3,3,2,3,2,1,2,2,2,2,2,2,3,synthetic
+1380,Female,21–23,Information Technology,No,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,2,1,2,1,1,synthetic
+1381,Female,24–26,Engineering,Yes,3,3,3,3,4,3,2,3,2,3,3,4,3,3,3,2,2,4,3,4,4,2,3,3,synthetic
+1382,Male,21–23,Engineering,Yes,1,2,2,1,2,3,1,2,1,1,1,2,2,2,2,2,2,1,2,2,1,1,1,1,synthetic
+1383,Female,24–26,Business Management,Yes,2,3,3,3,4,2,3,4,2,2,3,3,3,3,4,2,3,4,3,3,3,2,3,2,synthetic
+1384,Female,18–20,Business Management,Yes,3,2,2,3,3,2,2,3,2,2,3,3,2,3,2,2,2,2,3,2,3,1,2,2,synthetic
+1385,Male,21–23,Business Management,Yes,3,5,5,4,5,4,3,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,3,4,synthetic
+1386,Female,24–26,Business Management,Yes,4,3,4,4,4,4,4,5,3,4,4,4,4,4,4,4,4,4,3,5,4,4,4,3,synthetic
+1387,Female,21–23,Engineering,Yes,2,2,2,2,3,2,1,3,2,1,1,2,2,1,1,3,2,2,2,3,2,2,2,2,synthetic
+1388,Female,21–23,Business Management,Yes,2,2,3,2,2,2,1,1,2,1,2,2,2,2,3,2,2,2,1,3,1,1,2,1,synthetic
+1389,Female,21–23,Business Management,Yes,3,3,2,2,2,3,2,2,2,2,3,2,2,3,2,2,2,3,2,2,2,2,3,2,synthetic
+1390,Female,21–23,Information Technology,Yes,4,3,4,3,4,4,4,3,2,3,4,4,3,2,3,3,3,4,3,4,3,3,3,3,synthetic
+1391,Male,21–23,Business Management,Yes,2,3,4,3,4,3,2,3,3,3,2,3,2,1,3,4,4,3,3,3,2,2,3,3,synthetic
+1392,Male,18–20,Information Technology,Yes,3,3,3,2,3,2,3,3,2,3,2,4,2,3,3,2,3,3,3,3,2,3,2,3,synthetic
+1393,Female,21–23,Engineering,Yes,4,4,4,4,5,3,3,4,3,3,4,3,3,4,4,2,4,2,4,5,3,3,4,2,synthetic
+1394,Female,18–20,Other,Yes,3,4,2,2,3,2,3,3,2,2,2,3,2,2,2,2,3,3,3,3,4,4,2,2,synthetic
+1395,Female,21–23,Engineering,Yes,2,1,2,3,2,2,2,2,2,1,2,2,1,1,1,1,1,2,2,2,2,1,1,1,synthetic
+1396,Female,24–26,Engineering,Yes,3,4,4,3,5,4,4,5,5,4,4,3,4,4,4,3,4,4,4,4,5,5,3,4,synthetic
+1397,Male,18–20,Information Technology,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1398,Male,21–23,Information Technology,Yes,4,3,4,2,3,3,2,3,3,2,3,3,2,3,3,2,2,3,3,4,3,3,2,3,synthetic
+1399,Female,21–23,Engineering,Yes,3,4,4,4,4,3,4,5,4,3,4,4,4,4,3,3,4,3,4,4,4,5,3,5,synthetic
+1400,Male,21–23,Other,Yes,2,2,3,2,3,1,2,3,2,3,3,2,3,2,2,2,2,1,3,2,3,3,3,2,synthetic
+1401,Male,21–23,Other,Yes,1,3,2,1,3,2,2,3,2,1,1,2,2,1,1,1,1,3,3,2,2,1,2,2,synthetic
+1402,Male,18–20,Information Technology,Yes,1,1,2,2,3,1,1,2,1,1,2,2,1,1,1,1,1,2,2,1,1,2,1,1,synthetic
+1403,Male,24–26,Other,Yes,3,3,3,2,3,3,3,3,3,2,3,3,2,3,3,3,2,3,3,2,2,2,2,2,synthetic
+1404,Male,21–23,Information Technology,Yes,3,3,4,3,4,4,3,3,3,3,4,4,4,3,4,2,3,3,4,5,4,3,4,3,synthetic
+1405,Female,27 or above,Engineering,Yes,3,2,2,1,2,2,2,1,3,2,2,2,2,2,1,1,2,3,2,2,2,1,1,1,synthetic
+1406,Male,18–20,Information Technology,Yes,2,2,3,3,4,3,3,4,2,2,3,3,3,3,2,3,3,3,3,2,2,2,3,3,synthetic
+1407,Female,21–23,Information Technology,No,1,1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,1,2,1,1,2,1,1,1,synthetic
+1408,Female,24–26,Information Technology,Yes,4,3,3,2,4,2,3,3,3,3,3,2,3,2,3,4,3,3,5,3,4,2,3,2,synthetic
+1409,Male,21–23,Business Management,No,3,3,4,2,4,3,2,3,2,3,4,3,2,2,3,2,2,3,3,3,3,3,1,2,synthetic
+1410,Male,21–23,Business Management,Yes,2,1,2,1,2,1,1,2,1,1,1,2,1,1,2,2,2,2,2,3,1,1,1,2,synthetic
+1411,Female,21–23,Information Technology,No,4,4,4,5,4,3,5,5,4,4,4,4,3,4,3,4,4,4,4,4,3,4,4,3,synthetic
+1412,Female,18–20,Information Technology,Yes,2,2,2,3,3,3,2,3,3,3,3,3,3,2,2,2,3,3,3,3,3,2,3,2,synthetic
+1413,Male,18–20,Information Technology,Yes,1,2,2,1,1,1,1,2,2,1,1,2,1,1,1,1,1,1,2,2,2,1,2,1,synthetic
+1414,Female,18–20,Information Technology,Yes,1,2,2,1,2,1,2,2,2,1,1,1,1,1,1,1,2,2,2,2,2,1,1,1,synthetic
+1415,Male,21–23,Information Technology,Yes,1,2,1,1,2,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,synthetic
+1416,Female,27 or above,Information Technology,No,1,2,2,1,2,2,1,2,2,1,2,1,1,2,1,1,1,1,2,1,1,1,1,1,synthetic
+1417,Prefer not to say,24–26,Business Management,Yes,2,2,3,2,2,3,2,2,2,3,2,3,2,3,3,2,2,2,3,2,3,2,2,2,synthetic
+1418,Female,21–23,Information Technology,Yes,1,2,3,2,2,2,2,2,2,2,2,2,2,1,1,2,2,1,3,2,2,1,2,1,synthetic
+1419,Male,21–23,Other,Yes,2,3,3,1,3,1,2,3,1,2,2,2,1,2,1,2,2,3,2,2,2,2,2,1,synthetic
+1420,Female,21–23,Information Technology,Yes,2,1,3,2,2,1,1,3,1,1,1,2,1,1,2,2,1,1,3,2,1,1,1,1,synthetic
+1421,Female,21–23,Engineering,No,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1422,Female,21–23,Business Management,No,2,3,4,3,3,4,3,3,3,2,2,3,2,4,3,2,3,3,4,3,3,3,3,2,synthetic
+1423,Female,21–23,Business Management,Yes,3,4,4,3,4,3,3,4,3,3,3,3,3,3,4,3,2,4,3,3,3,4,4,3,synthetic
+1424,Prefer not to say,24–26,Information Technology,Yes,4,4,4,4,5,3,4,5,3,3,4,4,3,4,3,3,3,5,5,4,3,3,4,4,synthetic
+1425,Female,21–23,Business Management,No,3,3,3,3,3,4,2,3,3,2,3,3,2,3,2,3,3,3,2,3,3,5,3,3,synthetic
+1426,Male,21–23,Engineering,Yes,3,4,3,2,3,4,3,4,3,2,3,3,2,3,2,3,3,3,3,4,3,3,3,3,synthetic
+1427,Female,24–26,Business Management,No,3,3,3,3,3,3,3,3,2,3,2,2,2,3,2,3,3,3,3,2,3,3,3,4,synthetic
+1428,Female,21–23,Engineering,Yes,1,1,3,2,2,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2,3,1,1,2,synthetic
+1429,Male,24–26,Information Technology,Yes,3,2,3,3,4,3,2,3,2,2,2,3,2,2,2,2,1,2,2,3,3,2,3,3,synthetic
+1430,Male,24–26,Other,Yes,4,3,4,4,4,4,3,4,4,3,4,4,3,3,3,4,3,4,3,5,4,4,3,3,synthetic
+1431,Male,18–20,Business Management,Yes,3,4,4,4,5,4,4,4,4,4,4,5,4,4,4,4,5,5,5,5,5,4,5,5,synthetic
+1432,Female,21–23,Information Technology,Yes,3,2,3,2,2,3,2,3,2,3,2,3,2,3,2,2,3,3,3,3,2,2,2,3,synthetic
+1433,Male,18–20,Engineering,Yes,3,3,3,4,3,3,3,3,3,3,3,4,4,2,3,3,3,4,3,4,4,3,3,2,synthetic
+1434,Female,18–20,Information Technology,Yes,2,2,3,3,3,2,2,3,1,2,2,3,2,2,1,2,2,4,2,3,4,2,2,2,synthetic
+1435,Female,21–23,Business Management,Yes,3,4,4,4,4,5,4,4,4,4,4,5,4,3,4,4,4,4,3,4,3,4,4,4,synthetic
+1436,Male,21–23,Information Technology,Yes,2,2,2,1,2,2,1,3,1,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2,synthetic
+1437,Prefer not to say,21–23,Information Technology,Yes,2,2,3,2,4,3,3,4,1,1,2,3,2,1,3,3,3,3,3,2,2,3,2,2,synthetic
+1438,Female,24–26,Engineering,Yes,4,3,4,3,4,4,3,5,3,5,4,4,4,3,3,3,3,3,4,3,4,4,3,3,synthetic
+1439,Female,24–26,Information Technology,Yes,2,3,3,2,3,3,2,4,2,2,2,2,3,2,2,2,2,2,3,3,3,3,3,3,synthetic
+1440,Male,24–26,Information Technology,Yes,4,4,5,5,5,4,4,4,4,4,4,5,3,4,4,5,4,4,4,5,4,4,4,4,synthetic
+1441,Male,21–23,Other,Yes,3,3,4,3,4,4,3,3,3,3,2,2,3,4,2,3,3,3,4,3,3,3,3,2,synthetic
+1442,Female,21–23,Information Technology,Yes,3,3,4,3,4,3,2,4,3,2,3,4,3,2,4,3,4,4,4,4,2,3,3,3,synthetic
+1443,Male,21–23,Information Technology,Yes,1,1,2,1,2,2,1,2,1,2,1,1,1,1,1,1,1,2,1,2,1,1,1,1,synthetic
+1444,Female,21–23,Engineering,Yes,3,2,3,3,4,3,3,3,3,4,4,2,3,3,3,2,3,3,3,4,3,2,3,2,synthetic
+1445,Female,18–20,Business Management,Yes,2,3,2,1,2,2,2,4,2,2,2,3,2,2,2,1,2,2,3,2,2,1,2,2,synthetic
+1446,Male,21–23,Information Technology,No,2,2,3,2,3,3,2,3,2,1,2,2,2,1,2,2,3,3,2,3,2,2,2,1,synthetic
+1447,Female,21–23,Information Technology,Yes,3,2,3,2,3,3,2,3,3,2,2,3,2,2,2,2,2,2,3,3,2,1,2,2,synthetic
+1448,Female,21–23,Information Technology,No,2,1,3,2,1,2,1,2,1,1,2,1,2,1,1,1,2,1,2,2,2,1,1,2,synthetic
+1449,Male,21–23,Information Technology,Yes,2,3,4,2,3,2,2,3,2,2,4,3,2,2,3,2,3,3,3,3,3,2,3,3,synthetic
+1450,Male,21–23,Information Technology,No,2,3,2,2,2,2,1,2,2,3,1,2,2,2,2,1,1,1,2,2,2,1,1,1,synthetic
+1451,Female,21–23,Information Technology,Yes,2,2,3,3,3,2,2,2,2,2,2,2,2,3,3,2,2,3,3,3,3,3,2,3,synthetic
+1452,Male,21–23,Information Technology,Yes,2,2,4,2,4,2,2,3,2,3,3,2,2,2,3,3,2,3,3,3,3,2,3,2,synthetic
+1453,Female,18–20,Information Technology,Yes,2,2,2,2,1,2,1,2,1,1,2,3,1,2,2,2,1,2,2,1,2,3,1,2,synthetic
+1454,Prefer not to say,24–26,Other,Yes,4,4,3,3,5,4,4,4,4,3,5,4,4,3,4,3,4,4,4,5,3,3,4,4,synthetic
+1455,Male,18–20,Other,Yes,2,3,3,3,3,3,3,3,2,3,3,3,2,2,2,2,3,2,3,3,2,3,2,2,synthetic
+1456,Male,21–23,Information Technology,No,2,2,4,3,4,3,2,3,3,2,4,3,3,3,3,3,3,4,4,2,4,3,3,3,synthetic
+1457,Male,18–20,Information Technology,Yes,2,3,2,2,3,2,2,3,2,2,3,2,2,2,2,2,2,3,3,3,3,2,1,3,synthetic
+1458,Female,18–20,Business Management,No,2,1,2,1,2,2,2,3,2,1,2,2,2,2,2,1,2,3,2,2,2,1,1,2,synthetic
+1459,Female,21–23,Other,Yes,4,4,3,4,4,4,4,5,3,4,5,4,3,4,4,3,4,4,4,4,4,4,3,4,synthetic
+1460,Male,21–23,Information Technology,No,4,3,4,4,5,4,3,4,3,4,5,4,3,3,4,4,4,4,4,5,5,4,4,4,synthetic
+1461,Female,21–23,Business Management,Yes,2,2,2,2,2,2,1,2,1,1,2,1,1,1,2,1,1,1,2,1,1,1,2,1,synthetic
+1462,Male,24–26,Information Technology,Yes,3,3,4,3,3,2,3,4,3,3,3,3,2,3,2,3,3,4,4,3,2,3,3,3,synthetic
+1463,Female,21–23,Information Technology,Yes,3,3,3,4,3,3,3,4,3,3,3,4,4,3,4,3,3,4,3,3,3,3,3,3,synthetic
+1464,Female,21–23,Business Management,No,1,3,3,2,3,2,2,3,2,3,4,3,3,2,2,2,2,3,3,3,3,2,2,2,synthetic
+1465,Female,24–26,Information Technology,No,3,3,3,3,3,2,2,3,3,2,3,3,2,3,3,3,3,4,3,4,3,3,2,3,synthetic
+1466,Female,21–23,Business Management,Yes,3,4,3,4,4,4,5,5,3,4,4,4,4,4,3,3,4,4,4,4,4,4,4,5,synthetic
+1467,Female,18–20,Information Technology,Yes,2,2,3,1,3,1,3,3,2,2,2,2,2,3,1,3,2,2,2,2,1,2,2,1,synthetic
+1468,Male,21–23,Information Technology,Yes,3,3,4,3,4,3,3,4,2,3,4,4,3,3,3,2,3,4,4,3,4,3,4,3,synthetic
+1469,Female,21–23,Business Management,Yes,1,2,2,3,2,2,1,2,2,1,1,2,2,1,2,1,2,1,2,2,2,1,2,1,synthetic
+1470,Female,21–23,Information Technology,Yes,1,1,2,1,2,1,1,3,2,1,2,1,2,3,2,3,1,1,2,2,3,1,1,1,synthetic
+1471,Female,18–20,Information Technology,No,4,3,3,3,5,4,3,5,4,3,4,4,3,3,3,2,4,3,5,4,5,3,3,4,synthetic
+1472,Female,24–26,Information Technology,Yes,3,4,4,4,4,4,3,4,4,4,4,4,3,4,3,4,4,4,4,4,4,3,4,4,synthetic
+1473,Female,21–23,Information Technology,No,5,4,5,4,5,5,4,5,4,4,5,5,5,4,5,4,4,4,5,5,5,4,4,4,synthetic
+1474,Male,21–23,Business Management,Yes,3,3,4,3,3,2,4,4,3,2,3,3,2,3,4,3,2,3,4,3,3,3,3,3,synthetic
+1475,Male,18–20,Information Technology,No,2,1,2,2,3,1,2,3,1,2,3,2,1,2,1,2,1,2,2,2,2,2,1,2,synthetic
+1476,Male,21–23,Information Technology,Yes,2,3,3,3,4,3,3,3,3,3,3,3,3,3,2,2,3,3,3,2,2,4,2,4,synthetic
+1477,Female,21–23,Information Technology,No,3,2,3,4,4,3,2,3,2,3,4,3,3,4,2,3,3,3,3,3,4,4,3,3,synthetic
+1478,Male,21–23,Information Technology,Yes,2,2,2,2,2,2,2,2,1,2,1,3,2,2,2,1,1,2,2,3,2,2,1,2,synthetic
+1479,Male,18–20,Engineering,Yes,3,3,4,2,4,4,3,4,2,3,4,4,3,3,3,3,2,4,4,4,4,3,4,3,synthetic
+1480,Male,21–23,Engineering,No,2,2,1,3,3,2,3,3,2,2,3,2,2,3,2,2,3,2,3,3,2,2,2,3,synthetic
+1481,Male,21–23,Information Technology,Yes,3,2,3,2,4,2,2,4,3,3,3,3,3,3,4,3,3,3,3,3,3,3,3,4,synthetic
+1482,Male,21–23,Business Management,No,3,3,4,2,3,3,3,4,2,3,2,3,3,3,3,3,2,3,3,2,3,2,2,3,synthetic
+1483,Male,27 or above,Business Management,Yes,2,2,2,2,2,3,2,2,1,2,2,1,2,2,2,2,2,3,1,2,2,3,3,2,synthetic
+1484,Male,21–23,Business Management,Yes,1,1,2,3,2,2,2,2,2,1,2,2,1,2,2,1,2,2,3,2,2,1,2,3,synthetic
+1485,Male,21–23,Other,Yes,2,3,3,3,3,3,2,4,2,2,3,3,3,2,2,3,2,2,2,3,2,3,3,3,synthetic
+1486,Female,24–26,Engineering,Yes,4,4,4,3,3,3,3,4,2,3,4,4,4,4,3,2,4,3,4,5,3,4,4,4,synthetic
+1487,Male,21–23,Information Technology,Yes,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,synthetic
+1488,Male,21–23,Business Management,Yes,3,3,4,3,5,3,4,4,4,3,3,4,3,4,3,3,4,3,4,3,3,3,3,3,synthetic
+1489,Male,21–23,Business Management,No,3,4,4,3,3,2,4,3,2,3,3,2,2,2,2,3,3,3,3,3,3,3,2,3,synthetic
+1490,Male,18–20,Business Management,Yes,2,2,2,2,3,3,2,2,2,2,2,3,3,3,3,1,2,3,3,3,3,3,3,3,synthetic
+1491,Female,24–26,Engineering,No,2,2,2,3,3,2,3,2,1,3,2,2,2,2,2,2,2,2,3,2,3,1,2,1,synthetic
+1492,Male,24–26,Information Technology,Yes,2,2,3,2,2,2,2,3,1,1,2,2,1,2,1,2,2,2,2,2,2,2,1,1,synthetic
+1493,Female,24–26,Engineering,Yes,3,3,4,3,4,4,4,3,2,1,4,4,3,2,2,3,3,4,3,4,3,3,2,2,synthetic
+1494,Male,24–26,Engineering,Yes,3,3,3,2,2,3,2,4,2,3,3,2,2,3,2,2,2,3,3,2,2,2,1,2,synthetic
+1495,Male,21–23,Information Technology,Yes,2,2,3,3,3,3,2,2,2,2,2,2,2,3,3,3,3,2,2,2,3,2,2,2,synthetic
+1496,Male,21–23,Engineering,Yes,2,2,3,3,3,3,2,4,2,2,2,2,2,3,2,3,3,4,2,3,3,2,3,3,synthetic
+1497,Male,24–26,Other,Yes,3,2,3,3,4,3,3,2,3,3,2,4,2,1,3,2,3,3,3,4,3,2,2,3,synthetic
+1498,Male,24–26,Information Technology,No,2,2,2,1,3,1,2,2,1,2,2,2,1,2,2,2,2,3,2,2,2,2,2,2,synthetic
+1499,Male,21–23,Business Management,Yes,4,2,3,2,4,3,3,4,2,2,4,3,1,3,2,3,3,2,3,3,3,3,3,3,synthetic
+1500,Female,27 or above,Business Management,Yes,3,4,4,3,3,3,2,4,2,3,3,2,2,2,3,2,2,4,3,4,3,2,3,2,synthetic

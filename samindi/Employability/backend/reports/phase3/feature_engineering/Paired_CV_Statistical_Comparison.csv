@@ -1,0 +1,4 @@
+Comparison,Mean_R2_Difference,Wilcoxon_Statistic,P_Value,Difference_Status
+Item_Level vs Construct_Level,-0.004411472580808073,553.0,0.42072286282100535,No Strong Evidence of Difference
+Item_Level vs Overall_PsyCap,0.012452237097735165,439.0,0.055465717070337206,No Strong Evidence of Difference
+Construct_Level vs Overall_PsyCap,0.01686370967854324,298.0,0.0007847371187263974,Statistically Different

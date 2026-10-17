@@ -1,0 +1,3 @@
+Recommendation_Construct,User_Construct_Value,Benchmark_Median,Global_Model_Importance_Percent,Local_SHAP,Supporting_Item,Supporting_Item_Value,Recommendation_Action
+Self-Efficacy,3.0,4.0,41.96687997271973,-0.31046121119552506,PsyCap11,2,"When you are stuck, ask a manager, mentor, colleague, lecturer or trainer for specific guidance instead of waiting too long."
+Resilience,3.3333333333333335,4.333333333333333,34.547882724046666,-0.19359768146423137,PsyCap7,3,"Before reacting to a difficult situation, identify the main problem, possible causes and the information you need."

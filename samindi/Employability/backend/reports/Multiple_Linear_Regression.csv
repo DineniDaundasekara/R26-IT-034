@@ -1,0 +1,6 @@
+Variable,Coefficient,p-value,Interpretation
+const,1.134458396612569,1.451708925247997e-27,Highly Significant
+Clear_Objectives,0.398527658119855,3.0320354008874837e-31,Highly Significant
+School_Support,0.16476801734867152,3.040352359232254e-08,Highly Significant
+Workplace_Environment,0.109635663982972,0.001077708516138015,Significant
+Career_Development,0.0548852418512944,0.04428738777622244,Marginally Significant

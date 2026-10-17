@@ -1,0 +1,13 @@
+Construct,Recommendation ID,Recommendation,Relevance Rating (1-5),Clarity Rating (1-5),Practicality Rating (1-5),Expert Comments
+Clear_Objectives,CO_R1,Discuss internship goals and expected outcomes with the supervisor.,,,,
+Clear_Objectives,CO_R2,Break assigned tasks into clear weekly objectives.,,,,
+Clear_Objectives,CO_R3,Request clarification when tasks or performance expectations are unclear.,,,,
+School_Support,SS_R1,Schedule regular discussions with the academic internship supervisor.,,,,
+School_Support,SS_R2,Use available institutional career and internship support services.,,,,
+School_Support,SS_R3,Request guidance on internship assignments and workplace challenges.,,,,
+Workplace_Environment,WE_R1,Request regular and constructive feedback from the workplace supervisor.,,,,
+Workplace_Environment,WE_R2,Seek opportunities to collaborate with experienced professionals.,,,,
+Workplace_Environment,WE_R3,Discuss workplace support needs through the appropriate supervision channel.,,,,
+Career_Development,CD_R1,Participate in challenging projects that build industry-relevant experience.,,,,
+Career_Development,CD_R2,"Seek networking, mentoring, and professional development opportunities.",,,,
+Career_Development,CD_R3,Document achievements and skills gained during the internship.,,,,

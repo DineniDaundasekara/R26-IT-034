@@ -1,0 +1,10 @@
+Validation_Check,Status
+Feature schema,PASS
+Missing values,PASS
+Held-out test performance,PASS
+Train-test generalization gap,PASS
+Repeated cross-validation,PASS
+Prediction range,PASS
+Coefficient stability,PASS
+Saved model reload,PASS
+Prediction equality,PASS

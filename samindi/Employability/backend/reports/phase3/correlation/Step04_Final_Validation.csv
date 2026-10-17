@@ -1,0 +1,8 @@
+Check,Status
+Overall PsyCap relationship significant,PASS
+Pearson and Spearman direction consistent,PASS
+Construct-level relationships significant,PASS
+Bootstrap intervals exclude zero,PASS
+Predictor correlations reviewed,PASS
+No severe predictor overlap detected,PASS
+H1 evaluated,PASS

@@ -1,0 +1,1751 @@
+{
+  "candidates": {
+    "55accccb-a309-4d78-aba6-55692d0cd91c": {
+      "assessmentId": "55accccb-a309-4d78-aba6-55692d0cd91c",
+      "createdAt": "2026-08-28T12:40:55.866259+00:00",
+      "candidateName": "rahmimuaz",
+      "email": "rahmimuaz@gmail.com",
+      "githubUsername": "rahmimuaz",
+      "linkedinUrl": "https://www.linkedin.com/in/rahmi-muaz/",
+      "linkedinProfile": {
+        "linkedin_url": "https://www.linkedin.com/in/rahmi-muaz/",
+        "profile_pic_url": "https://avatars.githubusercontent.com/u/123501001?v=4",
+        "current_role": {
+          "title": "Full Stack MERN Developer",
+          "company": "Evolexx / Software Solutions",
+          "location": "Mawanella, Sri Lanka",
+          "is_current": true
+        },
+        "certifications": [
+          {
+            "name": "Full-Stack Web Development with React & Node.js",
+            "authority": "Coursera / Meta",
+            "url": "https://coursera.org",
+            "year": 2024
+          },
+          {
+            "name": "Certified JavaScript & Web Development Specialist",
+            "authority": "HackerRank",
+            "url": "https://hackerrank.com",
+            "year": 2023
+          },
+          {
+            "name": "MongoDB Certified Associate Developer",
+            "authority": "MongoDB University",
+            "url": "https://university.mongodb.com",
+            "year": 2024
+          }
+        ],
+        "source": "verified_profile",
+        "status": "SUCCESS"
+      },
+      "linkedinData": {
+        "linkedin_url": "https://www.linkedin.com/in/rahmi-muaz/",
+        "profile_pic_url": "https://avatars.githubusercontent.com/u/123501001?v=4",
+        "current_role": {
+          "title": "Full Stack MERN Developer",
+          "company": "Evolexx / Software Solutions",
+          "location": "Mawanella, Sri Lanka",
+          "is_current": true
+        },
+        "certifications": [
+          {
+            "name": "Full-Stack Web Development with React & Node.js",
+            "authority": "Coursera / Meta",
+            "url": "https://coursera.org",
+            "year": 2024
+          },
+          {
+            "name": "Certified JavaScript & Web Development Specialist",
+            "authority": "HackerRank",
+            "url": "https://hackerrank.com",
+            "year": 2023
+          },
+          {
+            "name": "MongoDB Certified Associate Developer",
+            "authority": "MongoDB University",
+            "url": "https://university.mongodb.com",
+            "year": 2024
+          }
+        ],
+        "source": "verified_profile",
+        "status": "SUCCESS"
+      },
+      "targetRole": "Full Stack MERN Developer",
+      "targetRoleId": "full_stack_mern",
+      "assessment": {
+        "candidateName": "rahmimuaz",
+        "targetRole": "Full Stack MERN Developer",
+        "contact": {
+          "email": "rahmimuaz10@gmail.com",
+          "github": "Account",
+          "linkedin": "https://www.linkedin.com/in/rahmi-muaz",
+          "phone": "0765556598"
+        },
+        "githubUsername": "rahmimuaz",
+        "githubProfileExists": true,
+        "githubProfile": {
+          "exists": true,
+          "username": "rahmimuaz",
+          "name": "Rahmi Muaz",
+          "bio": "",
+          "company": null,
+          "location": null,
+          "publicReposCount": 15,
+          "followers": 1,
+          "accountCreatedAt": "2023-01-24T18:57:19Z",
+          "repositories": [
+            {
+              "name": "Evolexx",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-06-23T10:12:40Z",
+              "pushedAt": "2026-03-10T06:17:24Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 872910,
+                "CSS": 260119,
+                "HTML": 3217
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Evolexx"
+            },
+            {
+              "name": "Protfolio",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2026-02-11T07:37:30Z",
+              "pushedAt": "2026-02-11T07:39:32Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Protfolio"
+            },
+            {
+              "name": "Technical-Assignment",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-08-31T04:52:54Z",
+              "pushedAt": "2025-09-01T10:39:11Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Technical-Assignment"
+            },
+            {
+              "name": "Skillhub",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-03-27T09:07:03Z",
+              "pushedAt": "2025-06-14T13:17:00Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 2,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Skillhub"
+            },
+            {
+              "name": "Furni_Heaven",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-03-04T09:19:33Z",
+              "pushedAt": "2025-05-10T19:31:17Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 2,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Furni_Heaven"
+            },
+            {
+              "name": "Skillhub_Session",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-05-05T09:20:38Z",
+              "pushedAt": "2025-05-05T13:21:46Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Skillhub_Session"
+            },
+            {
+              "name": "portfolio",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-04-06T14:18:17Z",
+              "pushedAt": "2025-04-06T14:24:02Z",
+              "primaryLanguage": null,
+              "languages": {},
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/portfolio"
+            },
+            {
+              "name": "Assignment",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-03-18T13:28:33Z",
+              "pushedAt": "2025-03-18T21:12:46Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Assignment"
+            },
+            {
+              "name": "Student_Management",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-03-17T18:20:11Z",
+              "pushedAt": "2025-03-18T00:04:33Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Student_Management"
+            },
+            {
+              "name": "PAF",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2025-02-22T04:15:57Z",
+              "pushedAt": "2025-02-22T04:15:57Z",
+              "primaryLanguage": null,
+              "languages": {},
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/PAF"
+            },
+            {
+              "name": "Restaurant_Project",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2024-12-11T20:53:02Z",
+              "pushedAt": "2024-12-11T20:55:29Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/Restaurant_Project"
+            },
+            {
+              "name": "NotesSQLite_Project",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2024-12-11T20:30:09Z",
+              "pushedAt": "2024-12-11T20:34:03Z",
+              "primaryLanguage": "Kotlin",
+              "languages": {
+                "Kotlin": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/NotesSQLite_Project"
+            },
+            {
+              "name": "SkillSpark_Project",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2024-12-08T21:14:04Z",
+              "pushedAt": "2024-12-08T21:17:08Z",
+              "primaryLanguage": "PHP",
+              "languages": {
+                "PHP": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/SkillSpark_Project"
+            },
+            {
+              "name": "OnlineBanking_Project",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2024-12-08T21:06:52Z",
+              "pushedAt": "2024-12-08T21:09:24Z",
+              "primaryLanguage": "HTML",
+              "languages": {
+                "HTML": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/OnlineBanking_Project"
+            },
+            {
+              "name": "KandurataHardware_Project",
+              "description": "",
+              "isFork": false,
+              "createdAt": "2024-12-08T21:00:32Z",
+              "pushedAt": "2024-12-08T21:03:58Z",
+              "primaryLanguage": "JavaScript",
+              "languages": {
+                "JavaScript": 1000
+              },
+              "topics": [],
+              "stars": 0,
+              "forks": 0,
+              "dependencies": [],
+              "htmlUrl": "https://github.com/rahmimuaz/KandurataHardware_Project"
+            }
+          ],
+          "languagesAggregated": {
+            "JavaScript": 882910,
+            "CSS": 260119,
+            "HTML": 4217,
+            "Kotlin": 1000,
+            "PHP": 1000
+          },
+          "detectedDependencies": [],
+          "fetchedAt": "2026-08-28T12:40:42.147887+00:00"
+        },
+        "finalVerdict": {
+          "status": "This employee is suitable for our job.",
+          "verdictType": "SUITABLE",
+          "matchScore": 95,
+          "summaryComment": "rahmimuaz demonstrates strong practical competency for the Full Stack MERN Developer position. Independent cross-source verification confirmed active public GitHub code across 15 repositories, corroborating core technologies (React, Node.js, JavaScript, Git). Additional technologies (Express.js, MongoDB, REST API) align with private enterprise development patterns with zero timeline contradictions. Recommended to advance directly to technical competency interviewing.",
+          "matchedSkills": [
+            "React",
+            "Node.js",
+            "JavaScript",
+            "Git",
+            "Express.js (Private Experience)",
+            "MongoDB (Private Experience)",
+            "REST API (Private Experience)"
+          ],
+          "skillsToImprove": [
+            "TypeScript (Recommended Secondary Skill)",
+            "Docker (Recommended Secondary Skill)",
+            "AWS (Recommended Secondary Skill)"
+          ]
+        },
+        "verificationCounts": {
+          "supported": 4,
+          "partiallySupported": 0,
+          "insufficientEvidence": 3,
+          "potentialContradiction": 0,
+          "totalAuditedSkills": 10
+        },
+        "skillVerifications": [
+          {
+            "skillName": "React",
+            "canonical": "React",
+            "category": "Frontend",
+            "isRequired": true,
+            "importance": 1.0,
+            "inResume": true,
+            "claimedYears": null,
+            "resumeContexts": [
+              "system using the MERN stack (MongoDB, ExpessJS,  ReactJS, NodeJS)  \u2022 Designed and implemented a Delivery M"
+            ],
+            "githubEvidence": {
+              "hasEvidence": true,
+              "relevantProjectsCount": 10,
+              "relevantRepos": [
+                {
+                  "name": "Evolexx",
+                  "htmlUrl": "https://github.com/rahmimuaz/Evolexx",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Protfolio",
+                  "htmlUrl": "https://github.com/rahmimuaz/Protfolio",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Technical-Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Technical-Assignment",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Furni_Heaven",
+                  "htmlUrl": "https://github.com/rahmimuaz/Furni_Heaven",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub_Session",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub_Session",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Assignment",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Student_Management",
+                  "htmlUrl": "https://github.com/rahmimuaz/Student_Management",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Restaurant_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/Restaurant_Project",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "KandurataHardware_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/KandurataHardware_Project",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                }
+              ],
+              "temporalMetrics": {
+                "earliestActivity": "2024-12-08T21:00:32+00:00",
+                "latestActivity": "2026-03-10T06:17:24+00:00",
+                "daysSinceFirstActivity": 627,
+                "daysSinceLastActivity": 171,
+                "observedPublicYears": 1.72
+              }
+            },
+            "status": "SUPPORTED",
+            "confidence": 0.85,
+            "justification": "Public repository evidence confirms active usage spanning 2 Years (628 days) across 10 project(s)."
+          },
+          {
+            "skillName": "Node.js",
+            "canonical": "Node.js",
+            "category": "Backend",
+            "isRequired": true,
+            "importance": 1.0,
+            "inResume": true,
+            "claimedYears": null,
+            "resumeContexts": [
+              "sing the MERN stack (MongoDB, ExpessJS,  ReactJS, NodeJS)  \u2022 Designed and implemented a Delivery Managemen"
+            ],
+            "githubEvidence": {
+              "hasEvidence": true,
+              "relevantProjectsCount": 10,
+              "relevantRepos": [
+                {
+                  "name": "Evolexx",
+                  "htmlUrl": "https://github.com/rahmimuaz/Evolexx",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Protfolio",
+                  "htmlUrl": "https://github.com/rahmimuaz/Protfolio",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Technical-Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Technical-Assignment",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Furni_Heaven",
+                  "htmlUrl": "https://github.com/rahmimuaz/Furni_Heaven",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub_Session",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub_Session",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Assignment",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Student_Management",
+                  "htmlUrl": "https://github.com/rahmimuaz/Student_Management",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Restaurant_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/Restaurant_Project",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "KandurataHardware_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/KandurataHardware_Project",
+                  "description": "",
+                  "reasons": [
+                    "JavaScript / Node.js development codebase"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                }
+              ],
+              "temporalMetrics": {
+                "earliestActivity": "2024-12-08T21:00:32+00:00",
+                "latestActivity": "2026-03-10T06:17:24+00:00",
+                "daysSinceFirstActivity": 627,
+                "daysSinceLastActivity": 171,
+                "observedPublicYears": 1.72
+              }
+            },
+            "status": "SUPPORTED",
+            "confidence": 0.85,
+            "justification": "Public repository evidence confirms active usage spanning 2 Years (628 days) across 10 project(s)."
+          },
+          {
+            "skillName": "Express.js",
+            "canonical": "Express.js",
+            "category": "Backend",
+            "isRequired": true,
+            "importance": 0.9,
+            "inResume": true,
+            "claimedYears": null,
+            "resumeContexts": [
+              "ent, Chart.js for analytics.  \u2022 Backend: Node.js, Express.js, MongoDB, JWT authentication, Multer & Cloudinary",
+              "ents.  \u2022 Developed using the MERN stack (MongoDB, Express.js, React + Vite, Node.js) with a responsive and mod",
+              "velopment: Integration of REST API, JWT, Node.js, Express.js, Spring Boot, Spring Security, Java, PHP    Datab"
+            ],
+            "githubEvidence": {
+              "hasEvidence": false,
+              "relevantProjectsCount": 0,
+              "relevantRepos": [],
+              "temporalMetrics": {
+                "earliestActivity": null,
+                "latestActivity": null,
+                "daysSinceFirstActivity": 0,
+                "daysSinceLastActivity": 9999,
+                "observedPublicYears": 0.0
+              }
+            },
+            "status": "INSUFFICIENT_EVIDENCE",
+            "confidence": 0.65,
+            "justification": "Skill mentioned on resume without public GitHub artifact evidence."
+          },
+          {
+            "skillName": "MongoDB",
+            "canonical": "MongoDB",
+            "category": "Database",
+            "isRequired": true,
+            "importance": 0.9,
+            "inResume": true,
+            "claimedYears": null,
+            "resumeContexts": [
+              "s for analytics.  \u2022 Backend: Node.js, Express.js, MongoDB, JWT authentication, Multer & Cloudinary for medi",
+              "f an online hardware system using the MERN stack (MongoDB, ExpessJS,  ReactJS, NodeJS)  \u2022 Designed and impl",
+              "d and Spring Boot for the backend.  \u2022 Implemented MongoDB as the NoSQL database to store user data, learnin"
+            ],
+            "githubEvidence": {
+              "hasEvidence": false,
+              "relevantProjectsCount": 0,
+              "relevantRepos": [],
+              "temporalMetrics": {
+                "earliestActivity": null,
+                "latestActivity": null,
+                "daysSinceFirstActivity": 0,
+                "daysSinceLastActivity": 9999,
+                "observedPublicYears": 0.0
+              }
+            },
+            "status": "INSUFFICIENT_EVIDENCE",
+            "confidence": 0.65,
+            "justification": "Skill mentioned on resume without public GitHub artifact evidence."
+          },
+          {
+            "skillName": "JavaScript",
+            "canonical": "JavaScript",
+            "category": "Language",
+            "isRequired": true,
+            "importance": 1.0,
+            "inResume": true,
+            "claimedYears": null,
+            "resumeContexts": [
+              "Dashboard and Customer Portal.  \u2022 Frontend: React.js, Tailwind CSS, Context API for state management,",
+              "wind CSS, Context API for state management, Chart.js for analytics.  \u2022 Backend: Node.js, Express.js, M",
+              "agement, Chart.js for analytics.  \u2022 Backend: Node.js, Express.js, MongoDB, JWT authentication, Multer"
+            ],
+            "githubEvidence": {
+              "hasEvidence": true,
+              "relevantProjectsCount": 10,
+              "relevantRepos": [
+                {
+                  "name": "Evolexx",
+                  "htmlUrl": "https://github.com/rahmimuaz/Evolexx",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Protfolio",
+                  "htmlUrl": "https://github.com/rahmimuaz/Protfolio",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Technical-Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Technical-Assignment",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Furni_Heaven",
+                  "htmlUrl": "https://github.com/rahmimuaz/Furni_Heaven",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub_Session",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub_Session",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Assignment",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Student_Management",
+                  "htmlUrl": "https://github.com/rahmimuaz/Student_Management",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Restaurant_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/Restaurant_Project",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "KandurataHardware_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/KandurataHardware_Project",
+                  "description": "",
+                  "reasons": [
+                    "Repository contains JavaScript"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                }
+              ],
+              "temporalMetrics": {
+                "earliestActivity": "2024-12-08T21:00:32+00:00",
+                "latestActivity": "2026-03-10T06:17:24+00:00",
+                "daysSinceFirstActivity": 627,
+                "daysSinceLastActivity": 171,
+                "observedPublicYears": 1.72
+              }
+            },
+            "status": "SUPPORTED",
+            "confidence": 0.85,
+            "justification": "Public repository evidence confirms active usage spanning 2 Years (628 days) across 10 project(s)."
+          },
+          {
+            "skillName": "TypeScript",
+            "canonical": "TypeScript",
+            "category": "Language",
+            "isRequired": false,
+            "importance": 0.8,
+            "inResume": false,
+            "claimedYears": null,
+            "resumeContexts": [],
+            "githubEvidence": {
+              "hasEvidence": false,
+              "relevantProjectsCount": 0,
+              "relevantRepos": [],
+              "temporalMetrics": {
+                "earliestActivity": null,
+                "latestActivity": null,
+                "daysSinceFirstActivity": 0,
+                "daysSinceLastActivity": 9999,
+                "observedPublicYears": 0.0
+              }
+            },
+            "status": "NOT_DETECTED",
+            "confidence": 0.9,
+            "justification": "'TypeScript' was not detected in the resume text or in public GitHub repositories."
+          },
+          {
+            "skillName": "REST API",
+            "canonical": "REST API",
+            "category": "Architecture",
+            "isRequired": false,
+            "importance": 0.8,
+            "inResume": true,
+            "claimedYears": null,
+            "resumeContexts": [
+              "er data, learning plans, and progress.  \u2022 Created RESTful APIs to support CRUD operations, user filtering b"
+            ],
+            "githubEvidence": {
+              "hasEvidence": false,
+              "relevantProjectsCount": 0,
+              "relevantRepos": [],
+              "temporalMetrics": {
+                "earliestActivity": null,
+                "latestActivity": null,
+                "daysSinceFirstActivity": 0,
+                "daysSinceLastActivity": 9999,
+                "observedPublicYears": 0.0
+              }
+            },
+            "status": "INSUFFICIENT_EVIDENCE",
+            "confidence": 0.65,
+            "justification": "Skill mentioned on resume without public GitHub artifact evidence."
+          },
+          {
+            "skillName": "Docker",
+            "canonical": "Docker",
+            "category": "DevOps",
+            "isRequired": false,
+            "importance": 0.7,
+            "inResume": false,
+            "claimedYears": null,
+            "resumeContexts": [],
+            "githubEvidence": {
+              "hasEvidence": false,
+              "relevantProjectsCount": 0,
+              "relevantRepos": [],
+              "temporalMetrics": {
+                "earliestActivity": null,
+                "latestActivity": null,
+                "daysSinceFirstActivity": 0,
+                "daysSinceLastActivity": 9999,
+                "observedPublicYears": 0.0
+              }
+            },
+            "status": "NOT_DETECTED",
+            "confidence": 0.9,
+            "justification": "'Docker' was not detected in the resume text or in public GitHub repositories."
+          },
+          {
+            "skillName": "Git",
+            "canonical": "Git",
+            "category": "Tools",
+            "isRequired": false,
+            "importance": 0.7,
+            "inResume": true,
+            "claimedYears": null,
+            "resumeContexts": [
+              "mimuaz10@gmail.com \u00d7 linkedin.com/in/rahmi-muaz \u00d7 GitHub Account    Profile    I am a passionate and detai",
+              "tomer experience and efficient admin operations.  GitHub repo link: Evolexx.lk  Website link: Evolexx.lk",
+              "liveries efficiently and monitor order statuses.  GitHub repo link: KandurataHardware  Online Banking Syst"
+            ],
+            "githubEvidence": {
+              "hasEvidence": true,
+              "relevantProjectsCount": 15,
+              "relevantRepos": [
+                {
+                  "name": "Evolexx",
+                  "htmlUrl": "https://github.com/rahmimuaz/Evolexx",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Protfolio",
+                  "htmlUrl": "https://github.com/rahmimuaz/Protfolio",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Technical-Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Technical-Assignment",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Furni_Heaven",
+                  "htmlUrl": "https://github.com/rahmimuaz/Furni_Heaven",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Skillhub_Session",
+                  "htmlUrl": "https://github.com/rahmimuaz/Skillhub_Session",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "portfolio",
+                  "htmlUrl": "https://github.com/rahmimuaz/portfolio",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": null,
+                  "isFork": false
+                },
+                {
+                  "name": "Assignment",
+                  "htmlUrl": "https://github.com/rahmimuaz/Assignment",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "Student_Management",
+                  "htmlUrl": "https://github.com/rahmimuaz/Student_Management",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "PAF",
+                  "htmlUrl": "https://github.com/rahmimuaz/PAF",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": null,
+                  "isFork": false
+                },
+                {
+                  "name": "Restaurant_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/Restaurant_Project",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                },
+                {
+                  "name": "NotesSQLite_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/NotesSQLite_Project",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "Kotlin",
+                  "isFork": false
+                },
+                {
+                  "name": "SkillSpark_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/SkillSpark_Project",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "PHP",
+                  "isFork": false
+                },
+                {
+                  "name": "OnlineBanking_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/OnlineBanking_Project",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "HTML",
+                  "isFork": false
+                },
+                {
+                  "name": "KandurataHardware_Project",
+                  "htmlUrl": "https://github.com/rahmimuaz/KandurataHardware_Project",
+                  "description": "",
+                  "reasons": [
+                    "Active public Git version control repository"
+                  ],
+                  "stars": 0,
+                  "primaryLanguage": "JavaScript",
+                  "isFork": false
+                }
+              ],
+              "temporalMetrics": {
+                "earliestActivity": "2024-12-08T21:00:32+00:00",
+                "latestActivity": "2026-03-10T06:17:24+00:00",
+                "daysSinceFirstActivity": 627,
+                "daysSinceLastActivity": 171,
+                "observedPublicYears": 1.72
+              }
+            },
+            "status": "SUPPORTED",
+            "confidence": 0.85,
+            "justification": "Public repository evidence confirms active usage spanning 2 Years (628 days) across 15 project(s)."
+          },
+          {
+            "skillName": "AWS",
+            "canonical": "AWS",
+            "category": "Cloud",
+            "isRequired": false,
+            "importance": 0.6,
+            "inResume": false,
+            "claimedYears": null,
+            "resumeContexts": [],
+            "githubEvidence": {
+              "hasEvidence": false,
+              "relevantProjectsCount": 0,
+              "relevantRepos": [],
+              "temporalMetrics": {
+                "earliestActivity": null,
+                "latestActivity": null,
+                "daysSinceFirstActivity": 0,
+                "daysSinceLastActivity": 9999,
+                "observedPublicYears": 0.0
+              }
+            },
+            "status": "NOT_DETECTED",
+            "confidence": 0.9,
+            "justification": "'AWS' was not detected in the resume text or in public GitHub repositories."
+          }
+        ],
+        "projectVerifications": [
+          {
+            "projectName": "Evolexx \u2013 E-Commerce Platform (Client Project)",
+            "description": "Evolexx \u2013 E-Commerce Platform (Client Project)\nA full-stack e-commerce site built for a real-world client, featuring separate Admin Dashboard and Customer Portal.\n\u2022 Frontend: React.js, Tailwind CSS, Context API for state management, Chart.js for analytics.\n\u2022 Backend: Node.js, Express.js, MongoDB, JWT authentication, Multer & Cloudinary for media management,\nNodemailer for email notifications.\n\u2022 Developed role-based authentication with secure login and admin controls.\n\u2022 Implemented product, order, and user management with real-time updates.\n\u2022 Designed responsive UI for seamless customer experience and efficient admin operations.\nGitHub repo link: Evolexx.lk\nWebsite link: Evolexx.lk\nFull-stack CRUD for Delivery Management System for Kandurata Hardware\nA delivery management solution as part of an online hardware system using the MERN stack (MongoDB, ExpessJS,\nReactJS, NodeJS)\n\u2022 Designed and implemented a Delivery Management System to streamline driver management and order delivery\nprocesses.\n\u2022 Developed features to add, edit, and delete drivers, assign drivers to orders, and track delivery details in real time.\n\u2022 Built a user-friendly dashboard for logistics managers to manage deliveries efficiently and monitor order statuses.\nGitHub repo link: KandurataHardware\nOnline Banking System\nA secure and user-friendly web application developed to streamline banking operations and enhance account\nmanagement.\n\u2022 Implemented Login and Account Creation functionality, ensuring secure authentication and user registration.\n\u2022 Developed a Forgot Password feature with a password option key that triggers an OTP sent directly to the user\u2019s\nemail in real time for secure password recovery.\n\u2022 Built an Admin Dashboard to enable administrators to view and manage all user accounts effectively\nGitHub repo link: OnlineBanking\nSkill Hub \u2013 Learning Progress Tracker\nA full-stack application to help users track their learning progress using Spring Boot and React.\n\u2022 Developed a responsive web app using React for the frontend and Spring Boot for the backend.\n\u2022 Implemented MongoDB as the NoSQL database to store user data, learning plans, and progress.\n\u2022 Created RESTful APIs to support CRUD operations, user filtering by plan ID and user ID.\n\u2022 Included features for adding learning plans, marking progress, and managing session-based login.\n\u2022 Integrated both manual login and Google OAuth2 authentication using JWT tokens for secure access.\nGitHub repo link: SkillHub\nTo-Do Memo (Mobile Application)\nA task management app built with Android Studio and Kotlin, featuring customizable to-do lists, reminders, timers,\nnotifications, and a home screen widget for quick task access.\nGitHub repo link: NotesSQLite\nFull-stack web application FurniHeaven \u2013 AI-Powered Online Furniture Store\nE-commerce platform for discovering and purchasing furniture, with integrated AI capabilities to generate furniture ideas\nbased on user requirements.\n\u2022 Developed using the MERN stack (MongoDB, Express.js, React + Vite, Node.js) with a responsive and modern UI.\n\u2022 Built both admin and customer interfaces with JWT authentication for secure access control.\n\u2022 Admin features include adding/editing/deleting products, managing orders (approve/deny), and tracking\ninventory.\n\u2022 Integrated an AI-based recommendation tool that dynamically generates furniture suggestions based on users\u2019\npreferences and room requirements.\nGitHub repo link: Furni_Heaven",
+            "technologies": [
+              "React",
+              "Node.js",
+              "Express.js",
+              "MongoDB",
+              "JavaScript",
+              "REST API",
+              "Git",
+              "CSS3",
+              "Tailwind CSS",
+              "NoSQL"
+            ],
+            "status": "PARTIALLY_SUPPORTED",
+            "matchedRepository": "Evolexx",
+            "repositoryUrl": "https://github.com/rahmimuaz/Evolexx",
+            "justification": "Matched to public repository 'Evolexx'. Name match on 'evolexx'."
+          }
+        ],
+        "repositoryEngineeringEvidence": {
+          "behaviourScores": {
+            "repositoryQuality": 0,
+            "codingActivity": 76,
+            "collaborationScore": 72,
+            "openSourceContribution": 80,
+            "projectMaintenance": 75
+          },
+          "summary": {
+            "repositoriesAnalyzed": 15,
+            "relevantRepositories": 15,
+            "activeRepositories": 0,
+            "multiContributorRepositories": 0,
+            "repositoriesWithReleases": 0
+          },
+          "maintenance": {
+            "status": "STABLE",
+            "lastCommitDaysAgo": 171,
+            "medianAgeYears": 1.45,
+            "releaseActivity": "Continuous git commits (no formal release tags)",
+            "indicators": [
+              "Stable maintenance history; last updated 171 days ago.",
+              "Median repository age: 1.4 years across relevant projects.",
+              "Release status: Continuous git commits (no formal release tags)."
+            ]
+          },
+          "collaboration": {
+            "status": "SOLO_CONTRIBUTOR",
+            "totalContributors": 15,
+            "totalPulls": 0,
+            "totalIssues": 0,
+            "indicators": [
+              "Primarily independent developer contributions (15 contributors, 0 PRs).",
+              "Issue interaction volume: 0 issues tracked."
+            ]
+          },
+          "activityMaturity": {
+            "status": "EXPLORATORY",
+            "totalCommits": 0,
+            "totalForks": 4,
+            "totalStars": 0,
+            "indicators": [
+              "Initial/exploratory commit history (0 total commits).",
+              "Community engagement: 4 forks and 0 stars observed."
+            ]
+          },
+          "evidenceStrength": "LIMITED EVIDENCE",
+          "explanation": "rahmimuaz has 15 public repositories analyzed, with 15 relevant to the target technical profile. Engineering evidence indicates stable maintenance (most recent commit 171 days ago), solo contributor dynamics (15 contributors, 0 pull requests), and exploratory development with 0 commits. This observable repository evidence provides contextual corroboration for claimed skills but does not independently determine hiring suitability.",
+          "recruiterGuidance": "Repository Engineering Evidence does not determine candidate suitability on its own. It provides additional observable context about the public repositories used as technical evidence.",
+          "repositorySummaries": [
+            {
+              "repository": "Evolexx",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 431.1,
+              "repositoryAgeYears": 1.18,
+              "daysSinceLastCommit": 171.2,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "STABLE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "Protfolio",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 198.2,
+              "repositoryAgeYears": 0.54,
+              "daysSinceLastCommit": 198.2,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "STABLE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "Technical-Assignment",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 362.3,
+              "repositoryAgeYears": 0.99,
+              "daysSinceLastCommit": 361.1,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "STABLE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "Skillhub",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 519.1,
+              "repositoryAgeYears": 1.42,
+              "daysSinceLastCommit": 440.0,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 2,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "Furni_Heaven",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 542.1,
+              "repositoryAgeYears": 1.48,
+              "daysSinceLastCommit": 474.7,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 2,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "Skillhub_Session",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 480.1,
+              "repositoryAgeYears": 1.31,
+              "daysSinceLastCommit": 480.0,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "portfolio",
+              "language": "Not Specified",
+              "description": "",
+              "repositoryAgeDays": 508.9,
+              "repositoryAgeYears": 1.39,
+              "daysSinceLastCommit": 508.9,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": []
+            },
+            {
+              "repository": "Assignment",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 528.0,
+              "repositoryAgeYears": 1.45,
+              "daysSinceLastCommit": 527.6,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "Student_Management",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 528.7,
+              "repositoryAgeYears": 1.45,
+              "daysSinceLastCommit": 528.5,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "PAF",
+              "language": "Not Specified",
+              "description": "",
+              "repositoryAgeDays": 552.3,
+              "repositoryAgeYears": 1.51,
+              "daysSinceLastCommit": 552.3,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": []
+            },
+            {
+              "repository": "Restaurant_Project",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 624.6,
+              "repositoryAgeYears": 1.71,
+              "daysSinceLastCommit": 624.6,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            },
+            {
+              "repository": "NotesSQLite_Project",
+              "language": "Kotlin",
+              "description": "",
+              "repositoryAgeDays": 624.7,
+              "repositoryAgeYears": 1.71,
+              "daysSinceLastCommit": 624.7,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": []
+            },
+            {
+              "repository": "SkillSpark_Project",
+              "language": "PHP",
+              "description": "",
+              "repositoryAgeDays": 627.6,
+              "repositoryAgeYears": 1.72,
+              "daysSinceLastCommit": 627.6,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": []
+            },
+            {
+              "repository": "OnlineBanking_Project",
+              "language": "HTML",
+              "description": "",
+              "repositoryAgeDays": 627.6,
+              "repositoryAgeYears": 1.72,
+              "daysSinceLastCommit": 627.6,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": []
+            },
+            {
+              "repository": "KandurataHardware_Project",
+              "language": "JavaScript",
+              "description": "",
+              "repositoryAgeDays": 627.6,
+              "repositoryAgeYears": 1.72,
+              "daysSinceLastCommit": 627.6,
+              "daysSinceLastRelease": null,
+              "hasRelease": false,
+              "contributors": 1,
+              "pulls": 0,
+              "commits": 0,
+              "issues": 0,
+              "forks": 0,
+              "stars": 0,
+              "hasReadme": false,
+              "hasDescription": false,
+              "hasLicense": false,
+              "licenseName": "None",
+              "topics": [],
+              "dependencies": [],
+              "maintenanceStatus": "INACTIVE",
+              "collaborationStatus": "SOLO_CONTRIBUTOR",
+              "activityStatus": "EXPLORATORY",
+              "relevance": [
+                "JavaScript"
+              ]
+            }
+          ]
+        },
+        "overallAssessment": {
+          "profileStatus": "PARTIALLY_CORROBORATED_PROFILE",
+          "explanation": "Key technical skills are demonstrated in public repositories, with additional claims requiring commercial verification.",
+          "recommendedHRAction": "PROCEED_TO_INTERVIEW",
+          "coreRequirementsCoverage": {
+            "totalRequired": 5,
+            "supported": 3,
+            "partiallySupported": 0,
+            "insufficientPublicEvidence": 2,
+            "potentialContradictions": 0
+          }
+        },
+        "hrDecisionSupport": [
+          {
+            "action": "Proceed to Technical Interview",
+            "recommended": true,
+            "rationale": "Sufficient technical evidence exists to proceed with competency-focused interviewing."
+          },
+          {
+            "action": "Request Additional Portfolio / Code Samples",
+            "recommended": false,
+            "rationale": "Key skills lack public repositories (common for enterprise developers with private repos)."
+          },
+          {
+            "action": "Request Clarification on Experience Timeline",
+            "recommended": false,
+            "rationale": "Investigate identified timeline boundaries or unsupported tenure assertions."
+          },
+          {
+            "action": "Shortlist Candidate",
+            "recommended": false,
+            "rationale": "Advance candidate directly to hiring manager review."
+          },
+          {
+            "action": "Reject Candidate",
+            "recommended": false,
+            "rationale": "Candidate does not meet core role requirements."
+          }
+        ],
+        "linkedinData": {
+          "linkedin_url": "https://www.linkedin.com/in/rahmi-muaz/",
+          "profile_pic_url": "https://avatars.githubusercontent.com/u/123501001?v=4",
+          "current_role": {
+            "title": "Full Stack MERN Developer",
+            "company": "Evolexx / Software Solutions",
+            "location": "Mawanella, Sri Lanka",
+            "is_current": true
+          },
+          "certifications": [
+            {
+              "name": "Full-Stack Web Development with React & Node.js",
+              "authority": "Coursera / Meta",
+              "url": "https://coursera.org",
+              "year": 2024
+            },
+            {
+              "name": "Certified JavaScript & Web Development Specialist",
+              "authority": "HackerRank",
+              "url": "https://hackerrank.com",
+              "year": 2023
+            },
+            {
+              "name": "MongoDB Certified Associate Developer",
+              "authority": "MongoDB University",
+              "url": "https://university.mongodb.com",
+              "year": 2024
+            }
+          ],
+          "source": "verified_profile",
+          "status": "SUCCESS"
+        },
+        "interviewProbes": [
+          {
+            "skill": "React",
+            "category": "Deep Technical Architecture",
+            "question": "Given your verified solid years of public React repositories, what design patterns do you prefer for large-scale codebases?",
+            "goal": "Validate senior-level architectural design capabilities."
+          },
+          {
+            "skill": "Node.js",
+            "category": "Deep Technical Architecture",
+            "question": "Given your verified solid years of public Node.js repositories, what design patterns do you prefer for large-scale codebases?",
+            "goal": "Validate senior-level architectural design capabilities."
+          },
+          {
+            "skill": "Express.js",
+            "category": "Private Enterprise Experience Validation",
+            "question": "Can you walk us through a production project at your previous employer where you architected with Express.js?",
+            "goal": "Verify commercial application depth for proprietary skills not visible on public GitHub."
+          },
+          {
+            "skill": "MongoDB",
+            "category": "Private Enterprise Experience Validation",
+            "question": "Can you walk us through a production project at your previous employer where you architected with MongoDB?",
+            "goal": "Verify commercial application depth for proprietary skills not visible on public GitHub."
+          },
+          {
+            "skill": "JavaScript",
+            "category": "Deep Technical Architecture",
+            "question": "Given your verified solid years of public JavaScript repositories, what design patterns do you prefer for large-scale codebases?",
+            "goal": "Validate senior-level architectural design capabilities."
+          },
+          {
+            "skill": "REST API",
+            "category": "Private Enterprise Experience Validation",
+            "question": "Can you walk us through a production project at your previous employer where you architected with REST API?",
+            "goal": "Verify commercial application depth for proprietary skills not visible on public GitHub."
+          },
+          {
+            "skill": "Git",
+            "category": "Deep Technical Architecture",
+            "question": "Given your verified solid years of public Git repositories, what design patterns do you prefer for large-scale codebases?",
+            "goal": "Validate senior-level architectural design capabilities."
+          }
+        ]
+      },
+      "hrDecision": null
+    }
+  },
+  "custom_roles": {}
+}

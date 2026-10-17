@@ -1,0 +1,13 @@
+{
+    "model_file": "phase3_psycap_selected_model.pkl",
+    "model_sha256": "0c4a34ac295551adc7d44ec9993c8fae2bf1b58d41e11ec17873215fdb9ced4c",
+    "prediction_reload_check": true,
+    "features": [
+        "Hope_avg",
+        "Optimism_avg",
+        "Resilience_avg",
+        "SelfEfficacy_avg"
+    ],
+    "target": "EVS_avg",
+    "model_status": "FROZEN"
+}

@@ -1,0 +1,6 @@
+Fold,R2,MAE,RMSE,Best Params
+1,0.859053789504784,0.24793267590659004,0.35624007427970567,"{""subsample"": 0.9, ""reg_lambda"": 2, ""reg_alpha"": 0.3, ""n_estimators"": 500, ""min_child_weight"": 8, ""max_depth"": 2, ""learning_rate"": 0.01, ""colsample_bytree"": 1.0}"
+2,0.8996663411476732,0.2300392296849465,0.29918042620775626,"{""subsample"": 0.7, ""reg_lambda"": 0.5, ""reg_alpha"": 0.0, ""n_estimators"": 500, ""min_child_weight"": 4, ""max_depth"": 4, ""learning_rate"": 0.01, ""colsample_bytree"": 0.5}"
+3,0.8692451181081117,0.2239261028717975,0.3300760080692434,"{""subsample"": 0.7, ""reg_lambda"": 1, ""reg_alpha"": 0.01, ""n_estimators"": 500, ""min_child_weight"": 6, ""max_depth"": 3, ""learning_rate"": 0.01, ""colsample_bytree"": 0.5}"
+4,0.8894343106502494,0.22044988846292302,0.29315684387346597,"{""subsample"": 0.7, ""reg_lambda"": 1, ""reg_alpha"": 0.01, ""n_estimators"": 500, ""min_child_weight"": 6, ""max_depth"": 3, ""learning_rate"": 0.01, ""colsample_bytree"": 0.5}"
+5,0.8904192339798643,0.22860421167045344,0.302978578060512,"{""subsample"": 0.6, ""reg_lambda"": 4, ""reg_alpha"": 0.01, ""n_estimators"": 400, ""min_child_weight"": 8, ""max_depth"": 2, ""learning_rate"": 0.01, ""colsample_bytree"": 0.5}"

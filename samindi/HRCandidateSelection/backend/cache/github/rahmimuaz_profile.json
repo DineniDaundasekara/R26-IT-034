@@ -1,0 +1,260 @@
+{
+  "exists": true,
+  "username": "rahmimuaz",
+  "name": "Rahmi Muaz",
+  "bio": "",
+  "company": null,
+  "location": null,
+  "publicReposCount": 15,
+  "followers": 1,
+  "accountCreatedAt": "2023-01-24T18:57:19Z",
+  "repositories": [
+    {
+      "name": "Evolexx",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-06-23T10:12:40Z",
+      "pushedAt": "2026-03-10T06:17:24Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 872910,
+        "CSS": 260119,
+        "HTML": 3217
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Evolexx"
+    },
+    {
+      "name": "Protfolio",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2026-02-11T07:37:30Z",
+      "pushedAt": "2026-02-11T07:39:32Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Protfolio"
+    },
+    {
+      "name": "Technical-Assignment",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-08-31T04:52:54Z",
+      "pushedAt": "2025-09-01T10:39:11Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Technical-Assignment"
+    },
+    {
+      "name": "Skillhub",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-03-27T09:07:03Z",
+      "pushedAt": "2025-06-14T13:17:00Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 2,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Skillhub"
+    },
+    {
+      "name": "Furni_Heaven",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-03-04T09:19:33Z",
+      "pushedAt": "2025-05-10T19:31:17Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 2,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Furni_Heaven"
+    },
+    {
+      "name": "Skillhub_Session",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-05-05T09:20:38Z",
+      "pushedAt": "2025-05-05T13:21:46Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Skillhub_Session"
+    },
+    {
+      "name": "portfolio",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-04-06T14:18:17Z",
+      "pushedAt": "2025-04-06T14:24:02Z",
+      "primaryLanguage": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/portfolio"
+    },
+    {
+      "name": "Assignment",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-03-18T13:28:33Z",
+      "pushedAt": "2025-03-18T21:12:46Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Assignment"
+    },
+    {
+      "name": "Student_Management",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-03-17T18:20:11Z",
+      "pushedAt": "2025-03-18T00:04:33Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Student_Management"
+    },
+    {
+      "name": "PAF",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2025-02-22T04:15:57Z",
+      "pushedAt": "2025-02-22T04:15:57Z",
+      "primaryLanguage": null,
+      "languages": {},
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/PAF"
+    },
+    {
+      "name": "Restaurant_Project",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2024-12-11T20:53:02Z",
+      "pushedAt": "2024-12-11T20:55:29Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/Restaurant_Project"
+    },
+    {
+      "name": "NotesSQLite_Project",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2024-12-11T20:30:09Z",
+      "pushedAt": "2024-12-11T20:34:03Z",
+      "primaryLanguage": "Kotlin",
+      "languages": {
+        "Kotlin": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/NotesSQLite_Project"
+    },
+    {
+      "name": "SkillSpark_Project",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2024-12-08T21:14:04Z",
+      "pushedAt": "2024-12-08T21:17:08Z",
+      "primaryLanguage": "PHP",
+      "languages": {
+        "PHP": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/SkillSpark_Project"
+    },
+    {
+      "name": "OnlineBanking_Project",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2024-12-08T21:06:52Z",
+      "pushedAt": "2024-12-08T21:09:24Z",
+      "primaryLanguage": "HTML",
+      "languages": {
+        "HTML": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/OnlineBanking_Project"
+    },
+    {
+      "name": "KandurataHardware_Project",
+      "description": "",
+      "isFork": false,
+      "createdAt": "2024-12-08T21:00:32Z",
+      "pushedAt": "2024-12-08T21:03:58Z",
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 1000
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "dependencies": [],
+      "htmlUrl": "https://github.com/rahmimuaz/KandurataHardware_Project"
+    }
+  ],
+  "languagesAggregated": {
+    "JavaScript": 882910,
+    "CSS": 260119,
+    "HTML": 4217,
+    "Kotlin": 1000,
+    "PHP": 1000
+  },
+  "detectedDependencies": [],
+  "fetchedAt": "2026-08-28T12:40:42.147887+00:00"
+}

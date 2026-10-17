@@ -1,0 +1,5 @@
+Artifact,Path,Exists
+Final Model,d:\internship-employability-project\models\phase2\phase2_competence_final_model.pkl,True
+Model Metadata,d:\internship-employability-project\models\phase2\phase2_competence_model_metadata.json,True
+Freeze Manifest,d:\internship-employability-project\models\phase2\phase2_competence_freeze_manifest.json,True
+Reference Predictions,d:\internship-employability-project\reports\phase2\final_validation\Reference_Predictions.csv,True

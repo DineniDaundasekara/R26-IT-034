@@ -1,0 +1,32 @@
+{
+    "prediction": {
+        "EVS_avg": 4.0226
+    },
+    "competence_scores": {
+        "LifeCareer_avg": 3.8,
+        "LearningInnovation_avg": 3.2,
+        "ITMedia_avg": 4.3
+    },
+    "shap_explanation": {
+        "LifeCareer_avg": 0.002202,
+        "LearningInnovation_avg": -0.178626,
+        "ITMedia_avg": 0.138226
+    },
+    "strengths": [
+        "IT & Media Skills (score=4.30, level=Strong, SHAP=0.1382 — increases prediction)",
+        "Life & Career Skills (score=3.80, level=Developing, SHAP=0.0022 — increases prediction)"
+    ],
+    "areas_for_improvement": [
+        "Learning & Innovation Skills (score=3.20, level=Developing, SHAP=-0.1786 — decreases prediction)"
+    ],
+    "recommendations": [
+        "Prioritize targeted practice to raise Learning & Innovation Skills: schedule regular short learning sessions, try one new problem-solving or idea-generation technique each week, and keep brief notes on what worked.",
+        "Leverage your IT & Media Skills strength to support learning: use digital tools to prototype ideas, record short demonstrations of new methods, and maintain a simple digital log of experiments and outcomes.",
+        "Use Life & Career Skills to structure progress: set 1–2 clear, time-bound learning objectives related to innovation (aligned with your work or projects), review progress monthly, and adjust approaches based on what you document."
+    ],
+    "activities": [
+        "Run a small applied project that combines IT & Media work with a new learning technique (e.g., create a short tutorial, prototype, or micro-portfolio item) and write a one-page reflection on what you learned and what you would change.",
+        "Join or form a short peer-feedback cycle (weekly or biweekly) where you present one innovation experiment or learning attempt and gather constructive feedback; iterate on the approach for the next session."
+    ],
+    "recommendation_source": "openai_api"
+}

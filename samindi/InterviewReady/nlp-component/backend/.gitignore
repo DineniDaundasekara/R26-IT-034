@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+temp/*
+data/training_audio/*
+data/processed/*
+!data/training_audio/PUT_AUDIO_FILES_HERE.txt
+!data/processed/.gitkeep

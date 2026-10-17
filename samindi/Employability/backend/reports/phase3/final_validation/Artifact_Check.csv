@@ -1,0 +1,6 @@
+Artifact,Path,Exists
+Final_Model,d:\internship-employability-project\models\phase3\phase3_psycap_selected_model.pkl,True
+Model_Metadata,d:\internship-employability-project\models\phase3\phase3_psycap_model_metadata.json,True
+Feature_Schema,d:\internship-employability-project\models\phase3\phase3_psycap_feature_schema.json,True
+Reference_Predictions,d:\internship-employability-project\models\phase3\phase3_psycap_reference_predictions.csv,True
+Tuned_Hyperparameters,d:\internship-employability-project\models\phase3\phase3_tuned_hyperparameters.json,True

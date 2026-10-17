@@ -1,0 +1,13 @@
+{
+    "model_file": "phase2_competence_final_model.pkl",
+    "model_sha256": "548c4f8a564ef87a0599cca7b23eaa76a12bf75cd58ab7c78faa7e4378c32b5e",
+    "prediction_reload_check": true,
+    "maximum_reload_prediction_difference": 0.0,
+    "features": [
+        "LifeCareer_avg",
+        "LearningInnovation_avg",
+        "ITMedia_avg"
+    ],
+    "target": "EVS_avg",
+    "model_status": "FROZEN"
+}

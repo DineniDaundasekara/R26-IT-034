@@ -1,0 +1,51 @@
+{
+    "phase": "Phase 03",
+    "model_name": "ElasticNet",
+    "model_purpose": "Psychological Capital to Employability prediction",
+    "pipeline": [
+        "StandardScaler",
+        "ElasticNet"
+    ],
+    "features": [
+        "Hope_avg",
+        "Optimism_avg",
+        "Resilience_avg",
+        "SelfEfficacy_avg"
+    ],
+    "target": "EVS_avg",
+    "test_size": 0.2,
+    "random_state": 42,
+    "dataset_rows": 1500,
+    "training_rows": 1200,
+    "testing_rows": 300,
+    "raw_source": "phase03_psycap_new.csv",
+    "selection_method": "Nested cross-validation supported by repeated cross-validation",
+    "nested_cv_mean_r2": 0.9330171563907308,
+    "nested_cv_mae": 0.16741859847113044,
+    "nested_cv_rmse": 0.24553346037757487,
+    "repeated_cv_mean_r2": 0.9326259132341235,
+    "cv_mean_mae": 0.17766191642493923,
+    "cv_mean_rmse": 0.2714471958804356,
+    "train_validation_gap": 0.019520525176854986,
+    "metrics": {
+        "train_r2": 0.9374405357764616,
+        "test_r2": 0.9179200105996066,
+        "mae": 0.17766191642493923,
+        "rmse": 0.2714471958804356,
+        "mape_percent": 6.121314843367839,
+        "train_test_r2_gap": 0.019520525176854986,
+        "nested_cv_mean_r2": 0.9330171563907308,
+        "nested_cv_mae": 0.16741859847113044,
+        "nested_cv_rmse": 0.24553346037757487,
+        "repeated_cv_mean_r2": 0.9326259132341235
+    },
+    "model_sha256": "0c4a34ac295551adc7d44ec9993c8fae2bf1b58d41e11ec17873215fdb9ced4c",
+    "prediction_range_validation": {
+        "Minimum_Prediction": 1.0749244656985555,
+        "Maximum_Prediction": 4.802576686604404,
+        "Predictions_Below_1": 0,
+        "Predictions_Above_5": 0
+    },
+    "status": "FROZEN",
+    "retraining_policy": "Do not retrain in Steps 09-12. Load this exact fitted artifact."
+}

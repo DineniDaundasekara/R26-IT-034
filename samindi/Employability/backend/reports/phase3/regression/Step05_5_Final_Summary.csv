@@ -1,0 +1,8 @@
+Check,Status
+Repeated cross-validation completed,PASS
+Train/test distributions compared,PASS
+KS distribution tests completed,PASS
+Cook's Distance reviewed,PASS
+Leverage reviewed,PASS
+Studentized residuals reviewed,PASS
+Robust regression sensitivity completed,PASS

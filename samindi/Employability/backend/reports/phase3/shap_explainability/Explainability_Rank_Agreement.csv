@@ -1,0 +1,4 @@
+Comparison,Spearman_Rho,Spearman_P,Kendall_Tau,Kendall_P
+SHAP vs Coefficient,1.0,0.0,1.0,0.08333333333333333
+SHAP vs Permutation,1.0,0.0,1.0,0.08333333333333333
+Coefficient vs Permutation,1.0,0.0,1.0,0.08333333333333333

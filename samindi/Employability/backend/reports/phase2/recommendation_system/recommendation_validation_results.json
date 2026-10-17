@@ -1,0 +1,53 @@
+[
+    {
+        "profile": "High Competence Profile",
+        "predicted_evs_avg": 4.4647,
+        "strongest_construct": "Life & Career Skills",
+        "weakest_construct": "Learning & Innovation Skills",
+        "top_strengths": [
+            "Adaptability to changing situations (5.0/5)",
+            "Leadership ability (5.0/5)",
+            "Communication and collaboration (5.0/5)"
+        ],
+        "improvement_areas": [
+            "Project planning and execution (4.0/5)",
+            "Creativity and innovation (4.0/5)",
+            "Information access and evaluation (4.0/5)"
+        ],
+        "source": "openai_api"
+    },
+    {
+        "profile": "Mixed Competence Profile",
+        "predicted_evs_avg": 3.9997,
+        "strongest_construct": "IT & Media Skills",
+        "weakest_construct": "Learning & Innovation Skills",
+        "top_strengths": [
+            "Media communication skills (5.0/5)",
+            "Information access and evaluation (4.0/5)",
+            "Communication with diverse team members (4.0/5)"
+        ],
+        "improvement_areas": [
+            "Project planning and execution (3.0/5)",
+            "Leadership ability (3.0/5)",
+            "Reasoning and decision-making (3.0/5)"
+        ],
+        "source": "openai_api"
+    },
+    {
+        "profile": "Development Needed Profile",
+        "predicted_evs_avg": 3.0623,
+        "strongest_construct": "Life & Career Skills",
+        "weakest_construct": "Learning & Innovation Skills",
+        "top_strengths": [
+            "Communication with diverse team members (3.0/5)",
+            "Adaptability to changing situations (3.0/5)",
+            "Communication and collaboration (3.0/5)"
+        ],
+        "improvement_areas": [
+            "Project planning and execution (2.0/5)",
+            "Reasoning and decision-making (2.0/5)",
+            "Creativity and innovation (2.0/5)"
+        ],
+        "source": "openai_api"
+    }
+]

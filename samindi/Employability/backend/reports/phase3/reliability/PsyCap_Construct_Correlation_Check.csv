@@ -1,0 +1,7 @@
+Construct_1,Construct_2,Correlation,Potential_Redundancy
+Hope_avg,Optimism_avg,0.6866067507925632,OK
+Hope_avg,Resilience_avg,0.6014525143508805,OK
+Hope_avg,SelfEfficacy_avg,0.6527455090795264,OK
+Optimism_avg,Resilience_avg,0.6935649198286385,OK
+Optimism_avg,SelfEfficacy_avg,0.6882722530705428,OK
+Resilience_avg,SelfEfficacy_avg,0.6863974578652055,OK

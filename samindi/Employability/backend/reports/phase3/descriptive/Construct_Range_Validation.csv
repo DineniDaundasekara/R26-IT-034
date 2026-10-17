@@ -1,0 +1,12 @@
+Construct,Minimum,Maximum,Within_1_to_5
+Hope_avg,1.0,5.0,True
+Optimism_avg,1.0,5.0,True
+Resilience_avg,1.3333333333333333,5.0,True
+SelfEfficacy_avg,1.3333333333333333,5.0,True
+PsyCap_avg,1.3333333333333333,5.0,True
+HumanCapital_avg,1.0,5.0,True
+SocialCapital_avg,1.0,5.0,True
+CareerIdentity_avg,1.0,5.0,True
+EnvironmentalMonitoring_avg,1.0,5.0,True
+Balance_avg,1.0,5.0,True
+EVS_avg,1.0,5.0,True

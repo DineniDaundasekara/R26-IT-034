@@ -1,0 +1,2 @@
+case_id,target_role,cv_text,job_text,gold_job_skills,gold_matched_skills,gold_missing_skills
+EXAMPLE_001,Software Engineer,"Java React Git MySQL academic project","Qualifications: Java, Spring Boot, Git, Docker and REST API","Java;Spring Boot;Git;Docker;REST API","Java;Git","Spring Boot;Docker;REST API"

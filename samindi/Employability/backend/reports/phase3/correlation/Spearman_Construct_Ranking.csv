@@ -1,0 +1,5 @@
+Construct,Pearson_r,Pearson_p,Pearson_Interpretation,Spearman_rho,Spearman_p,Spearman_Interpretation,Spearman_Rank
+SelfEfficacy_avg,0.7211670264534584,2.7940679334017906e-161,Strong,0.6982739683321565,4.554400109092616e-147,Moderate to Strong,1
+Resilience_avg,0.6890974502163258,9.609979599599222e-142,Moderate to Strong,0.6184215329593465,1.4366828423462675e-106,Moderate to Strong,2
+Optimism_avg,0.6275212916082099,1.365869205010796e-110,Moderate to Strong,0.5683707991210483,1.2472464431548625e-86,Moderate to Strong,3
+Hope_avg,0.5763379528318188,1.4141558421871456e-89,Moderate to Strong,0.555604423145467,4.4803579985458353e-82,Moderate to Strong,4

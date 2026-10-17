@@ -1,0 +1,9 @@
+Correlation_Check,Status
+Required variables available,PASS
+No missing correlation values,PASS
+Pearson analysis completed,PASS
+Spearman analysis completed,PASS
+Construct-level correlations calculated,PASS
+Correlation matrices generated,PASS
+Bootstrap confidence intervals calculated,PASS
+Hypothesis evaluated,PASS

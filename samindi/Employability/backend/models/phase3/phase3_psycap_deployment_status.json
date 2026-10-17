@@ -1,0 +1,25 @@
+{
+    "phase": "Phase 03",
+    "component": "Psychological Capital -> Employability",
+    "final_model": "ElasticNet",
+    "status": "DEPLOYMENT_READY",
+    "model_artifact": "d:\\internship-employability-project\\models\\phase3\\phase3_psycap_selected_model.pkl",
+    "freeze_manifest": "d:\\internship-employability-project\\models\\phase3\\phase3_psycap_freeze_manifest.json",
+    "feature_order": [
+        "Hope_avg",
+        "Optimism_avg",
+        "Resilience_avg",
+        "SelfEfficacy_avg"
+    ],
+    "target": "EVS_avg",
+    "nested_cv_mean_r2": 0.5738755514921652,
+    "repeated_cv_mean_r2": 0.5742591561560839,
+    "train_validation_gap": 0.021995425253030332,
+    "retraining_allowed": false,
+    "recommendation_format": [
+        "Predicted Employability",
+        "Strengths",
+        "Development Areas",
+        "Recommendations"
+    ]
+}

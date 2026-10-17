@@ -1,0 +1,75 @@
+{
+    "features": [
+        "Clear_Objectives",
+        "School_Support",
+        "Workplace_Environment",
+        "Career_Development"
+    ],
+    "small_shap_threshold": 0.046142299875814925,
+    "large_shap_threshold": 0.08626993357205547,
+    "maximum_priority_constructs": 2,
+    "construct_score_rules": {
+        "Low": "< 3.0",
+        "Moderate": "3.0 to < 4.0",
+        "High": ">= 4.0"
+    },
+    "recommendations": {
+        "Clear_Objectives": [
+            {
+                "id": "CO_R1",
+                "text": "Discuss internship goals and expected outcomes with the supervisor."
+            },
+            {
+                "id": "CO_R2",
+                "text": "Break assigned tasks into clear weekly objectives."
+            },
+            {
+                "id": "CO_R3",
+                "text": "Request clarification when tasks or performance expectations are unclear."
+            }
+        ],
+        "School_Support": [
+            {
+                "id": "SS_R1",
+                "text": "Schedule regular discussions with the academic internship supervisor."
+            },
+            {
+                "id": "SS_R2",
+                "text": "Use available institutional career and internship support services."
+            },
+            {
+                "id": "SS_R3",
+                "text": "Request guidance on internship assignments and workplace challenges."
+            }
+        ],
+        "Workplace_Environment": [
+            {
+                "id": "WE_R1",
+                "text": "Request regular and constructive feedback from the workplace supervisor."
+            },
+            {
+                "id": "WE_R2",
+                "text": "Seek opportunities to collaborate with experienced professionals."
+            },
+            {
+                "id": "WE_R3",
+                "text": "Discuss workplace support needs through the appropriate supervision channel."
+            }
+        ],
+        "Career_Development": [
+            {
+                "id": "CD_R1",
+                "text": "Participate in challenging projects that build industry-relevant experience."
+            },
+            {
+                "id": "CD_R2",
+                "text": "Seek networking, mentoring, and professional development opportunities."
+            },
+            {
+                "id": "CD_R3",
+                "text": "Document achievements and skills gained during the internship."
+            }
+        ]
+    },
+    "method": "Hybrid Construct Score + Local SHAP Recommendation System"
+}

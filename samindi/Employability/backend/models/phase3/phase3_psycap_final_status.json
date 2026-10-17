@@ -1,0 +1,5 @@
+{
+    "status": "FROZEN",
+    "model": "ElasticNet",
+    "nested_oof_r2": 0.9330171563907308
+}

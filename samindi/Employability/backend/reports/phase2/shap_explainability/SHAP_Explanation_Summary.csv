@@ -1,0 +1,4 @@
+Feature,Mean_Absolute_SHAP,Standardized_Coefficient,Direction
+ITMedia_avg,0.08092050057748092,0.12154085820735322,Positive
+LifeCareer_avg,0.06706891076827821,0.08766838973172231,Positive
+LearningInnovation_avg,0.04995813951314878,0.08290697102116329,Positive

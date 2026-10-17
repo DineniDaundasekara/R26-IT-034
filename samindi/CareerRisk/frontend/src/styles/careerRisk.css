@@ -1,0 +1,1211 @@
+/* Scoped styles for the Career Risk Analysis view. Auto-scoped under .career-risk-view to avoid clashing with the rest of the app. */
+
+.career-risk-view {
+  --ink: #1a2438;
+  --muted: #6b778f;
+  --line: #e6ebf5;
+  --blue: #3b6ff5;
+  --blue-soft: #eaf0ff;
+  --purple: #7b6cf6;
+  --purple-soft: #f0edff;
+  --cyan: #2f9bb5;
+  --bg: #f4f6fb;
+  --card: #ffffff;
+  --shadow: 0 10px 30px rgba(35, 56, 110, 0.08);
+  --radius: 18px;
+  --font: Inter, system-ui, sans-serif;
+}
+
+.career-risk-view * {
+  box-sizing: border-box;
+}
+
+.career-risk-view button,
+.career-risk-view select,
+.career-risk-view input {
+  font: inherit;
+}
+
+.career-risk-view .app-shell {
+  min-height: 100vh;
+}
+
+.career-risk-view .hero-band {
+  background: linear-gradient(90deg, #eef2fb 0%, #f6f4fb 42%, #f8f3f6 100%);
+  padding: 42px 20px 36px;
+}
+
+.career-risk-view .hero {
+  display: block;
+  max-width: 980px;
+  margin: 0 auto;
+  text-align: center;
+  gap: 0;
+  align-items: normal;
+}
+
+.career-risk-view .eyebrow {
+  margin: 0 0 12px;
+  color: #2d4a8f;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.career-risk-view .hero h1 {
+  margin: 0 auto;
+  max-width: 920px;
+  font-size: clamp(1.85rem, 4.2vw, 3rem);
+  line-height: 1.18;
+  font-weight: 800;
+  background: linear-gradient(90deg, #3d6ef5 0%, #6b63f0 55%, #8a6ad8 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.career-risk-view .hero-subtitle {
+  margin: 14px auto 0;
+  max-width: 720px;
+  color: #6b7285;
+  font-size: 1.08rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.career-risk-view .hero-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.career-risk-view .hero-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 7px 14px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #3d5cb0;
+  background: #eef3ff;
+  border: 1px solid #cddaf8;
+}
+
+.career-risk-view .hero-copy {
+  max-width: 720px;
+  margin: 16px auto 0;
+  color: #6d768a;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+}
+
+.career-risk-view .page,
+.career-risk-view .app-footer {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.career-risk-view .page {
+  padding: 22px 20px 36px;
+  display: grid;
+  gap: 18px;
+}
+
+.career-risk-view .round-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.career-risk-view .round-icon.tone-blue {
+  color: var(--blue);
+  background: var(--blue-soft);
+}
+
+.career-risk-view .round-icon.tone-purple {
+  color: var(--purple);
+  background: var(--purple-soft);
+}
+
+.career-risk-view .ui-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 11px;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: #4a5a7a;
+}
+
+.career-risk-view .ui-badge.tone-blue {
+  background: var(--blue-soft);
+  color: #2d55c8;
+  border-color: #d5e0ff;
+}
+
+.career-risk-view .ui-badge.tone-purple {
+  background: var(--purple-soft);
+  color: #5d4fd4;
+  border-color: #ddd7ff;
+}
+
+.career-risk-view .ui-badge.tone-cyan {
+  background: #e8f8fb;
+  color: #1d7e93;
+  border-color: #bfe8f0;
+}
+
+.career-risk-view .ui-badge.tone-teal {
+  background: #e8f7f2;
+  color: #0f766e;
+  border-color: #bfe8dc;
+}
+
+.career-risk-view .ui-badge.tone-high {
+  background: #fff1f0;
+  color: #b42318;
+  border-color: #f3c6c2;
+}
+
+.career-risk-view .ui-badge.tone-medium {
+  background: #fff7e8;
+  color: #9a6700;
+  border-color: #f0d7a3;
+}
+
+.career-risk-view .ui-badge.tone-low {
+  background: #eefaf3;
+  color: #067647;
+  border-color: #b7e4c7;
+}
+
+.career-risk-view .ui-badge.tone-neutral {
+  background: #f4f6fb;
+  color: #4a5a7a;
+  border-color: #e1e7f3;
+}
+
+.career-risk-view .form-board {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.career-risk-view .panel-card {
+  background: var(--card);
+  border: 1px solid #eef1f8;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px;
+}
+
+.career-risk-view .panel-card-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.career-risk-view .panel-card-head h3 {
+  margin: 0;
+  font-size: 1rem;
+  color: #1c2f5c;
+}
+
+.career-risk-view .fields-stack {
+  display: grid;
+  gap: 12px;
+}
+
+.career-risk-view .fields-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.career-risk-view .field {
+  display: grid;
+  gap: 7px;
+}
+
+.career-risk-view .field.full {
+  grid-column: 1 / -1;
+}
+
+.career-risk-view .field-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #7a869e;
+}
+
+.career-risk-view .field select {
+  width: 100%;
+  border: 1px solid #dce3f2;
+  border-radius: 12px;
+  padding: 11px 12px;
+  background: #fff;
+  color: var(--ink);
+}
+
+.career-risk-view .field select:focus,
+.career-risk-view .slider-field input[type="range"]:focus,
+.career-risk-view .primary-btn:focus,
+.career-risk-view .ghost-btn:focus {
+  outline: 2px solid #a9bfff;
+  outline-offset: 2px;
+}
+
+.career-risk-view .slider-field {
+  background: #f8f9fd;
+  border: 1px solid #e7ecf7;
+  border-radius: 14px;
+  padding: 12px;
+}
+
+.career-risk-view .slider-field.is-blank {
+  border-style: dashed;
+  opacity: 0.9;
+}
+
+.career-risk-view .slider-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.career-risk-view .slider-bubble {
+  min-width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--blue);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.career-risk-view .slider-field.is-blank .slider-bubble {
+  background: #c5d0ea;
+  color: #44557a;
+  border-radius: 999px;
+}
+
+.career-risk-view .slider-field input[type="range"] {
+  width: 100%;
+  accent-color: var(--blue);
+}
+
+.career-risk-view .field-help {
+  margin: 8px 0 0;
+  color: #8090ad;
+  font-size: 0.78rem;
+}
+
+.career-risk-view .field-help.warn {
+  color: #9a5b14;
+}
+
+.career-risk-view .generate-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100%;
+  grid-column: 1 / -1;
+}
+
+.career-risk-view .generate-copy {
+  margin: 0 0 18px;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.career-risk-view .ghost-btn,
+.career-risk-view .primary-btn {
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: transform 0.15s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.career-risk-view .ghost-btn {
+  background: #eef3ff;
+  color: #2c4fb6;
+  border-radius: 999px;
+  padding: 8px 12px;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.career-risk-view .primary-btn {
+  width: 100%;
+  border-radius: 12px;
+  padding: 14px 16px;
+  color: #fff;
+  font-weight: 700;
+  background: var(--blue);
+  box-shadow: 0 10px 22px rgba(59, 111, 245, 0.28);
+}
+
+.career-risk-view .ghost-btn:hover,
+.career-risk-view .primary-btn:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+
+.career-risk-view .primary-btn:disabled {
+  opacity: 0.75;
+  cursor: wait;
+}
+
+.career-risk-view .reset-btn {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.career-risk-view .alert-card {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: #fff1f2;
+  border: 1px solid #ffd0d6;
+  color: #8f1d2e;
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: var(--shadow);
+}
+
+.career-risk-view .alert-card.compact {
+  margin-bottom: 14px;
+}
+
+.career-risk-view .alert-card strong {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.career-risk-view .alert-card p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.career-risk-view .loading-card {
+  text-align: center;
+  padding: 34px 24px;
+  color: #31456f;
+}
+
+.career-risk-view .spin {
+  animation: spin 0.9s linear infinite;
+}
+
+.career-risk-view .spin.large {
+  margin-bottom: 10px;
+  color: var(--blue);
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.career-risk-view .blank-report,
+.career-risk-view .results-wrap {
+  display: grid;
+  gap: 16px;
+}
+
+.career-risk-view .empty-hero {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.career-risk-view .empty-icon-wrap {
+  width: 56px;
+  height: 56px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  color: var(--blue);
+  background: var(--blue-soft);
+}
+
+.career-risk-view .empty-hero h3 {
+  margin: 8px 0 0;
+  color: #15284f;
+}
+
+.career-risk-view .empty-hero p {
+  margin: 6px 0 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.career-risk-view .blank-section {
+  background: #fff;
+  border: 1px dashed #d5ddf0;
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: var(--shadow);
+}
+
+.career-risk-view .blank-section.accent-blue {
+  border-left: 4px solid rgba(59, 111, 245, 0.45);
+}
+
+.career-risk-view .blank-section.accent-cyan {
+  border-left: 4px solid rgba(47, 155, 181, 0.45);
+}
+
+.career-risk-view .blank-section.accent-purple {
+  border-left: 4px solid rgba(123, 108, 246, 0.45);
+}
+
+.career-risk-view .blank-section-head {
+  margin-bottom: 14px;
+}
+
+.career-risk-view .blank-section-head h4 {
+  margin: 8px 0 0;
+  color: #6a7898;
+  font-weight: 600;
+}
+
+.career-risk-view .blank-skeleton,
+.career-risk-view .blank-indicator {
+  display: grid;
+  gap: 10px;
+}
+
+.career-risk-view .blank-pill,
+.career-risk-view .blank-line,
+.career-risk-view .blank-block,
+.career-risk-view .blank-dot {
+  display: block;
+  background: linear-gradient(90deg, #e8eefc, #f4f7ff 45%, #e8eefc);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s linear infinite;
+  border-radius: 10px;
+}
+
+.career-risk-view .blank-pill {
+  width: 140px;
+  height: 34px;
+  border-radius: 999px;
+}
+
+.career-risk-view .blank-line {
+  height: 12px;
+  width: 70%;
+}
+
+.career-risk-view .blank-line.wide {
+  width: 92%;
+}
+
+.career-risk-view .blank-line.short {
+  width: 48%;
+}
+
+.career-risk-view .blank-block {
+  height: 72px;
+  width: 100%;
+  border-radius: 14px;
+}
+
+.career-risk-view .blank-block.short {
+  height: 88px;
+}
+
+.career-risk-view .blank-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.career-risk-view .blank-indicator-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.career-risk-view .blank-indicator {
+  min-height: 88px;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid #e4ebfb;
+  background: #fbfcff;
+}
+
+.career-risk-view .blank-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.career-risk-view .risk-skeleton {
+  padding: 16px;
+  border-radius: 16px;
+  background: #f7f9ff;
+  border: 1px solid #e4ebfb;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+.career-risk-view .results-banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.career-risk-view .download-btn {
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  white-space: nowrap;
+  border-radius: 12px;
+  padding: 11px 14px;
+  color: #fff;
+  font-weight: 700;
+  background: linear-gradient(90deg, #2f63ea, #6d5efc);
+  box-shadow: 0 10px 22px rgba(59, 111, 245, 0.24);
+}
+
+.career-risk-view .download-btn:hover {
+  transform: translateY(-1px);
+}
+
+.career-risk-view .results-banner h2,
+.career-risk-view .report-section h2,
+.career-risk-view .loading-card h3 {
+  margin: 8px 0 0;
+  color: #15284f;
+}
+
+.career-risk-view .results-banner p,
+.career-risk-view .section-note,
+.career-risk-view .prediction-copy,
+.career-risk-view .muted-note,
+.career-risk-view .loading-card p {
+  margin: 6px 0 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.career-risk-view .report-section {
+  background: var(--card);
+  border: 1px solid #eef1f8;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px;
+}
+
+.career-risk-view .report-section.accent-blue {
+  border-left: 4px solid var(--blue);
+}
+
+.career-risk-view .report-section.accent-cyan {
+  border-left: 4px solid var(--cyan);
+}
+
+.career-risk-view .report-section.accent-purple {
+  border-left: 4px solid var(--purple);
+}
+
+.career-risk-view .report-section.accent-teal {
+  border-left: 4px solid #0f766e;
+}
+
+.career-risk-view .report-section-head {
+  margin-bottom: 16px;
+}
+
+.career-risk-view .prediction-card {
+  display: grid;
+  gap: 12px;
+  padding: 18px;
+  border-radius: 16px;
+  background: #f5f8ff;
+  border: 1px solid #e1e8fb;
+}
+
+.career-risk-view .mini-label {
+  display: block;
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.career-risk-view .risk-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 16px;
+  border-radius: 999px;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.career-risk-view .risk-low {
+  background: #e8f8ef;
+  color: #147a36;
+  border: 1px solid #bde9cc;
+}
+
+.career-risk-view .risk-moderate {
+  background: #fff5df;
+  color: #9a6a00;
+  border: 1px solid #f0d89a;
+}
+
+.career-risk-view .risk-high {
+  background: #ffe8ea;
+  color: #b31d2d;
+  border: 1px solid #f5b8bf;
+}
+
+.career-risk-view .indicator-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.career-risk-view .indicator-card {
+  border-radius: 14px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  background: #fbfcff;
+  transition: transform 0.15s ease, box-shadow 0.2s ease;
+}
+
+.career-risk-view .indicator-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(47, 74, 150, 0.08);
+}
+
+.career-risk-view .indicator-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  color: #4d63a0;
+}
+
+.career-risk-view .indicator-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #8ea2d8;
+}
+
+.career-risk-view .indicator-card.tone-low {
+  background: #fff7f8;
+}
+
+.career-risk-view .indicator-card.tone-low .indicator-dot {
+  background: #e35b6d;
+}
+
+.career-risk-view .indicator-card.tone-medium {
+  background: #fffaf0;
+}
+
+.career-risk-view .indicator-card.tone-medium .indicator-dot {
+  background: #e0a93a;
+}
+
+.career-risk-view .indicator-card.tone-high {
+  background: #f3fbf6;
+}
+
+.career-risk-view .indicator-card.tone-high .indicator-dot {
+  background: #2f9d5b;
+}
+
+.career-risk-view .indicator-card h4,
+.career-risk-view .insight-card h4,
+.career-risk-view .soft-card h3,
+.career-risk-view .highlight-head h3 {
+  margin: 0;
+  color: #1d356f;
+  font-size: 0.95rem;
+}
+
+.career-risk-view .indicator-card p {
+  margin: 8px 0 0;
+  font-weight: 700;
+  color: #243963;
+}
+
+.career-risk-view .highlight-card,
+.career-risk-view .soft-card,
+.career-risk-view .insight-card,
+.career-risk-view .action-card {
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: #fbfcff;
+}
+
+.career-risk-view .highlight-card {
+  padding: 16px;
+  margin-bottom: 14px;
+  background: linear-gradient(135deg, #f7f5ff, #f3f7ff);
+}
+
+.career-risk-view .highlight-head,
+.career-risk-view .soft-card-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  color: #5a57c8;
+}
+
+.career-risk-view .highlight-card p,
+.career-risk-view .insight-card p,
+.career-risk-view .soft-card p,
+.career-risk-view .action-card p {
+  margin: 0;
+  color: #31456f;
+  line-height: 1.55;
+}
+
+.career-risk-view .two-col,
+.career-risk-view .insight-grid,
+.career-risk-view .action-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.career-risk-view .two-col {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-bottom: 12px;
+}
+
+.career-risk-view .insight-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-bottom: 12px;
+}
+
+.career-risk-view .soft-card,
+.career-risk-view .insight-card {
+  padding: 14px;
+  margin-bottom: 12px;
+}
+
+.career-risk-view .soft-card ul {
+  margin: 0;
+  padding-left: 18px;
+  color: #31456f;
+  display: grid;
+  gap: 6px;
+  line-height: 1.5;
+}
+
+.career-risk-view .action-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.career-risk-view .action-card {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 12px;
+}
+
+.career-risk-view .action-card span {
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  background: #e9efff;
+  color: #2f4fb8;
+  font-weight: 800;
+  font-size: 0.8rem;
+}
+
+.career-risk-view .timeline-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.career-risk-view .timeline-list li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  color: #31456f;
+  line-height: 1.5;
+}
+
+.career-risk-view .timeline-list svg {
+  margin-top: 2px;
+  color: #2f9d5b;
+  flex-shrink: 0;
+}
+
+.career-risk-view .table-wrap {
+  overflow-x: auto;
+}
+
+.career-risk-view table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.career-risk-view th,
+.career-risk-view td {
+  text-align: left;
+  vertical-align: top;
+  padding: 11px 12px;
+  border-bottom: 1px solid #e5ebf8;
+  color: #31456f;
+}
+
+.career-risk-view th {
+  background: #f4f7ff;
+  color: #1d356f;
+  font-weight: 800;
+}
+
+.career-risk-view .notice-card {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: #f5f7ff;
+  color: #33456f;
+}
+
+.career-risk-view .notice-card p {
+  margin: 0;
+  line-height: 1.55;
+}
+
+.career-risk-view .app-footer {
+  text-align: center;
+  padding: 8px 20px 28px;
+  color: #6a7898;
+  font-size: 0.88rem;
+}
+
+.career-risk-view .app-footer p {
+  margin: 0;
+}
+
+.career-risk-view .history-card {
+  margin-top: 16px;
+}
+
+.career-risk-view .history-empty {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  background: #f7f9ff;
+  border: 1px dashed #d7e0f5;
+  color: #6a7898;
+  font-size: 0.92rem;
+}
+
+.career-risk-view .history-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+  max-height: 320px;
+  overflow: auto;
+}
+
+.career-risk-view .history-list > li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px;
+  align-items: stretch;
+}
+
+.career-risk-view .history-item {
+  border: 1px solid #e4ebfb;
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  text-align: left;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.career-risk-view .history-item:hover {
+  border-color: #c5d3f7;
+  box-shadow: 0 8px 18px rgba(47, 99, 234, 0.08);
+}
+
+.career-risk-view .history-item.is-active {
+  border-color: #6d5efc;
+  background: #f7f5ff;
+}
+
+.career-risk-view .history-item-main {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+
+.career-risk-view .history-item-main strong {
+  color: #15284f;
+  font-size: 0.95rem;
+}
+
+.career-risk-view .history-meta {
+  display: inline;
+  margin-bottom: 0;
+  color: #7a869e;
+  font-size: 0.8rem;
+}
+
+.career-risk-view .history-item .risk-badge {
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  padding: 6px 10px;
+}
+
+.career-risk-view .history-delete {
+  border: 1px solid #f0d8d8;
+  background: #fff7f7;
+  color: #b42318;
+  border-radius: 12px;
+  width: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.career-risk-view .history-delete:hover {
+  background: #ffe8e8;
+}
+
+.career-risk-view .history-view-note {
+  margin: 6px 0 0;
+  color: #6a7898;
+  font-size: 0.86rem;
+}
+
+.career-risk-view .resilience-summary .priority-row {
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.career-risk-view .timeline-plan-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.career-risk-view .timeline-plan-card {
+  background: #fff;
+  border: 1px solid #e7ecf7;
+  border-radius: 16px;
+  padding: 14px;
+  border-top: 3px solid #94a3b8;
+}
+
+.career-risk-view .timeline-plan-card.tone-blue {
+  border-top-color: var(--blue);
+  background: linear-gradient(180deg, #f7f9ff 0%, #fff 42%);
+}
+
+.career-risk-view .timeline-plan-card.tone-cyan {
+  border-top-color: var(--cyan);
+  background: linear-gradient(180deg, #f3fbfd 0%, #fff 42%);
+}
+
+.career-risk-view .timeline-plan-card.tone-purple {
+  border-top-color: var(--purple);
+  background: linear-gradient(180deg, #f8f6ff 0%, #fff 42%);
+}
+
+.career-risk-view .timeline-plan-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.career-risk-view .timeline-day-badge {
+  min-width: 46px;
+  height: 46px;
+  border-radius: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  color: #fff;
+  background: linear-gradient(135deg, #2f63ea, #0f766e);
+  box-shadow: 0 8px 16px rgba(15, 118, 110, 0.18);
+}
+
+.career-risk-view .timeline-plan-card h4 {
+  margin: 2px 0 0;
+  color: #15284f;
+  font-size: 0.98rem;
+}
+
+.career-risk-view .timeline-plan-card ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.career-risk-view .timeline-plan-card li {
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+}
+
+.career-risk-view .timeline-plan-card li span {
+  width: 24px;
+  height: 24px;
+  border-radius: 8px;
+  background: #eef3ff;
+  color: #2f63ea;
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.career-risk-view .timeline-plan-card li p {
+  margin: 0;
+  color: #33456f;
+  line-height: 1.45;
+  font-size: 0.9rem;
+}
+
+.career-risk-view .checklist-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.career-risk-view .checklist-grid .checklist-card:last-child {
+  grid-column: 1 / -1;
+}
+
+.career-risk-view .checklist-card .checklist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.career-risk-view .checklist-card .checklist li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  color: #33456f;
+  line-height: 1.45;
+}
+
+.career-risk-view .checklist-card .checklist li svg {
+  color: #0f766e;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.career-risk-view .notice-card {
+  margin-top: 4px;
+}
+
+@media (max-width: 900px) {
+  .career-risk-view .form-board,
+  .career-risk-view .fields-row,
+  .career-risk-view .indicator-grid,
+  .career-risk-view .insight-grid,
+  .career-risk-view .two-col,
+  .career-risk-view .action-grid,
+  .career-risk-view .blank-indicator-grid,
+  .career-risk-view .blank-two,
+  .career-risk-view .timeline-plan-grid,
+  .career-risk-view .checklist-grid {
+      grid-template-columns: 1fr;
+    }
+
+  .career-risk-view .empty-hero,
+  .career-risk-view .results-banner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+  .career-risk-view .download-btn {
+      width: 100%;
+    }
+
+  .career-risk-view .history-list > li {
+      grid-template-columns: minmax(0, 1fr) 40px;
+    }
+
+  .career-risk-view .history-item {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+}
+

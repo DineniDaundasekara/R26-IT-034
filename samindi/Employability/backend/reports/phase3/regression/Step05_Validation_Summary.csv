@@ -1,0 +1,12 @@
+Regression_Check,Status
+Required variables available,PASS
+Simple regression completed,PASS
+Multiple regression completed,PASS
+Standardized coefficients calculated,PASS
+VIF reviewed,PASS
+No severe multicollinearity,PASS
+Train-test validation completed,PASS
+Residual diagnostics completed,PASS
+Breusch-Pagan test completed,PASS
+HC3 robust inference completed,PASS
+Prediction range reviewed,PASS

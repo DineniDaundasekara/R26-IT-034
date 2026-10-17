@@ -1,0 +1,33 @@
+{
+    "Ridge": {
+        "model__alpha": 119.11031332830055
+    },
+    "ElasticNet": {
+        "model__alpha": 0.14873521072935117,
+        "model__l1_ratio": 0.0
+    },
+    "SVR_RBF": {
+        "model__C": 2.481040974867813,
+        "model__epsilon": 0.05680559213273095,
+        "model__gamma": 0.0004207053950287938
+    },
+    "Random_Forest": {
+        "model__n_estimators": 300,
+        "model__min_samples_split": 15,
+        "model__min_samples_leaf": 6,
+        "model__max_features": "sqrt",
+        "model__max_depth": null,
+        "model__bootstrap": true
+    },
+    "XGBoost": {
+        "model__colsample_bytree": 0.8066997884824298,
+        "model__gamma": 0.1,
+        "model__learning_rate": 0.005907814282530534,
+        "model__max_depth": 5,
+        "model__min_child_weight": 8,
+        "model__n_estimators": 700,
+        "model__reg_alpha": 0.001883913511943895,
+        "model__reg_lambda": 8.071418522169695,
+        "model__subsample": 0.7105389970121152
+    }
+}

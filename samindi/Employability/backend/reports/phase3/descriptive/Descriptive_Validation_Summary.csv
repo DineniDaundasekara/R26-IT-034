@@ -1,0 +1,9 @@
+Descriptive_Check,Status
+Required construct columns available,PASS
+No missing main construct values,PASS
+All construct scores within Likert range,PASS
+Descriptive statistics calculated,PASS
+95% confidence intervals calculated,PASS
+Distribution diagnostics completed,PASS
+Potential outliers reviewed,PASS
+Demographic summary completed,PASS

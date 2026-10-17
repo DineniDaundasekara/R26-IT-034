@@ -1,0 +1,51 @@
+{
+    "Student Position": 0,
+    "Original Row Index": 521,
+    "Actual Employability Score": 4.0,
+    "Predicted Employability Score": 3.986,
+    "Prediction Error": 0.014,
+    "Base Prediction": 4.104,
+    "Strengths": [
+        {
+            "Construct": "Career_Development",
+            "Construct Score": 4.0,
+            "SHAP Contribution": 0.008675893821489186
+        }
+    ],
+    "Recommendations": [],
+    "Maintenance Message": "No priority development area was identified. Maintain your current strengths in Career Development and continue seeking opportunities for professional development.",
+    "Full Analysis": [
+        {
+            "Construct": "School_Support",
+            "Construct Score": 4.0,
+            "SHAP Contribution": -0.052566090518716004,
+            "Score Level": "High",
+            "SHAP Effect": "Moderate Negative",
+            "Priority": "Monitor"
+        },
+        {
+            "Construct": "Workplace_Environment",
+            "Construct Score": 4.0,
+            "SHAP Contribution": -0.046142299875814925,
+            "Score Level": "High",
+            "SHAP Effect": "Moderate Negative",
+            "Priority": "Monitor"
+        },
+        {
+            "Construct": "Clear_Objectives",
+            "Construct Score": 4.0,
+            "SHAP Contribution": -0.027482517221394324,
+            "Score Level": "High",
+            "SHAP Effect": "Small Negative",
+            "Priority": "Monitor"
+        },
+        {
+            "Construct": "Career_Development",
+            "Construct Score": 4.0,
+            "SHAP Contribution": 0.008675893821489186,
+            "Score Level": "High",
+            "SHAP Effect": "Small Positive",
+            "Priority": "Strength"
+        }
+    ]
+}

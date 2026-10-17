@@ -1,0 +1,2 @@
+Previous_Model,Previous_Nested_R2,New_Model,New_OOF_R2,New_OOF_MAE,New_OOF_RMSE,Closest_Linear_Alternative,Ridge_Nested_R2,Improved,Replace_Frozen_Model,Reason
+XGBoost,0.4686142754818975,XGBoost,0.8817215511378537,0.23019171764258467,0.3172188806127557,Ridge,0.8817345777511119,True,True,Expanded Phase 01 dataset after duplicate removal produced a robust nested-CV R2 gain (0.47 to 0.88). XGBoost was retained because Ridge was only 0.00001 R2 higher and the existing Phase 01 architecture / SHAP recommendation pipeline must be preserved.

@@ -1,0 +1,10 @@
+{
+    "best_model": "Random Forest",
+    "selection_metric": "highest_f1_score",
+    "accuracy": 0.8,
+    "precision": 0.7419,
+    "recall": 0.8,
+    "f1_score": 0.7472,
+    "saved_model_path": "C:\\Users\\User\\Desktop\\research-component-2\\component 2-with frontend\\backend\\models\\best_cv_guidance_model.pkl",
+    "explanation": "The best CV career guidance model was selected using the highest F1-score from Logistic Regression, Random Forest, and SVM."
+}

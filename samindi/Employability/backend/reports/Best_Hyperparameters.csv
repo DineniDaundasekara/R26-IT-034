@@ -1,0 +1,5 @@
+Experiment,Best Parameters,Best CV R2
+Random Forest A,"{'n_estimators': 100, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 'sqrt', 'max_depth': 10, 'bootstrap': True}",0.506926884865501
+Random Forest B,"{'n_estimators': 300, 'min_samples_split': 20, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': 15, 'bootstrap': True}",0.48946923127665265
+XGBoost A,"{'subsample': 0.8, 'reg_lambda': 5.0, 'reg_alpha': 0, 'n_estimators': 500, 'min_child_weight': 6, 'max_depth': 5, 'learning_rate': 0.01, 'colsample_bytree': 1.0}",0.5037398401127265
+XGBoost B,"{'subsample': 0.7, 'reg_lambda': 2.0, 'reg_alpha': 0.1, 'n_estimators': 300, 'min_child_weight': 4, 'max_depth': 4, 'learning_rate': 0.01, 'colsample_bytree': 0.6}",0.4891373952147141

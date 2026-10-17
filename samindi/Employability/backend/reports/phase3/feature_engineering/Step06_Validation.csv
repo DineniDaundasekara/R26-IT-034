@@ -1,0 +1,13 @@
+Check,Status
+Item-level representation evaluated,PASS
+Construct-level representation evaluated,PASS
+Overall PsyCap representation evaluated,PASS
+Same hold-out split used,PASS
+Repeated 5x10 cross-validation completed,PASS
+CV uncertainty interval calculated,PASS
+Train-validation gap calculated,PASS
+Paired fold comparison completed,PASS
+Item-level signal reviewed,PASS
+Interaction experiment completed,PASS
+Feature representation stability reviewed,PASS
+Reports saved,PASS

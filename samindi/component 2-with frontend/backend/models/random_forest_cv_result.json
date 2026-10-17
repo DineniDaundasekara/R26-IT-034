@@ -1,0 +1,186 @@
+{
+    "model_name": "Random Forest",
+    "model_type": "Supervised NLP CV Career Path Classification Model",
+    "task": "Career path guidance from extracted CV text",
+    "dataset_file": "C:\\Users\\User\\Desktop\\research-component-2\\component 2-with frontend\\backend\\data\\cv_training_dataset.csv",
+    "total_records": 300,
+    "train_records": 240,
+    "test_records": 60,
+    "input_feature": "combined_training_text",
+    "target_label": "career_path_label",
+    "accuracy": 0.8,
+    "precision": 0.7419,
+    "recall": 0.8,
+    "f1_score": 0.7472,
+    "classification_report": {
+        "Backend Developer": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 3.0
+        },
+        "Business Analyst": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 4.0
+        },
+        "Data Analyst": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1-score": 0.8888888888888888,
+            "support": 5.0
+        },
+        "DevOps Engineer": {
+            "precision": 1.0,
+            "recall": 0.75,
+            "f1-score": 0.8571428571428571,
+            "support": 4.0
+        },
+        "Frontend Developer": {
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "f1-score": 0.5,
+            "support": 3.0
+        },
+        "Full Stack Developer": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 4.0
+        },
+        "QA Engineer": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 4.0
+        },
+        "Software Engineer": {
+            "precision": 0.7073170731707317,
+            "recall": 1.0,
+            "f1-score": 0.8285714285714286,
+            "support": 29.0
+        },
+        "UI UX Designer": {
+            "precision": 1.0,
+            "recall": 0.75,
+            "f1-score": 0.8571428571428571,
+            "support": 4.0
+        },
+        "accuracy": 0.8,
+        "macro avg": {
+            "precision": 0.7452574525745257,
+            "recall": 0.6259259259259259,
+            "f1-score": 0.6590828924162256,
+            "support": 60.0
+        },
+        "weighted avg": {
+            "precision": 0.7418699186991871,
+            "recall": 0.8,
+            "f1-score": 0.7471693121693121,
+            "support": 60.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        [
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            2,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            29,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    "saved_model_path": "C:\\Users\\User\\Desktop\\research-component-2\\component 2-with frontend\\backend\\models\\random_forest_cv_model.pkl"
+}

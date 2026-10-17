@@ -1,0 +1,37 @@
+{
+    "phase": "Phase 03",
+    "research_component": "Psychological Capital -> Employability",
+    "target": "EVS_avg",
+    "features": [
+        "Hope_avg",
+        "Optimism_avg",
+        "Resilience_avg",
+        "SelfEfficacy_avg"
+    ],
+    "feature_order": [
+        "Hope_avg",
+        "Optimism_avg",
+        "Resilience_avg",
+        "SelfEfficacy_avg"
+    ],
+    "number_of_features": 4,
+    "input_scale": "Derived averages from Likert 1-5 items",
+    "expected_feature_range": {
+        "Hope_avg": {
+            "min": 1.0,
+            "max": 5.0
+        },
+        "Optimism_avg": {
+            "min": 1.0,
+            "max": 5.0
+        },
+        "Resilience_avg": {
+            "min": 1.0,
+            "max": 5.0
+        },
+        "SelfEfficacy_avg": {
+            "min": 1.0,
+            "max": 5.0
+        }
+    }
+}
