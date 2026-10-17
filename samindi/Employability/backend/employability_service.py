@@ -98,12 +98,20 @@ class EmployabilityPhaseService:
 
     def health(self) -> Dict[str, Any]:
         self.load()
+        resolved = self._resolve_model_path()
+        loaded = self._model is not None
         return {
-            "status": "ok" if self._model is not None else "error",
-            "model": "loaded" if self._model is not None else "unavailable",
+            "status": "ok" if loaded else "error",
+            "model": "loaded" if loaded else "unavailable",
             "model_type": self.model_type,
+            "phase_id": self.phase_id,
             "phase": self.phase_label,
             "relationship": self.relationship,
+            "model_path": str(resolved) if resolved else None,
+            "feature_count": len(self.model_features),
+            "construct_count": len(self.construct_labels),
+            "improvement_by_construct": self.improvement_by_construct,
+            "error": self._load_error,
         }
 
     def _calculate_constructs(self, responses: Dict[str, float]) -> Dict[str, float]:
