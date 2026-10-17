@@ -15,11 +15,20 @@ COMMUNICATION_APP_URL = os.getenv(
 CAREER_APP_URL = os.getenv(
     "CAREER_APP_URL", "http://127.0.0.1:5174"
 ).rstrip("/")
+EMPLOYABILITY_APP_URL = os.getenv(
+    "EMPLOYABILITY_APP_URL", "http://127.0.0.1:8000/employability-simulation"
+).rstrip("/")
+CAREER_RISK_APP_URL = os.getenv(
+    "CAREER_RISK_APP_URL", "http://127.0.0.1:8000/career-risk"
+).rstrip("/")
 
 app = FastAPI(
     title="Interview Readiness & Career Path Dashboard API",
-    version="1.0.0",
-    description="Gateway for the AI-driven interview readiness and career path guidance system.",
+    version="1.1.0",
+    description=(
+        "Gateway for the AI-driven interview readiness, career path, "
+        "career safety, and employability simulation modules."
+    ),
 )
 
 app.add_middleware(
@@ -59,6 +68,28 @@ MODULES = [
         "url": CAREER_APP_URL,
         "folder": "component 2-with frontend/frontend",
     },
+    {
+        "id": "career-risk",
+        "title": "Career safety and industry stability",
+        "subtitle": "Career Safety AI",
+        "description": (
+            "Assess automation exposure, industry stability, and skill "
+            "transferability with explainable risk categories."
+        ),
+        "url": CAREER_RISK_APP_URL,
+        "folder": "CareerRisk/frontend",
+    },
+    {
+        "id": "employability",
+        "title": "Behaviour-aware employability simulation",
+        "subtitle": "Employability Simulator",
+        "description": (
+            "Predict employability from internship experience, competence, "
+            "and psychological capital using frozen ML models and grounded guidance."
+        ),
+        "url": EMPLOYABILITY_APP_URL,
+        "folder": "Employability/frontend",
+    },
 ]
 
 
@@ -75,8 +106,11 @@ async def probe_url(url: str) -> bool:
 def root():
     return {
         "success": True,
-        "message": "AI-driven interview readiness and career path guidance dashboard API is running.",
-        "version": "1.0.0",
+        "message": (
+            "AI-driven interview readiness, career path, career safety, "
+            "and employability simulation dashboard API is running."
+        ),
+        "version": "1.1.0",
     }
 
 
